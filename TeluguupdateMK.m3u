@@ -35,6 +35,9 @@ http://ky-iptv.com:25461/thebest1/thebest1/770554
 #EXTINF:-1 tvg-name="ZEE CINEMALU HD" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU HD
 http://185.71.64.167:80/7247086521/3907894770/83983
 
+#EXTINF:-1 tvg-name="ZEE CINEMALU HD" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU SD
+http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8
+
 #EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Cinema Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",Zee Cinema Telugu IN
 http://tv.sbcommunications.xdns.pro:80/29OHIOd1Oa707/FnEupe404/10255
 
