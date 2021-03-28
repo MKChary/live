@@ -29,11 +29,14 @@ http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66814
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu",Zee Telugu IN
 http://ky-iptv.com:25461/thebest1/thebest1/770554
 
-#EXTINF:-1 tvg-name="ZEE CINEMALU HD" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU HD
-http://185.71.64.167:80/7247086521/3907894770/83983
+#EXTINF:-1 tvg-name="ZEE CINEMALU HD" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU SD
+http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8
+
+#EXTINF:-1 tvg-name="ZEE CINEMALU HD" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU SD
+http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Cinema Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",Zee Cinema Telugu IN
-http://pn.tvott.info:80/477817111363246/477817111363246/83983
+http://tv.sbcommunications.xdns.pro:80/29OHIOd1Oa707/FnEupe404/10255
 
 #EXTINF:-1,tvg-id="ZeeTelugu.in" tvg-name="Zee Theater" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu",Zee Theater
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/55241
@@ -45,7 +48,7 @@ http://185.71.64.167:80/7247086521/3907894770/83982
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/55324
 
 #EXTINF:-1,tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Telugu",Etv HD
-http://pn.tvott.info:80/477817111363246/477817111363246/83999
+http://bazarhd.online:80/307210113622/307210113622/83999
 
 #EXTINF:-1,tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Telugu",ETV Cinema
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/55254
@@ -54,13 +57,13 @@ http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/55254
 http://ky-iptv.com:25461/thebest1/thebest1/1061957
 
 #EXTINF:-1,tvg-id="ETV LIFE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_life.png" group-title="Telugu",ETV LIFE
-http://pn.tvott.info:80/477817111363246/477817111363246/83979
+http://bazarhd.online:80/307210113622/307210113622/83979
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Telugu",ETV Life
 http://ky-iptv.com:25461/thebest1/thebest1/1061956
 
 #EXTINF:-1,tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Telugu",ETV PLUS
-http://pn.tvott.info:80/477817111363246/477817111363246/83984
+http://bazarhd.online:80/307210113622/307210113622/83984
 
 #EXTINF:-1,tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Telugu",STAR MAA HD
 http://ky-iptv.com:25461/thebest1/thebest1/770234
@@ -78,19 +81,19 @@ http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66825
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66826
 
 #EXTINF:-1,tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Telugu",RAJ MUSIC TELUGU
-http://pn.tvott.info:80/477817111363246/477817111363246/83992
+http://bazarhd.online:80/307210113622/307210113622/83992
 
 #EXTINF:-1,tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Telugu",GEMINI MUSIC
 http://185.71.64.167:80/7247086521/3907894770/83981
 
-#EXTINF:-1,tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Telugu",GEMINI MUSIC
-http://pn.tvott.info:80/477817111363246/477817111363246/83981
-
 #EXTINF:-1,tvg-id="TATA SKY TELUGU CINEMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tata-sky-classic-cinema-in.png" group-title="Telugu",TATA SKY TELUGU CINEMA HD
-http://pn.tvott.info:80/477817111363246/477817111363246/83987
+http://bazarhd.online:80/307210113622/307210113622/83987
+
+#EXTINF:-1,tvg-id="Mango Music HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telugu_cinema_club_in.png" group-title="Telugu",Mango Music HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66818
 
 #EXTINF:-1,tvg-name="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Telugu",Vissa TV
-http://pn.tvott.info:80/477817111363246/477817111363246/83972
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66835
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Telugu",Vissa TV
 http://ky-iptv.com:25461/thebest1/thebest1/1061969
@@ -108,10 +111,10 @@ http://bazarhd.online:80/307210113622/307210113622/83993
 http://bazarhd.online:80/307210113622/307210113622/84001
 
 #EXTINF:-1,tvg-id="HISTORY 18 TELUGU HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_tv18.png" group-title="Telugu",HISTORY 18 TELUGU HD
-http://pn.tvott.info:80/477817111363246/477817111363246/83995
+http://bazarhd.online:80/307210113622/307210113622/83995
 
 #EXTINF:-1,tvg-id="DD SAPTAGIRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-saptagiri-in.png" group-title="Telugu",DD SAPTAGIRI
-http://pn.tvott.info:80/477817111363246/477817111363246/83974
+http://185.71.64.167:80/7247086521/3907894770/83974
 
 #EXTINF:-1,tvg-id="KUSHI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kushi_tv.png" group-title="Telugu",KUSHI TV
 http://bazarhd.online:80/307210113622/307210113622/83971
@@ -123,7 +126,7 @@ http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/55233
 http://ky-iptv.com:25461/thebest1/thebest1/770302
 
 #EXTINF:-1,tvg-name="TV5 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="Telugu",TV5 News
-http://pn.tvott.info:80/477817111363246/477817111363246/83978
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66831
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="http://ky-iptv.com:25461/images/d902b5bad47747a3a43f1a8bbaaa046a.png" group-title="Telugu",TV5 News
 http://ky-iptv.com:25461/thebest1/thebest1/1061958
@@ -138,7 +141,7 @@ http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66833
 http://ky-iptv.com:25461/thebest1/thebest1/1061968
 
 #EXTINF:-1,tvg-name="V6 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="Telugu",V6 News
-http://pn.tvott.info:80/477817111363246/477817111363246/83985
+http://ky-iptv.com:25461/thebest1/thebest1/830065
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="Telugu",ETV Andhra Pradesh
 http://ky-iptv.com:25461/thebest1/thebest1/1061963
@@ -196,7 +199,7 @@ http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66819
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66820
 
 #EXTINF:-1,tvg-id="Raj News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="Telugu",Raj News HD
-http://pn.tvott.info:80/477817111363246/477817111363246/83991
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66821
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-name="Raj News Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" Raj News Telugu
 http://ky-iptv.com:25461/thebest1/thebest1/770346
@@ -204,8 +207,8 @@ http://ky-iptv.com:25461/thebest1/thebest1/770346
 #EXTINF:-1,tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="Telugu",Sakshi TV
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66822
 
-#EXTINF:-1,tvg-id="SONY YAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="Telugu",SONY YAY
-http://pn.tvott.info:80/477817111363246/477817111363246/83977u
+#EXTINF:-1,tvg-id="Siri Balaji TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/svbc2-in.png" group-title="Telugu",Siri Balaji TV HD
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66823
 
 #EXTINF:-1,tvg-id="SVBC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/svbc_in.png" group-title="Telugu",SVBC
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66827
@@ -225,9 +228,8 @@ http://ky-iptv.com:25461/thebest1/thebest1/1061960
 #EXTINF:-1,tvg-id="AASTHA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aastha-telugu-in.png" group-title="Telugu",AASTHA HD
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66802
 
-
-#EXTINF:-1 tvg-name="DISCOVERY WORLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_hd_world_in.png" group-title="Telugu",DISCOVERY WORLD HD
-http://pn.tvott.info:80/477817111363246/477817111363246/84001
+#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports Select 1 HD
+http://ky-iptv.com:25461/thebest1/thebest1/770447
 
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Hd
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
