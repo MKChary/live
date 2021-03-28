@@ -29,10 +29,8 @@ http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66814
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu",Zee Telugu IN
 http://ky-iptv.com:25461/thebest1/thebest1/770554
 
-#EXTINF:-1 tvg-name="ZEE CINEMALU HD" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU SD
-http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8
 
-#EXTINF:-1 tvg-name="ZEE CINEMALU HD" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU SD
+#EXTINF:-1 tvg-name="ZEE CINEMALU" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU SD
 http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Cinema Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",Zee Cinema Telugu IN
