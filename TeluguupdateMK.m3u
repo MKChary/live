@@ -30,9 +30,6 @@ http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8
 EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Cinema Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",Zee Cinema Telugu IN
 http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10255
 
-#EXTINF:-1,tvg-id="ZeeTelugu.in" tvg-name="Zee Theater" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu",Zee Theater
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/55241
-
 #EXTINF:-1,tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU HD" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu",ZEE TELUGU HD
 http://185.71.64.167:80/7247086521/3907894770/83982
 
@@ -48,8 +45,6 @@ http://rv.imax.re:80/3168761045/8590920166/84000
 //EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="http://ky-iptv.com:25461/images/05f0284ca500dac698655f1ce14dfb51.png" group-title="Telugu",ETV Cinema
 http://ky-iptv.com:25461/thebest1/thebest1/1061957
 
-#EXTINF:-1,tvg-id="ETV LIFE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_life.png" group-title="Telugu",ETV LIFE
-http://bazarhd.online:80/307210113622/307210113622/83979
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Telugu",ETV Life
 http://rv.imax.re:80/3168761045/8590920166/83979
@@ -57,11 +52,6 @@ http://rv.imax.re:80/3168761045/8590920166/83979
 #EXTINF:-1,tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Telugu",ETV PLUS
 http://rv.imax.re:80/3168761045/8590920166/83984
 
-#EXTINF:-1,tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Telugu",STAR MAA HD
-http://ky-iptv.com:25461/thebest1/thebest1/770234
-
-#EXTINF:-1,tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Telugu",STAR MAA HD
-http://bazarhd.online:80/307210113622/307210113622/83988
 
 #EXTINF:-1,tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Telugu",STAR MAA GOLD HD
 http://rv.imax.re:80/3168761045/8590920166/83989
@@ -81,11 +71,6 @@ http://rv.imax.re:80/3168761045/8590920166/83981
 #EXTINF:-1,tvg-id="TATA SKY TELUGU CINEMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tata-sky-classic-cinema-in.png" group-title="Telugu",TATA SKY TELUGU CINEMA HD
 http://rv.imax.re:80/3168761045/8590920166/83987
 
-#EXTINF:-1,tvg-id="Mango Music HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/telugu_cinema_club_in.png" group-title="Telugu",Mango Music HD
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66818
-
-#EXTINF:-1,tvg-name="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Telugu",Vissa TV
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66835
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Telugu",Vissa TV
 http://rv.imax.re:80/3168761045/8590920166/83972
@@ -234,7 +219,7 @@ http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/6228
 http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/6248
 
 
-#EXTINF:-1 tvg-id="Star Plus HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports Select 4 HD
+#EXTINF:-1 tvg-id="Star Plus HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Plus HD
 http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10161
 
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Hd
