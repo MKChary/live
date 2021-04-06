@@ -227,11 +227,15 @@ http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/18807
 http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10165
 
 
-#EXTINF:-1 tvg-id="Star Sports Select 3 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports Select 3 HD
-http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/74813
+#EXTINF:-1 tvg-id="Star GOLD Select HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports Select 3 HD
+http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/6228
 
-#EXTINF:-1 tvg-id="Star Sports Select 4 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports Select 4 HD
-http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/74814
+#EXTINF:-1 tvg-id="Star Plus HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports Select 4 HD
+http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/6248
+
+
+#EXTINF:-1 tvg-id="Star Plus HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports Select 4 HD
+http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10161
 
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Hd
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
