@@ -93,6 +93,10 @@ http://rv.imax.re:80/3168761045/8590920166/83995
 #EXTINF:-1,tvg-id="DD SAPTAGIRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-saptagiri-in.png" group-title="Telugu",DD SAPTAGIRI
 http://rv.imax.re:80/3168761045/8590920166/83974
 
+
+#EXTINF:-1,tvg-id="DD SAPTAGIRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-saptagiri-in.png" group-title="Telugu",DD SAPTAGIRIhttp://rv.imax.re:80/3168761045/8590920166/83974
+http://103.147.87.245:8003/play/a01h/index.m3u8
+
 #EXTINF:-1,tvg-id="KUSHI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kushi_tv.png" group-title="Telugu",KUSHI TV
 http://rv.imax.re:80/3168761045/8590920166/83971
 
@@ -101,6 +105,9 @@ http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/55233
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="Telugu",Ntv Telugu
 http://ky-iptv.com:25461/thebest1/thebest1/770302
+
+#EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="Telugu",Ntv Telugu
+http://103.147.87.245:8003/play/a009/index.m3u8
 
 #EXTINF:-1,tvg-name="TV5 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="Telugu",TV5 News
 http://rv.imax.re:80/3168761045/8590920166/83978
@@ -208,14 +215,22 @@ http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66802
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports 1 HD HINDI
 http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/18807
 
+
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports 1 HD
+http://103.147.87.245:8001/play/a00c/index.m3u8
+
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports 2 HD
 http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10165
+
+
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports 2 HD
+http://103.147.87.245:8001/play/a00d/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Star GOLD Select HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star GOLD Select HD
 http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/6228
 
-#EXTINF:-1 tvg-id="Star Plus HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports plus HD
+#EXTINF:-1 tvg-id="Star Plus HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star plus HD
 http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/6248
 
 
