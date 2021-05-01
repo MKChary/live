@@ -21,7 +21,7 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10255
 
 
 #EXTINF:-1,tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Telugu",ETV HD
-http://185.71.64.167:80/307200115204/307200115204/84000
+http://185.71.64.167:80/307200115204/307200115204/83999
 
 #EXTINF:-1,tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Telugu",ETV Cinema
 http://185.71.64.167:80/307200115204/307200115204/84000
@@ -50,14 +50,14 @@ http://rv.imax.re:80/3168761045/8590920166/83992
 http://rv.imax.re:80/3168761045/8590920166/83981
 
 #EXTINF:-1,tvg-id="TATA SKY TELUGU CINEMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tata-sky-classic-cinema-in.png" group-title="Telugu",TATA SKY TELUGU CINEMA HD
-http://rv.imax.re:80/3168761045/8590920166/83987
+http://185.71.64.167:80/307200115204/307200115204/83987
 
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Telugu",Vissa TV
-http://rv.imax.re:80/3168761045/8590920166/83972
+http://185.71.64.167:80/307200115204/307200115204/83972
 
 #EXTINF:-1,tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Telugu",VANITHA TV
-http://rv.imax.re:80/3168761045/8590920166/83973
+http://185.71.64.167:80/307200115204/307200115204/83973
 
 #EXTINF:-1,tvg-id="SONY BBC EARTH HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Telugu",SONY BBC EARTH HD
 http://rv.imax.re:80/3168761045/8590920166/83990
@@ -72,7 +72,7 @@ http://rv.imax.re:80/3168761045/8590920166/84001
 http://rv.imax.re:80/3168761045/8590920166/83995
 
 #EXTINF:-1,tvg-id="DD SAPTAGIRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-saptagiri-in.png" group-title="Telugu",DD SAPTAGIRI
-http://rv.imax.re:80/3168761045/8590920166/83974
+http://185.71.64.167:80/307200115204/307200115204/83974
 
 
 #EXTINF:-1,tvg-id="DD SAPTAGIRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-saptagiri-in.png" group-title="Telugu",DD SAPTAGIRIhttp://rv.imax.re:80/3168761045/8590920166/83974
