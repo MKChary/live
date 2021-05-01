@@ -11,16 +11,6 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10247
 EXTINF:-1,GEMINI LIFE HD (UK) tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Telugu",Gemini Life
 http://rv.imax.re:80/3168761045/8590920166/83980
 
-/*
-EXTINF:-1,tvg-id="Gemini Movies HD" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies IN
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66812
-
-EXTINF:-1,tvg-id="Gemini Movies HD" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies IN
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66813
-
-EXTINF:-1,tvg-id="Gemini Movies HD" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies IN
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66814
-*/
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu",Zee Telugu IN
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10155
@@ -29,14 +19,6 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10155
 #EXTINF:-1 tvg-name="ZEE CINEMALU" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU SD
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10255
 
-EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Cinema Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",Zee Cinema Telugu IN
-http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10255
-
-#EXTINF:-1,tvg-id="ZeeTelugu.in" tvg-name="ZEE TELUGU HD" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu",ZEE TELUGU HD
-http://185.71.64.167:80/7247086521/3907894770/83982
-
-#EXTINF:-1,tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu",Zee Telugu IN
-http://rv.imax.re:80/3168761045/8590920166/83982
 
 #EXTINF:-1,tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Telugu",ETV HD
 http://rv.imax.re:80/3168761045/8590920166/83999
