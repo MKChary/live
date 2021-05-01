@@ -8,7 +8,7 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10182
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Telugu",Gemini Comedy
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10247
 
-EXTINF:-1,GEMINI LIFE HD (UK) tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Telugu",Gemini Life
+#EXTINF:-1,GEMINI LIFE HD (UK) tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Telugu",Gemini Life
 http://rv.imax.re:80/3168761045/8590920166/83980
 
 
@@ -96,17 +96,10 @@ http://103.147.87.245:8003/play/a009/index.m3u8
 #EXTINF:-1,tvg-name="TV5 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="Telugu",TV5 News
 http://rv.imax.re:80/3168761045/8590920166/83978
 
-//EXTINF:-1 tvg-id="TV5 News" tvg-logo="http://ky-iptv.com:25461/images/d902b5bad47747a3a43f1a8bbaaa046a.png" group-title="Telugu",TV5 News
-http://ky-iptv.com:25461/thebest1/thebest1/1061958
 
 #EXTINF:-1,tvg-name="TV9 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="Telugu",TV9 News
 http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 
-//EXTINF:-1,tvg-name="TV9 NEWS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="Telugu",TV9 News HD
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66833
-
-//EXTINF:-1 tvg-id="TV9 NEWS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="Telugu",TV9 NEWS HD
-http://ky-iptv.com:25461/thebest1/thebest1/1061968
 
 #EXTINF:-1,tvg-name="V6 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="Telugu",V6 News
 http://rv.imax.re:80/3168761045/8590920166/83985
@@ -196,7 +189,7 @@ http://ky-iptv.com:25461/thebest1/thebest1/1061960
 #EXTINF:-1,tvg-id="AASTHA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aastha-telugu-in.png" group-title="Telugu",AASTHA HD
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66802
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports 1 HD HINDI
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports 1 HD
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18807
 
 
