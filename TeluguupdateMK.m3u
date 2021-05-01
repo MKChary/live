@@ -26,9 +26,6 @@ http://rv.imax.re:80/3168761045/8590920166/83999
 #EXTINF:-1,tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Telugu",ETV Cinema
 http://rv.imax.re:80/3168761045/8590920166/84000
 
-//EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="http://ky-iptv.com:25461/images/05f0284ca500dac698655f1ce14dfb51.png" group-title="Telugu",ETV Cinema
-http://ky-iptv.com:25461/thebest1/thebest1/1061957
-
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Telugu",ETV Life
 http://rv.imax.re:80/3168761045/8590920166/83979
