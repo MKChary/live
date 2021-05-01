@@ -1,16 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Telugu",Gemini TV HD
-http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10248
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10248
 
 #EXTINF:-1,tvg-id="Gemini Movies HD" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies IN
-http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10182
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10182
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Telugu",Gemini Comedy
-http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10247
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10247
 
 EXTINF:-1,GEMINI LIFE HD (UK) tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Telugu",Gemini Life
 http://rv.imax.re:80/3168761045/8590920166/83980
 
+/*
 EXTINF:-1,tvg-id="Gemini Movies HD" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies IN
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66812
 
@@ -19,13 +20,14 @@ http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66813
 
 EXTINF:-1,tvg-id="Gemini Movies HD" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies IN
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66814
+*/
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu",Zee Telugu IN
-http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10155
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10155
 
 
 #EXTINF:-1 tvg-name="ZEE CINEMALU" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU SD
-http://cv.khushitv.xyz/channels.php?c=zcinemalusd&e=.m3u8
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/10255
 
 EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Cinema Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",Zee Cinema Telugu IN
 http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10255
@@ -213,7 +215,7 @@ http://ky-iptv.com:25461/thebest1/thebest1/1061960
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66802
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports 1 HD HINDI
-http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/18807
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18807
 
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports 1 HD
@@ -231,7 +233,7 @@ http://103.147.87.245:8001/play/a00d/index.m3u8
 http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/6228
 
 #EXTINF:-1 tvg-id="Star Plus HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star plus HD
-http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/6248
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/6248
 
 
 #EXTINF:-1 tvg-id="Star GOLD HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star GOLD HD
@@ -486,7 +488,9 @@ https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 #EXTINF:-1 tvg-name="Sony Six Sd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png" group-title="Sports",Sony Six Sd
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
-#EXTM3U
+#EXTINF:-1 tvg-name="Sony Six HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png" group-title="Sports",Sony Six HD
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18805
+
 #EXTINF:-1 tvg-name="Aaj Tak Hd" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg" group-title="News",Aaj Tak Hd
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 
