@@ -2,35 +2,35 @@
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Movies",Gemini TV HD
 http://185.71.64.167:80/307200115204/307200115204/83998
 
-#EXTINF:-1,tvg-id="Gemini Movies HD" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Telugu",Gemini Movies IN
+#EXTINF:-1,tvg-id="Gemini Movies HD" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Movies",Gemini Movies IN
 http://185.71.64.167:80/307200115204/307200115204/83997
 
-#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Telugu",Gemini Comedy
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Movies",Gemini Comedy
 http://185.71.64.167:80/307200115204/307200115204/83996
 
-#EXTINF:-1,GEMINI LIFE HD (UK) tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Telugu",Gemini Life
+#EXTINF:-1,GEMINI LIFE HD (UK) tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Movies",Gemini Life
 http://185.71.64.167:80/307200115204/307200115204/83980
 
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Telugu",Zee Telugu
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Movies",Zee Telugu
 http://185.71.64.167:80/307200115204/307200115204/83982
 
 
-#EXTINF:-1 tvg-name="ZEE CINEMALU" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Telugu",ZEE CINEMALU HD
+#EXTINF:-1 tvg-name="ZEE CINEMALU" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" group-title="Movies",ZEE CINEMALU HD
 http://185.71.64.167:80/307200115204/307200115204/83983
 
 
-#EXTINF:-1,tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Telugu",ETV HD
+#EXTINF:-1,tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Movies",ETV HD
 http://185.71.64.167:80/307200115204/307200115204/83999
 
-#EXTINF:-1,tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Telugu",ETV Cinema
+#EXTINF:-1,tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://185.71.64.167:80/307200115204/307200115204/84000
 
 
-#EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Telugu",ETV Life
+#EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="LifeStyle",ETV Life
 http://185.71.64.167:80/307200115204/307200115204/83979
 
-#EXTINF:-1,tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Telugu",ETV PLUS
+#EXTINF:-1,tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="LifeStyle",ETV PLUS
 http://rv.imax.re:80/3168761045/8590920166/83984
 
 
@@ -96,7 +96,6 @@ http://185.71.64.167:80/307200115204/307200115204/83978
 
 #EXTINF:-1,tvg-name="TV9 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="Telugu",TV9 News
 http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
-
 
 #EXTINF:-1,tvg-name="V6 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="Telugu",V6 News
 http://185.71.64.167:80/307200115204/307200115204/83985
