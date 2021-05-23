@@ -24,9 +24,14 @@ http://185.71.64.167:80/307200115204/307200115204/83982
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Movies",Zee Telugu
 http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66836
 
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu IN" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Movies",Zee Telugu2
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetelugu
 
 #EXTINF:-1 tvg-name="ZEE CINEMALU" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" tvg-title="telugu zee cinemal" group-title="Movies",ZEE CINEMALU
 https://y5w8j4a9.ssl.hwcdn.net/zcinemalusd//tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ZEE CINEMALU" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" tvg-title="telugu zee cinemal" group-title="Movies",ZEE CINEMALU
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinemalu
 
 
 #EXTINF:-1,tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Movies",ETV HD
@@ -190,8 +195,6 @@ http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/66802
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star Sports 1 HD
 http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/1893
-
-
 
 #EXTINF:-1 tvg-id="Star GOLD Select HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Telugu",Star GOLD Select HD
 http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/6228
