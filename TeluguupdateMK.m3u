@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-name="Gemini TV HD" tvg-logo="" group-title="Movies",MAA MUSIC
-rtmp://cdn.m.yupptv.tv:1935/liveorigin/maamusic1
+rtmp://cdn.m.yupptv.tv/liveorigin/maamusic1
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Movies",Gemini TV HD
 http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/1939
 
