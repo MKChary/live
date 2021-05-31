@@ -1,4 +1,42 @@
 #EXTM3U
+
+"9X Jhakaas TV"+"rtmp://cdn.m.yupptv.tv/liveorigin/etvuk1"
+"ABN"+"rtsp://cdn.m.yupptv.tv/liveorigin/abn1"
+"ABN TV (India)"+"rtmp://cdn.rtmp1.yupptv.tv/nwk/abn"
+"Bakthi TV"+"rtsp://cdn.m.yupptv.tv/liveorigin/bhakti9001"
+"Bhakti"+"rtsp://67.228.150.141:1935/liveorigin/bhakti9001"
+"bollywoodmovies"+"rtsp://46.249.213.87/broadcast/bollywoodmovies-tablet.3gp"
+"CNBC india"+"http://bglive-a.bitgravity.com/web18/secure/feed01?e=2607646344%26h=a3b7d81f159a802f448da7333b16ab6e&start=0"
+"divya channel"+"http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/playlist.m3u8"
+"ETV 2"+"rtsp://cdn.m.yupptv.tv/liveorigin/etv21"
+"HMTV"+"rtsp://cdn.m.yupptv.tv/liveorigin/hmtv1"
+"IBN7 TV"+"http://bglive-a.bitgravity.com/web18/secure/feed02?e=2628858938&h=ab0786cd59d98441ebac2c70c625863c"
+"India TV"+"mms://a1601.l12454743600.c124547.a.lm.akamaistream.net/D/1601/124547/v0001/reflector:43600"
+"Janasri News"+"rtsp://cdn.m.yupptv.tv/liveorigin/channel81"
+"kalaignar"+"rtmp://cdn.rtmp1.yupptv.tv/pnwk1/kalaignar"
+"Maa Music"+"rtmp://cdn.m.yupptv.tv:1935/liveorigin/maamusic1"
+"Maa Music"+"rtmp://cdn.m.yupptv.tv/liveorigin/maamusic1"
+"Mahaa News"+"rtsp://cdn.m.yupptv.tv/liveorigin/mahatv9001"
+"Maharishi Channel 3"+"rtsp://streaming.mou.org/videodialup"
+"NDTV Hindu"+"http://bglive-a.bitgravity.com/ndtv/indhi/live/native"
+"NDTV Profit"+"http://bglive-a.bitgravity.com/ndtv/prolo/live/native"
+"News Time TV (India)"+"rtmp://cdn.m.yupptv.tv/liveorigin/newstimebengal9001"
+"NTV"+"rtsp://cdn.m.yupptv.tv/liveorigin/ntv1"
+"rainbow"+"mms://mms.rrsat-internet.tv/rainbow_high"
+"Rakshana"+"rtsp://cdn.m.yupptv.tv/liveorigin/rakshana9001"
+"RK News"+"rtsp://cdn.m.yupptv.tv/liveorigin/rknews1"
+"Sakshi"+"rtmp://cdn.m.yupptv.tv:80/liveorigin/sakshi1"
+"Studio N"+"rtsp://cdn.m.yupptv.tv/liveorigin/studion2"
+"Suvarna - Kannada"+"rtsp://cdn.m.yupptv.tv/liveorigin/suvarna1"
+"SVBC"+"rtsp://cdn.m.yupptv.tv/liveorigin/svbc1"
+"T News"+"rtsp://cdn.m.yupptv.tv/liveorigin/channel49001"
+"Vanitha"+"rtsp://cdn.m.yupptv.tv/liveorigin/vanitha9001"
+"Venus TV"+"mms://217.34.158.58:8080"
+"WE"+"rtsp://cdn.m.yupptv.tv/liveorigin/we1"
+"Yoga IP-TV"+"mms://streaming.swamiji.tv/YogaIP-TV"
+
+
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/ANC.ph.png" group-title="Pilipinas",ANC
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master480p.m3u8|X-Forwarded-For=45.134.224.4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/345px-Kapamilya_Channel.png" group-title="Pilipinas",Kapamilya Channel
