@@ -1,39 +1,92 @@
 #EXTM3U
 
-"9X Jhakaas TV"+"rtmp://cdn.m.yupptv.tv/liveorigin/etvuk1"
-"ABN"+"rtsp://cdn.m.yupptv.tv/liveorigin/abn1"
-"ABN TV (India)"+"rtmp://cdn.rtmp1.yupptv.tv/nwk/abn"
-"Bakthi TV"+"rtsp://cdn.m.yupptv.tv/liveorigin/bhakti9001"
-"Bhakti"+"rtsp://67.228.150.141:1935/liveorigin/bhakti9001"
-"bollywoodmovies"+"rtsp://46.249.213.87/broadcast/bollywoodmovies-tablet.3gp"
-"CNBC india"+"http://bglive-a.bitgravity.com/web18/secure/feed01?e=2607646344%26h=a3b7d81f159a802f448da7333b16ab6e&start=0"
-"divya channel"+"http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/playlist.m3u8"
-"ETV 2"+"rtsp://cdn.m.yupptv.tv/liveorigin/etv21"
-"HMTV"+"rtsp://cdn.m.yupptv.tv/liveorigin/hmtv1"
-"IBN7 TV"+"http://bglive-a.bitgravity.com/web18/secure/feed02?e=2628858938&h=ab0786cd59d98441ebac2c70c625863c"
-"India TV"+"mms://a1601.l12454743600.c124547.a.lm.akamaistream.net/D/1601/124547/v0001/reflector:43600"
-"Janasri News"+"rtsp://cdn.m.yupptv.tv/liveorigin/channel81"
-"kalaignar"+"rtmp://cdn.rtmp1.yupptv.tv/pnwk1/kalaignar"
-"Maa Music"+"rtmp://cdn.m.yupptv.tv:1935/liveorigin/maamusic1"
-"Maa Music"+"rtmp://cdn.m.yupptv.tv/liveorigin/maamusic1"
-"Mahaa News"+"rtsp://cdn.m.yupptv.tv/liveorigin/mahatv9001"
-"Maharishi Channel 3"+"rtsp://streaming.mou.org/videodialup"
-"NDTV Hindu"+"http://bglive-a.bitgravity.com/ndtv/indhi/live/native"
-"NDTV Profit"+"http://bglive-a.bitgravity.com/ndtv/prolo/live/native"
-"News Time TV (India)"+"rtmp://cdn.m.yupptv.tv/liveorigin/newstimebengal9001"
-"NTV"+"rtsp://cdn.m.yupptv.tv/liveorigin/ntv1"
-"rainbow"+"mms://mms.rrsat-internet.tv/rainbow_high"
-"Rakshana"+"rtsp://cdn.m.yupptv.tv/liveorigin/rakshana9001"
-"RK News"+"rtsp://cdn.m.yupptv.tv/liveorigin/rknews1"
-"Sakshi"+"rtmp://cdn.m.yupptv.tv:80/liveorigin/sakshi1"
-"Studio N"+"rtsp://cdn.m.yupptv.tv/liveorigin/studion2"
-"Suvarna - Kannada"+"rtsp://cdn.m.yupptv.tv/liveorigin/suvarna1"
-"SVBC"+"rtsp://cdn.m.yupptv.tv/liveorigin/svbc1"
-"T News"+"rtsp://cdn.m.yupptv.tv/liveorigin/channel49001"
-"Vanitha"+"rtsp://cdn.m.yupptv.tv/liveorigin/vanitha9001"
-"Venus TV"+"mms://217.34.158.58:8080"
-"WE"+"rtsp://cdn.m.yupptv.tv/liveorigin/we1"
-"Yoga IP-TV"+"mms://streaming.swamiji.tv/YogaIP-TV"
+#EXTM3U
+#EXTINF:-1,IND_& Flix HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
+#EXTINF:-1,IND_& Pictures HD 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/7
+#EXTINF:-1,IND_& privé HD(eng) 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/8
+#EXTINF:-1,IND_& TV (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/325
+#EXTINF:-1,IND_& TV FHD (IND) 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1008
+#EXTINF:-1,IND_& Xplor HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/336
+#EXTINF:-1,IND_1st India (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/25
+#EXTINF:-1,IND_9X Jalwa HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1033
+#EXTINF:-1,IND_9XM (Music)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/12
+#EXTINF:-1,IND_Aaj Tak HD (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/11
+#EXTINF:-1,IND_Aastha Bhajan HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/609
+#EXTINF:-1,IND_AASTHA PRIME 1 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/645
+#EXTINF:-1,IND_Aastha tv HD (IN)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/296
+#EXTINF:-1,IND_ABAYE_DHAHDAK (lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/933
+#EXTINF:-1,IND_ABP_News_India FHD (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/9
+#EXTINF:-1,IND_ABZY Movies (lk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/857
+#EXTINF:-1,IND_Animal_Planet_Hindi_HD (4K+)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/55
+#EXTINF:-1,IND_Arihant TV HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/643
+#EXTINF:-1,IND_Awakening HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/891
+#EXTINF:-1,IND_B4u  Alfam HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/14
+#EXTINF:-1,IND_B4U Movies (IND)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/39
+#EXTINF:-1,IND_B4U Movies (uk)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/721
+#EXTINF:-1,IND_B4U Music HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/19
+#EXTINF:-1,IND_B4u-kadak HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/13
+#EXTINF:-1,IND_BBO HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1140
+#EXTINF:-1,IND_Bhagti Sagar (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/365
+#EXTINF:-1,IND_Care World (Health)
+
+#EXTINF:-1,IND_STAR GOLD SELECT HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/515
+#EXTINF:-1,IND_Star Plus HD (IND)-VIP
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/634
+#EXTINF:-1,IND_Star Plus HD (UK)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/214
+#EXTINF:-1,IND_Star Sports 2 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
+#EXTINF:-1,IND_Star Sports 3 HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
+#EXTINF:-1,IND_Suraya_cinema HD(chahcha)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/453
+#EXTINF:-1,IND_Ten Sports
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/223
+#EXTINF:-1,IND_TEZ News (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/27
+#EXTINF:-1,IND_THE Q HD TV
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/946
+#EXTINF:-1,IND_Time_Now (News) 
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/956
+#EXTINF:-1,IND_TLC_Hindi HD (JIO)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/58
+#EXTINF:-1,IND_TV9 Bharatvarsh (News)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1067
+#EXTINF:-1,IND_UTV Bindas HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/217
+#EXTINF:-1,IND_UTV HD (Movies)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/626
+#EXTINF:-1,IND_Vedic HD (Spirtual)
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/644
+#EXTINF:-1,IND_Willow HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222
 
 
 
