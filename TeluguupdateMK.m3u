@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-name="TBO clasic" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_kiran.png" group-title="Movies",TBO clasic
 https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Movies",Gemini TV
-https://bit.ly/3yywIOq
+#EXTINF:-1 tvg-id="GeminiTV.in" tvg-name="Gemini TV HD" tvg-logo="https://picon-13398.kxcdn.com/geminitvpk.jpg" group-title="Movies",Gemini TV HD
+http://185.71.64.167:80/307200115204/307200115204/83998
 
 #EXTINF:-1,tvg-id="Gemini Movies HD" tvg-logo="https://picon-13398.kxcdn.com/geminimoviesin.jpg" group-title="Movies",Gemini Movies IN
 http://185.71.64.167:80/307200115204/307200115204/83997
@@ -19,6 +19,9 @@ http://185.71.64.167:80/307200115204/307200115204/83982
 
 #EXTINF:-1 tvg-name="Zee Cinemalu" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" tvg-title="telugu zee cinemal" group-title="Movies",Zee Cinemalu
 https://y5w8j4a9.ssl.hwcdn.net/zcinemalusd//tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zee Cinemalu" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" tvg-title="telugu zee cinemal" group-title="Movies",Zee Cinemalu HD
+http://185.71.64.167:80/307200115204/307200115204/83983
 
 
 #EXTINF:-1,tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Movies",ETV HD
@@ -55,7 +58,7 @@ http://185.71.64.167:80/307200115204/307200115204/83981
 http://185.71.64.167:80/307200115204/307200115204/83987
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Telugu",Vissa TV
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66835
+http://185.71.64.167:80/307200115204/307200115204/83972
 
 #EXTINF:-1,tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Telugu",VANITHA TV
 http://185.71.64.167:80/307200115204/307200115204/83973
@@ -83,20 +86,20 @@ http://185.71.64.167:80/307200115204/307200115204/83971
 http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66819
 
 #EXTINF:-1,tvg-name="TV5 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="Telugu",TV5 News
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66831
+http://185.71.64.167:80/307200115204/307200115204/83978
 
 
 #EXTINF:-1,tvg-name="TV9 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="Telugu",TV9 News
 http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 
 #EXTINF:-1,tvg-name="V6 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="Telugu",V6 News
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66834
+http://185.71.64.167:80/307200115204/307200115204/83985
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="Telugu",ETV Andhra Pradesh
 http://ky-iptv.com:25461/thebest1/thebest1/1061963
 
 #EXTINF:-1,tvg-id="10TV News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="Telugu",10TV News HD
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66800
+http://185.71.64.167:80/307200115204/307200115204/83976
 
 #EXTINF:-1,tvg-id="99TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/99tv-in.png" group-title="Telugu",99TV HD
 http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66801
@@ -137,9 +140,6 @@ http://ky-iptv.com:25461/thebest1/thebest1/770346
 
 #EXTINF:-1,tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="Telugu",Sakshi TV
 http://185.71.64.167:80/307200115204/307200115204/83970
-
-#EXTINF:-1,tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="Telugu",Sakshi TV
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66822
 
 #EXTINF:-1,tvg-id="SONYB YAY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/svbc2-in.png" group-title="Telugu",SONY YAY
 http://185.71.64.167:80/307200115204/307200115204/83977
