@@ -1,19 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=""  group-title="SDM-VOD-2021" tvg-logo="",Action: 1.Vanquish (2021) 
-https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8 
-#EXTINF:-1 tvg-id="" group-title="SDM-VOD-2021" tvg-logo="",Action 2.Mortal Kombat (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/361d659195519a8ba991b1bb49843180/540p/index.m3u8
-
-
-
-
 #EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/M8YV19x.jpg",Action: 1.Vanquish (2021) 
 https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8 
 #EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/PwHC0Ta.jpg",Action 2.Mortal Kombat (2021) 
 https://cdn2ii.diebutx.com/own2hls/2020/361d659195519a8ba991b1bb49843180/540p/index.m3u8
-#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/oAdzX3L.jpg",Action 3.Nobody (2021) https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8 
-#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/Di7xFYF.jpg",Action 4.The Marksman (2021) https://cdn2ii.diebutx.com/own2hls/2020/2bcc3d4ba624b78ee5efbdf192445b35/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/oAdzX3L.jpg",Action 3.Nobody (2021) 
+https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/Di7xFYF.jpg",Action 4.The Marksman (2021) 
+https://cdn2ii.diebutx.com/own2hls/2020/2bcc3d4ba624b78ee5efbdf192445b35/540p/index.m3u8 
 #EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/yg8mnEe.jpg",Action 5.Lazarus (2021) https://cdn2ii.diebutx.com/own2hls/2020/09c083af59d53871ecc6daa8c015a641/540p/index.m3u8 
 #EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/erljNPU.jpg",Action 6.A Writer's Odyssey (2021) https://cdn2ii.diebutx.com/own2hls/2020/996ee5e9d1e200255fb5565ba5f1b1b5/540p/index.m3u8 
 #EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/yNEYhbK.jpg",Action 7.Thunder Force (2021) https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8 
