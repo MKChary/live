@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id=""  group-title="SDM-VOD-2021" tvg-logo="",Action: 1.Vanquish (2021) 
+https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8 
+#EXTINF:-1 tvg-id="" group-title="SDM-VOD-2021" tvg-logo="",Action 2.Mortal Kombat (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/361d659195519a8ba991b1bb49843180/540p/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/M8YV19x.jpg",Action: 1.Vanquish (2021) 
 https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8 
 #EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/PwHC0Ta.jpg",Action 2.Mortal Kombat (2021) 
