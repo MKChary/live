@@ -1,4 +1,23 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/M8YV19x.jpg",Action: 1.Vanquish (2021) https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/PwHC0Ta.jpg",Action 2.Mortal Kombat (2021) https://cdn2ii.diebutx.com/own2hls/2020/361d659195519a8ba991b1bb49843180/540p/index.m3u8
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/oAdzX3L.jpg",Action 3.Nobody (2021) https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/Di7xFYF.jpg",Action 4.The Marksman (2021) https://cdn2ii.diebutx.com/own2hls/2020/2bcc3d4ba624b78ee5efbdf192445b35/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/yg8mnEe.jpg",Action 5.Lazarus (2021) https://cdn2ii.diebutx.com/own2hls/2020/09c083af59d53871ecc6daa8c015a641/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/erljNPU.jpg",Action 6.A Writer's Odyssey (2021) https://cdn2ii.diebutx.com/own2hls/2020/996ee5e9d1e200255fb5565ba5f1b1b5/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/yNEYhbK.jpg",Action 7.Thunder Force (2021) https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/RTCAqX2.jpg",Action 8.Assault on VA-33 (2021) https://cdn2ii.diebutx.com/own2hls/2020/aacc3c9262fbb8da9ff992c66a73f062/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/qqIoyNK.jpg",Action 9.The Yin Yang Master (2021) https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/Ze5fwGu.jpg",Action: 10.Wu Song?s Bloody Battle With Lion House (2021) https://cdn2ii.diebutx.com/own2hls/2020/b9b11c30beb13b11c1d88de8a0a10b62/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/HRcFmZu.jpg",Action: 11.Zack Snyder's Justice League (2021) https://cdn2ii.diebutx.com/own2hls/2020/346d158048eb93d273de942c5da2f090/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/2Ej2EOP.jpg",ACTION: 12.ARMAGEDDON TALES (2021) https://cdn3ii.diebutx.com/own2hls/2020/3ca9a047ea086321136a11b7181cfc2a/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/Ae2MmT7.jpg",Action: 13.SAS: Red Notice (2021) https://cdn2ii.diebutx.com/own2hls/2020/d526cc20885c06e026cb23304abc5bd7/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/OYFhiCy.jpg",Action: 14.Twist (2021) https://cdn3ii.diebutx.com/own2hls/2020/2664a17549df570378bdffd02aa1702c/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/aaSQ6kx.jpg",Action: 15.Space Sweepers (2021) https://cdn3ii.diebutx.com/own2hls/2020/b1add098cb4ac360e177435105e4ef75/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/ZXUUaVs.jpg",Action: 16.Master (2021) https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/index.m3u8 
+#EXTINF:-1 group-title="SDM-VOD-2021" tvg-logo="https://i.imgur.com/CHdbLeT.jpg",Action: 17.Raya and the Last Dragon (2021) https://cdn2ii.diebutx.com/own2hls/2020/23a92a8ccbb8f8362fb6f336ed364888/540p/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="|TELUGU| BHAKTI TV" tvg-logo="" group-title="AS TELUGU",|TELUGU| BHAKTI TV
 http://185.71.64.167:80/307200115204/307200115204/84002
 #EXTINF:-1 tvg-id="" tvg-name="|TELUGU| DISCOVERY WORLD HD" tvg-logo="" group-title="AS TELUGU",|TELUGU| DISCOVERY WORLD HD
