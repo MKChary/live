@@ -104,6 +104,9 @@ http://185.71.64.167:80/307200115204/307200115204/83978
 #EXTINF:-1,tvg-name="TV5 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="Telugu",TV5 News
 https://cutt.ly/vnzoQ9y
 
+#EXTINF:-1,tvg-name="TV9 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="Telugu",TV9 News HD
+https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
+
 #EXTINF:-1,tvg-name="TV9 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="Telugu",TV9 News
 http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 
