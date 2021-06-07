@@ -190,8 +190,8 @@ http://ky-iptv.com:25461/thebest1/thebest1/1061967
 #EXTINF:-1,tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="Telugu",Bhakthi TV
 http://185.71.64.167:80/307200115204/307200115204/84002
 
-#EXTINF:-1,tvg-id="AASTHA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aastha-telugu-in.png" group-title="Telugu",Color HD
-https://cutt.ly/mnnNnHq
+#EXTINF:-1,tvg-id="AASTHA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aastha-telugu-in.png" group-title="Telugu",UTV Movies HD
+https://cutt.ly/8nmi6Xq
 
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="" group-title="Movies",HBO FHD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
@@ -212,8 +212,8 @@ https://cutt.ly/HnmprS7
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Hd
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Sd
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinema
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Movies Now Hd
+https://cutt.ly/mnmobcG
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://assets.botallen.live/images/t/SgriYijZDr.png" group-title="Movies",&Pictures Hd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
