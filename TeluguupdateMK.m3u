@@ -151,7 +151,7 @@ http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66803
 http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66804
 
 #EXTINF:-1 tvg-id="Mahaa News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mahaa_news_in.png" group-title="News",Mahaa News
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66817
+https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
 #EXTINF:-1,tvg-id="hmtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",hmtv
 https://cutt.ly/wnzi3Pe
@@ -184,8 +184,6 @@ http://185.71.64.167:80/307200115204/307200115204/83970
 #EXTINF:-1,tvg-id="SONYB YAY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/svbc2-in.png" group-title="Family/Kids",SONY YAY
 http://185.71.64.167:80/307200115204/307200115204/83977
 
-#EXTINF:-1 tvg-id="SVBC2" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5331.SVBC2.in/1x1/1x/test_pic1558352400877.jpg" group-title="MX Player 2",SVBC 2
-https://m-c17-j2apps.s.llnwi.net/hls/5331.SVBC2.in.m3u8
 
 #EXTINF:-1,tvg-id="CVR OM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM HD
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
@@ -849,8 +847,6 @@ https://m-c17-j2apps.s.llnwi.net/hls/0614.Chithiram.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/0375.AalamiSamay.in.m3u8
 #EXTINF:-1 tvg-id="SuryaSamachar" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6006.SuryaSamachar.in/1x1/1x/test_pic1558593274997.jpg" group-title="MX Player 2",Surya Samachar
 https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in.m3u8
-#EXTINF:-1 tvg-id="MahaaTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0515.MahaaTV.in/1x1/1x/test_pic1558352506850.jpg" group-title="MX Player 2",Mahaa TV
-https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 #EXTINF:-1 tvg-id="SadhnaNewsBangla" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6519.SadhnaNewsBangla.in/1x1/1x/test_pic1556113074472.jpg" group-title="Music",Sadhna News Bangla
 https://m-c07-j2apps.s.llnwi.net/hls/6519.SadhnaNewsBangla.in.m3u8
 #EXTINF:-1 tvg-id="E24" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0389.E24.in/1x1/1x/test_pic1535980264378.jpg" group-title="Music",E24
