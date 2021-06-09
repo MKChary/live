@@ -120,7 +120,7 @@ http://185.71.64.167:80/307200115204/307200115204/83971
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
 http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66819
 
-#EXTINF:-1 tvg-id="TV5Telugu" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0440.TV5Telugu.in/1x1/1x/test_pic1542964247055.jpg" group-title="News",TV5 Telugu
+#EXTINF:-1 tvg-id="TV5Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 Telugu
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
 
 #EXTINF:-1,tvg-name="TV5 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
