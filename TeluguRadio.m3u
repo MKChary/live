@@ -1,5 +1,10 @@
 
-#M3U
+#EXTM3U
+#EXTINF:-1 tvg-id="Mirchi Love Radio Telugu" tvg-name="Mirchi Love Radio Telugu" tvg-logo="https://radiosindia.com/images/mirchiloveradio.jpg" group-title="Movies",
+https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/master.m3u8
+
+
+
 https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/master.m3u8
 Mirchi Love Radio Telugu
 https://radiosindia.com/images/mirchiloveradio.jpg
