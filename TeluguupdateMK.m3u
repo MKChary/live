@@ -199,6 +199,19 @@ https://cutt.ly/8nmi6Xq
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Movies",HBO Hits HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
+#EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-118 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Movies", & Prive HD
+http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="Movies",Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",AXN ASIA HD
+http://77.83.117.60:8888//02_AXNHD_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Sports",Star Sports 1 HD
 https://cutt.ly/PnmoISq
 
@@ -208,12 +221,10 @@ https://cutt.ly/Enmo9c9
 #EXTINF:-1 tvg-id="Star Plus HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Sports",Star plus HD
 https://cutt.ly/BnmoLTn
 
-
 #EXTINF:-1 tvg-id="Star GOLD HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Movies",Star GOLD HD
 https://cutt.ly/HnmprS7
 
-
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu IN" tvg-logo="https://www.pngfind.com/pngs/m/664-6648659_plex-logo-png-png-download-miniplex-channel-transparent.png" group-title="Movies",Airtel MINIFLEX
+#EXTINF:-1 tvg-id="miniflex.in" tvg-name="miniflex" tvg-logo="https://www.pngfind.com/pngs/m/664-6648659_plex-logo-png-png-download-miniplex-channel-transparent.png" group-title="Movies",MINIFLEX
 https://cutt.ly/RnExQGm
 
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Hd
@@ -266,9 +277,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Cafe Hd(Link 2)" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="Entertainment",Zee Cafe Hd(Link 2)
 http://cv.khushitv.xyz/channels.php?c=zeecafehd&m3u8
-
-#EXTINF:-1 tvg-name="& Privé HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movies",& Privé HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Tv Hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv Hd
 http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
@@ -410,6 +418,46 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
 #EXTM3U
+
+#EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
+http://103.205.133.48/hls/chss1.m3u8
+#EXTINF:-128 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi token
+http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=%3DRk
+#EXTINF:-129 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
+http://luckonline.eu:8080/17424/cnyzqDETiP/1369
+#EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
+http://45.127.244.7:8080/hls/channel4.m3u8
+#EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
+http://103.205.133.48/hls/chss2.m3u8
+#EXTINF:-132 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
+http://luckonline.eu:8080/17424/cnyzqDETiP/1370
+#EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
+http://stariptv.xyz:8880/661562/505844/179353
+#EXTINF:-134 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
+http://stream.amrbd.com:8082/kn3a/tracks-v1a1/mono.m3u8
+#EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
+http://45.127.244.7:8080/hls/channel8.m3u8
+#EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
+http://stream.amrbd.com:8082/kn5a/tracks-v1a1/mono.m3u8
+#EXTINF:-137 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
+http://45.127.244.7:8080/hls/channel9.m3u8
+#EXTINF:-138 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX
+http://103.205.133.21/hls/sonysix.m3u8
+#EXTINF:-139 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX
+http://45.127.244.7:8080/hls/channel6.m3u8
+#EXTINF:-140 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",ICC_Sony Ten 1
+http://103.205.133.21/hls/ten1.m3u8
+#EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",ICC_Sony Ten 1
+#EXTINF:-142 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="SPORTS",Sony ten-2
+http://45.127.244.7:8080/hls/channel5.m3u8
+#EXTINF:-143 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="SPORTS",ICC_Sony Ten 2
+http://103.205.133.21/hls/ten2.m3u8
+#EXTINF:-144 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="SPORTS",ICC_Sony Ten 3
+http://103.205.133.21/hls/ten3.m3u8
+#EXTINF:-144 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="SPORTS",ICC_Sony Ten 3
+http://172.16.50.2:8081/live/ten3/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony Hd
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
