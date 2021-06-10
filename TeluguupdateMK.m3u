@@ -193,6 +193,23 @@ https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 #EXTINF:-1 tvg-id="Subhavaartha" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0434.Subhavaartha.in/1x1/1x/test_pic1543827303308.jpg" group-title="Lifestyle",Subhavaartha
 https://m-c08-j2apps.s.llnwi.net/hls/0434.Subhavaartha.in.m3u8
 
+#EXTINF:-1 tvg-id="BCN" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0434.Subhavaartha.in/1x1/1x/test_pic1543827303308.jpg" group-title="Movies",BCN
+http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
+
+#EXTINF:-1 tvg-id="YSR TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0434.Subhavaartha.in/1x1/1x/test_pic1543827303308.jpg" group-title="News",YSR TV
+https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
+
+
+#EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0434.Subhavaartha.in/1x1/1x/test_pic1543827303308.jpg" group-title="News",Mana TV
+http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0434.Subhavaartha.in/1x1/1x/test_pic1543827303308.jpg" group-title="News",Metro TV
+https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Shreyas TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0434.Subhavaartha.in/1x1/1x/test_pic1543827303308.jpg" group-title="News",Shreyas TV
+https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8
+
+
 #EXTINF:-1,tvg-id="UTV Movies HD" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/utv_movies.gif?resize=300%2C169" group-title="Movies",UTV Movies HD
 https://cutt.ly/8nmi6Xq
 
