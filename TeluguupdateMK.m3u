@@ -209,6 +209,99 @@ https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c9129
 #EXTINF:-1 tvg-id="Shreyas TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0434.Subhavaartha.in/1x1/1x/test_pic1543827303308.jpg" group-title="News",Shreyas TV
 https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8
 
+#EXTINF:-1 tvg-id="VHM TV HD" tvg-logo="https://cdn.apk-cloud.com/detail/image/com.gnrdsoftsolutions.SatyaNewsAndroidAppp-w130.png" group-title="News",VHM TV HD
+http://blmtech.in:8086/hls/vhmtv/index.m3u8
+
+#EXTINF:-1 tvg-id="CS News" tvg-logo="https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw" group-title="News",CS News
+http://blmtech.in:8086/hls/csnews/index.m3u8
+
+#EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="News",Saranya TV
+http://blmtech.in:8086/hls/saranyatv/index.m3u8
+
+#EXTINF:-1 tvg-id="N6 News" tvg-logo="https://play-lh.googleusercontent.com/JHjzDIKPpKuPcc4O4TmOzEyeDJPcAj4mXPB61e2HHwLdUg1rHdCnMif8Q0pp1vAwGGg=s180-rw" group-title="News",N6 News
+http://blmtech.in:8086/hls/ngnews/index.m3u8
+
+#EXTINF:-1 tvg-id="CS News" tvg-logo="https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw" group-title="News",CS News
+http://blmtech.in:8086/hls/csnews/index.m3u8
+
+#EXTINF:-1 tvg-id="CS News" tvg-logo="https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw" group-title="News",CS News
+http://blmtech.in:8086/hls/csnews/index.m3u8
+
+#EXTINF:-1 tvg-id="CS News" tvg-logo="https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw" group-title="News",CS News
+http://blmtech.in:8086/hls/csnews/index.m3u8
+
+#EXTINF:-1 tvg-id="CS News" tvg-logo="https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw" group-title="News",CS News
+http://blmtech.in:8086/hls/csnews/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CS News" tvg-logo="https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw" group-title="News",CS News
+http://blmtech.in:8086/hls/csnews/index.m3u8
+
+#EXTINF:-1 tvg-id="CS News" tvg-logo="https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw" group-title="News",CS News
+http://blmtech.in:8086/hls/csnews/index.m3u8
+
+#EXTINF:-1 tvg-id="CS News" tvg-logo="https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw" group-title="News",CS News
+http://blmtech.in:8086/hls/csnews/index.m3u8
+
+
+
+
+    "name": "N6 News",
+    "url": "http://blmtech.in:8086/hls/ngnews/index.m3u8",
+    "category": "News",
+    "logo": "https://play-lh.googleusercontent.com/JHjzDIKPpKuPcc4O4TmOzEyeDJPcAj4mXPB61e2HHwLdUg1rHdCnMif8Q0pp1vAwGGg=s180-rw",
+    "type": "stream"
+  },
+  {
+    "name": "Sathya News",
+    "url": "http://blmtech.in:8086/hls/satyanews/index.m3u8",
+    "category": "News",
+    "logo": "https://play-lh.googleusercontent.com/DTK6083Z8NlyQrtms-MR_5kx0kurxQzJAfGtQQXAnd4UD9cIs62jxzk7Qo54cz9JtA=s180-rw",
+    "type": "stream"
+  },
+  {
+    "name": "Vihari TV",
+    "url": "http://blmtech.in:8086/hls/viharitv/index.m3u8",
+    "category": "Local",
+    "logo": "https://play-lh.googleusercontent.com/SpFUpCdwhHEHLpfW6uWWCWzo0Z2XV0FJl70-E80b-gGkJLK3RbwA3ScV_SUqlvCEWB0P=s180-rw",
+    "type": "stream"
+  },
+  {
+    "name": "Vijwal TV",
+    "url": "http://blmtech.in:8086/hls/vijwaltv/index.m3u8",
+    "category": "Local",
+    "logo": "https://play-lh.googleusercontent.com/Ld4lhqxIHcjf_PgKJUfioygZ_kz31QlAWwQOGvs3NU59uupNA1F7r969jBJwZyHtr6w=s180-rw",
+    "type": "stream"
+  },
+  {
+    "name": "City News TV",
+    "category": "News",
+    "url": "http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/JX__NKk0RMa5P00ROEnftE1hxcA78rMFny0_hdf5YNrLIRx3lEq03tVMgZ7O5a5ffq8=s180-rw",
+    "type": "stream"
+  },
+  {
+    "name": "Public TV",
+    "category": "Local",
+    "url": "http://msoout.freedocast.com/vgpt/publictv/playlist.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/uRymo85379BlCjGB-aVeYRew_jS2hzxEl2qHMLPX2YPUXuxYHLOS0-12cRw7lGfHWZw=s180-rw",
+    "type": "stream"
+  },
+  {
+    "name": "VH TV",
+    "category": "Local",
+    "url": "http://cludestreamplay.com:1935/vhtv/vhtv/playlist.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/0WXFrLHPtLJkXm58dElLz-pp8fv1zn3lN5P9-cnHPBLUHGSYxyj_Tfb0Ki5m6HU92nPS=s180-rw",
+    "type": "stream"
+  },
+  {
+    "name": "S TV Telegu",
+    "category": "Local",
+    "url": "http://blmtech.in:8086/hls/stvtelugu/index.m3u8",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj",
+    "type": "stream"
+
 
 #EXTINF:-1,tvg-id="UTV Movies HD" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/utv_movies.gif?resize=300%2C169" group-title="Movies",UTV Movies HD
 https://cutt.ly/8nmi6Xq
