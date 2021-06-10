@@ -199,7 +199,6 @@ http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 #EXTINF:-1 tvg-id="YSR TV" tvg-logo="https://play-lh.googleusercontent.com/RJA4rO1SnKW2QQm2AF80PBni3UpO8qqm3XS7Mma3XLeyvDB9UV3-W8xF1CxWz8PDHFc=s180-rw" group-title="News",YSR TV
 https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
 
-
 #EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="News",Mana TV
 http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 
@@ -209,17 +208,8 @@ https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c9129
 #EXTINF:-1 tvg-id="Shreyas TV" tvg-logo="https://play-lh.googleusercontent.com/MPWG4eX_b9nUE7hFEL54faL0QZrGCN_vb1f4rPMBEmgKyydSSinwUI3ku7Lb7cGrhlA=s180-rw" group-title="News",Shreyas TV
 https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8
 
-#EXTINF:-1 tvg-id="VHM TV HD" tvg-logo="https://cdn.apk-cloud.com/detail/image/com.gnrdsoftsolutions.SatyaNewsAndroidAppp-w130.png" group-title="News",VHM TV HD
-http://blmtech.in:8086/hls/vhmtv/index.m3u8
-
-#EXTINF:-1 tvg-id="CS News" tvg-logo="https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw" group-title="News",CS News
-http://blmtech.in:8086/hls/csnews/index.m3u8
-
 #EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="News",Saranya TV
 http://blmtech.in:8086/hls/saranyatv/index.m3u8
-
-#EXTINF:-1 tvg-id="N6 News" tvg-logo="https://play-lh.googleusercontent.com/JHjzDIKPpKuPcc4O4TmOzEyeDJPcAj4mXPB61e2HHwLdUg1rHdCnMif8Q0pp1vAwGGg=s180-rw" group-title="News",N6 News
-http://blmtech.in:8086/hls/ngnews/index.m3u8
 
 #EXTINF:-1 tvg-id="Sathya News" tvg-logo="https://play-lh.googleusercontent.com/DTK6083Z8NlyQrtms-MR_5kx0kurxQzJAfGtQQXAnd4UD9cIs62jxzk7Qo54cz9JtA=s180-rw" group-title="News",Sathya News
 http://blmtech.in:8086/hls/satyanews/index.m3u8
@@ -227,17 +217,11 @@ http://blmtech.in:8086/hls/satyanews/index.m3u8
 #EXTINF:-1 tvg-id="Vihari TV" tvg-logo="https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw" group-title="News",Vihari TV
 http://blmtech.in:8086/hls/viharitv/index.m3u8
 
-#EXTINF:-1 tvg-id="Vijwal TV" tvg-logo="https://play-lh.googleusercontent.com/Ld4lhqxIHcjf_PgKJUfioygZ_kz31QlAWwQOGvs3NU59uupNA1F7r969jBJwZyHtr6w=s180-rw" group-title="News",Vijwal TV
-http://blmtech.in:8086/hls/vijwaltv/index.m3u8
-
 #EXTINF:-1 tvg-id="City News TV" tvg-logo="https://play-lh.googleusercontent.com/JX__NKk0RMa5P00ROEnftE1hxcA78rMFny0_hdf5YNrLIRx3lEq03tVMgZ7O5a5ffq8=s180-rw" group-title="News",City News TV
 http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Public TV" tvg-logo="https://play-lh.googleusercontent.com/uRymo85379BlCjGB-aVeYRew_jS2hzxEl2qHMLPX2YPUXuxYHLOS0-12cRw7lGfHWZw=s180-rw" group-title="News",Public TV
 http://msoout.freedocast.com/vgpt/publictv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VH TV" tvg-logo="https://play-lh.googleusercontent.com/0WXFrLHPtLJkXm58dElLz-pp8fv1zn3lN5P9-cnHPBLUHGSYxyj_Tfb0Ki5m6HU92nPS=s180-rw" group-title="News",VH TV
-http://cludestreamplay.com:1935/vhtv/vhtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STV Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj" group-title="News",STV Telugu
 http://blmtech.in:8086/hls/stvtelugu/index.m3u8
