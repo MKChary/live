@@ -41,13 +41,14 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemalusd//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Cinemalu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" tvg-title="telugu zee cinemal" group-title="Movies",Zee Cinemalu HD
 http://185.71.64.167:80/307200115204/307200115204/83983
 
-
 #EXTINF:-1,tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 http://185.71.64.167:80/307200115204/307200115204/83999
 
+#EXTINF:-1,tvg-id="ETV SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV SD
+https://cutt.ly/bnAB1XI
+
 #EXTINF:-1,tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://185.71.64.167:80/307200115204/307200115204/84000
-
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="LifeStyle",ETV Life
 http://185.71.64.167:80/307200115204/307200115204/83979
@@ -55,14 +56,11 @@ http://185.71.64.167:80/307200115204/307200115204/83979
 #EXTINF:-1,tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="LifeStyle",ETV PLUS
 http://185.71.64.167:80/307200115204/307200115204/83984
 
-
 #EXTINF:-1,tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Telugu",STAR MAA GOLD HD
 http://185.71.64.167:80/307200115204/307200115204/83989
 
-
 #EXTINF:-1,tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://cutt.ly/dnn1VLH
-
 
 #EXTINF:-1,tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://185.71.64.167:80/307200115204/307200115204/83988
@@ -178,7 +176,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
 #EXTINF:-1,tvg-id="Prime9 News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" group-title="News",Prime9 News HD
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66820
+https://cutt.ly/snAN7Dr
 
 #EXTINF:-1,tvg-id="Raj News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News HD
 http://185.71.64.167:80/307200115204/307200115204/83991
@@ -188,6 +186,13 @@ http://ky-iptv.com:25461/thebest1/thebest1/770346
 
 #EXTINF:-1,tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 http://185.71.64.167:80/307200115204/307200115204/83970
+
+#EXTINF:-1,tvg-id="A1 TV" tvg-logo="" group-title="News",A1 TV
+https://cutt.ly/CnAMwCR
+
+#EXTINF:-1,tvg-id="Bharath Today" tvg-logo="" group-title="News",Bharath Today
+https://cutt.ly/hnAMIbV
+
 
 #EXTINF:-1,tvg-id="SONYB YAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="Family/Kids",SONY YAY
 http://185.71.64.167:80/307200115204/307200115204/83977
@@ -213,6 +218,12 @@ https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
 
 #EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="News",Mana TV
 http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="News",Mana TV
+https://cutt.ly/jnA1zU7
+
+#EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="" group-title="News",Studio Yuva
+https://cutt.ly/WnA1mRW
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
