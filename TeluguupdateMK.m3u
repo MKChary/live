@@ -232,7 +232,7 @@ http://blmtech.in:8086/hls/stvtelugu/index.m3u8
 #EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="News",Cowa TV
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Yuva TV" tvg-logo="http://sundaylive.in/client/client_images/160445625520201103_151308.jpg" group-title="News",Yuva TV
+#EXTINF:-1 tvg-id="Act Cinema" tvg-logo="https://mydigital.actcorp.in/assets/img/logo_new.png" group-title="News",Act Cinema
 http://sundaylive.livebox.co.in/yuvahls/yuvat.m3u8
 
 #EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2b25uZXdzX3NjcmVlbl8wXzE2MDM1MjczNDFfMDQ4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="News",ABC Sun Live
