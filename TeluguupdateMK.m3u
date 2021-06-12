@@ -116,6 +116,15 @@ https://m-c16-j2apps.s.llnwi.net/hls/1901.Tollywood.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="Express TV" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8018.ExpressTV.in/en/1x1/208x208/test_pic1603098016693.jpg" group-title="MX Player 2",Express TV
 https://m-c06-j2apps.s.llnwi.net/hls/8018.ExpressTV.in_480p/index.m3u8
 
+#EXTINF:-1 tvg-id="Telugu Film Nagar" tvg-logo="" group-title="Movies",Telugu Film Nagar
+https://cutt.ly/8nANmg1
+
+#EXTINF:-1 tvg-id="Mango Telugu Cinema" tvg-logo="" group-title="Movies",Mango Telugu Cinema
+https://cutt.ly/xnANTAi
+
+#EXTINF:-1 tvg-id="T-SAT NIPUNA" tvg-logo="" group-title="Education",T-SAT NIPUNA
+https://cutt.ly/LnABIGe
+
 #EXTINF:-1,tvg-id="KUSHI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",KUSHI TV
 http://185.71.64.167:80/307200115204/307200115204/83971
 
