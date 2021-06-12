@@ -225,7 +225,7 @@ http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="News",Mana TV
 https://cutt.ly/jnA1zU7
 
-#EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="" group-title="News",Studio Yuva
+#EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="http://sundaylive.in/client/client_images/160445625520201103_151308.jpg" group-title="News",Studio Yuva
 https://cutt.ly/WnA1mRW
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",Metro TV
@@ -264,7 +264,7 @@ http://sundaylive.livebox.co.in/abcsunlivehls/sundaylive.m3u8
 #EXTINF:-1 tvg-id="Blessings TV" tvg-logo="https://images.jdmagicbox.com/comp/chennai/z8/044pxx44.xx44.121213103839.e6z8/catalogue/blessing-tv-thiruvanmiyur-chennai-satellite-channels-cwqcfnc4zu.jpg?clr=" group-title="News",Blessings TV
 http://sundaylive.livebox.co.in/blessingtvhls/blessingtvtv.m3u8
 
-#EXTINF:-1 tvg-id="JL TV" tvg-logo="http://sundaylive.in/client/client_images/160445625520201103_151308.jpg" group-title="News",JL TV
+#EXTINF:-1 tvg-id="JL TV" tvg-logo="" group-title="News",JL TV
 http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
 
 #EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="News",Reshya TV
