@@ -594,7 +594,7 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18805
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Movies", SONY SET FHD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="", SONY SAB FHD
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY SAB FHD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="Movies", SONY PAL
@@ -705,8 +705,6 @@ https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 #EXTINF:-1 tvg-id="ABPNews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7014.ABPNews.in/1x1/1x/test_pic1580713373952.jpg" group-title="News",ABP News
 https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in.m3u8
-#EXTINF:-1 tvg-id="IndiaTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0091.IndiaTV.in/1x1/1x/test_pic1541353350078.JPG" group-title="",India TV
-https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in.m3u8
 #EXTINF:-1 tvg-id="NewsX" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0380.NewsX.in/1x1/1x/test_pic1552315785886.jpg" group-title="News",NewsX
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 #EXTINF:-1 tvg-id="IndiaNewsUP" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1693.IndiaNewsUP.in/1x1/1x/test_pic1558073787702.jpg" group-title="News",India News UP
