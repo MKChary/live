@@ -906,9 +906,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8018.FitnessTV.in.m3u8
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
 #EXTINF:-1 tvg-id="Bollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8001.Bollywood.in/1x1/1x/test_pic1574770761731.jpg" group-title="Movies",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
-#EXTINF:-1 tvg-id="ShortFilmsTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8011.ShortFilmsTV.in/1x1/1x/test_pic1574771939190.jpg" group-title="",Short Films TV
-https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in.m3u8
-#EXTINF:-1 tvg-id="FootballTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8017.FootballTV.in/1x1/1x/test_pic1574772381747.jpg" group-title="",Football TV
+#EXTINF:-1 tvg-id="FootballTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8017.FootballTV.in/1x1/1x/test_pic1574772381747.jpg" group-title="Sports",Football TV
 https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in.m3u8
 #EXTINF:-1 tvg-id="GamingTVSpanish" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8007.GamingTVSP.in/1x1/1x/test_pic1574771254803.jpg" group-title="News",Gaming TV Spanish
 https://m-c09-j2apps.s.llnwi.net/hls/8007.GamingTVSP.in.m3u8
