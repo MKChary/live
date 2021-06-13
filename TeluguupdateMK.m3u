@@ -90,7 +90,7 @@ http://185.71.64.167:80/307200115204/307200115204/83972
 #EXTINF:-1,tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
 http://185.71.64.167:80/307200115204/307200115204/83973
 
-#EXTINF:-1,tvg-id="SONY BBC EARTH HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title="Infotainment",SONY BBC EARTH HD
+#EXTINF:-1,tvg-id="SONY BBC EARTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="Infotainment",SONY BBC EARTH HD
 http://185.71.64.167:80/307200115204/307200115204/83990
 
 #EXTINF:-1,tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
