@@ -696,8 +696,6 @@ https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b
 #EXTINF:-1 tvg-name="Zee Business" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeebusiness/list/09zeebusinesszeebusiness.jpg" group-title="News",Zee Business
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeebusiness
 
-#EXTINF:-1 tvg-id="Zoom" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0069.Zoom.in/1x1/1x/test_pic1550666525581.jpg" group-title="Music",Zoom
-https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
 #EXTINF:-1 tvg-id="9XJalwa" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0781.9XJalwa.in/1x1/1x/test_pic1545220867249.jpg" group-title="Music",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
 #EXTINF:-1 tvg-id="ABPNews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7014.ABPNews.in/1x1/1x/test_pic1580713373952.jpg" group-title="News",ABP News
