@@ -130,7 +130,7 @@ https://cutt.ly/LnABIGe
 http://185.71.64.167:80/307200115204/307200115204/83971
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66819
+https://cutt.ly/mnA1yfg
 
 #EXTINF:-1 tvg-id="TV5Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 Telugu
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
@@ -190,6 +190,9 @@ http://ky-iptv.com:25461/thebest1/thebest1/770346
 #EXTINF:-1,tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 http://185.71.64.167:80/307200115204/307200115204/83970
 
+#EXTINF:-1,tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
+https://cutt.ly/gnAMo4k
+
 #EXTINF:-1,tvg-id="A1 TV" tvg-logo="" group-title="News",A1 TV
 https://cutt.ly/CnAMwCR
 
@@ -206,6 +209,10 @@ https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 
 #EXTINF:-1,tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="Lifestyle",Bhakthi TV
 http://185.71.64.167:80/307200115204/307200115204/84002
+
+
+#EXTINF:-1,tvg-id="Omkaram Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="Lifestyle",Omkaram Bhakthi TV
+https://cutt.ly/dnA1hhT
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
