@@ -276,7 +276,7 @@ http://sundaylive.livebox.co.in/rk24by7hls/rk24by7tv.m3u8
 #EXTINF:-1 tvg-id="D2 News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjZNXGJUR1arWBVK1SEtAr0yCBxUpUq2u24ncsdTA=s88-c-k-c0x00ffffff-no-rj" group-title="News",D2 News
 http://sundaylive.livebox.co.in/D2Newshls/D2Newsd.m3u8
 
-#EXTINF:-1 tvg-id="Mirchi Love Radio Telugu" tvg-logo="https://radiosindia.com/images/mirchiloveradio.jpg" group-title="Radio",Mirchi Love Radio Telugu
+#EXTINF:-1 tvg-id="Mirchi Love Radio Telugu" tvg-logo="https://radiosindia.com/images/mirchiloveradio.jpg" tvg-cover="https://radiosindia.com/images/mirchiloveradio.jpg"group-title="Radio",Mirchi Love Radio Telugu
 https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/master.m3u8
 
 #EXTINF:-1 tvg-id="Telugu Hits Radio Telangana" tvg-logo="https://radiosindia.com/images/teluguhits.jpg" group-title="News",Telugu Hits Radio Telangana
