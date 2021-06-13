@@ -890,7 +890,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
 #EXTINF:-1 tvg-id="TV5mondeASIE" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7008.TV5MondeASIE.in/1x1/1x/test_pic1567778886223.jpg" group-title="News",TV5 monde ASIE
 https://m-c08-j2apps.s.llnwi.net/hls/7008.TV5MondeASIE.in.m3u8
-#EXTINF:-1 tvg-id="KaatyaniTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7009.KaatyaniTV.in/1x1/1x/test_pic1568193158605.jpg" group-title="Movied",Kaatyani TV
+#EXTINF:-1 tvg-id="KaatyaniTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7009.KaatyaniTV.in/1x1/1x/test_pic1568193158605.jpg" group-title="Movies",Kaatyani TV
 https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in.m3u8
 #EXTINF:-1 tvg-id="GamingTVEnglish" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8006.GamingTVEG.in/1x1/1x/test_pic1574771149731.jpg" group-title="Education",Gaming TV English
 https://m-c09-j2apps.s.llnwi.net/hls/8006.GamingTVEG.in.m3u8
@@ -954,7 +954,7 @@ https://mx-player.ott-channels.stingray.com/naturescape/master.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8
 #EXTINF:-1 tvg-id="Spydar" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8047.Spydar.in/1x1/1x/test_pic1588324101774.jpg" group-title="News",Spydar
 https://simultv.s.llnwi.net/o033/simspydar/ngrp:simspydar_simul/playlist.m3u8
-#EXTINF:-1 tvg-id="KidCentral" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8046.KidCentral.in/1x1/1x/test_pic1588324065935.jpg" group-title="News",Kid Central
+#EXTINF:-1 tvg-id="KidCentral" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8046.KidCentral.in/1x1/1x/test_pic1588324065935.jpg" group-title="Family/Kids",Kid Central
 https://m-c010-j2apps.s.llnwi.net/hls/8046.KidCentral.in.m3u8
 #EXTINF:-1 tvg-id="Switch" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8052.Switch.in/1x1/1x/test_pic1588324287290.jpg" group-title="News",Switch
 https://simultv.s.llnwi.net/o033/simswitch/ngrp:simswitch_simul/playlist.m3u8
