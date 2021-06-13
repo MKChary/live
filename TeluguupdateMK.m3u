@@ -105,16 +105,16 @@ http://185.71.64.167:80/307200115204/307200115204/83995
 #EXTINF:-1,tvg-id="DD SAPTAGIRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-saptagiri-in.png" group-title="Entertainment",DD SAPTAGIRI
 http://185.71.64.167:80/307200115204/307200115204/83974
 
-#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="MX Player 2",DD Yadagiri
+#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
 https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
 
-#EXTINF:-1 tvg-id="StudioOnePlus" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="MX Player 2",Studio One Plus
+#EXTINF:-1 tvg-id="StudioOnePlus" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",Studio One Plus
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 
-#EXTINF:-1 tvg-id="Tollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1901.Tollywood.in/1x1/1x/test_pic1535465075607.jpg" group-title="MX Player 2",Tollywood
+#EXTINF:-1 tvg-id="Tollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1901.Tollywood.in/1x1/1x/test_pic1535465075607.jpg" group-title="Movies",Tollywood
 https://m-c16-j2apps.s.llnwi.net/hls/1901.Tollywood.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="Express TV" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8018.ExpressTV.in/en/1x1/208x208/test_pic1603098016693.jpg" group-title="MX Player 2",Express TV
+#EXTINF:-1 tvg-id="Express TV" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8018.ExpressTV.in/en/1x1/208x208/test_pic1603098016693.jpg" group-title="News",Express TV
 https://m-c06-j2apps.s.llnwi.net/hls/8018.ExpressTV.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="Telugu Film Nagar" tvg-logo="" group-title="Movies",Telugu Film Nagar
@@ -223,10 +223,10 @@ https://m-c08-j2apps.s.llnwi.net/hls/0434.Subhavaartha.in.m3u8
 #EXTINF:-1 tvg-id="BCN" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
-#EXTINF:-1 tvg-id="YSR TV" tvg-logo="https://play-lh.googleusercontent.com/RJA4rO1SnKW2QQm2AF80PBni3UpO8qqm3XS7Mma3XLeyvDB9UV3-W8xF1CxWz8PDHFc=s180-rw" group-title="News",YSR TV
+#EXTINF:-1 tvg-id="YSR TV" tvg-logo="https://play-lh.googleusercontent.com/RJA4rO1SnKW2QQm2AF80PBni3UpO8qqm3XS7Mma3XLeyvDB9UV3-W8xF1CxWz8PDHFc=s180-rw" group-title="Movies",YSR TV
 https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
 
-#EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="News",Mana TV
+#EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="Movies",Mana TV
 http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="News",Mana TV
@@ -238,10 +238,10 @@ https://cutt.ly/WnA1mRW
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Shreyas TV" tvg-logo="https://play-lh.googleusercontent.com/MPWG4eX_b9nUE7hFEL54faL0QZrGCN_vb1f4rPMBEmgKyydSSinwUI3ku7Lb7cGrhlA=s180-rw" group-title="News",Shreyas TV
+#EXTINF:-1 tvg-id="Shreyas TV" tvg-logo="https://play-lh.googleusercontent.com/MPWG4eX_b9nUE7hFEL54faL0QZrGCN_vb1f4rPMBEmgKyydSSinwUI3ku7Lb7cGrhlA=s180-rw" group-title="Movies",Shreyas TV
 https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8
 
-#EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="News",Saranya TV
+#EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="Movied",Saranya TV
 http://blmtech.in:8086/hls/saranyatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Sathya News" tvg-logo="https://play-lh.googleusercontent.com/DTK6083Z8NlyQrtms-MR_5kx0kurxQzJAfGtQQXAnd4UD9cIs62jxzk7Qo54cz9JtA=s180-rw" group-title="News",Sathya News
@@ -250,10 +250,10 @@ http://blmtech.in:8086/hls/satyanews/index.m3u8
 #EXTINF:-1 tvg-id="Vihari TV" tvg-logo="https://play-lh.googleusercontent.com/dCNkN-iBRO8G8p7Q08eNSfUU7L69Wrl_VuUj-hAx5mWmDj7xumbB4RvBGamKpFuxDg=s180-rw" group-title="News",Vihari TV
 http://blmtech.in:8086/hls/viharitv/index.m3u8
 
-#EXTINF:-1 tvg-id="City News TV" tvg-logo="https://play-lh.googleusercontent.com/JX__NKk0RMa5P00ROEnftE1hxcA78rMFny0_hdf5YNrLIRx3lEq03tVMgZ7O5a5ffq8=s180-rw" group-title="News",City News TV
+#EXTINF:-1 tvg-id="City News TV" tvg-logo="https://play-lh.googleusercontent.com/JX__NKk0RMa5P00ROEnftE1hxcA78rMFny0_hdf5YNrLIRx3lEq03tVMgZ7O5a5ffq8=s180-rw" group-title="Movies",City News TV
 http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Public TV" tvg-logo="https://play-lh.googleusercontent.com/uRymo85379BlCjGB-aVeYRew_jS2hzxEl2qHMLPX2YPUXuxYHLOS0-12cRw7lGfHWZw=s180-rw" group-title="News",Public TV
+#EXTINF:-1 tvg-id="Public TV" tvg-logo="https://play-lh.googleusercontent.com/uRymo85379BlCjGB-aVeYRew_jS2hzxEl2qHMLPX2YPUXuxYHLOS0-12cRw7lGfHWZw=s180-rw" group-title="Music",Public TV
 http://msoout.freedocast.com/vgpt/publictv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STV Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj" group-title="News",STV Telugu
@@ -262,19 +262,19 @@ http://blmtech.in:8086/hls/stvtelugu/index.m3u8
 #EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="News",Cowa TV
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Act Cinema" tvg-logo="https://mydigital.actcorp.in/assets/img/logo_new.png" group-title="News",Act Cinema
+#EXTINF:-1 tvg-id="Act Cinema" tvg-logo="https://mydigital.actcorp.in/assets/img/logo_new.png" group-title="Movies",Act Cinema
 http://sundaylive.livebox.co.in/yuvahls/yuvat.m3u8
 
-#EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2b25uZXdzX3NjcmVlbl8wXzE2MDM1MjczNDFfMDQ4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="News",ABC Sun Live
+#EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2b25uZXdzX3NjcmVlbl8wXzE2MDM1MjczNDFfMDQ4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Movies",Kiran Live
 http://sundaylive.livebox.co.in/abcsunlivehls/sundaylive.m3u8
 
-#EXTINF:-1 tvg-id="Blessings TV" tvg-logo="https://images.jdmagicbox.com/comp/chennai/z8/044pxx44.xx44.121213103839.e6z8/catalogue/blessing-tv-thiruvanmiyur-chennai-satellite-channels-cwqcfnc4zu.jpg?clr=" group-title="News",Blessings TV
+#EXTINF:-1 tvg-id="Blessings TV" tvg-logo="https://images.jdmagicbox.com/comp/chennai/z8/044pxx44.xx44.121213103839.e6z8/catalogue/blessing-tv-thiruvanmiyur-chennai-satellite-channels-cwqcfnc4zu.jpg?clr=" group-title="Lifestyle",Blessings TV
 http://sundaylive.livebox.co.in/blessingtvhls/blessingtvtv.m3u8
 
-#EXTINF:-1 tvg-id="JL TV" tvg-logo="" group-title="News",JL TV
+#EXTINF:-1 tvg-id="JL TV" tvg-logo="" group-title="Movies",JL TV
 http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
 
-#EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="News",Reshya TV
+#EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="Movies",Reshya TV
 http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
 
 #EXTINF:-1 tvg-id="Rk 24 / 7" tvg-logo="https://img7.androidappsapk.co/ihq_voMIgMhxYsgtV6IOvNdAwXRmdJqW8mpAGVU6YEzP8lWmw3m1RwKwG2vbacjBEiHt=s500" group-title="News",Rk 24 / 7
@@ -286,9 +286,11 @@ http://sundaylive.livebox.co.in/D2Newshls/D2Newsd.m3u8
 #EXTINF:-1 tvg-id="Mirchi Love Radio Telugu" tvg-logo="https://radiosindia.com/images/mirchiloveradio.jpg" tvg-cover="https://radiosindia.com/images/mirchiloveradio.jpg"group-title="Radio",Mirchi Love Radio Telugu
 https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/master.m3u8
 
-#EXTINF:-1 tvg-id="Telugu Hits Radio Telangana" tvg-logo="https://radiosindia.com/images/teluguhits.jpg" group-title="News",Telugu Hits Radio Telangana
+#EXTINF:-1 tvg-id="Telugu Hits Radio Telangana" tvg-logo="https://radiosindia.com/images/teluguhits.jpg" group-title="Radio",Telugu Hits Radio Telangana
 https://mirchitapakahd-lh.akamaihd.net/i/mirchitapakahdlive_1_1@322572/master.m3u8
 
+#EXTINF:-1 tvg-id="Netflix Horror" tvg-logo="" group-title="Movies",Netflix Horror
+https://cutt.ly/unD82RJ
 
 #EXTINF:-1,tvg-id="UTV Movies HD" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/utv_movies.gif?resize=300%2C169" group-title="Movies",UTV Movies HD
 https://cutt.ly/8nmi6Xq
@@ -306,7 +308,7 @@ http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="Movies",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",AXN ASIA HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",AXN ASIA HD
 http://77.83.117.60:8888//02_AXNHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="http://ky-iptv.com:25461/images/c99050607416d43cb5ef19d4a364a199.png" group-title="Sports",Star Sports 1 HD
