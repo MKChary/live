@@ -648,9 +648,6 @@ https://itvorigin.multitvsolution.com/hls/inkhabar_720p/index.m3u8
 #EXTINF:-1 tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="News",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Rajya Sabha TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Rajya_Sabha_TV_logo.jpg" group-title="News",Rajya Sabha TV
-https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-
 #EXTINF:-1 tvg-name="Lok Sabha TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="News",Lok Sabha TV
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 
@@ -719,8 +716,6 @@ https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in.m3u8
 https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in.m3u8
 #EXTINF:-1 tvg-id="RSTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0285.RSTV.in/1x1/1x/test_pic1542009110013.jpg" group-title="News",RSTV
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in.m3u8
-#EXTINF:-1 tvg-id="LoksabhaTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0275.LoksabhaTV.in/1x1/1x/test_pic1535464207994.jpg" group-title="News",Loksabha TV
-https://m-c16-j2apps.s.llnwi.net/hls/0275.LoksabhaTV.in.m3u8
 #EXTINF:-1 tvg-id="IndiaNewsMP" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1900.IndiaNewsMP.in/1x1/1x/test_pic1552392572065.jpg" group-title="News",India News MP
 https://m-c18-j2apps.s.llnwi.net/hls/1900.IndiaNewsMP.in.m3u8
 #EXTINF:-1 tvg-id="NewsIndia24X7" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/3240.NewsIndia24X7.in/1x1/1x/test_pic1552392712851.jpg" group-title="News",News India 24X7
