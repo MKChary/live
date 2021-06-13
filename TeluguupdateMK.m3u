@@ -767,146 +767,144 @@ https://m-c03-j2apps.s.llnwi.net/hls/1843.KNews24X7.in.m3u8
 https://m-c02-j2apps.s.loris.llnwd.net/hls/5208.HindiKhabar.in.m3u8
 #EXTINF:-1 tvg-id="SkystarMovies" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5290.SkystarMovies.in/1x1/1x/test_pic1554722683695.jpg" group-title="Movies",Skystar Movies
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
-#EXTINF:-1 tvg-id="Filmy" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/1x/test_pic1535463753952.jpg" group-title="MX Player 2",Filmy
+#EXTINF:-1 tvg-id="Filmy" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/1x/test_pic1535463753952.jpg" group-title="Movies",Filmy
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
-#EXTINF:-1 tvg-id="MahaMovie" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2820.MahaMovie.in/1x1/1x/test_pic1535464244460.jpg" group-title="MX Player 2",Maha Movie
+#EXTINF:-1 tvg-id="MahaMovie" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2820.MahaMovie.in/1x1/1x/test_pic1535464244460.jpg" group-title="Movies",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 tvg-id="WOWCinemaOne" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2940.WOWCinemaOne.in/1x1/1x/test_pic1554127110901.JPG" group-title="MX Player 2",WOW Cinema One
+#EXTINF:-1 tvg-id="WOWCinemaOne" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2940.WOWCinemaOne.in/1x1/1x/test_pic1554127110901.JPG" group-title="Movies",WOW Cinema One
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-#EXTINF:-1 tvg-id="YTVIndiaHD" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6107.YTVIndiaHD.in/1x1/1x/test_pic1589273776740.jpg" group-title="MX Player 2",YTV India HD
+#EXTINF:-1 tvg-id="YTVIndiaHD" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6107.YTVIndiaHD.in/1x1/1x/test_pic1589273776740.jpg" group-title="Movies",YTV India HD
 https://m-c048-j2apps.s.llnwi.net/hls_hd/6107.YTVIndiaHD.in.m3u8
-#EXTINF:-1 tvg-id="IshwarTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1309.IshwarTV.in/1x1/1x/test_pic1554455564178.jpg" group-title="MX Player 2",Ishwar TV
+#EXTINF:-1 tvg-id="IshwarTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1309.IshwarTV.in/1x1/1x/test_pic1554455564178.jpg" group-title="LifeStyle",Ishwar TV
 https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
-#EXTINF:-1 tvg-id="HareKrsna" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5265.HareKrsna.in/1x1/1x/test_pic1535463846600.jpg" group-title="MX Player 2",Hare Krsna
+#EXTINF:-1 tvg-id="HareKrsna" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5265.HareKrsna.in/1x1/1x/test_pic1535463846600.jpg" group-title="LifeStyle",Hare Krsna
 https://m-c04-j2apps.s.llnwi.net/hls/5265.HareKrsna.in.m3u8
-#EXTINF:-1 tvg-id="Sanskar" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0116.Sanskar.in/1x1/1x/test_pic1535465007306.jpg" group-title="MX Player 2",Sanskar
+#EXTINF:-1 tvg-id="Sanskar" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0116.Sanskar.in/1x1/1x/test_pic1535465007306.jpg" group-title="LifeStyle",Sanskar
 https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
-#EXTINF:-1 tvg-id="BhaktiSagar" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5835.BhaktiSagar.in/1x1/1x/test_pic1535463059968.jpg" group-title="MX Player 2",Bhakti Sagar
+#EXTINF:-1 tvg-id="BhaktiSagar" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5835.BhaktiSagar.in/1x1/1x/test_pic1535463059968.jpg" group-title="LifeStyle",Bhakti Sagar
 https://m-c29-j2apps.s.llnwi.net/hls/5835.BhaktiSagar.in.m3u8
-#EXTINF:-1 tvg-id="ShubhsandeshTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1115.ShubhsandeshTV.in/1x1/1x/test_pic1543828409920.jpg" group-title="MX Player 2",Shubhsandesh TV
+#EXTINF:-1 tvg-id="ShubhsandeshTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1115.ShubhsandeshTV.in/1x1/1x/test_pic1543828409920.jpg" group-title="LifeStyle",Shubhsandesh TV
 https://m-c08-j2apps.s.llnwi.net/hls/1115.ShubhsandeshTV.in.m3u8
-#EXTINF:-1 tvg-id="Sadhna" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0133.Sadhna.in/1x1/1x/test_pic1543827526739.jpg" group-title="MX Player 2",Sadhna
+#EXTINF:-1 tvg-id="Sadhna" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0133.Sadhna.in/1x1/1x/test_pic1543827526739.jpg" group-title="LifeStyle,Sadhna
 https://m-c01-j2apps.s.llnwi.net/hls/0133.Sadhna.in.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0750.9XJhakaas.in/1x1/1x/test_pic1552384478964.jpg" group-title="Music",9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8
-#EXTINF:-1 tvg-id="PeaceofMind" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1114.PeaceofMind.in/1x1/1x/test_pic1544773319581.jpg" group-title="MX Player 2",Peace of Mind
+#EXTINF:-1 tvg-id="PeaceofMind" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1114.PeaceofMind.in/1x1/1x/test_pic1544773319581.jpg" group-title="LifeStyle",Peace of Mind
 https://m-c04-j2apps.s.llnwi.net/hls/1114.PeaceofMind.in.m3u8
-#EXTINF:-1 tvg-id="OmShantiChannel" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5481.OmShantiChannel.in/1x1/1x/test_pic1546415281786.jpg" group-title="MX Player 2",Om Shanti Channel
+#EXTINF:-1 tvg-id="OmShantiChannel" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5481.OmShantiChannel.in/1x1/1x/test_pic1546415281786.jpg" group-title="LifeStyle",Om Shanti Channel
 https://m-c04-j2apps.s.llnwi.net/hls/5481.OmShantiChannel.in.m3u8
-#EXTINF:-1 tvg-id="KrishnaVani" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6491.KrishnaVani.in/1x1/1x/test_pic1552999154509.jpg" group-title="MX Player 2",Krishna Vani
+#EXTINF:-1 tvg-id="KrishnaVani" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6491.KrishnaVani.in/1x1/1x/test_pic1552999154509.jpg" group-title="LifeStyle",Krishna Vani
 https://m-c03-j2apps.s.llnwi.net/hls/6491.KrishnaVani.in.m3u8
-#EXTINF:-1 tvg-id="GoodnewsTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5264.GoodnewsTV.in/1x1/1x/test_pic1543828187115.jpg" group-title="MX Player 2",Goodnews TV
+#EXTINF:-1 tvg-id="GoodnewsTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5264.GoodnewsTV.in/1x1/1x/test_pic1543828187115.jpg" group-title="LifeStyle",Goodnews TV
 https://m-c04-j2apps.s.llnwi.net/hls/5264.GoodnewsTV.in.m3u8
-#EXTINF:-1 tvg-id="Epic" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2639.Epic.in/1x1/1x/test_pic1552315665808.jpg" group-title="MX Player 2",Epic
+#EXTINF:-1 tvg-id="Epic" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2639.Epic.in/1x1/1x/test_pic1552315665808.jpg" group-title="LifeStyle",Epic
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
-#EXTINF:-1 tvg-id="DDBharati" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0178.DDBharati.in/1x1/1x/test_pic1535537628599.jpg" group-title="MX Player 2",DD Bharati
+#EXTINF:-1 tvg-id="DDBharati" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0178.DDBharati.in/1x1/1x/test_pic1535537628599.jpg" group-title="News",DD Bharati
 https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8
-#EXTINF:-1 tvg-id="Firangi" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0353.Firangi.in/1x1/1x/test_pic1535537649542.jpg" group-title="MX Player 2",Firangi
+#EXTINF:-1 tvg-id="Firangi" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0353.Firangi.in/1x1/1x/test_pic1535537649542.jpg" group-title="News",Firangi
 https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
-#EXTINF:-1 tvg-id="DDIndia" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0180.DDIndia.in/1x1/1x/test_pic1552392493086.jpg" group-title="MX Player 2",DD India
+#EXTINF:-1 tvg-id="DDIndia" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0180.DDIndia.in/1x1/1x/test_pic1552392493086.jpg" group-title="News",DD India
 https://m-c15-j2apps.s.llnwi.net/hls/0180.DDIndia.in.m3u8
-#EXTINF:-1 tvg-id="DDMadhyaPradesh" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1683.DDMadhyaPradesh.in/1x1/1x/test_pic1535463428992.jpg" group-title="MX Player 2",DD Madhya Pradesh
+#EXTINF:-1 tvg-id="DDMadhyaPradesh" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1683.DDMadhyaPradesh.in/1x1/1x/test_pic1535463428992.jpg" group-title="News",DD Madhya Pradesh
 https://m-c14-j2apps.s.llnwi.net/hls/1683.DDMadhyaPradesh.in.m3u8
-#EXTINF:-1 tvg-id="Awakening" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6515.Awakening.in/1x1/1x/test_pic1556179886291.jpg" group-title="MX Player 2",Awakening
+#EXTINF:-1 tvg-id="Awakening" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6515.Awakening.in/1x1/1x/test_pic1556179886291.jpg" group-title="LifeStyle",Awakening
 https://m-c09-j2apps.s.llnwi.net/hls/6515.Awakening.in.m3u8
-#EXTINF:-1 tvg-id="GODTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/9310.GODTV.in/1x1/1x/test_pic1555401186053.jpg" group-title="MX Player 2",GOD TV
+#EXTINF:-1 tvg-id="GODTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/9310.GODTV.in/1x1/1x/test_pic1555401186053.jpg" group-title="LifeStyle",GOD TV
 https://m-c04-j2apps.s.llnwi.net/hls/9310.GODTV.in.m3u8
-#EXTINF:-1 tvg-id="AakashAath" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0121.AakashAath.in/1x1/1x/test_pic1535537598184.jpg" group-title="MX Player 2",Aakash Aath
+#EXTINF:-1 tvg-id="AakashAath" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0121.AakashAath.in/1x1/1x/test_pic1535537598184.jpg" group-title="LifeStyle",Aakash Aath
 https://m-c29-j2apps.s.llnwi.net/hls/0121.AakashAath.in.m3u8
-#EXTINF:-1 tvg-id="KhushbooBangla" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1328.KhushbooBangla.in/1x1/1x/test_pic1554722612560.jpg" group-title="MX Player 2",Khushboo Bangla
+#EXTINF:-1 tvg-id="KhushbooBangla" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1328.KhushbooBangla.in/1x1/1x/test_pic1554722612560.jpg" group-title="LifeStyle",Khushboo Bangla
 https://m-c07-j2apps.s.llnwi.net/hls/1328.KhushbooBangla.in.m3u8
-#EXTINF:-1 tvg-id="SangeetBangla" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0138.SangeetBangla.in/1x1/1x/test_pic1552387328406.jpg" group-title="MX Player 2",Sangeet Bangla
+#EXTINF:-1 tvg-id="SangeetBangla" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0138.SangeetBangla.in/1x1/1x/test_pic1552387328406.jpg" group-title="Music",Sangeet Bangla
 https://m-c02-j2apps.s.loris.llnwd.net/hls/0138.SangeetBangla.in.m3u8
-#EXTINF:-1 tvg-id="KolkataLive" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5956.KolkataLive.in/1x1/1x/test_pic1535464177413.jpg" group-title="MX Player 2",Kolkata Live
-https://m-c14-j2apps.s.llnwi.net/hls/5956.KolkataLive.in.m3u8
-#EXTINF:-1 tvg-id="Dishum" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5332.Dishum.in/1x1/1x/test_pic1537963348466.jpg" group-title="MX Player 2",Dishum
+#EXTINF:-1 tvg-id="Dishum" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5332.Dishum.in/1x1/1x/test_pic1537963348466.jpg" group-title="LifeStyle",Dishum
 https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
-#EXTINF:-1 tvg-id="AnjanTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1359.AnjanTV.in/1x1/1x/test_pic1535463038783.jpg" group-title="MX Player 2",Anjan TV
+#EXTINF:-1 tvg-id="AnjanTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1359.AnjanTV.in/1x1/1x/test_pic1535463038783.jpg" group-title="LifeStyle",Anjan TV
 https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
-#EXTINF:-1 tvg-id="DabanggTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0950.DabanggTV.in/1x1/1x/test_pic1537963271535.jpg" group-title="MX Player 2",Dabangg TV
+#EXTINF:-1 tvg-id="DabanggTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0950.DabanggTV.in/1x1/1x/test_pic1537963271535.jpg" group-title="LifeStyle",Dabangg TV
 https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in.m3u8
-#EXTINF:-1 tvg-id="OscarMoviesBhojpuri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1785.OscarMoviesBhojpuri.in/1x1/1x/test_pic1535464489210.jpg" group-title="MX Player 2",Oscar Movies Bhojpuri
+#EXTINF:-1 tvg-id="OscarMoviesBhojpuri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1785.OscarMoviesBhojpuri.in/1x1/1x/test_pic1535464489210.jpg" group-title="Movies",Oscar Movies Bhojpuri
 https://m-c16-j2apps.s.llnwi.net/hls/1785.OscarMoviesBhojpuri.in.m3u8
-#EXTINF:-1 tvg-id="SangeetBhojpuri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0432.SangeetBhojpuri.in/1x1/1x/test_pic1552392940661.jpg" group-title="MX Player 2",Sangeet Bhojpuri
+#EXTINF:-1 tvg-id="SangeetBhojpuri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0432.SangeetBhojpuri.in/1x1/1x/test_pic1552392940661.jpg" group-title="Music",Sangeet Bhojpuri
 https://m-c01-j2apps.s.llnwi.net/hls/0432.SangeetBhojpuri.in.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsGujarat" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5730.IndiaNewsGujarat.in/1x1/1x/test_pic1552392553997.jpg" group-title="MX Player 2",India News Gujarat
+#EXTINF:-1 tvg-id="IndiaNewsGujarat" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5730.IndiaNewsGujarat.in/1x1/1x/test_pic1552392553997.jpg" group-title="News",India News Gujarat
 https://m-c17-j2apps.s.llnwi.net/hls/5730.IndiaNewsGujarat.in.m3u8
-#EXTINF:-1 tvg-id="MantavyaNews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5389.MantavyaNews.in/1x1/1x/test_pic1554722569246.jpg" group-title="MX Player 2",Mantavya News
+#EXTINF:-1 tvg-id="MantavyaNews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5389.MantavyaNews.in/1x1/1x/test_pic1554722569246.jpg" group-title="News",Mantavya News
 https://m-c01-j2apps.s.llnwi.net/hls/5389.MantavyaNews.in.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsHaryana" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1692.IndiaNewsHaryana.in/1x1/1x/test_pic1535463908195.jpg" group-title="MX Player 2",India News Haryana
+#EXTINF:-1 tvg-id="IndiaNewsHaryana" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1692.IndiaNewsHaryana.in/1x1/1x/test_pic1535463908195.jpg" group-title="News",India News Haryana
 https://m-c17-j2apps.s.llnwi.net/hls/1692.IndiaNewsHaryana.in.m3u8
-#EXTINF:-1 tvg-id="AndyHaryana" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6501.AndyHaryana.in/1x1/1x/test_pic1547646107067.jpg" group-title="MX Player 2",Andy Haryana
+#EXTINF:-1 tvg-id="AndyHaryana" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6501.AndyHaryana.in/1x1/1x/test_pic1547646107067.jpg" group-title="News",Andy Haryana
 https://m-c17-j2apps.s.llnwi.net/hls/6501.AndyHaryana.in.m3u8
-#EXTINF:-1 tvg-id="DDChandana" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0255.DDChandana.in/1x1/1x/test_pic1535463325575.jpg" group-title="MX Player 2",DD Chandana
+#EXTINF:-1 tvg-id="DDChandana" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0255.DDChandana.in/1x1/1x/test_pic1535463325575.jpg" group-title=News"",DD Chandana
 https://m-c15-j2apps.s.llnwi.net/hls/0255.DDChandana.in.m3u8
 #EXTINF:-1 tvg-id="NewsXKannada" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5921.NewsXKannada.in/1x1/1x/test_pic1552392725366.jpg" group-title="News",NewsX Kannada
 https://m-c15-j2apps.s.llnwi.net/hls/5921.NewsXKannada.in.m3u8
 #EXTINF:-1 tvg-id="TV5Kannada" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5412.TV5Kannada.in/1x1/1x/test_pic1542964257973.jpg" group-title="News",TV5 Kannada
 https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in.m3u8
-#EXTINF:-1 tvg-id="BTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/4969.BTV.in/1x1/1x/test_pic1536153017432.jpg" group-title="MX Player 2",BTV
+#EXTINF:-1 tvg-id="BTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/4969.BTV.in/1x1/1x/test_pic1536153017432.jpg" group-title="News",BTV
 https://m-c14-j2apps.s.llnwi.net/hls/4969.BTV.in.m3u8
-#EXTINF:-1 tvg-id="DDKashir" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0282.DDKashir.in/1x1/1x/test_pic1535463398399.jpg" group-title="MX Player 2",DD Kashir
+#EXTINF:-1 tvg-id="DDKashir" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0282.DDKashir.in/1x1/1x/test_pic1535463398399.jpg" group-title="News",DD Kashir
 https://m-c15-j2apps.s.llnwi.net/hls/0282.DDKashir.in.m3u8
-#EXTINF:-1 tvg-id="KaumudyTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1662.KaumudyTV.in/1x1/1x/test_pic1542008292502.jpg" group-title="MX Player 2",Kaumudy TV
+#EXTINF:-1 tvg-id="KaumudyTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1662.KaumudyTV.in/1x1/1x/test_pic1542008292502.jpg" group-title="News",Kaumudy TV
 https://m-c17-j2apps.s.llnwi.net/hls/1662.KaumudyTV.in.m3u8
-#EXTINF:-1 tvg-id="DDMalayalam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0261.DDMalayalam.in/1x1/1x/test_pic1535463448639.jpg" group-title="MX Player 2",DD Malayalam
+#EXTINF:-1 tvg-id="DDMalayalam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0261.DDMalayalam.in/1x1/1x/test_pic1535463448639.jpg" group-title="News",DD Malayalam
 https://m-c14-j2apps.s.llnwi.net/hls/0261.DDMalayalam.in.m3u8
-#EXTINF:-1 tvg-id="KappaTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1380.KappaTV.in/1x1/1x/test_pic1552384776784.jpg" group-title="MX Player 2",Kappa TV
+#EXTINF:-1 tvg-id="KappaTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1380.KappaTV.in/1x1/1x/test_pic1552384776784.jpg" group-title="News",Kappa TV
 https://m-c18-j2apps.s.llnwi.net/hls/1380.KappaTV.in.m3u8
-#EXTINF:-1 tvg-id="JeevanTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0264.JeevanTV.in/1x1/1x/test_pic1541434103370.jpg" group-title="MX Player 2",Jeevan TV
+#EXTINF:-1 tvg-id="JeevanTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0264.JeevanTV.in/1x1/1x/test_pic1541434103370.jpg" group-title="News",Jeevan TV
 https://m-c17-j2apps.s.llnwi.net/hls/0264.JeevanTV.in.m3u8
-#EXTINF:-1 tvg-id="Maiboli" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1759.Maiboli.in/1x1/1x/test_pic1552386808959.jpg" group-title="MX Player 2",Maiboli
+#EXTINF:-1 tvg-id="Maiboli" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1759.Maiboli.in/1x1/1x/test_pic1552386808959.jpg" group-title="News",Maiboli
 https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in.m3u8
 #EXTINF:-1 tvg-id="SangeetMarathi" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/3724.SangeetMarathi.in/1x1/1x/test_pic1552392961420.jpg" group-title="Music",Sangeet Marathi
 https://m-c02-j2apps.s.loris.llnwd.net/hls/3724.SangeetMarathi.in.m3u8
 
-#EXTINF:-1 tvg-id="SaamTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0428.SaamTV.in/1x1/1x/test_pic1555921889633.jpg" group-title="MX Player 2",Saam TV
+#EXTINF:-1 tvg-id="SaamTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0428.SaamTV.in/1x1/1x/test_pic1555921889633.jpg" group-title="News",Saam TV
 https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in.m3u8
-#EXTINF:-1 tvg-id="SriSankara" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0477.SriSankara.in/1x1/1x/test_pic1535977019131.jpg" group-title="MX Player 2",Sri Sankara
+#EXTINF:-1 tvg-id="SriSankara" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0477.SriSankara.in/1x1/1x/test_pic1535977019131.jpg" group-title="LifeStyle",Sri Sankara
 https://m-c16-j2apps.s.llnwi.net/hls/0477.SriSankara.in.m3u8
-#EXTINF:-1 tvg-id="DDNorthEast" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0284.DDNorthEast.in/1x1/1x/test_pic1535463497675.jpg" group-title="MX Player 2",DD North East
+#EXTINF:-1 tvg-id="DDNorthEast" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0284.DDNorthEast.in/1x1/1x/test_pic1535463497675.jpg" group-title="News",DD North East
 https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
-#EXTINF:-1 tvg-id="Pitaara" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5366.Pitaara.in/1x1/1x/test_pic1535976851878.JPG" group-title="MX Player 2",Pitaara
+#EXTINF:-1 tvg-id="Pitaara" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5366.Pitaara.in/1x1/1x/test_pic1535976851878.JPG" group-title="News",Pitaara
 https://m-c16-j2apps.s.llnwi.net/hls/5366.Pitaara.in.m3u8
-#EXTINF:-1 tvg-id="9XTashan" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0730.9XTashan.in/1x1/1x/test_pic1567670342521.jpg" group-title="MX Player 2",9X Tashan
+#EXTINF:-1 tvg-id="9XTashan" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0730.9XTashan.in/1x1/1x/test_pic1567670342521.jpg" group-title="Music",9X Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
-#EXTINF:-1 tvg-id="MH1" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0197.MH1.in/1x1/1x/test_pic1544189994326.jpg" group-title="MX Player 2",MH1
+#EXTINF:-1 tvg-id="MH1" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0197.MH1.in/1x1/1x/test_pic1544189994326.jpg" group-title="News",MH1
 https://m-c17-j2apps.s.llnwi.net/hls/0197.MH1.in.m3u8
-#EXTINF:-1 tvg-id="WahPunjabi" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6492.WahPunjabi.in/1x1/1x/test_pic1552999207034.jpg" group-title="MX Player 2",Wah Punjabi
+#EXTINF:-1 tvg-id="WahPunjabi" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6492.WahPunjabi.in/1x1/1x/test_pic1552999207034.jpg" group-title="Music",Wah Punjabi
 https://m-c03-j2apps.s.llnwi.net/hls/6492.WahPunjabi.in.m3u8
-#EXTINF:-1 tvg-id="PTunes" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6432.PTunes.in/1x1/1x/test_pic1557920967608.jpg" group-title="MX Player 2",P Tunes
+#EXTINF:-1 tvg-id="PTunes" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6432.PTunes.in/1x1/1x/test_pic1557920967608.jpg" group-title="Music",P Tunes
 https://m-c037-j2apps.s.llnwi.net/hls/6432.PTunes.in.m3u8
-#EXTINF:-1 tvg-id="ChardiklaTimeTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0305.ChardiklaTimeTV.in/1x1/1x/test_pic1535463179642.jpg" group-title="MX Player 2",Chardikla Time TV
+#EXTINF:-1 tvg-id="ChardiklaTimeTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0305.ChardiklaTimeTV.in/1x1/1x/test_pic1535463179642.jpg" group-title="News",Chardikla Time TV
 https://m-c29-j2apps.s.llnwi.net/hls/0305.ChardiklaTimeTV.in.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsRajasthan" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1712.IndiaNewsRajasthan.in/1x1/1x/test_pic1552384722318.jpg" group-title="MX Player 2",India News Rajasthan
+#EXTINF:-1 tvg-id="IndiaNewsRajasthan" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1712.IndiaNewsRajasthan.in/1x1/1x/test_pic1552384722318.jpg" group-title="News",India News Rajasthan
 https://m-c29-j2apps.s.llnwi.net/hls/1712.IndiaNewsRajasthan.in.m3u8
 #EXTINF:-1 tvg-id="Showbox" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7002.ShowBox.in/1x1/1x/test_pic1572530599181.jpg" group-title="Music",Showbox
 https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
-#EXTINF:-1 tvg-id="SamarpanTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7003.Samarpan.in/1x1/1x/test_pic1574080642597.jpg" group-title="MX Player 2",Samarpan TV
+#EXTINF:-1 tvg-id="SamarpanTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7003.Samarpan.in/1x1/1x/test_pic1574080642597.jpg" group-title="News",Samarpan TV
 https://m-c04-j2apps.s.llnwi.net/hls/7003.Samarpan.in.m3u8
 #EXTINF:-1 tvg-id="FoodFood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7005.FoodFoodChannel.in/1x1/1x/test_pic1566654831939.jpg" group-title="LifeStyle",Food Food
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
-#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7006.EuroNews.in/1x1/1x/test_pic1567778758221.jpg" group-title="MX Player 2",Euro news
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7006.EuroNews.in/1x1/1x/test_pic1567778758221.jpg" group-title="News",Euro news
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
-#EXTINF:-1 tvg-id="France24" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7007.France24.in/1x1/1x/test_pic1567778813838.jpg" group-title="MX Player 2",France 24
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7007.France24.in/1x1/1x/test_pic1567778813838.jpg" group-title="News",France 24
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
-#EXTINF:-1 tvg-id="TV5mondeASIE" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7008.TV5MondeASIE.in/1x1/1x/test_pic1567778886223.jpg" group-title="MX Player 2",TV5 monde ASIE
+#EXTINF:-1 tvg-id="TV5mondeASIE" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7008.TV5MondeASIE.in/1x1/1x/test_pic1567778886223.jpg" group-title="News",TV5 monde ASIE
 https://m-c08-j2apps.s.llnwi.net/hls/7008.TV5MondeASIE.in.m3u8
-#EXTINF:-1 tvg-id="KaatyaniTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7009.KaatyaniTV.in/1x1/1x/test_pic1568193158605.jpg" group-title="MX Player 2",Kaatyani TV
+#EXTINF:-1 tvg-id="KaatyaniTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7009.KaatyaniTV.in/1x1/1x/test_pic1568193158605.jpg" group-title="Movied",Kaatyani TV
 https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in.m3u8
 #EXTINF:-1 tvg-id="GamingTVEnglish" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8006.GamingTVEG.in/1x1/1x/test_pic1574771149731.jpg" group-title="Education",Gaming TV English
 https://m-c09-j2apps.s.llnwi.net/hls/8006.GamingTVEG.in.m3u8
-#EXTINF:-1 tvg-id="Mollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8004.Mollywood.in/1x1/1x/test_pic1574771014744.jpg" group-title="MX Player 2",Mollywood
+#EXTINF:-1 tvg-id="Mollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8004.Mollywood.in/1x1/1x/test_pic1574771014744.jpg" group-title="Movies",Mollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in.m3u8
-#EXTINF:-1 tvg-id="TopDJTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8013.TopDJTV.in/1x1/1x/test_pic1574772740007.jpg" group-title="MX Player 2",Top DJ TV
+#EXTINF:-1 tvg-id="TopDJTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8013.TopDJTV.in/1x1/1x/test_pic1574772740007.jpg" group-title="Music",Top DJ TV
 https://m-c09-j2apps.s.llnwi.net/hls/8013.TopDJTV.in.m3u8
-#EXTINF:-1 tvg-id="Lollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8003.Lollywood.in/1x1/1x/test_pic1574770942319.jpg" group-title="MX Player 2",Lollywood
+#EXTINF:-1 tvg-id="Lollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8003.Lollywood.in/1x1/1x/test_pic1574770942319.jpg" group-title="Movies",Lollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in.m3u8
-#EXTINF:-1 tvg-id="FitnessTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8018.FitnessTV.in/1x1/1x/test_pic1574772434791.jpg" group-title="MX Player 2",Fitness TV
+#EXTINF:-1 tvg-id="FitnessTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8018.FitnessTV.in/1x1/1x/test_pic1574772434791.jpg" group-title="LifeStyle",Fitness TV
 https://m-c09-j2apps.s.llnwi.net/hls/8018.FitnessTV.in.m3u8
-#EXTINF:-1 tvg-id="MoviesZone" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8012.MovieZone.in/1x1/1x/test_pic1574772096183.jpg" group-title="MX Player 2",Movies Zone
+#EXTINF:-1 tvg-id="MoviesZone" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8012.MovieZone.in/1x1/1x/test_pic1574772096183.jpg" group-title="Movies",Movies Zone
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
-#EXTINF:-1 tvg-id="Bollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8001.Bollywood.in/1x1/1x/test_pic1574770761731.jpg" group-title="MX Player 2",Bollywood
+#EXTINF:-1 tvg-id="Bollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8001.Bollywood.in/1x1/1x/test_pic1574770761731.jpg" group-title="Movies",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1 tvg-id="ShortFilmsTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8011.ShortFilmsTV.in/1x1/1x/test_pic1574771939190.jpg" group-title="",Short Films TV
 https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in.m3u8
