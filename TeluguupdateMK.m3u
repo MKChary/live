@@ -126,7 +126,7 @@ http://185.71.64.167:80/307200115204/307200115204/83971
 #EXTINF:-1 tvg-id="Sneha Tv" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="News",Sneha TV
 https://cutt.ly/mnA1yfg
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
+#EXTINF:-1 tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCU7kNjtuEfaOc9CUn0zmrqw
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
