@@ -198,10 +198,8 @@ https://cutt.ly/CnAMwCR
 #EXTINF:-1,tvg-id="Bharath Today" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwst9bl94nQT5pp_HyDzQmVyW81c6ypavzOgg-p1XmRdo7XJRYN1O9fSh&s=10" group-title="News",Bharath Today
 https://cutt.ly/hnAMIbV
 
-
 #EXTINF:-1,tvg-id="SONYB YAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="Family/Kids",SONY YAY
 http://185.71.64.167:80/307200115204/307200115204/83977
-
 
 #EXTINF:-1,tvg-id="CVR OM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="LifeStyle",CVR OM HD
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
@@ -209,15 +207,11 @@ https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 #EXTINF:-1,tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="LifeStyle",Bhakthi TV
 http://185.71.64.167:80/307200115204/307200115204/84002
 
-
 #EXTINF:-1,tvg-id="MY3 Music Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmlW4XxCKS7X6VMZ4pWFN1Um2UbbfKVBoyQKvBHO7tyqeAxbghziS7ntk&s=10" group-title="Music",MY3 Music Live
 https://cutt.ly/dnA1hhT
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="LifeStyle",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
-
-#EXTINF:-1 tvg-id="Subhavaartha" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0434.Subhavaartha.in/1x1/1x/test_pic1543827303308.jpg" group-title="LifeStyle",Subhavaartha
-https://m-c08-j2apps.s.llnwi.net/hls/0434.Subhavaartha.in.m3u8
 
 #EXTINF:-1 tvg-id="BCN" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
@@ -227,9 +221,6 @@ https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
 
 #EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="Movies",Mana TV
 http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="News",Mana TV
-https://cutt.ly/jnA1zU7
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="http://sundaylive.in/client/client_images/160445625520201103_151308.jpg" group-title="News",Studio Yuva
 https://cutt.ly/WnA1mRW
@@ -264,15 +255,11 @@ http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 #EXTINF:-1 tvg-id="Act Cinema" tvg-logo="https://mydigital.actcorp.in/assets/img/logo_new.png" group-title="Movies",Act Cinema
 http://sundaylive.livebox.co.in/yuvahls/yuvat.m3u8
 
-
 #EXTINF:-1  tvg-id="Rashi Telugu HD" tvg-logo=""group-title="Movies",Rashi Telugu HD
 http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2b25uZXdzX3NjcmVlbl8wXzE2MDM1MjczNDFfMDQ4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Movies",Kiran Live
 http://sundaylive.livebox.co.in/abcsunlivehls/sundaylive.m3u8
-
-#EXTINF:-1 tvg-id="Blessings TV" tvg-logo="https://images.jdmagicbox.com/comp/chennai/z8/044pxx44.xx44.121213103839.e6z8/catalogue/blessing-tv-thiruvanmiyur-chennai-satellite-channels-cwqcfnc4zu.jpg?clr=" group-title="LifeStyle",Blessings TV
-http://sundaylive.livebox.co.in/blessingtvhls/blessingtvtv.m3u8
 
 #EXTINF:-1 tvg-id="JL TV" tvg-logo="" group-title="Movies",JL TV
 http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
@@ -291,6 +278,60 @@ https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/master.m3
 
 #EXTINF:-1 tvg-id="Telugu Hits Radio Telangana" tvg-logo="https://radiosindia.com/images/teluguhits.jpg" group-title="Radio",Telugu Hits Radio Telangana
 https://mirchitapakahd-lh.akamaihd.net/i/mirchitapakahdlive_1_1@322572/master.m3u8
+
+#EXTINF:-1 tvg-id="Hungama Telugu" tvg-logo="https://radiosindia.com/images/hungama.jpg" group-title="Radio",Hungama Telugu
+https://node-25.zeno.fm/7uqw15yd3qzuv?rj-ttl=5&rj-tok=AAABd585tbcA_hV7JpDwGszk2g
+
+#EXTINF:-1 tvg-id="Telugu One" tvg-logo="https://radiosindia.com/images/teluguone.jpg" group-title="Radio",Telugu One
+https://node-19.zeno.fm/7kbt507d3qzuv?rj-ttl=5&rj-tok=AAABd586aPgA4Ro3Uz3yfmWYqg
+
+#EXTINF:-1 tvg-id="Telugu Fm" tvg-logo="https://radiosindia.com/images/telugufm.jpg" group-title="Radio",Telugu Fm
+https://node-01.zeno.fm/k6ec9dygey5tv?1521615895=&rj-tok=AAABd58-MVcAwp01j7dHzNwpwQ&rj-ttl=5
+
+#EXTINF:-1 tvg-id="Radio Guru 90.4" tvg-logo="https://radiosindia.com/images/radioguru.jpg" group-title="Radio",Radio Guru 90.4
+https://freeuk8.listen2myradio.com/live.mp3?typeportmount=s2_14499_stream_107756148
+
+#EXTINF:-1 tvg-id="Melody Radio Telugu" tvg-logo="https://radiosindia.com/images/melodyradio.jpg" group-title="Radio",Melody Radio Telugu
+https://n13.radiojar.com/z4qyckhr9druv?rj-ttl=5&rj-tok=AAABd58-3Y0A6rCaQWvuT1WWOw
+
+#EXTINF:-1 tvg-id="Nuke Telugu old hits" tvg-logo="https://radiosindia.com/images/nuketeluguoldhits.jpg" group-title="Radio",Nuke Telugu old hits
+https://n12.radiojar.com/z4qyckhr9druv?rj-ttl=5&rj-tok=AAABd58_HSEA_JkRzY6DwSTfqg
+
+#EXTINF:-1 tvg-id="Kokila Radio" tvg-logo="https://radiosindia.com/images/telugukokilaradio.jpg" group-title="Radio",Kokila Radio
+https://node-24.zeno.fm/suv4q1m26qzuv?rj-ttl=5&rj-tok=AAABd58_Xq8A_lAceqMSsoiI0w
+
+#EXTINF:-1 tvg-id="Telugu NRI Radio" tvg-logo="https://radiosindia.com/images/telugunriradio.jpg" group-title="Radio",Telugu NRI Radio
+https://node-29.zeno.fm/5negyx4w8qzuv?rj-ttl=5&rj-tok=AAABd58_wdoAB-hLaoc2Ty9L4w
+
+#EXTINF:-1 tvg-id="Mana radio" tvg-logo="https://radiosindia.com/images/manaradio.jpg" group-title="Radio",Mana radio
+https://node-35.zeno.fm/fnew6u7d3qzuv?rj-ttl=5&rj-tok=AAABd59AEu8A2XNSPVWQh7uB_A
+
+#EXTINF:-1 tvg-id="Mana Radio entertainment" tvg-logo="https://radiosindia.com/images/manaradio.jpg" group-title="Radio",Mana Radio entertainment
+https://node-04.zeno.fm/2t4wzt3zetzuv?rj-ttl=5&rj-tok=AAABd59AZNIAgrdh-XMkK0fDww
+
+#EXTINF:-1 tvg-id="Mana Radio Music" tvg-logo="https://radiosindia.com/images/manaradio.jpg" group-title="Radio",Mana Radio Music
+https://node-30.zeno.fm/vzcf94qqbrzuv?rj-ttl=5&rj-tok=AAABd59AsVEAFllfo6QPVR9ZOg
+
+#EXTINF:-1 tvg-id="Mana Radio devotional" tvg-logo="https://radiosindia.com/images/manaradio.jpg" group-title="Radio",Mana Radio devotional
+https://node-26.zeno.fm/z9w5pna26qzuv?rj-ttl=5&rj-tok=AAABd59A_hEA0anuuG-kRPsEug
+
+#EXTINF:-1 tvg-id="Radio Vani" tvg-logo="https://radiosindia.com/images/radiovani.jpg" group-title="Radio",Radio Vani
+https://s3.radio.co/s80849dda6/listen
+
+#EXTINF:-1 tvg-id="Gelupu Telugu" tvg-logo="https://radiosindia.com/images/gelupuradio.jpg" group-title="Radio",Gelupu Telugu
+https://node-29.zeno.fm/c97xa7936qzuv?rj-ttl=5&rj-tok=AAABd59C1ZcAHg7iPB7bxg_ZpA
+
+#EXTINF:-1 tvg-id="Radio city bhakti" tvg-logo="https://radiosindia.com/images/radiocitybhakti.jpg" group-title="Radio",Radio city bhakti
+https://prclive4.listenon.in/Bhakti
+
+#EXTINF:-1 tvg-id="Radio Sai FM" tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/sai-telugu.png" group-title="Radio",Radio Sai FM
+http://stream.radiosai.org:8020/asiastreamfortelugu
+
+#EXTINF:-1 tvg-id="Telugu One Tori FM UK GMT" tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/teluguone-tori.png" group-title="Radio",Telugu One Tori FM UK GMT
+https://node-12.zeno.fm/g3n7atcg09duv?rj-ttl=5&rj-tok=AAABd59Lp7AA7PjrEtdvlWbAug
+
+#EXTINF:-1 tvg-id="Swar Madhuri Telugu Radio" tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/swar-madhuri.png" group-title="Radio",Swar Madhuri Telugu Radio
+https://node-20.zeno.fm/zman3kqfzeruv.aac?rj-ttl=5&rj-tok=AAABd59NHzAA4ZQgH5GsWH0MTA
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sonypixhd.jpg" group-title="Movies" ,Sony Pix HD
 http://103.81.104.118/hls/stream1.m3u8
