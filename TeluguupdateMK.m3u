@@ -129,8 +129,14 @@ https://cutt.ly/LnABIGe
 #EXTINF:-1,tvg-id="KUSHI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",KUSHI TV
 http://185.71.64.167:80/307200115204/307200115204/83971
 
-#EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
+#EXTINF:-1 tvg-id="Sneha Tv" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="News",Sneha TV
 https://cutt.ly/mnA1yfg
+
+#EXTINF:-1  group-title="News",T News
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCU7kNjtuEfaOc9CUn0zmrqw
+
+#EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCumtYpCY26F6Jr3satUgMvA
 
 #EXTINF:-1 tvg-id="TV5Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 Telugu
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
@@ -184,8 +190,8 @@ https://cutt.ly/snAN7Dr
 #EXTINF:-1,tvg-id="Raj News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News HD
 http://185.71.64.167:80/307200115204/307200115204/83991
 
-//EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-name="Raj News Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" Raj News Telugu
-http://ky-iptv.com:25461/thebest1/thebest1/770346
+#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" Raj News Telugu
+http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC0Bj4Nb_UfHvW5Oe2f8aCFg
 
 #EXTINF:-1,tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 http://185.71.64.167:80/307200115204/307200115204/83970
