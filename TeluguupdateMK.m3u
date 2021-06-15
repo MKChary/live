@@ -111,12 +111,6 @@ https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",Studio One Plus
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 
-#EXTINF:-1 tvg-id="Tollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1901.Tollywood.in/1x1/1x/test_pic1535465075607.jpg" group-title="Movies",Tollywood
-https://m-c16-j2apps.s.llnwi.net/hls/1901.Tollywood.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-id="Express TV" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8018.ExpressTV.in/en/1x1/208x208/test_pic1603098016693.jpg" group-title="News",Express TV
-https://m-c06-j2apps.s.llnwi.net/hls/8018.ExpressTV.in_480p/index.m3u8
-
 #EXTINF:-1 tvg-id="Telugu Film Nagar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTTP3SQfSOX4z32zFuLofP23Khkuaqryrmw&usqp=CAU" group-title="Movies",Telugu Film Nagar
 https://cutt.ly/8nANmg1
 
@@ -132,7 +126,7 @@ http://185.71.64.167:80/307200115204/307200115204/83971
 #EXTINF:-1 tvg-id="Sneha Tv" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="News",Sneha TV
 https://cutt.ly/mnA1yfg
 
-#EXTINF:-1  group-title="News",T News
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCU7kNjtuEfaOc9CUn0zmrqw
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
