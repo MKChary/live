@@ -566,25 +566,10 @@ http://103.205.133.21/hls/ten3.m3u8
 #EXTINF:-144 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports",ICC_Sony Ten 3
 http://172.16.50.2:8081/live/ten3/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony Hd
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-
-#EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",Sony Sab
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-
-#EXTINF:-1 tvg-name="Sony pal" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Entertainment",Sony pal
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-
 #EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="Family/Kids",Sony Yay
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
-#EXTINF:-1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Movies",Sony Max Hd
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-
-#EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Movies",Sony Max 2
-https://bit.ly/30dsoNYmaX2
-
-#EXTINF:-1 tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Movies",BOO Horror Movies
+#EXTINF:-1 tvg-name="Boo horror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyX3xou2bGuzqDxwZePib6kSZZSmcYya8Cg&usqp=CAU" group-title="Movies",BOO Horror Movies
 https://cutt.ly/inEizyW
 
 #EXTINF:-1 tvg-name="Sony Ten 1 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 Hd
@@ -595,15 +580,6 @@ https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 
 #EXTINF:-1 tvg-name="Sony Ten 3 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="Sports",Sony Ten 3 Hd
 https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-
-#EXTINF:-1 tvg-name="Sony Ten 1 Sd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1_Masthead_Logo.png" group-title="Sports",Sony Ten 1 Sd
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-
-#EXTINF:-1 tvg-name="Sony Ten 2 Sd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png" group-title="Sports",Sony Ten 2 Sd
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-
-#EXTINF:-1 tvg-name="Sony Ten 3 Sd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3_Masthead_Logo.png" group-title="Sports",Sony Ten 3 Sd
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 
 #EXTINF:-1 tvg-name="Sony Six Sd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png" group-title="Sports",Sony Six Sd
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
