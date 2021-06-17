@@ -366,10 +366,10 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playl
 #EXTINF:-1 tvg-id="miniflex.in" tvg-name="miniflex" tvg-logo="https://www.pngfind.com/pngs/m/664-6648659_plex-logo-png-png-download-miniplex-channel-transparent.png" group-title="Movies",MINIFLEX
 https://cutt.ly/RnExQGm
 
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Zee Cinema Hd
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" group-title="Movies",Zee Cinema Hd
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="1" group-title="Movies",Movies Now Hd
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" group-title="Movies",Movies Now Hd
 https://cutt.ly/mnmobcG
 
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/SgriYijZDr.png" group-title="Movies",&Pictures Hd
