@@ -100,3 +100,17 @@ http://gcs2.xyz:2052/1020304050/1020304050/2455308
 http://gcs2.xyz:2052/1020304050/1020304050/2671661
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="IN: Zee Telugu HD" tvg-logo="https://static.epg.best/in/ZeeTelugu.in.png" group-title="INDIAN",IN: Zee Telugu HD
 http://gcs2.xyz:2052/1020304050/1020304050/2455284
+#EXTINF:-1 tvg-id="ETVAbhiruchi.in" tvg-name="IN: ETV Abhiruchi" tvg-logo="https://static.epg.best/in/ETVAbhiruchi.in.png" group-title="INDIAN",IN: ETV Abhiruchi
+http://gcs2.xyz:2052/1020304050/1020304050/2455175
+#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="IN: ETV Andhra Pradesh" tvg-logo="https://static.epg.best/in/ETVAndhrapradesh.in.png" group-title="INDIAN",IN: ETV Andhra Pradesh
+http://gcs2.xyz:2052/1020304050/1020304050/2455299
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="IN: ETV Cinema" tvg-logo="https://static.epg.best/in/ETVCinema.in.png" group-title="INDIAN",IN: ETV Cinema
+http://gcs2.xyz:2052/1020304050/1020304050/2455306
+#EXTINF:-1 tvg-id="ETV.in" tvg-name="IN: ETV HD" tvg-logo="https://static.epg.best/in/ETV.in.png" group-title="INDIAN",IN: ETV HD
+http://gcs2.xyz:2052/1020304050/1020304050/2455176
+#EXTINF:-1 tvg-id="ETVLife.in" tvg-name="IN: ETV Life" tvg-logo="https://static.epg.best/in/ETVLife.in.png" group-title="INDIAN",IN: ETV Life
+http://gcs2.xyz:2052/1020304050/1020304050/2455315
+#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="IN: ETV Plus" tvg-logo="https://static.epg.best/in/ETVPlus.in.png" group-title="INDIAN",IN: ETV Plus
+http://gcs2.xyz:2052/1020304050/1020304050/2455174
+#EXTINF:-1 tvg-id="ETVTelengana.in" tvg-name="IN: ETV Telengana" tvg-logo="https://static.epg.best/in/ETVTelengana.in.png" group-title="INDIAN",IN: ETV Telengana
+http://gcs2.xyz:2052/1020304050/1020304050/2455305
