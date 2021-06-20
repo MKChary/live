@@ -22,6 +22,7 @@ https://cutt.ly/mnziCJt
 
 #EXTINF:-1,tvg-id="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="Movies",Gemini Movies HD
 http://gcs2.xyz:2052/1020304050/1020304050/2455177
+
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://185.71.64.167:80/307200115204/307200115204/83996
 
@@ -43,26 +44,26 @@ http://gcs2.xyz:2052/1020304050/1020304050/2455284
 #EXTINF:-1 tvg-id="Zee Cinemalu" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" tvg-title="telugu zee cinemal" group-title="Movies",Zee Cinemalu
 https://y5w8j4a9.ssl.hwcdn.net/zcinemalusd//tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png" group-title="Movies",Zee Cinemalu HD
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 http://gcs2.xyz:2052/1020304050/1020304050/2455308
 
 #EXTINF:-1 tvg-id="Zee Cinemalu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" tvg-title="telugu zee cinemal" group-title="Movies",Zee Cinemalu HD
 http://185.71.64.167:80/307200115204/307200115204/83983
 
 #EXTINF:-1,tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-http://185.71.64.167:80/307200115204/307200115204/83999
+http://gcs2.xyz:2052/1020304050/1020304050/2455176
 
 #EXTINF:-1,tvg-id="ETV SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV SD
 https://cutt.ly/bnAB1XI
 
 #EXTINF:-1,tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://185.71.64.167:80/307200115204/307200115204/84000
+http://gcs2.xyz:2052/1020304050/1020304050/2455306
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="LifeStyle",ETV Life
-http://185.71.64.167:80/307200115204/307200115204/83979
+http://gcs2.xyz:2052/1020304050/1020304050/2455315
 
 #EXTINF:-1,tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="LifeStyle",ETV PLUS
-http://185.71.64.167:80/307200115204/307200115204/83984
+http://gcs2.xyz:2052/1020304050/1020304050/2455174
 
 #EXTINF:-1,tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://185.71.64.167:80/307200115204/307200115204/83989
@@ -165,6 +166,10 @@ http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 
 #EXTINF:-1 tvg-id="V6 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
 http://gcs2.xyz:2052/1020304050/1020304050/2455072
+
+
+#EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Telangana
+http://gcs2.xyz:2052/1020304050/1020304050/2455305
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
 https://cutt.ly/2nAN2N9
