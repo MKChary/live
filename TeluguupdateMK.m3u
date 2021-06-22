@@ -168,7 +168,7 @@ http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 http://gcs2.xyz:2052/1020304050/1020304050/2455072
 
 
-#EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Telangana
+#EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://static.epg.best/in/ETVTelengana.in.png" group-title="News",ETV Telangana
 http://gcs2.xyz:2052/1020304050/1020304050/2455305
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
