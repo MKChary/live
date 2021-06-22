@@ -140,7 +140,7 @@ https://cutt.ly/xnANTAi
 #EXTINF:-1 tvg-id="T-SAT NIPUNA" tvg-logo="https://softnet.telangana.gov.in/wp-content/uploads/2017/07/Nipuna-752x1024.png" group-title="Education",T-SAT NIPUNA
 https://cutt.ly/LnABIGe
 
-#EXTINF:-1,tvg-id="KUSHI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",KUSHI TV
+#EXTINF:-1 tvg-id="KUSHI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",KUSHI TV
 http://185.71.64.167:80/307200115204/307200115204/83971
 
 #EXTINF:-1 tvg-id="Sneha Tv" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="News",Sneha TV
@@ -165,10 +165,9 @@ https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m
 http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 
 #EXTINF:-1 tvg-id="V6 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/192185
+http://gcs2.xyz:2052/1020304050/1020304050/2455072
 
-
-#EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://static.epg.best/in/ETVTelengana.in.png" group-title="News",ETV Telangana
+#EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 http://gcs2.xyz:2052/1020304050/1020304050/2455305
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
@@ -182,9 +181,6 @@ http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66801
 
 #EXTINF:-1 tvg-id="ABN News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abn_in.png" group-title="News",ABN News
 http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66803
-
-#EXTINF:-1 tvg-id="AP24x7 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dishum-tv-in.png" group-title="News",AP24x7 News
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66804
 
 #EXTINF:-1 tvg-id="Mahaa News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Mahaa News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
