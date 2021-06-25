@@ -46,6 +46,13 @@ https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
 #EXTINF:-1 tvg-id="TV5 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 https://cutt.ly/vnzoQ9y
 
+#EXTINF:-1 tvg-id="99TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/99tv-in.png" group-title="News",99TV HD
+http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66801
+
+#EXTINF:-1 tvg-id="ABN News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/abn_in.png" group-title="News",ABN News
+http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/66803
+
+
 
 
 EXTINF:-1  group-title="తెలుగు",ETV HD
