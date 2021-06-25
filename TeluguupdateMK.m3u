@@ -6,16 +6,10 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 https://cutt.ly/bnzoGAG
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://185.71.64.167:80/307200115204/307200115204/83998
-
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10248
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini.png" group-title="Entertainment",Gemini TV
 https://cutt.ly/cnziMkr
-
-#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="Movies",Gemini Movies HD
-http://185.71.64.167:80/307200115204/307200115204/83997
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10182
@@ -24,13 +18,8 @@ http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10182
 http://gcs2.xyz:2052/1020304050/1020304050/2455177
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://185.71.64.167:80/307200115204/307200115204/83996
-
-#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10247
 
-#EXTINF:-1 tvg-id="GEMINI LIFE HD (UK)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Movies",Gemini Life
-http://185.71.64.167:80/307200115204/307200115204/83980
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Movies",Zee Telugu 
 http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/21561
@@ -46,9 +35,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemalusd//tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 http://gcs2.xyz:2052/1020304050/1020304050/2455308
-
-#EXTINF:-1 tvg-id="Zee Cinemalu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" tvg-title="telugu zee cinemal" group-title="Movies",Zee Cinemalu HD
-http://185.71.64.167:80/307200115204/307200115204/83983
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 http://gcs2.xyz:2052/1020304050/1020304050/2455176
@@ -66,25 +52,16 @@ http://gcs2.xyz:2052/1020304050/1020304050/2455315
 http://gcs2.xyz:2052/1020304050/1020304050/2455174
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://185.71.64.167:80/307200115204/307200115204/83989
-
-#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://gcs2.xyz:2052/1020304050/1020304050/2455303
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://cutt.ly/dnn1VLH
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://185.71.64.167:80/307200115204/307200115204/83988
-
-#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://gcs2.xyz:2052/1020304050/1020304050/2455257
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 https://cutt.ly/Enn15dM
-
-#EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://185.71.64.167:80/307200115204/307200115204/83994
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://gcs2.xyz:2052/1020304050/1020304050/2455302
@@ -122,9 +99,6 @@ http://185.71.64.167:80/307200115204/307200115204/84001
 #EXTINF:-1 tvg-id="HISTORY 18 TELUGU HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_tv18.png" group-title="Infotainment",HISTORY 18 TELUGU HD
 http://185.71.64.167:80/307200115204/307200115204/83995
 
-#EXTINF:-1 tvg-id="DD SAPTAGIRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-saptagiri-in.png" group-title="Entertainment",DD SAPTAGIRI
-http://185.71.64.167:80/307200115204/307200115204/83974
-
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
 https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
 
@@ -140,9 +114,6 @@ https://cutt.ly/xnANTAi
 #EXTINF:-1 tvg-id="T-SAT NIPUNA" tvg-logo="https://softnet.telangana.gov.in/wp-content/uploads/2017/07/Nipuna-752x1024.png" group-title="Education",T-SAT NIPUNA
 https://cutt.ly/LnABIGe
 
-#EXTINF:-1 tvg-id="KUSHI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",KUSHI TV
-http://185.71.64.167:80/307200115204/307200115204/83971
-
 #EXTINF:-1 tvg-id="Sneha Tv" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="News",Sneha TV
 https://cutt.ly/mnA1yfg
 
@@ -152,17 +123,11 @@ http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCU7kNjtuEfaOc9CUn0zmrqw
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCumtYpCY26F6Jr3satUgMvA
 
-#EXTINF:-1 tvg-id="TV5Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 Telugu
-https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
-
 #EXTINF:-1 tvg-id="TV5 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 https://cutt.ly/vnzoQ9y
 
 #EXTINF:-1 tvg-id="TV9 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 News HD
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TV9 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 News
-http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 
 #EXTINF:-1 tvg-id="V6 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
 http://gcs2.xyz:2052/1020304050/1020304050/2455072
@@ -200,14 +165,8 @@ https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 #EXTINF:-1 tvg-id="Prime9 News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" group-title="News",Prime9 News HD
 https://cutt.ly/snAN7Dr
 
-#EXTINF:-1 tvg-id="Raj News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News HD
-http://185.71.64.167:80/307200115204/307200115204/83991
-
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News Telugu
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC0Bj4Nb_UfHvW5Oe2f8aCFg
-
-#EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
-http://185.71.64.167:80/307200115204/307200115204/83970
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 https://cutt.ly/gnAMo4k
@@ -217,9 +176,6 @@ https://cutt.ly/CnAMwCR
 
 #EXTINF:-1 tvg-id="Bharath Today" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwst9bl94nQT5pp_HyDzQmVyW81c6ypavzOgg-p1XmRdo7XJRYN1O9fSh&s=10" group-title="News",Bharath Today
 https://cutt.ly/hnAMIbV
-
-#EXTINF:-1 tvg-id="SONYB YAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="Family/Kids",SONY YAY
-http://185.71.64.167:80/307200115204/307200115204/83977
 
 #EXTINF:-1 tvg-id="CVR OM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="LifeStyle",CVR OM HD
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
@@ -286,9 +242,6 @@ http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
 
 #EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="Movies",Reshya TV
 http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
-
-#EXTINF:-1 tvg-id="Rk 24 / 7" tvg-logo="https://img7.androidappsapk.co/ihq_voMIgMhxYsgtV6IOvNdAwXRmdJqW8mpAGVU6YEzP8lWmw3m1RwKwG2vbacjBEiHt=s500" group-title="News",Rk 24 / 7
-http://sundaylive.livebox.co.in/rk24by7hls/rk24by7tv.m3u8
 
 #EXTINF:-1 tvg-id="D2 News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjZNXGJUR1arWBVK1SEtAr0yCBxUpUq2u24ncsdTA=s88-c-k-c0x00ffffff-no-rj" group-title="News",D2 News
 http://sundaylive.livebox.co.in/D2Newshls/D2Newsd.m3u8
