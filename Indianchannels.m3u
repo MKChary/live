@@ -1,4 +1,52 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
+http://185.71.64.167:80/307200115204/307200115204/83998
+
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="Movies",Gemini Movies HD
+http://185.71.64.167:80/307200115204/307200115204/83997
+
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
+http://185.71.64.167:80/307200115204/307200115204/83996
+
+#EXTINF:-1 tvg-id="GEMINI LIFE HD (UK)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_life.png" group-title="Movies",Gemini Life
+http://185.71.64.167:80/307200115204/307200115204/83980
+
+#EXTINF:-1 tvg-id="Zee Cinemalu" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" tvg-title="telugu zee cinemal" group-title="Movies",Zee Cinemalu HD
+http://185.71.64.167:80/307200115204/307200115204/83983
+
+#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
+http://185.71.64.167:80/307200115204/307200115204/83989
+
+#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
+http://185.71.64.167:80/307200115204/307200115204/83988
+#EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
+http://185.71.64.167:80/307200115204/307200115204/83994
+
+#EXTINF:-1 tvg-id="DD SAPTAGIRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dd-saptagiri-in.png" group-title="Entertainment",DD SAPTAGIRI
+http://185.71.64.167:80/307200115204/307200115204/83974
+#EXTINF:-1 tvg-id="KUSHI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",KUSHI TV
+http://185.71.64.167:80/307200115204/307200115204/83971
+
+#EXTINF:-1 tvg-id="Raj News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News HD
+http://185.71.64.167:80/307200115204/307200115204/83991
+
+#EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
+http://185.71.64.167:80/307200115204/307200115204/83970
+
+#EXTINF:-1 tvg-id="SONYB YAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="Family/Kids",SONY YAY
+http://185.71.64.167:80/307200115204/307200115204/83977
+
+#EXTINF:-1 tvg-id="TV9 NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 News
+http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 Telugu
+https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
+
+
+
+
+
 EXTINF:-1  group-title="తెలుగు",ETV HD
 http://212.224.98.196:2200/R-EX/TELUGU_ETV_HD-in/index.m3u8?token=
 #EXTINF:-1  group-title="తెలుగు",Star Maa HD
