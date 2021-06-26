@@ -156,7 +156,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 https://cutt.ly/snAN7Dr
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News Telugu
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC0Bj4Nb_UfHvW5Oe2f8aCFg
+https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 https://cutt.ly/gnAMo4k
@@ -230,7 +230,7 @@ http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2b25uZXdzX3NjcmVlbl8wXzE2MDM1MjczNDFfMDQ4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Movies",Kiran Live
 http://sundaylive.livebox.co.in/abcsunlivehls/sundaylive.m3u8
 
-#EXTINF:-1 tvg-id="JL TV" tvg-logo="" group-title="Movies",JL TV
+#EXTINF:-1 tvg-id="JL TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/JLtv.jpg" group-title="Movies",JL TV
 http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
 
 #EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="Movies",Reshya TV
