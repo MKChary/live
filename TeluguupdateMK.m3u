@@ -224,6 +224,9 @@ http://sundaylive.livebox.co.in/yuvahls/yuvat.m3u8
 #EXTINF:-1  tvg-id="Rashi Telugu HD" tvg-logo=""group-title="Movies",Rashi Telugu HD
 http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
 
+#EXTINF:-1  tvg-id="Rashi HOLLYWOOD HD" tvg-logo=""group-title="Movies",Rashi Hollywood HD
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2b25uZXdzX3NjcmVlbl8wXzE2MDM1MjczNDFfMDQ4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Movies",Kiran Live
 http://sundaylive.livebox.co.in/abcsunlivehls/sundaylive.m3u8
 
