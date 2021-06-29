@@ -5,4 +5,4 @@ Watching Movies https://bit.ly/InMovies
 
 
 Contribute:
-https://raw.githubusercontent.com/MKChary/Iptv-list/master/PhonepeQRCode.png
+https://raw.githubusercontent.com/MKChary/Iptv-list/master/PhonepeQR.png
