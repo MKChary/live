@@ -23,35 +23,35 @@ https://cutt.ly/YnHUann
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154074
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Movies",Zee Telugu 
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/21561
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="" group-title="Entertainment",Gemini Life
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154075
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Movies",Zee Telugu
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10155
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu 
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154110
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 https://cutt.ly/lnHUjuJ
 
-#EXTINF:-1 tvg-id="Zee Cinemalu" tvg-logo="https://picon-13398.kxcdn.com/zeecinemain.jpg" tvg-title="telugu zee cinemal" group-title="Movies",Zee Cinemalu
-https://y5w8j4a9.ssl.hwcdn.net/zcinemalusd//tracks-v1a1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
-https://cutt.ly/KnHY8sL
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154109
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 https://cutt.ly/CnHUfY6
 
 #EXTINF:-1 tvg-id="ETV SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV SD
-https://cutt.ly/bnAB1XI
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154073
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://185.71.64.167:80/307200115204/307200115204/84000
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154067
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="LifeStyle",ETV Life
-http://gcs2.xyz:2052/1020304050/1020304050/2455315
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154069
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="LifeStyle",ETV PLUS
-http://gcs2.xyz:2052/1020304050/1020304050/2455174
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154071
+
+#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="" group-title="LifeStyle",ETV ABHIRUCHI
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154064
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://cutt.ly/2nHUYsD
@@ -87,7 +87,7 @@ http://185.71.64.167:80/307200115204/307200115204/83987
 https://cutt.ly/SnHUxNz
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
-http://185.71.64.167:80/307200115204/307200115204/83973
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154104
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="Infotainment",SONY BBC EARTH HD
 http://185.71.64.167:80/307200115204/307200115204/83990
@@ -119,8 +119,14 @@ https://cutt.ly/xnANTAi
 #EXTINF:-1 tvg-id="Sneha Tv" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="News",Sneha TV
 https://cutt.ly/mnA1yfg
 
+#EXTINF:-1 tvg-id="Sneha Tv" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="Kids",Kushi TV
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154084
+
+#EXTINF:-1 tvg-id="WOW KIDZ TELUGU" tvg-logo="" group-title="Kids",WOW KIDZ TELUGU
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154106
+
 #EXTINF:-1 tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
-http://ztvuk.com:8080/younis/younis123/32016
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154098
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCumtYpCY26F6Jr3satUgMvA
@@ -132,7 +138,7 @@ https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="V6 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-http://ztvuk.com:8080/younis/younis123/32031
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154103
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 http://gcs2.xyz:2052/1020304050/1020304050/2455305
@@ -162,7 +168,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 https://cutt.ly/snAN7Dr
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News Telugu
-http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UC0Bj4Nb_UfHvW5Oe2f8aCFg
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154092
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 https://cutt.ly/gnAMo4k
@@ -178,6 +184,9 @@ https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 
 #EXTINF:-1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="LifeStyle",Bhakthi TV
 http://185.71.64.167:80/307200115204/307200115204/84002
+
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA TV" tvg-logo="http://dmtn.tv:8080/images/1e6717a86e00d8db52b85e41894719c2.png" group-title="LifeStyle",AASTHA TV
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154051
 
 #EXTINF:-1 tvg-id="MY3 Music Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmlW4XxCKS7X6VMZ4pWFN1Um2UbbfKVBoyQKvBHO7tyqeAxbghziS7ntk&s=10" group-title="Music",MY3 Music Live
 https://cutt.ly/dnA1hhT
