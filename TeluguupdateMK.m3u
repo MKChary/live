@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TBOClassic.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",My videos
+#EXTINF:-1 tvg-id="TBOClassic.in" tvg-logo="" group-title="Music",Gayathri Mathram
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/VID-20210625-WA0000.mp4
-
-#EXTINF:-1 tvg-id="TBOClassic.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",sample
-https://drive.google.com/file/d/1_2c4zmiWR3vX0Jt0xypbcWj3VdwS7qaX/view?usp=drivesdk
 
 #EXTINF:-1 tvg-id="TBOClassic.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",TBO clasic
 https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
@@ -11,20 +8,20 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 #EXTINF:-1 tvg-id="AsiaTv HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TV Asia Telugu HD
 https://cutt.ly/bnzoGAG
 
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10248
+#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD1
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154081
 
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini.png" group-title="Entertainment",Gemini TV
+#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini.png" group-title="Entertainment",Gemini TV HD2
 https://cutt.ly/MnHUOul
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10182
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154077
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="Movies",Gemini Movies HD
 https://cutt.ly/YnHUann
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://85.203.33.88:80/2OvejPbTW4606/xopfto268/10247
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154074
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://picon-13398.kxcdn.com/zeeteluguin.jpg" group-title="Movies",Zee Telugu 
 http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/21561
@@ -77,8 +74,11 @@ https://cutt.ly/LnANl4g
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 https://cutt.ly/Jmh3S1S
 
+#EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154079
+
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music
-http://185.71.64.167:80/307200115204/307200115204/83981
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154078
 
 #EXTINF:-1 tvg-id="TATA SKY TELUGU CINEMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tata-sky-classic-cinema-in.png" group-title="Movies",TATA SKY TELUGU CINEMA HD
 http://185.71.64.167:80/307200115204/307200115204/83987
