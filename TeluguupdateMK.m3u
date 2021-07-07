@@ -122,9 +122,6 @@ https://cutt.ly/mnA1yfg
 #EXTINF:-1 tvg-id="kushi Tv" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154084
 
-#EXTINF:-1 tvg-id="WOW KIDZ TELUGU" tvg-logo="" group-title="Kids",WOW KIDZ TELUGU
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154106
-
 #EXTINF:-1 tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154098
 
