@@ -23,7 +23,7 @@ https://cutt.ly/YnHUann
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154074
 
-#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="" group-title="Entertainment",Gemini Life
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154075
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu 
@@ -50,7 +50,7 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154069
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="LifeStyle",ETV PLUS
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154071
 
-#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="" group-title="LifeStyle",ETV ABHIRUCHI
+#EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="LifeStyle",ETV ABHIRUCHI
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154064
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
@@ -119,7 +119,7 @@ https://cutt.ly/xnANTAi
 #EXTINF:-1 tvg-id="Sneha Tv" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="News",Sneha TV
 https://cutt.ly/mnA1yfg
 
-#EXTINF:-1 tvg-id="Sneha Tv" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="Kids",Kushi TV
+#EXTINF:-1 tvg-id="kushi Tv" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154084
 
 #EXTINF:-1 tvg-id="WOW KIDZ TELUGU" tvg-logo="" group-title="Kids",WOW KIDZ TELUGU
@@ -242,7 +242,7 @@ http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
 #EXTINF:-1  tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-125332_Chrome.jpg"group-title="Movies",Rasi Hollywood HD
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2b25uZXdzX3NjcmVlbl8wXzE2MDM1MjczNDFfMDQ4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Movies",Kiran Live
+#EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png" group-title="Movies",Kiran Live
 http://sundaylive.livebox.co.in/abcsunlivehls/sundaylive.m3u8
 
 #EXTINF:-1 tvg-id="JL TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/JLtv.jpg" group-title="Movies",JL TV
