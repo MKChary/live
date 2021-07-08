@@ -303,19 +303,25 @@ https://node-12.zeno.fm/g3n7atcg09duv?rj-ttl=5&rj-tok=AAABd59Lp7AA7PjrEtdvlWbAug
 https://node-20.zeno.fm/zman3kqfzeruv.aac?rj-ttl=5&rj-tok=AAABd59NHzAA4ZQgH5GsWH0MTA
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sonypixhd.jpg" group-title="Movies" ,Sony Pix HD
-https://bit.ly/32sOnypIXhd
+https://jio.instream.ml/jio.php?c=Sony_Pix_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="Movies" ,Axn HD
 http://103.81.104.118/hls/stream2.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starmovies.jpg" group-title="Movies" ,Star Movies HD
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starmovies.jpg" group-title="Movies" ,Star Movies HD1
 http://103.81.104.118/hls/stream3.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starmovies.jpg" group-title="Movies" ,Star Movies HD2
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="UTV Movies HD" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/utv_movies.gif?resize=300%2C169" group-title="Movies",UTV Movies HD
 https://cutt.ly/8nmi6Xq
 
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Movies",HBO Hits HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO HD1
+https://jio.instream.ml/jio.php?c=HBO_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -540,21 +546,64 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/1370
 http://stariptv.xyz:8880/661562/505844/179353
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2
 http://45.127.244.7:8080/hls/channel9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX
-http://103.205.133.21/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX
-http://45.127.244.7:8080/hls/channel6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports",ICC_Sony Ten 1
-http://103.205.133.21/hls/ten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports",ICC_Sony Ten 1
-#EXTINF:-142 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony ten-2
-http://45.127.244.7:8080/hls/channel5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",ICC_Sony Ten 2
-http://103.205.133.21/hls/ten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports",ICC_Sony Ten 3
-http://103.205.133.21/hls/ten3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports",ICC_Sony Ten 3
-http://172.16.50.2:8081/live/ten3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Ten 1 HD
+https://jio.instream.ml/jio.php?c=Ten_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Ten 1 HD
+https://jio.instream.ml/jio.php?c=Ten_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",Ten 1
+https://jio.instream.ml/jio.php?c=Ten_1&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",Ten 2 HD
+https://jio.instream.ml/jio.php?c=Ten2_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports",Ten 2
+https://jio.instream.ml/jio.php?c=Ten_2&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",Ten 3 HD
+https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports",Ten 3
+https://jio.instream.ml/jio.php?c=Ten_3&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD
+https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports",Sony Six SD
+https://jio.instream.ml/jio.php?c=Sony_Six_SD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports",Eurosport
+https://jio.instream.ml/jio.php?c=Dsports&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports",Eurosport HD
+https://jio.instream.ml/jio.php?c=Dsports_HD&q=800&e=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Avi JioTV",Ten 2 HD
+https://jio.instream.ml/jio.php?c=Ten2_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Avi JioTV",Ten 2
+https://jio.instream.ml/jio.php?c=Ten_2&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Avi JioTV",Ten 3 HD
+https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Avi JioTV",Ten 3
+https://jio.instream.ml/jio.php?c=Ten_3&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Avi JioTV",Sony Six HD
+https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Avi JioTV",Sony Six SD
+https://jio.instream.ml/jio.php?c=Sony_Six_SD&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Avi JioTV",Eurosport
+https://jio.instream.ml/jio.php?c=Dsports&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Avi JioTV",Eurosport HD
+https://jio.instream.ml/jio.php?c=Dsports_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="Family/Kids",Sony Yay
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
