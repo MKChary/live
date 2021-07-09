@@ -1,5 +1,53 @@
 #EXTM3U
 
+#EXTINF:-1,TELU: ETV HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58173 
+#EXTINF:-1,TELU: GEMINI COMEDY HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58171 
+#EXTINF:-1,TELU: GEMINI MOVIE HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58170 
+#EXTINF:-1,TELU: GEMINI TV HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58166 
+#EXTINF:-1,TELU: MAA GOLD HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58169 
+#EXTINF:-1,TELU: SAKSHI TV HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58165 
+#EXTINF:-1,TELU: STAR MAA HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58168 
+#EXTINF:-1,TELU: STUDIO ONE HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58193 
+#EXTINF:-1,TELU: TV 5 HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58163 
+#EXTINF:-1,TELU: TV 9 HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58162 
+#EXTINF:-1,TELU: VISSA TV HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58160 
+#EXTINF:-1,TELU: ZEE TEL HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58161 
+#EXTINF:-1,TELU: ZEE TELUGU HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58167 
+#EXTINF:-1,KAN: COLORS KANNADA HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58159 
+#EXTINF:-1,KAN: JANASARI NEWS HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58147 
+#EXTINF:-1,KAN: PUBLIC TV HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58150 
+#EXTINF:-1,KAN: RAJ MUSIC HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58158 
+#EXTINF:-1,KAN: SARRAL JEVAN HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58148 
+#EXTINF:-1,KAN: STAR SUVARNA HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58149 
+#EXTINF:-1,KAN: SUVARNA NEWS HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58157 
+#EXTINF:-1,KAN: TV9 KARNATAKA HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58156 
+#EXTINF:-1,KAN: UDAYA TV HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58155 
+#EXTINF:-1,KAN: ZEE KANNADA HD* 
+http://officialtv.hopto.me:8000/3332017/3332017/58154
+
+
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://185.71.64.167:80/307200115204/307200115204/83998
 
