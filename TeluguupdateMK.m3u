@@ -45,10 +45,10 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154073
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154067
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="LifeStyle",ETV Life
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154069
+https://jio.instream.ml/jio.php?c=ETV_Life&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="LifeStyle",ETV PLUS
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154071
+https://jio.instream.ml/jio.php?c=ETV_Plus&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="LifeStyle",ETV ABHIRUCHI
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154064
@@ -80,16 +80,13 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154079
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154078
 
-#EXTINF:-1 tvg-id="TATA SKY TELUGU CINEMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tata-sky-classic-cinema-in.png" group-title="Movies",TATA SKY TELUGU CINEMA HD
-http://185.71.64.167:80/307200115204/307200115204/83987
-
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-https://cutt.ly/SnHUxNz
+https://jio.instream.ml/jio.php?c=Vissa_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154104
 
-#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" group-title="Infotainment",SONY BBC EARTH HD
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
@@ -182,11 +179,11 @@ https://cutt.ly/gnAMo4k
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 https://jio.instream.ml/jio.php?c=ABN_Andhra_Jyothi&q=800&e=.m3u8
 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
+https://jio.instream.ml/jio.php?c=BBC_World_News&q=800&e=.m3u8
+
 #EXTINF:-1 tvg-id="A1 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHIehiSQH4gtUsY1vWlqLRmy9B-nS3v-jk34KUInTVhTJVjhJWbUql2I&s=10" group-title="News",A1 TV
 https://cutt.ly/CnAMwCR
-
-#EXTINF:-1 tvg-id="Bharath Today" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwst9bl94nQT5pp_HyDzQmVyW81c6ypavzOgg-p1XmRdo7XJRYN1O9fSh&s=10" group-title="News",Bharath Today
-https://cutt.ly/hnAMIbV
 
 #EXTINF:-1 tvg-id="CVR OM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="LifeStyle",CVR OM HD
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
@@ -262,12 +259,6 @@ http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
 
 #EXTINF:-1 tvg-id="D2 News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjZNXGJUR1arWBVK1SEtAr0yCBxUpUq2u24ncsdTA=s88-c-k-c0x00ffffff-no-rj" group-title="News",D2 News
 http://sundaylive.livebox.co.in/D2Newshls/D2Newsd.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="Education",Vidya
-https://jio.instream.ml/jio.php?c=Vidya&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title="Education",Nipuna
-https://jio.instream.ml/jio.php?c=Nipuna&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="Mirchi Love Radio Telugu" tvg-logo="https://radiosindia.com/images/mirchiloveradio.jpg" tvg-cover="https://radiosindia.com/images/mirchiloveradio.jpg"group-title="Radio",Mirchi Love Radio Telugu
 https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/master.m3u8
