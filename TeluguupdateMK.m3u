@@ -597,6 +597,9 @@ https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Avi JioTV",Ten 3
 https://jio.instream.ml/jio.php?c=Ten_3&q=800&e=.m3u8
 
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten4_HD.png" group-title="Avi JioTV",Ten 4 HD
+https://jio.instream.ml/jio.php?c=Ten4_HD&q=800&e=.m3u8
+
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Avi JioTV",Sony Six HD
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
 
