@@ -38,13 +38,13 @@ https://jio.instream.ml/jio.php?c=ETV_Telugu&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154067
 
-#EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="LifeStyle",ETV Life
+#EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 https://jio.instream.ml/jio.php?c=ETV_Life&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="LifeStyle",ETV PLUS
+#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
 https://jio.instream.ml/jio.php?c=ETV_Plus&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="LifeStyle",ETV ABHIRUCHI
+#EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154064
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
@@ -149,7 +149,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 #EXTINF:-1 tvg-id="hmtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",hmtv
 https://cutt.ly/wnzi3Pe
 
-#EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="LifeStyle",CVR Health
+#EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
 
 #EXTINF:-1 tvg-id="CVR English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news_english.png" group-title="News",CVR English
@@ -176,19 +176,19 @@ https://jio.instream.ml/jio.php?c=BBC_World_News&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="A1 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHIehiSQH4gtUsY1vWlqLRmy9B-nS3v-jk34KUInTVhTJVjhJWbUql2I&s=10" group-title="News",A1 TV
 https://cutt.ly/CnAMwCR
 
-#EXTINF:-1 tvg-id="CVR OM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="LifeStyle",CVR OM HD
+#EXTINF:-1 tvg-id="CVR OM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM HD
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 
-#EXTINF:-1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="LifeStyle",Bhakthi TV
+#EXTINF:-1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="Lifestyle",Bhakthi TV
 http://185.71.64.167:80/307200115204/307200115204/84002
 
-#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA TV" tvg-logo="http://dmtn.tv:8080/images/1e6717a86e00d8db52b85e41894719c2.png" group-title="LifeStyle",AASTHA TV
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA TV" tvg-logo="http://dmtn.tv:8080/images/1e6717a86e00d8db52b85e41894719c2.png" group-title="Lifestyle",AASTHA TV
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154051
 
 #EXTINF:-1 tvg-id="MY3 Music Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmlW4XxCKS7X6VMZ4pWFN1Um2UbbfKVBoyQKvBHO7tyqeAxbghziS7ntk&s=10" group-title="Music",MY3 Music Live
 https://cutt.ly/dnA1hhT
 
-#EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="LifeStyle",Hindu Dharmam
+#EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 
 #EXTINF:-1 tvg-id="BCN" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
@@ -309,9 +309,6 @@ https://node-20.zeno.fm/zman3kqfzeruv.aac?rj-ttl=5&rj-tok=AAABd59NHzAA4ZQgH5GsWH
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sonypixhd.jpg" group-title="Movies" ,Sony Pix HD
 https://jio.instream.ml/jio.php?c=Sony_Pix_HD&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="Movies" ,Axn HD
-http://103.81.104.118/hls/stream2.m3u8
-
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/starmovies.jpg" group-title="Movies" ,Star Movies HD1
 http://103.81.104.118/hls/stream3.m3u8
 
@@ -351,7 +348,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-209/list/09209xplorhd.jpg" group-title="Movies",&Xplor Hd
 https://cutt.ly/RnndDeK
 
-#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="Fashion TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
+#EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="miniflex.in" tvg-name="miniflex" tvg-logo="https://www.pngfind.com/pngs/m/664-6648659_plex-logo-png-png-download-miniplex-channel-transparent.png" group-title="Movies",MINIFLEX
