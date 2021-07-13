@@ -8,20 +8,11 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 #EXTINF:-1 tvg-id="AsiaTv HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TV Asia Telugu HD
 https://cutt.ly/bnzoGAG
 
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD1
-http://cloudcdn.tk:80/qIvHwZN376/Ia1ewQ866/10248
-
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD2
+#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 https://suntvvodaf-live.s.llnwi.net:443/GeminiTVHD/GeminiTVHD.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies
-http://cloudcdn.tk:80/qIvHwZN376/Ia1ewQ866/10182
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 https://suntvvodaf-live.s.llnwi.net:443/GeminiMoviesHD/GeminiMoviesHD.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy1
-http://cloudcdn.tk:80/qIvHwZN376/Ia1ewQ866/10247
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy2
 https://suntvvodaf-live.s.llnwi.net:443/GeminiComedy/GeminiComedy.isml/manifest.mpd
@@ -30,16 +21,10 @@ https://suntvvodaf-live.s.llnwi.net:443/GeminiComedy/GeminiComedy.isml/manifest.
 https://suntvvodaf-live.s.llnwi.net:443/GeminiLife/GeminiLife.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-http://cloudcdn.tk:80/qIvHwZN376/Ia1ewQ866/10155
-
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://85.203.33.88:80/live/b4CxOlKVh61/8vO4GQ220/10155.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
 https://jio.instream.ml/jio.php?c=Zee_Telugu&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
-http://cloudcdn.tk:80/qIvHwZN376/Ia1ewQ866/10255
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 https://jio.instream.ml/jio.php?c=Zee_Cinemalu&q=800&e=.m3u8
