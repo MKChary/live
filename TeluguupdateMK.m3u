@@ -33,7 +33,7 @@ https://jio.instream.ml/jio.php?c=Zee_Cinemalu&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=ETV_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154067
+https://jio.instream.ml/jio.php?c=ETV_Cinema&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 https://jio.instream.ml/jio.php?c=ETV_Life&q=800&e=.m3u8
@@ -159,7 +159,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 https://cutt.ly/snAN7Dr
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News Telugu
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154092
+https://jio.instream.ml/jio.php?c=Raj_News_24x7&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 https://cutt.ly/gnAMo4k
@@ -177,7 +177,7 @@ https://cutt.ly/CnAMwCR
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 
 #EXTINF:-1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="Lifestyle",Bhakthi TV
-http://185.71.64.167:80/307200115204/307200115204/84002
+https://jio.instream.ml/jio.php?c=Bhakti_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA TV" tvg-logo="http://dmtn.tv:8080/images/1e6717a86e00d8db52b85e41894719c2.png" group-title="Lifestyle",AASTHA TV
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154051
