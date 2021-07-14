@@ -75,13 +75,15 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154104
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
-http://185.71.64.167:80/307200115204/307200115204/83993
+http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY WORLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_hd_world_in.png" group-title="Infotainment",DISCOVERY WORLD HD
 https://jio.instream.ml/jio.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 18 TELUGU HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_tv18.png" group-title="Infotainment",HISTORY 18 TELUGU HD
 https://jio.instream.ml/jio.php?c=History_18_Telugu&q=800&e=.m3u8
+
+
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
 https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
@@ -467,13 +469,13 @@ https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Infotainment",Discovery Science
-https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
+https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo
 https://itvorigin.multitvsolution.com/idvo/turboeng.m3u8
 
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Infotainment",TLC
-https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
+http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Family/Kids",Discovery Kids
 https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
