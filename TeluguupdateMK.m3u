@@ -42,7 +42,7 @@ https://jio.instream.ml/jio.php?c=ETV_Life&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=ETV_Plus&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154064
+https://jio.instream.ml/jio.php?c=ETV_Abhiruchi&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://cutt.ly/2nHUYsD
@@ -55,9 +55,6 @@ https://cutt.ly/rnHYLNo
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 https://cutt.ly/Enn15dM
-
-#EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://gcs2.xyz:2052/1020304050/1020304050/2455302
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 https://cutt.ly/LnANl4g
