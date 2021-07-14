@@ -466,13 +466,13 @@ https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet
-https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Infotainment",Discovery Science
 https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo
-https://itvorigin.multitvsolution.com/idvo/turboeng.m3u8
+http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
 
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Infotainment",TLC
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
