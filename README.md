@@ -7,10 +7,10 @@ Watching Movies https://bit.ly/InMovies
 Contribute:
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/PhonePeQR.png
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=imxieke&&show_icons=true&theme=github" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mkchary&&show_icons=true&theme=github" />
 
 <!--
-**imxieke/imxieke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mkchary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
