@@ -302,23 +302,14 @@ https://node-12.zeno.fm/g3n7atcg09duv?rj-ttl=5&rj-tok=AAABd59Lp7AA7PjrEtdvlWbAug
 #EXTINF:-1 tvg-id="Swar Madhuri Telugu Radio" tvg-logo="https://cdn.webrad.io/images/logos/onlineradios-in/swar-madhuri.png" group-title="Radio",Swar Madhuri Telugu Radio
 https://node-20.zeno.fm/zman3kqfzeruv.aac?rj-ttl=5&rj-tok=AAABd59NHzAA4ZQgH5GsWH0MTA
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/sonypixhd.jpg" group-title="Movies" ,Sony Pix HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDWqN_t8q9FCukTAaiVDFJCiWEGmgzWhh9g&usqp=CAU" group-title="Movies" ,Sony Pix HD
 https://jio.instream.ml/jio.php?c=Sony_Pix_HD&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starmovies.jpg" group-title="Movies" ,Star Movies HD1
-http://103.81.104.118/hls/stream3.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starmovies.jpg" group-title="Movies" ,Star Movies HD2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbKerd0Gbn5LQFt5q1iwDgaUL6cpYC8DrMxTBDjxYKngnOlSf4lKqzjBD&s=10" group-title="Movies" ,Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="UTV Movies HD" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/utv_movies.gif?resize=300%2C169" group-title="Movies",UTV Movies HD
-https://cutt.ly/8nmi6Xq
 
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Movies",HBO Hits HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO HD1
-https://jio.instream.ml/jio.php?c=HBO_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -326,14 +317,11 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="& Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Movies", & Prive HD
 http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
-
 #EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starmovies.jpg" group-title="Movies",Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 
 #EXTINF:-1 tvg-name="&Flix Sd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="Movies",&Flix Sd
 https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
@@ -347,20 +335,11 @@ https://cutt.ly/RnndDeK
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="miniflex.in" tvg-name="miniflex" tvg-logo="https://www.pngfind.com/pngs/m/664-6648659_plex-logo-png-png-download-miniplex-channel-transparent.png" group-title="Movies",MINIFLEX
-https://cutt.ly/RnExQGm
-
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" group-title="Movies",Zee Cinema Hd
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" group-title="Movies",Movies Now Hd
-https://cutt.ly/mnmobcG
-
 #EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/SgriYijZDr.png" group-title="Movies",&Pictures Hd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_auto,q_auto/resources/0-9-176/channel_list/09176zeeclassic.png" group-title="Movies",UTV HD
-https://cutt.ly/cnnaJVS
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1118895770860707840/L24AlLOt.png" tvg-chno="3" group-title="Movies",Zee Cinema Me
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
@@ -406,7 +385,6 @@ https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Tv Canada" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv Canada
 https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
-
 
 #EXTINF:-1 tvg-name="&Tv Sd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/270x152/09tvhd_0tvhd.jpg" group-title="Entertainment",&Tv Sd
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
