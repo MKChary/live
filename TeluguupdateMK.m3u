@@ -77,16 +77,11 @@ https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD TELUGU
-http://212.224.98.196:2200/R-EX/TELUGU_NAT_GEO_TELUGU_HD-in/index.m3u8?token=
-
 #EXTINF:-1 tvg-id="DISCOVERY WORLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_hd_world_in.png" group-title="Infotainment",DISCOVERY WORLD HD
 https://jio.instream.ml/jio.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 18 TELUGU HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_tv18.png" group-title="Infotainment",HISTORY 18 TELUGU HD
 https://jio.instream.ml/jio.php?c=History_18_Telugu&q=800&e=.m3u8
-
-
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
 https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
