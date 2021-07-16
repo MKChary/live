@@ -77,7 +77,7 @@ https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="DISCOVERY WORLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_hd_world_in.png" group-title="Infotainment",DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY WORLD HD
 https://jio.instream.ml/jio.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 18 TELUGU HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_tv18.png" group-title="Infotainment",HISTORY 18 TELUGU HD
@@ -156,7 +156,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 https://cutt.ly/snAN7Dr
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News Telugu
-https://jio.instream.ml/jio.php?c=Raj_News_24x7&q=800&e=.m3u8
+https://jio.instream.ml/jio.php?c=Raj_News_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 https://cutt.ly/gnAMo4k
