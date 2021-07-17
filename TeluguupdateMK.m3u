@@ -32,8 +32,14 @@ https://jio.instream.ml/jio.php?c=Zee_Telugu&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 https://jio.instream.ml/jio.php?c=Zee_Cinemalu&q=800&e=.m3u8
 
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
+http://watchindia.net:8880/live/33253/72963/941.ts
+
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV SD
 https://jio.instream.ml/jio.php?c=ETV_Telugu&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
+http://watchindia.net:8880/live/33253/72963/2203.ts
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 https://jio.instream.ml/jio.php?c=ETV_Cinema&q=800&e=.m3u8
@@ -48,7 +54,7 @@ https://jio.instream.ml/jio.php?c=ETV_Plus&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=ETV_Abhiruchi&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-https://cutt.ly/dnn1VLH
+http://watchindia.net:8880/live/33253/72963/935.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 https://bit.ly/3wyOZJe
