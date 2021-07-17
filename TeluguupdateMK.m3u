@@ -336,6 +336,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-209/list/09209xplorhd.jpg" group-title="Movies",&Xplor Hd
 https://cutt.ly/RnndDeK
 
+#EXTINF:-1 tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
+http://watchindia.net:8880/live/33253/72963/2102.ts
+
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
