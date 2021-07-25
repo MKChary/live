@@ -6,10 +6,10 @@ https://raw.githubusercontent.com/MKChary/Iptv-list/master/Kiran.mp4
 #EXTINF:-1 tvg-id="112" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/GayathriManthra.jpeg" group-title="Music",Gayathri Mathram
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/VID-20210625-WA0000.mp4
 
-#EXTINF:-1 tvg-id="TBOClassic.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",TBO clasic
+#EXTINF:-1 tvg-id="TBOClassic.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",TBO classic
 https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 
-#EXTINF:-1 tvg-id="AsiaTV HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TV Asia Telugu HD
+#EXTINF:-1 tvg-id="AsiaTV HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",AsiaTV HD
 https://cutt.ly/bnzoGAG
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
@@ -102,7 +102,7 @@ https://cutt.ly/xnANTAi
 #EXTINF:-1 tvg-id="SnehaTV" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="News",Sneha TV
 https://cutt.ly/mnA1yfg
 
-#EXTINF:-1 tvg-id="KushiTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
+#EXTINF:-1 tvg-id="KushiTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",KushiTV
 https://suntvvodaf-live.s.llnwi.net:443/KushiTV/KushiTV.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Family/Kids",Sonic Telugu
@@ -138,7 +138,7 @@ https://jio.instream.ml/jio.php?c=ETV_Telangana&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
 https://jio.instream.ml/jio.php?c=ETV_Andhra_pradesh&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="10TV News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10TV News
+#EXTINF:-1 tvg-id="10TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10TV HD
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCfymZbh17_3T_UhgjkQ9fRQ
 
 #EXTINF:-1 tvg-id="Mahaa News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Mahaa News
@@ -156,7 +156,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 #EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
-#EXTINF:-1 tvg-id="Prime9 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" group-title="News",Prime9 News HD
+#EXTINF:-1 tvg-id="Prime9 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" group-title="News",Prime9 News
 https://cutt.ly/snAN7Dr
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News Telugu
