@@ -111,7 +111,7 @@ https://suntvvodaf-live.s.llnwi.net:443/KushiTV/KushiTV.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Family/Kids",Sonic Telugu
 https://jio.instream.ml/jio.php?c=Sonic_Telugu&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="CN HD+ Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",CN HD+ Telugu
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",CN HD+ Telugu
 https://jio.instream.ml/jio.php?c=CN_HD_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
