@@ -138,7 +138,7 @@ https://jio.instream.ml/jio.php?c=ETV_Telangana&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
 https://jio.instream.ml/jio.php?c=ETV_Andhra_pradesh&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="10TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10TV News HD
+#EXTINF:-1 tvg-id="10TV News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10TV News HD
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCfymZbh17_3T_UhgjkQ9fRQ
 
 #EXTINF:-1 tvg-id="Mahaa News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Mahaa News
@@ -156,7 +156,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 #EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
-#EXTINF:-1 tvg-id="Prime9 News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" group-title="News",Prime9 News HD
+#EXTINF:-1 tvg-id="Prime9 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" group-title="News",Prime9 News HD
 https://cutt.ly/snAN7Dr
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News Telugu
@@ -174,7 +174,7 @@ https://jio.instream.ml/jio.php?c=BBC_World_News&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="A1 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHIehiSQH4gtUsY1vWlqLRmy9B-nS3v-jk34KUInTVhTJVjhJWbUql2I&s=10" group-title="News",A1 TV
 https://cutt.ly/CnAMwCR
 
-#EXTINF:-1 tvg-id="CVR OM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM HD
+#EXTINF:-1 tvg-id="CVR OM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM HD
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 
 #EXTINF:-1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="Lifestyle",Bhakthi TV
