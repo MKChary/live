@@ -141,7 +141,7 @@ https://jio.instream.ml/jio.php?c=ETV_Andhra_pradesh&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="10TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10TV HD
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCfymZbh17_3T_UhgjkQ9fRQ
 
-#EXTINF:-1 tvg-id="Mahaa TV" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Mahaa TV
+#EXTINF:-1 tvg-id="MAHAA NEWS" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",MAHAA NEWS
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
 #EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
@@ -156,7 +156,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 #EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
-#EXTINF:-1 tvg-id="Prime9" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" group-title="News",Prime9
+#EXTINF:-1 tvg-id="Prime9 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" group-title="News",Prime9 News
 https://cutt.ly/snAN7Dr
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News Telugu
