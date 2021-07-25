@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/MKChary/Iptv-list/master/Kiran.mp4
 #EXTINF:-1 tvg-id="112" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/GayathriManthra.jpeg" group-title="Music",Gayathri Mathram
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/VID-20210625-WA0000.mp4
 
-#EXTINF:-1 tvg-id="TBO clasic" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",TBO clasic
+#EXTINF:-1 tvg-id="TBOClassic.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",TBO clasic
 https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 
 #EXTINF:-1 tvg-id="TV Asia Telugu HD" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TV Asia Telugu HD
@@ -78,16 +78,16 @@ https://jio.instream.ml/jio.php?c=Vanitha&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
 
-#EXTINF: -1 tvg-id="BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Infotainment",BBC EARTH HINDI
+#EXTINF: -1 tvg-id="SONY BBC EARTH HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Infotainment",BBC EARTH HINDI
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="DISCOVERY TELUGU HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY WORLD HD
 https://jio.instream.ml/jio.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="HistoryTV18 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_tv18.png" group-title="Infotainment",HISTORY 18 TELUGU HD
+#EXTINF:-1 tvg-id="HistoryTV18" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_tv18.png" group-title="Infotainment",HISTORY 18 TELUGU HD
 https://jio.instream.ml/jio.php?c=History_18_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
@@ -102,7 +102,7 @@ https://cutt.ly/8nANmg1
 #EXTINF:-1 tvg-id="Mango Telugu Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLdeBU431ktCmrVG5OzSbI4XHCSVQhuEl9BQ&usqp=CAU" group-title="Movies",Mango Telugu Cinema
 https://cutt.ly/xnANTAi
 
-#EXTINF:-1 tvg-id="Sneha Tv" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="News",Sneha TV
+#EXTINF:-1 tvg-id="SnehaTV" tvg-logo="https://content.jdmagicbox.com/comp/hyderabad/w3/040pxx40.xx40.161110135413.q5w3/catalogue/sneha-tv-lakdi-ka-pool-khairatabad-hyderabad-satellite-channels-nfxo8t2x5l.jpg" group-title="News",Sneha TV
 https://cutt.ly/mnA1yfg
 
 #EXTINF:-1 tvg-id="kushitv" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
