@@ -126,10 +126,10 @@ https://jio.instream.ml/jio.php?c=T_News&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCumtYpCY26F6Jr3satUgMvA
 
-#EXTINF:-1 tvg-id="TV5Telugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 Telugu
+#EXTINF:-1 tvg-id="TV5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 Telugu
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
 
-#EXTINF:-1 tvg-id="TV9.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 News HD
+#EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 News HD
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
