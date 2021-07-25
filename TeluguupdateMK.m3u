@@ -126,10 +126,10 @@ https://jio.instream.ml/jio.php?c=T_News&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
 http://istreamiptv.gq/api1cdn/ytube/play.php?cid=UCumtYpCY26F6Jr3satUgMvA
 
-#EXTINF:-1 tvg-id="TV5Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 Telugu
+#EXTINF:-1 tvg-id="TV5Telugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 Telugu
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
 
-#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 News HD
+#EXTINF:-1 tvg-id="TV9.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 News HD
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
@@ -327,16 +327,16 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 
-#EXTINF:-1 tvg-name="&Flix Sd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="Movies",&Flix Sd
+#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix Sd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="Movies",&Flix Sd
 https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
 
-#EXTINF:-1 tvg-name="&Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="Movies",&Flix Hd
+#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="Movies",&Flix Hd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-209/list/09209xplorhd.jpg" group-title="Movies",&Xplor Hd
+#EXTINF:-1 tvg-id="AndXplor.in"tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-209/list/09209xplorhd.jpg" group-title="Movies",&Xplor Hd
 https://cutt.ly/RnndDeK
 
-#EXTINF:-1 tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
+#EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
 
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
@@ -345,10 +345,10 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playl
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/sites/default/files/2019/04/03/774765-zee-cinema.jpg" group-title="Movies",Zee Cinema Hd
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Movies",&Pictures Hd
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Movies",&Pictures Hd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1118895770860707840/L24AlLOt.png" tvg-chno="3" group-title="Movies",Zee Cinema Me
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-logo="https://pbs.twimg.com/profile_images/1118895770860707840/L24AlLOt.png" tvg-chno="3" group-title="Movies",Zee Cinema Me
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Movies",&Pictures Sd
