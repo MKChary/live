@@ -84,6 +84,9 @@ http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY WORLD HD
 https://jio.instream.ml/jio.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
 
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",DISCOVERY WORLD HD
+https://jio.instream.ml/jio.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
+
 #EXTINF:-1 tvg-id="HistoryTV18" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_tv18.png" group-title="Infotainment",HISTORY 18 TELUGU HD
 https://jio.instream.ml/jio.php?c=History_18_Telugu&q=800&e=.m3u8
 
