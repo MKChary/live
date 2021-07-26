@@ -189,10 +189,10 @@ https://cutt.ly/dnA1hhT
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 
-#EXTINF:-1 tvg-id="BCN" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
+#EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
-#EXTINF:-1 tvg-id="YSR TV" tvg-logo="https://play-lh.googleusercontent.com/RJA4rO1SnKW2QQm2AF80PBni3UpO8qqm3XS7Mma3XLeyvDB9UV3-W8xF1CxWz8PDHFc=s180-rw" group-title="Movies",YSR TV
+#EXTINF:-1 tvg-id="YSR tv" tvg-logo="https://play-lh.googleusercontent.com/RJA4rO1SnKW2QQm2AF80PBni3UpO8qqm3XS7Mma3XLeyvDB9UV3-W8xF1CxWz8PDHFc=s180-rw" group-title="Movies",YSR tv
 https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
 
 #EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="Movies",Mana TV
@@ -315,7 +315,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Movies", & Prive HD
+#EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Movies",&Prive HD
 http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&privé HD
