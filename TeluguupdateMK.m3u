@@ -205,7 +205,7 @@ https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
 http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="http://sundaylive.in/client/client_images/160445625520201103_151308.jpg" group-title="News",Studio Yuva
-https://cutt.ly/WnA1mRW
+http://14.199.164.20:4001/play/a0sr/index.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
