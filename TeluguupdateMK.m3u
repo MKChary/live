@@ -168,6 +168,12 @@ https://cutt.ly/gnAMo4k
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 https://jio.instream.ml/jio.php?c=ABN_Andhra_Jyothi&q=800&e=.m3u8
 
+#EXTINF:-1,tvg-id="6TV" tvg-logo="" group-title="News",6TV
+http://14.199.164.20:4001/play/a0m6/index.m3u8
+
+#EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
+http://14.199.164.20:4001/play/a0is/index.m3u8
+
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
 https://jio.instream.ml/jio.php?c=BBC_World_News&q=800&e=.m3u8
 
@@ -181,7 +187,7 @@ https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 https://jio.instream.ml/jio.php?c=Bhakti_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA TV" tvg-logo="http://dmtn.tv:8080/images/1e6717a86e00d8db52b85e41894719c2.png" group-title="Lifestyle",AASTHA TV
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/154051
+http://14.199.164.20:4001/play/a0pz/index.m3u8
 
 #EXTINF:-1 tvg-id="MY3 Music Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDmlW4XxCKS7X6VMZ4pWFN1Um2UbbfKVBoyQKvBHO7tyqeAxbghziS7ntk&s=10" group-title="Music",MY3 Music Live
 https://cutt.ly/dnA1hhT
