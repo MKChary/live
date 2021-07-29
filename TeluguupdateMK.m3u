@@ -142,7 +142,7 @@ https://jio.instream.ml/jio.php?c=ETV_Telangana&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=ETV_Andhra_pradesh&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="10TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10TV HD
-http://14.199.164.20:4001/play/a0ut/index.m3u8
+https://jio.instream.ml/jio.php?c=10_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="MAHAA News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",MAHAA News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
@@ -159,14 +159,11 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 #EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
-#EXTINF:-1 tvg-id="prime9 news" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prime-9-news-in.png" group-title="News",prime9 news
-https://cutt.ly/snAN7Dr
-
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News Telugu
 https://jio.instream.ml/jio.php?c=Raj_News_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
-https://cutt.ly/gnAMo4k
+https://jio.instream.ml/jio.php?c=Sakshi_tv&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 https://jio.instream.ml/jio.php?c=ABN_Andhra_Jyothi&q=800&e=.m3u8
