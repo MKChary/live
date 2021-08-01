@@ -144,7 +144,7 @@ https://jio.instream.ml/jio.php?c=ETV_Andhra_pradesh&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV
 https://jio.instream.ml/jio.php?c=10_TV&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="MAHAA News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",MAHAA News
+#EXTINF:-1 tvg-id="MAHAANEWS" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",MAHAANEWS
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
 #EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
