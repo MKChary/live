@@ -25,7 +25,7 @@ https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9027
 https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26572
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-https://bit.ly/3jdMdVj
+http://rv.imax.re:80/307210510160/307210510160/83982
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
 https://jio.instream.ml/jio.php?c=Zee_Telugu&q=800&e=.m3u8
@@ -58,10 +58,10 @@ https://jio.instream.ml/jio.php?c=ETV_Abhiruchi&q=800&e=.m3u8
 http://watchindia.net:8880/live/33253/72963/935.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-https://bit.ly/3wyOZJe
+http://rv.imax.re:80/307210510160/307210510160/83988
 
 #EXTINF:-1 tvg-id="Star Maa Movies Hd" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-https://cutt.ly/LnANl4g
+http://rv.imax.re:80/307210510160/307210510160/83994
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 https://jio.instream.ml/jio.php?c=Raj_Music_Telugu&q=800&e=.m3u8
@@ -79,7 +79,7 @@ https://jio.instream.ml/jio.php?c=Vanitha&q=800&e=.m3u8
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
-http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+http://rv.imax.re:80/307210510160/307210510160/83993
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY HD
 https://jio.instream.ml/jio.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
