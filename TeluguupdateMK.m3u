@@ -429,7 +429,7 @@ http://cv.khushitv.xyz/channels.php?c=zeepunjabi&e=.m3u8
 #EXTINF:-1 tvg-name="9xm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xm
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-name="Mastii Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmRsR8dtcVQGo2PaAeP49OFW6OvQRMNxVHw&usqp=CAU" group-title="Music",Mastii
+#EXTINF:-1 tvg-id="Mastiii.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmRsR8dtcVQGo2PaAeP49OFW6OvQRMNxVHw&usqp=CAU" group-title="Music",Mastii
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0069.Zoom.in/en/1x1/208x208/test_pic1550666525581.jpg" group-title="Music",Zoom
