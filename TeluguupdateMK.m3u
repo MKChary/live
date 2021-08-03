@@ -13,16 +13,16 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 https://cutt.ly/bnzoGAG
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-https://bit.ly/3C7y4S1
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9017
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-https://bit.ly/2WIR357
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9015
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-https://suntvvodaf-live.s.llnwi.net:443/GeminiComedy/GeminiComedy.isml/manifest.mpd
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9027
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-https://bit.ly/3rNJuWv
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26572
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 https://bit.ly/3jdMdVj
@@ -67,7 +67,7 @@ https://cutt.ly/LnANl4g
 https://jio.instream.ml/jio.php?c=Raj_Music_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-https://suntvvodaf-live.s.llnwi.net:443/GeminiMusicHD/GeminiMusicHD.isml/manifest.mpd
+http://pn.tvott.info/live/307271135111/307271135111/83981.m3u8
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
 https://jio.instream.ml/jio.php?c=Vissa_TV&q=800&e=.m3u8
@@ -100,7 +100,7 @@ https://cutt.ly/8nANmg1
 https://cutt.ly/xnANTAi
 
 #EXTINF:-1 tvg-id="KushiTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
-https://suntvvodaf-live.s.llnwi.net:443/KushiTV/KushiTV.isml/manifest.mpd
+https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26571
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Family/Kids",Sonic Telugu
 https://jio.instream.ml/jio.php?c=Sonic_Telugu&q=800&e=.m3u8
