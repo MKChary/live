@@ -438,7 +438,7 @@ https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo
 http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
 
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Infotainment",TLC
+#EXTINF:-1 tvg-id="TLC English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Infotainment",TLC English
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Family/Kids",Discovery Kids
