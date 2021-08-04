@@ -78,9 +78,6 @@ https://jio.instream.ml/jio.php?c=Vanitha&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
-http://localhost/m3u8.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=junk.m3u8
-
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://rv.imax.re:80/307210510160/307210510160/83993
 
@@ -171,9 +168,6 @@ http://14.199.164.20:4001/play/a0is/index.m3u8
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
 https://jio.instream.ml/jio.php?c=BBC_World_News&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="A1 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHIehiSQH4gtUsY1vWlqLRmy9B-nS3v-jk34KUInTVhTJVjhJWbUql2I&s=10" group-title="News",A1 TV
-https://cutt.ly/CnAMwCR
-
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 
@@ -194,9 +188,6 @@ https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
 
 #EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="Movies",Mana TV
 http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="http://sundaylive.in/client/client_images/160445625520201103_151308.jpg" group-title="News",Studio Yuva
-http://14.199.164.20:4001/play/a0sr/index.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
