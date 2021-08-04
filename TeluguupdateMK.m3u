@@ -159,7 +159,7 @@ https://jio.instream.ml/jio.php?c=Sakshi_tv&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 https://jio.instream.ml/jio.php?c=ABN_Andhra_Jyothi&q=800&e=.m3u8
 
-#EXTINF:-1,tvg-id="6 TV" tvg-logo="" group-title="News",6 TV
+#EXTINF:-1 tvg-id="6 TV" tvg-logo="https://www.lyngsat.com/logo/tv/num/6_tv_in.png" group-title="News",6 TV
 http://14.199.164.20:4001/play/a0m6/index.m3u8
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
@@ -171,7 +171,7 @@ https://jio.instream.ml/jio.php?c=BBC_World_News&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="A1 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHIehiSQH4gtUsY1vWlqLRmy9B-nS3v-jk34KUInTVhTJVjhJWbUql2I&s=10" group-title="News",A1 TV
 https://cutt.ly/CnAMwCR
 
-#EXTINF:-1 tvg-id="CVR OM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM
+#EXTINF:-1 tvg-id="CVR SPIRITUAL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR SPIRITUAL
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 
 #EXTINF:-1 tvg-id="Bhakthi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="Lifestyle",Bhakthi TV
