@@ -13,16 +13,16 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 https://cutt.ly/bnzoGAG
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9017
+http://watchindia.net:8880/live/33253/72963/928.ts
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9015
+http://watchindia.net:8880/live/33253/72963/930.ts
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9027
+http://watchindia.net:8880/live/33253/72963/971.ts
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26572
+http://watchindia.net:8880/live/33253/72963/931.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://rv.imax.re:80/307210510160/307210510160/83982
@@ -64,13 +64,13 @@ http://rv.imax.re:80/307210510160/307210510160/83988
 http://watchindia.net:8880/live/33253/72963/2168.ts
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8
+http://watchindia.net:8880/live/33253/72963/934.ts
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 https://jio.instream.ml/jio.php?c=Raj_Music_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=9026
+http://watchindia.net:8880/live/33253/72963/929.ts
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
 https://jio.instream.ml/jio.php?c=Vissa_TV&q=800&e=.m3u8
