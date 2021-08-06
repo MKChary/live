@@ -219,9 +219,6 @@ http://blmtech.in:8086/hls/stvtelugu/index.m3u8
 #EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="News",Cowa TV
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="News",Cowa TV Folks
-http://live.streamplay.in:1935/cowa/cowa folks/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Netflix Movies" tvg-logo="https://download.logo.wine/logo/Netflix/Netflix-Logo.wine.png" group-title="Movies",Netflix Movies
 http://ar148ferrari.referrari.com/live/601365_.m3u8
 
@@ -357,22 +354,13 @@ https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Zee Anmol Cinema" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-anmol-cinema-in.png" group-title="Movies",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 
-#EXTINF:-1 tvg-name="Zee Cafe Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png" group-title="Entertainment",Zee Cafe Sd
-https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-name="Zee Cafe Hd" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="Entertainment",Zee Cafe Hd
+#EXTINF:-1 tvg-id="ZEE CAFE HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="Entertainment",ZEE CAFE HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-name="Zee Cafe Hd(Link 2)" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="Entertainment",Zee Cafe Hd(Link 2)
-http://cv.khushitv.xyz/channels.php?c=zeecafehd&m3u8
-
 #EXTINF:-1 tvg-name="Zee Tv Hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv Hd
-http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
-
-#EXTINF:-1 tvg-name="Zee Tv Me" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv Me
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-name="Zee Tv Usa" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv Usa
+#EXTINF:-1 tvg-name="Zee Tv HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvsdusa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Tv Uk" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv Uk
