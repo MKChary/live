@@ -222,8 +222,8 @@ http://blmtech.in:8086/hls/stvtelugu/index.m3u8
 #EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="News",Cowa TV
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Netflix Movies" tvg-logo="https://download.logo.wine/logo/Netflix/Netflix-Logo.wine.png" group-title="Movies",Netflix Movies
-http://ar148ferrari.referrari.com/live/601365_.m3u8
+#EXTINF:-1,tvg-id="Cowa TV" tvg-logo="" group-title="Movies",Telugu Box Office
+http://watchindia.net:8880/live/33253/72963/2155.ts
 
 #EXTINF:-1  tvg-id="Rashi Telugu HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-130821_Chrome.jpg"group-title="Movies",Rasi Telugu HD
 http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
