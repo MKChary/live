@@ -81,6 +81,9 @@ https://jio.instream.ml/jio.php?c=Vanitha&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
 
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
+https://sony247channels.akamaized.net/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
+
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://rv.imax.re:80/307210510160/307210510160/83993
 
@@ -526,6 +529,9 @@ https://cutt.ly/lmDy0j5
 
 #EXTINF:-1 tvg-id="Ten 4 Telugu HD" tvg-logo="https://www.adgully.com/img/400/202106/sony-ten4.png.jpg" group-title="Sports",Ten 4 Telugu HD
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+
+#EXTINF:-1 tvg-id="Ten 4 Telugu HD" tvg-logo="https://www.adgully.com/img/400/202106/sony-ten4.png.jpg" group-title="Sports",Ten 4 Telugu HD
+https://sony247channels.akamaized.net/hls/live/2020589-b/ten4hd/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
