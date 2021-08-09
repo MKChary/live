@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
+#EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml" url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png 07.jpg" group-title="Music",My Marriage Video
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/Kiran.mp4
