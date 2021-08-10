@@ -165,9 +165,6 @@ https://jio.instream.ml/jio.php?c=Sakshi_tv&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 https://jio.instream.ml/jio.php?c=ABN_Andhra_Jyothi&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="6 TV" tvg-logo="https://www.lyngsat.com/logo/tv/num/6_tv_in.png" group-title="News",6 TV
-http://14.199.164.20:4001/play/a0m6/index.m3u8
-
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
 http://14.199.164.20:4001/play/a0is/index.m3u8
 
@@ -225,10 +222,10 @@ http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 #EXTINF:-1,tvg-id="Cowa TV" tvg-logo="" group-title="Movies",Telugu Box Office
 http://watchindia.net:8880/live/33253/72963/2155.ts
 
-#EXTINF:-1  tvg-id="Rashi Telugu HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-130821_Chrome.jpg"group-title="Movies",Rasi Telugu HD
+#EXTINF:-1 tvg-id="Rashi Telugu HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-130821_Chrome.jpg"group-title="Movies",Rasi Telugu HD
 http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
 
-#EXTINF:-1  tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-125332_Chrome.jpg"group-title="Movies",Rasi Hollywood HD
+#EXTINF:-1 tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-125332_Chrome.jpg"group-title="Movies",Rasi Hollywood HD
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png" group-title="Movies",Kiran Live
@@ -257,9 +254,6 @@ https://node-19.zeno.fm/7kbt507d3qzuv?rj-ttl=5&rj-tok=AAABd586aPgA4Ro3Uz3yfmWYqg
 
 #EXTINF:-1 tvg-id="Telugu Fm" tvg-logo="https://radiosindia.com/images/telugufm.jpg" group-title="Radio",Telugu Fm
 https://node-01.zeno.fm/k6ec9dygey5tv?1521615895=&rj-tok=AAABd58-MVcAwp01j7dHzNwpwQ&rj-ttl=5
-
-#EXTINF:-1 tvg-id="Radio Guru 90.4" tvg-logo="https://radiosindia.com/images/radioguru.jpg" group-title="Radio",Radio Guru 90.4
-https://freeuk8.listen2myradio.com/live.mp3?typeportmount=s2_14499_stream_107756148
 
 #EXTINF:-1 tvg-id="Melody Radio Telugu" tvg-logo="https://radiosindia.com/images/melodyradio.jpg" group-title="Radio",Melody Radio Telugu
 https://n13.radiojar.com/z4qyckhr9druv?rj-ttl=5&rj-tok=AAABd58-3Y0A6rCaQWvuT1WWOw
