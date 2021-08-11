@@ -145,7 +145,7 @@ http://watchindia.net:8880/live/33253/72963/981.ts
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
 #EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
-https://cutt.ly/wnzi3Pe
+https://jio.instream.ml/jio.php?c=HM_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
