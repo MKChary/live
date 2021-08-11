@@ -558,7 +558,7 @@ https://jio.instream.ml/jio.php?c=Dsports&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports",Eurosport HD
 https://jio.instream.ml/jio.php?c=Dsports_HD&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="Family/Kids",Sony Yay
+#EXTINF:-1 tvg-id="Sony Yay Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="Family/Kids",Sony Yay Hindi
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
 #EXTINF:-1 tvg-name="Boo horror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyX3xou2bGuzqDxwZePib6kSZZSmcYya8Cg&usqp=CAU" group-title="Movies",BOO Horror Movies
@@ -593,9 +593,6 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY AATH
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="Movies", SONY YAY HIN
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="Movies", SONY MAX FHD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
