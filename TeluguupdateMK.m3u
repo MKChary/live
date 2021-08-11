@@ -328,13 +328,10 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playl
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Movies",&Pictures Hd
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee Cinema" tvg-logo="https://pbs.twimg.com/profile_images/1118895770860707840/L24AlLOt.png" tvg-chno="3" group-title="Movies",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
-
-#EXTINF:-1 ,tvg-id="Pictures HD"tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Movies",&Pictures Sd
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee Cinema" tvg-logo="https://english.cdn.zeenews.com/sites/default/files/2019/04/03/774765-zee-cinema.jpg" group-title="Movies",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
