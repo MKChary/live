@@ -177,8 +177,8 @@ https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 #EXTINF:-1 tvg-id="Bhakti TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bhakthi_tv_in.png" group-title="Lifestyle",Bhakti TV
 https://jio.instream.ml/jio.php?c=Bhakti_TV&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA TV" tvg-logo="http://dmtn.tv:8080/images/1e6717a86e00d8db52b85e41894719c2.png" group-title="Lifestyle",AASTHA TV
-http://14.199.164.20:4001/play/a0pz/index.m3u8
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA TV" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Lifestyle",AASTHA TV Telugu
+https://streamavi.ml/jio/live.php?c=Aastha_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
