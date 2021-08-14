@@ -114,8 +114,8 @@ https://jio.instream.ml/jio.php?c=Nick_Telugu&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Family/Kids",Sony Yay Telugu
 https://jio.instream.ml/jio.php?c=Sony_Yay_Telugu&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva.png" group-title="Entertainment",Studio Yuva1
-https://jio.instream.ml/jio.php?c=studio_yuva&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="Studio Yuva" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva.png" group-title="Entertainment",Studio Yuva2
+https://jio.instream.ml/jio.php?c=studioyuva&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
 http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
