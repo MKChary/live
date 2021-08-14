@@ -168,12 +168,6 @@ https://jio.instream.ml/jio.php?c=ABN_Andhra_Jyothi&q=800&e=.m3u8
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
 http://14.199.164.20:4001/play/a0is/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png" group-title="News",BBC Hindi
-https://jio.instream.ml/jio.php?c=BBC_Hindi&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png" group-title="News",BBC Gujarati
-https://jio.instream.ml/jio.php?c=BBC_Gujarati&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
 https://jio.instream.ml/jio.php?c=BBC_World_News&q=800&e=.m3u8
 
@@ -611,6 +605,12 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="Movies", SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="News",BBC Hindi
+https://jio.instream.ml/jio.php?c=BBC_Hindi&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Gujarati.png" group-title="News",BBC Gujarati
+https://jio.instream.ml/jio.php?c=BBC_Gujarati&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-name="Aaj Tak Hd" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg" group-title="News",Aaj Tak Hd
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
