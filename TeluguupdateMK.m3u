@@ -585,31 +585,31 @@ https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 #EXTINF:-1 tvg-name="Sony Six HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIX_Masthead_Logo.png" group-title="Sports",Sony Six HD
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18805
 
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Movies", SONY SET FHD
+#EXTINF:-1 tvg-name="SONY SET HD"tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Movies", SONY SET HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY SAB FHD
+#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="Movies", SONY PAL
+#EXTINF:-1 tvg-name="SONY PAL" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="Movies", SONY PAL
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY SAB FHD
+#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY AATH
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY AATH
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="Movies", SONY MAX FHD
+#EXTINF:-1 tvg-name="SONY MAX HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="Movies", SONY MAX HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="Movies", SONY WAH
+#EXTINF:-1 tvg-name="SONY WAH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="Movies", SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="News",BBC Hindi
+#EXTINF:-1 tvg-id="BBC News Hindi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="News",BBC News Hindi
 https://jio.instream.ml/jio.php?c=BBC_Hindi&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Gujarati.png" group-title="News",BBC Gujarati
+#EXTINF:-1 tvg-id="BBC News Gujarati" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Gujarati.png" group-title="News",BBC News Gujarati
 https://jio.instream.ml/jio.php?c=BBC_Gujarati&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-name="Aaj Tak Hd" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg" group-title="News",Aaj Tak Hd
