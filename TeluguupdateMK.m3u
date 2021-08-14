@@ -117,6 +117,9 @@ https://jio.instream.ml/jio.php?c=Sony_Yay_Telugu&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
 http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 
+#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Education",Nipuna
+https://jio.instream.ml/jio.php?c=Nipuna&q=800&e=.m3u8
+
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
 https://jio.instream.ml/jio.php?c=T_News&q=800&e=.m3u8
 
