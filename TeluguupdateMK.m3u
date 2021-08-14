@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml" url-tvg="http://rstream.me/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png 07.jpg" group-title="Music",My Marriage Video
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png 07.jpg" group-title="Music",Marriage Video
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/Kiran.mp4
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/GayathriManthra.jpeg" group-title="Music",Gayathri Mathram
@@ -96,7 +96,7 @@ https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 
-#EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
+EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
 https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26571
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Family/Kids",Sonic Telugu
@@ -219,9 +219,6 @@ http://blmtech.in:8086/hls/stvtelugu/index.m3u8
 #EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="News",Cowa TV
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 
-#EXTINF:-1,tvg-id="Cowa TV" tvg-logo="" group-title="Movies",Telugu Box Office
-http://watchindia.net:8880/live/33253/72963/2155.ts
-
 #EXTINF:-1 tvg-id="Rashi Telugu HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-130821_Chrome.jpg"group-title="Movies",Rasi Telugu HD
 http://singamcloud.in:1935/rasinetwork/rasitelugu/playlist.m3u8
 
@@ -323,9 +320,6 @@ https://cutt.ly/RnndDeK
 
 #EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
-
-#EXTINF:-1 tvg-id="WB" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="Movies",WB
-https://streamavi.ml/jio/live.php?c=WB&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
