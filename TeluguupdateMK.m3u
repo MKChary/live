@@ -9,10 +9,7 @@ https://raw.githubusercontent.com/MKChary/Iptv-list/master/VID-20210625-WA0000.m
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",TBO classic
 https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 
-#EXTINF:-1 tvg-id="TVAsia" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
-https://cutt.ly/bnzoGAG
-
-#EXTINF:-1 tvg-id="TVAsia" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia
+#EXTINF:-1 tvg-id="TVAsiaHD.in" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
 https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
 
 #EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
@@ -192,7 +189,7 @@ https://jio.instream.ml/jio.php?c=BBC_World_News&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 
-#EXTINF:-1 tvg-id="SVBC" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png" group-title="Lifestyle",SVBC
+#EXTINF:-1 tvg-id="SVBC2" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png" group-title="Lifestyle",SVBC
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Lifestyle",AASTHA Telugu
