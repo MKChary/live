@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml" url-tvg="http://rstream.me/epg.xml.gz"
+#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png 07.jpg" group-title="Music",Marriage Video
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/Kiran.mp4
@@ -61,16 +61,13 @@ https://jio.instream.ml/jio.php?c=ETV_Abhiruchi&q=800&e=.m3u8
 http://watchindia.net:8880/live/33253/72963/935.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://pn.tvott.info:80/307237502154/307237502154/83899
+http://watchindia.net:8880/live/33253/72963/933.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://watchindia.net:8880/live/33253/72963/2168.ts
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://watchindia.net:8880/live/33253/72963/934.ts
-
-#EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://pn.tvott.info:80/307237502154/307237502154/83994
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://watchindia.net:8880/live/33253/72963/957.ts
@@ -91,10 +88,10 @@ https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
 http://rv.imax.re:80/307210510160/307210510160/83993
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY HD
-https://jio.instream.ml/jio.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
+http://watchindia.net:8880/live/33253/72963/2036.ts
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
-https://jio.instream.ml/jio.php?c=History_18_Telugu&q=800&e=.m3u8
+http://watchindia.net:8880/live/33253/72963/791.ts
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travel XP HD
 http://watchindia.net:8880/live/33253/72963/792.ts
@@ -139,7 +136,7 @@ https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/40869
+http://watchindia.net:8880/live/33253/72963/943.ts
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/52810
