@@ -3,19 +3,19 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png 07.jpg" group-title="Music",Marriage Video
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/Kiran.mp4
 
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/GayathriManthra.jpeg" group-title="Music",Gayathri Mathram
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/GayathriManthra.jpeg" group-title="Music",Gayathri Mathram
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/VID-20210625-WA0000.mp4
 
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",TBO classic
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",TBO classic
 https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 
 #EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
 https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
 
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://watchindia.net:8880/live/33253/72963/928.ts
 
-#EXTINF:-1 tvg-id="GeminiTV.in" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://pn.tvott.info:80/307237502154/307237502154/83998
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
