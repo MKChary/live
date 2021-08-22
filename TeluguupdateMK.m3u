@@ -46,7 +46,7 @@ http://watchindia.net:8880/live/33253/72963/936.ts
 http://watchindia.net:8880/live/33253/72963/2203.ts
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-https://jio.instream.ml/jio.php?c=ETV_Cinema&q=800&e=.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1500
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 http://watchindia.net:8880/live/33253/72963/938.ts
@@ -79,10 +79,10 @@ http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1506
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1504
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-https://jio.instream.ml/jio.php?c=Vissa_TV&q=800&e=.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1498
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
-https://jio.instream.ml/jio.php?c=Vanitha&q=800&e=.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1496
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 https://jio.instream.ml/jio.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
@@ -112,10 +112,10 @@ https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26571
 https://jio.instream.ml/jio.php?c=Sonic_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
-https://jio.instream.ml/jio.php?c=CN_HD_Telugu&q=800&e=.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1635
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
-https://jio.instream.ml/jio.php?c=Nick_Telugu&q=800&e=.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/378
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Family/Kids",Sony Yay Telugu
 https://jio.instream.ml/jio.php?c=Sony_Yay_Telugu&q=800&e=.m3u8
@@ -124,10 +124,10 @@ https://jio.instream.ml/jio.php?c=Sony_Yay_Telugu&q=800&e=.m3u8
 http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
-http://watchindia.net:8880/live/33253/72963/949.ts
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/370
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
-https://jio.instream.ml/jio.php?c=NTV&q=800&e=.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1499
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
@@ -136,12 +136,12 @@ https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-http://watchindia.net:8880/live/33253/72963/943.ts
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/387
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/52810
 
-#EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
+EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
 https://jio.instream.ml/jio.php?c=ETV_Andhra_pradesh&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
@@ -169,7 +169,7 @@ http://watchindia.net:8880/live/33253/72963/956.ts
 http://watchindia.net:8880/live/33253/72963/955.ts
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
-https://jio.instream.ml/jio.php?c=ABN_Andhra_Jyothi&q=800&e=.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/386
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
 http://14.199.164.20:4001/play/a0is/index.m3u8
@@ -190,7 +190,7 @@ http://14.199.164.20:4001/play/a0pz/index.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 
 #EXTINF:-1 tvg-id="Bhakti" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Bhakti
-http://14.199.164.20:4001/play/a0m0/index.m3u8
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/367
 
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
@@ -200,6 +200,9 @@ https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
 
 #EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="Movies",Mana TV
 http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mana TV" tvg-logo="" group-title="Movies",Mana TV
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1501
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
