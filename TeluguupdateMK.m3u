@@ -16,25 +16,28 @@ https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
 http://watchindia.net:8880/live/33253/72963/928.ts
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://pn.tvott.info:80/307237502154/307237502154/83998
+http://mag.rapidiptv.com:80/Fitim19/T02XJd509/10248
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://watchindia.net:8880/live/33253/72963/964.ts
+http://mag.rapidiptv.com:80/Fitim19/T02XJd509/10182
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://watchindia.net:8880/live/33253/72963/971.ts
+
+#EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
+http://mag.rapidiptv.com:80/Fitim19/T02XJd509/10247
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
 http://watchindia.net:8880/live/33253/72963/931.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-http://rv.imax.re:80/307210510160/307210510160/83982
+http://mag.rapidiptv.com:80/Fitim19/T02XJd509/10155
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
 http://watchindia.net:8880/live/33253/72963/940.ts
 
-EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
-http://watchindia.net:8880/live/33253/72963/941.ts
+EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
+http://mag.rapidiptv.com:80/Fitim19/T02XJd509/10255
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 http://watchindia.net:8880/live/33253/72963/941.ts
