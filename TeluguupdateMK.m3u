@@ -178,7 +178,7 @@ http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/386
 http://14.199.164.20:4001/play/a0is/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
-https://jio.instream.ml/jio.php?c=BBC_World_News&q=800&e=.m3u8
+http://main.1team.xyz:2052/test12345/test12345/3603
 
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
@@ -616,12 +616,6 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-name="SONY WAH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="Movies", SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-
-#EXTINF:-1 tvg-id="BBC News Hindi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="News",BBC News Hindi
-https://jio.instream.ml/jio.php?c=BBC_Hindi&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-id="BBC News Gujarati" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Gujarati.png" group-title="News",BBC News Gujarati
-https://jio.instream.ml/jio.php?c=BBC_Gujarati&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-name="Aaj Tak Hd" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg" group-title="News",Aaj Tak Hd
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
