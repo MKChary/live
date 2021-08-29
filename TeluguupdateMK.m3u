@@ -249,9 +249,6 @@ http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
 #EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="Movies",Reshya TV
 http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="Sports",Jio Cricket English HD
-https://jio.instream.ml/jio.php?c=Jio_Cricket&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-id="Mirchi Love Radio Telugu" tvg-logo="https://radiosindia.com/images/mirchiloveradio.jpg" tvg-cover="https://radiosindia.com/images/mirchiloveradio.jpg"group-title="Radio",Mirchi Love Radio Telugu
 https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/master.m3u8
 
@@ -338,9 +335,6 @@ http://watchindia.net:8880/live/33253/72963/2102.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
 https://jio.instream.ml/jio.php?c=CN_HD_Telugu&q=800&e=.m3u8
-
-#EXTINF:-1 tvg-id="FTV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/FTV_HD.png" group-title="Lifestyle",FTV HD
-https://jio.instream.ml/jio.php?c=FTV_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
