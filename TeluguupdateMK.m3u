@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv.iptvindia.tk/epg.xml.gz"
+#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png 07.jpg" group-title="Music",Marriage Video
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/Kiran.mp4
