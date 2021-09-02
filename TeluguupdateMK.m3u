@@ -25,10 +25,13 @@ http://watchindia.net:8880/live/33253/72963/971.ts
 http://watchindia.net:8880/live/33253/72963/931.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
+https://ayushiz5tv.herokuapp.com?c=0-9-zeetelugu
+
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://watchindia.net:8880/live/33253/72963/940.ts
 
-EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
-http://mag.rapidiptv.com:80/Fitim19/T02XJd509/10255
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
+https://ayushiz5tv.herokuapp.com?c=0-9-zeecinemalu
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 http://watchindia.net:8880/live/33253/72963/941.ts
@@ -121,7 +124,7 @@ http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/370
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1499
+https://ayushiz5tv.herokuapp.com?c=0-9-372
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
@@ -163,7 +166,7 @@ http://watchindia.net:8880/live/33253/72963/956.ts
 http://watchindia.net:8880/live/33253/72963/955.ts
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/386
+https://ayushiz5tv.herokuapp.com?c=0-9-355
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
 http://14.199.164.20:4001/play/a0is/index.m3u8
