@@ -61,7 +61,7 @@ http://watchindia.net:8880/live/33253/72963/935.ts
 http://watchindia.net:8880/live/33253/72963/933.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://watchindia.net:8880/live/33253/72963/2168.ts
+http://watchindia.net:8880/live/33253/72963/933.m3u8
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://watchindia.net:8880/live/33253/72963/934.ts
