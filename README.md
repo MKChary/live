@@ -4,8 +4,8 @@ Then complete setup..Watching Live channels
 Watching Movies https://bit.ly/InMovies
 
 
-Contribute:
-https://raw.githubusercontent.com/MKChary/Iptv-list/master/PhonePeQR.png
+
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mkchary&&show_icons=true&theme=github" />
 
