@@ -484,17 +484,17 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
-http://luckonline.eu:8080/17424/cnyzqDETiP/1369
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
+http://143.244.60.10/SPORTS__STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
-http://103.205.133.48/hls/chss2.m3u8
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
+http://143.244.60.10/SPORTS__STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
-http://luckonline.eu:8080/17424/cnyzqDETiP/1370
+#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports Select 1 HD
+http://143.244.60.10/SPORTS__STAR_SPORTS_SELECT_1_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
-http://stariptv.xyz:8880/661562/505844/179353
+#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports Select 2 HD
+http://143.244.60.10/SPORTS__STAR_SPORTS_SELECT_2_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Boo horror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyX3xou2bGuzqDxwZePib6kSZZSmcYya8Cg&usqp=CAU" group-title="Movies",BOO Horror Movies
 https://cutt.ly/inEizyW
