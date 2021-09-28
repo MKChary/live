@@ -58,7 +58,7 @@ http://watchindia.net:8880/live/33253/72963/937.ts
 https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/372
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://watchindia.net:8880/live/33253/72963/935.ts
+https://bit.ly/3kIFULg
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://62.182.84.128:81/renata/renata/163101
@@ -67,7 +67,7 @@ http://62.182.84.128:81/renata/renata/163101
 http://watchindia.net:8880/live/33253/72963/2168.m3u8
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://watchindia.net:8880/live/33253/72963/934.ts
+https://bit.ly/39GeFKU
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://watchindia.net:8880/live/33253/72963/957.ts
@@ -305,6 +305,9 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Movies",HBO Hits HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-id="UTV Movies HD" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Movies",UTV Movies HD
+https://bit.ly/3ETP6Ev
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
