@@ -28,9 +28,9 @@ http://watchindia.net:8880/live/33253/72963/971.ts
 http://watchindia.net:8880/live/33253/72963/931.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-https://bit.ly/3ueRAZx
+http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/380
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
+EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://watchindia.net:8880/live/33253/72963/940.ts
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
@@ -61,9 +61,9 @@ https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/372
 https://bit.ly/3kIFULg
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://62.182.84.128:81/renata/renata/163101
+http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/374
 
-#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
+EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://watchindia.net:8880/live/33253/72963/2168.m3u8
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
@@ -124,7 +124,7 @@ https://jio.instream.ml/jio.php?c=Sony_Yay_Telugu&q=800&e=.m3u8
 http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
-http://watchindia.net:8880/live/33253/72963/949.m3u8
+http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/370
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
 https://ayushiz5tv.herokuapp.com?c=0-9-372
