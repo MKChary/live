@@ -310,7 +310,7 @@ https://bit.ly/2ZoTpYg
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Movies",&Prive HD
-http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
@@ -322,7 +322,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
 
 #EXTINF:-1 tvg-id="&flix HD" tvg-name="&Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="Movies",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 
 #EXTINF:-1 tvg-id="&Xplor HD"tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-209/list/09209xplorhd.jpg" group-title="Movies",&Xplor HD
 https://cutt.ly/RnndDeK
