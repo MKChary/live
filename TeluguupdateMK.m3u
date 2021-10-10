@@ -60,8 +60,8 @@ https://bit.ly/3kIFULg
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/374
 
-EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://watchindia.net:8880/live/33253/72963/2168.m3u8
+#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
+https://delta32tatasky.akamaized.net/out/i/1734527.mpd
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/375
