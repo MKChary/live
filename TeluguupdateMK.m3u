@@ -64,7 +64,9 @@ http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/374
 http://watchindia.net:8880/live/54739/54739/933.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://watchindia.net:8880/live/54739/54739/2168.ts
+http://tx.flysat.live:80/6677594941/7271978242/83988
+#EXTINF:-1,|TELUGU| TATA SKY TELUGU CINEMA HD
+
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/375
