@@ -412,7 +412,10 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+
+#EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Infotainment",Nasa tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="NHK World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWktuY-6bMbvR60J1PLIg5sa6w4qbzWj6fqz9LUig9LUBkRj6W1X6qpyo&s=10" group-title="Infotainment",NHK World
 http://210.210.155.66/h/h23/01.m3u8
@@ -490,7 +493,7 @@ https://live-gec.hotstar.com/hls/live/670851/biggboss-telugu-2021/day21/master_2
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
 http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1125
 
-#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpYURTTcDpE1E_xuStM3vtLseEAxP_4-3txc5eHeZyL60NMFekVk0-Djs&s=10" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2 HD
 http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Boo horror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyX3xou2bGuzqDxwZePib6kSZZSmcYya8Cg&usqp=CAU" group-title="Movies",BOO Horror Movies
