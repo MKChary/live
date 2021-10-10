@@ -229,7 +229,7 @@ http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-125332_Chrome.jpg"group-title="Movies",Rasi Hollywood HD
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+https://delta37tatasky.akamaized.net/out/i/2631160.mpd
 
 #EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png" group-title="Movies",Kiran Live
 http://sundaylive.livebox.co.in/abcsunlivehls/sundaylive.m3u8
