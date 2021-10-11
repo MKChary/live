@@ -486,7 +486,10 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
-
+#EXTINF:-1 ch-id="STAR SPORTS 1 HD (IN)" tvg-logo=" "  group-title="IPTVESUN",STAR SPORTS 1 HD (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
+#EXTINF:-1 ch-id="STAR SPORTS 2 HD (IN)" tvg-logo=" "  group-title="IPTVESUN",STAR SPORTS 2 HD (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 
 
 
