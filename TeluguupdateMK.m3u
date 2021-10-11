@@ -486,11 +486,15 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
+
+
+
+
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/664
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
-http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 
 #EXTINF:-1 tvg-id="Star Sports 3 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3 HD
 https://live-gec.hotstar.com/hls/live/670851/biggboss-telugu-2021/day21/master_2000.m3u8
