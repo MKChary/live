@@ -487,10 +487,10 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 #EXTINF:-1 ch-id="DD Sports" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="Sports",DD Sports
 http://eurotv.vip:80/590/590/43016
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
+#EXTINF:-1 tvg-id="Star Sports 1 Hindi HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Hindi HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
@@ -508,8 +508,8 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 
-#EXTINF:-1 tvg-id="Star Sports 3 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3 HD
-https://live-gec.hotstar.com/hls/live/670851/biggboss-telugu-2021/day21/master_2000.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/180
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
 http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1125
