@@ -13,7 +13,7 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1120
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/16082.ts
 
 EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/382
@@ -25,7 +25,7 @@ http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/383
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1503
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/380
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8762.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 https://snehz5tvnew.herokuapp.com?c=0-9-zeetelugu
@@ -40,7 +40,7 @@ http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/3558
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/385
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-http://watchindia.net:8880/live/33253/72963/2203.ts
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/87307
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1500
@@ -73,7 +73,7 @@ http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/375
 http://watchindia.net:8880/live/33253/72963/957.ts
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1506
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8519.ts
 
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1504
