@@ -487,9 +487,6 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 EXTINF:-1 ch-id="DD Sports" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg"  group-title="Sports",DD Sports2
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://watchindia.net:8880/live/33253/72963/1072.m3u8
-
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
@@ -504,17 +501,17 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87257
 
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87301
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87304
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports kiran1 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/183
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/181
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports Mouni2  HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/184
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
 http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1125
@@ -583,7 +580,7 @@ https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in_480p/index.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 
 #EXTINF:-1 tvg-name="Zee News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="News",Zee News
-https://zmcl-live.akamaized.net/zeenewsclean_mbr/tracks-v1a1/mono.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/183
 
 #EXTINF:-1 tvg-name="CNBC Awaaz" tvg-logo="https://i.ytimg.com/vi/7YXq3v2aAAI/maxresdefault.jpg" group-title="News",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_3_av-p.m3u8
