@@ -490,6 +490,10 @@ http://eurotv.vip:80/590/590/43016
 #EXTINF:-1 tvg-id="Star Sports 1 Hindi HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Hindi HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 
+
+#EXTINF:-1 tvg-id="Star Sports 1 Hindi HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Hindi HD
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3250.ts
+
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 
