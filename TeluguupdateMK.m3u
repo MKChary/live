@@ -22,7 +22,7 @@ http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/382
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/383
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1503
+https://snehz5tvnew.herokuapp.com?c=0-9-geminilife
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8762.ts
@@ -58,7 +58,7 @@ http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/372
 https://bit.ly/3kIFULg
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/374
+https://snehz5tvnew.herokuapp.com?c=0-9-starmaa
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8
