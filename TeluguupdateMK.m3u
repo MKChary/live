@@ -15,8 +15,8 @@ https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/16082.ts
 
-EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/382
+EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD2
+https://catchup.yuppcdn.net/amazonv2/20/preview/geminimovies/master/master.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/383
