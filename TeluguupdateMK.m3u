@@ -22,7 +22,7 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/geminimovies/master/master.m3u8
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/383
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-https://snehz5tvnew.herokuapp.com?c=0-9-geminilife
+https://catchup.yuppcdn.net/amazonv2/20/preview/geminilife/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8762.ts
