@@ -73,6 +73,9 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/87330
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/375
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",TATA SKY WORLD CINEMA HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/77
+
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://watchindia.net:8880/live/33253/72963/957.ts
 
