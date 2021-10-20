@@ -163,7 +163,7 @@ https://snehz5tvnew.herokuapp.com?c=0-9-371
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
-#EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
+EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
 http://14.199.164.20:4001/play/a0ib/index.m3u8
 
 #EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
