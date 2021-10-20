@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="StudioYuva.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
+#EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
 #EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Music",Marriage Video
@@ -79,10 +79,10 @@ http://watchindia.net:8880/live/33253/72963/957.ts
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8519.ts
 
-#EXTINF:-1 tvg-id="MANGO TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",Mango TV
+#EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",Mango TV
 http://free.fullspeed.tv/query?url=https://youtu.be/c6MySfUPeBo/live
 
-#EXTINF:-1 tvg-id="MANGO TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",Mango TV
+#EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",Mango TV
 http://free.fullspeed.tv/query?url=https://youtu.be/5UvC9XEAL9k/live
 
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
