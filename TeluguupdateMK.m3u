@@ -169,7 +169,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 http://free.fullspeed.tv/query?url=https://youtu.be/SJrmsLM-PJw/live
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1494
+http://free.fullspeed.tv/query?url=https://youtu.be/8McTsOqeueE/live
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 https://snehz5tvnew.herokuapp.com?c=0-9-355
@@ -193,7 +193,7 @@ http://14.199.164.20:4001/play/a0pz/index.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 
 #EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Lifestyle",Bhakti TV
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/367
+http://free.fullspeed.tv/query?url=https://youtu.be/d0dB3kSCMmM/live
 
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
