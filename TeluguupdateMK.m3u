@@ -183,6 +183,9 @@ http://14.199.164.20:4001/play/a0is/index.m3u8
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
 http://eurotv.vip:80/590/590/51856
 
+#EXTINF:-1 tvg-id="Sai TV" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sai_TV.png" group-title="Lifestyle",Sai TV
+http://free.fullspeed.tv/query?url=https://youtu.be/JpFbKHJLEZI/live
+
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
 https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 
