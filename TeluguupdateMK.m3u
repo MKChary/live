@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="StudioOneYuva.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio One Yuva (720p) [Offline]
+#EXTINF:-1 tvg-id="StudioOneYuva.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio One Yuva
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
 #EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Music",Marriage Video
