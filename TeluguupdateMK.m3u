@@ -78,6 +78,9 @@ http://watchindia.net:8880/live/33253/72963/957.ts
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8519.ts
 
+#EXTINF:-1 tvg-id="MANGO MUSIC" tvg-logo="https://www.clipartmax.com/max/m2i8G6m2m2K9m2A0/" group-title="Music",Mango Music
+http://free.fullspeed.tv/query?url=https://youtu.be/c6MySfUPeBo/live
+
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1504
 
