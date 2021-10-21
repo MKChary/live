@@ -44,22 +44,22 @@ https://snehz5tvnew.herokuapp.com?c=0-9-zeecinemalu
 http://box.slweb.tv:8880/deltawireless_1/LDeVeYkIkH/3558
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-https://snehz5tvnew.herokuapp.com?c=0-9-etv
+http://manastv.xyz/m3u8.php?c=ETV_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87307
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1500
+http://manastv.xyz/m3u8.php?c=ETV_Cinema&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-https://snehz5tvnew.herokuapp.com?c=0-9-369
+http://manastv.xyz/m3u8.php?c=ETV_Life&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-https://snehz5tvnew.herokuapp.com?c=0-9-370
+http://manastv.xyz/m3u8.php?c=ETV_Plus&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/372
+http://manastv.xyz/m3u8.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://bit.ly/3kIFULg
@@ -77,7 +77,7 @@ http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/375
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/77
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
-http://watchindia.net:8880/live/33253/72963/957.ts
+http://manastv.xyz/m3u8.php?c=Raj_Music_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8519.ts
@@ -92,10 +92,13 @@ http://free.fullspeed.tv/query?url=https://youtu.be/5UvC9XEAL9k/live
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1504
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1498
+http://manastv.xyz/m3u8.php?c=Vissa_TV&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
 http://free.fullspeed.tv/query?url=https://youtu.be/nQPsY2e5e1A/live
+
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
+http://manastv.xyz/m3u8.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
@@ -104,7 +107,7 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 http://rv.imax.re:80/307210510160/307210510160/83993
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY HD
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1639
+http://manastv.xyz/m3u8.php?c=History_18_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
 http://watchindia.net:8880/live/33253/72963/791.ts
@@ -122,16 +125,16 @@ EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/2306
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Family/Kids",Sonic Telugu
-https://jio.instream.ml/jio.php?c=Sonic_Telugu&q=800&e=.m3u8
+http://manastv.xyz/m3u8.php?c=Sonic_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1635
+http://manastv.xyz/m3u8.php?c=CN_HD_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/378
+http://manastv.xyz/m3u8.php?c=Nick_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Family/Kids",Sony Yay Telugu
-https://jio.instream.ml/jio.php?c=Sony_Yay_Telugu&q=800&e=.m3u8
+http://manastv.xyz/m3u8.php?c=Sony_Yay_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
 http://free.fullspeed.tv/query?url=https://youtu.be/U2Pb3rhwaGg/live
@@ -190,6 +193,12 @@ https://snehz5tvnew.herokuapp.com?c=0-9-355
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
 http://14.199.164.20:4001/play/a0is/index.m3u8
 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="Education", Vidya
+http://manastv.xyz/m3u8.php?c=Vidya&q=800&e=junk.m3u8
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title="Education", Nipuna
+http://manastv.xyz/m3u8.php?c=Nipuna&q=800&e=junk.m3u8
+
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
 http://eurotv.vip:80/590/590/51856
 
@@ -197,13 +206,13 @@ http://eurotv.vip:80/590/590/51856
 http://free.fullspeed.tv/query?url=https://youtu.be/JpFbKHJLEZI/live
 
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
-https://m-c04-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
+http://manastv.xyz/m3u8.php?c=CVR_OM_Spiritual&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="SVBC2" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png" group-title="Lifestyle",SVBC2
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Lifestyle",AASTHA Telugu
-http://14.199.164.20:4001/play/a0pz/index.m3u8
+http://manastv.xyz/m3u8.php?c=Aastha_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
