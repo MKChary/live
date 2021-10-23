@@ -257,7 +257,25 @@ http://blmtech.in:8086/hls/stvtelugu/index.m3u8
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rashi Telugu HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-130821_Chrome.jpg"group-title="Movies",Rasi Telugu HD
-http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+http://singamcloud.in:1935/rasinetwork/rasitelugu/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Rasi-TV",Rasi Tamil
+http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Rasi-TV",Rasi TV
+http://singamcloud.in:1935/rasinetworks/rasitv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Rasi-TV",Rasi Movies
+http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Rasi-TV",Rasi Music
+http://singamcloud.in:1935/rasinetworks/rasimusic/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Rasi-TV",Rasi Hollywood
+http://singamcloud.in:1935/rasinetworks/rasihollywood/chunklist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Rasi-TV",Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-125332_Chrome.jpg"group-title="Movies",Rasi Hollywood HD
 http://free.fullspeed.tv/query?url=https://youtu.be/tFcDhBQJ2AM/live
