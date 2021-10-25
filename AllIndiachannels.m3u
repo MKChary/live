@@ -534,10 +534,10 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1635282095&md5=eFOpN_SeaIpsMnSMA04yPg&user=ef3b0701f26743a4a12ce79435bc
+http://tvflixgd.hopto.org:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=tvflixlive.ml
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/7
+http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=tvflixlive.ml
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Gold HD
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/11
