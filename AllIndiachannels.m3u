@@ -73,19 +73,16 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/87330
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/375
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",TATA SKY WORLD CINEMA HD
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/77
-
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://manastv.xyz/m3u8.php?c=Raj_Music_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-music-hd&e=.m3u8
 
-#EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",Mango TV
+#EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/query?url=https://youtu.be/c6MySfUPeBo/live
 
-#EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",Mango TV
+#EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
 http://free.fullspeed.tv/query?url=https://youtu.be/5UvC9XEAL9k/live
 
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
