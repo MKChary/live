@@ -537,7 +537,7 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 http://tvflixgd.hopto.org:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=tvflixlive.ml
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=tvflixlive.ml
+http://nicefly.xyz:80/h21041003/651032140/246218
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",GTV HD
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
@@ -574,9 +574,6 @@ http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1125
 
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-select-hd-2-logo.jpg" group-title="Sports",Star Sports Select 2 HD
 http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
-http://nicefly.xyz:80/h21041003/651032140/246218
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports
 http://nicefly.xyz:80/h21041003/651032140/246217
