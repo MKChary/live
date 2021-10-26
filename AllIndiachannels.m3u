@@ -65,7 +65,8 @@ http://manastv.xyz/m3u8.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
 https://bit.ly/3kIFULg
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8
+http://221.120.204.4/star-maa-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427nZh
+#http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427nZh
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87330
