@@ -560,8 +560,8 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/87257
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87301
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87304
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",ATN HD
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 3" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
 http://nicefly.xyz:80/h21041003/651032140/246220
