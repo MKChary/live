@@ -256,22 +256,22 @@ http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 #EXTINF:-1 tvg-id="Rashi Telugu HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-130821_Chrome.jpg"group-title="Movies",Rasi Telugu HD
 http://singamcloud.in:1935/rasinetwork/rasitelugu/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Rasi-TV",Rasi Tamil
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Movies",Rasi Tamil
 http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Rasi-TV",Rasi TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Movies",Rasi TV
 http://singamcloud.in:1935/rasinetworks/rasitv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Rasi-TV",Rasi Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Movies",Rasi Movies
 http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Rasi-TV",Rasi Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Movies",Rasi Music
 http://singamcloud.in:1935/rasinetworks/rasimusic/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Rasi-TV",Rasi Hollywood
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Movies",Rasi Hollywood
 http://singamcloud.in:1935/rasinetworks/rasihollywood/chunklist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Rasi-TV",Rasi Hindi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Movies",Rasi Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-125332_Chrome.jpg"group-title="Movies",Rasi Hollywood HD
@@ -993,81 +993,3 @@ https://m-c03-j2apps.s.llnwi.net/hls/7053.NewsOnly.in.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/7052.SanjhaTV.in.m3u8
 #EXTINF:-1 tvg-id="PBNMusic" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7056.PBNMusic.in/1x1/1x/test_pic1590761038771.jpg" group-title="Music",PBN Music
 https://m-c03-j2apps.s.llnwi.net/hls/7056.PBNMusic.in.m3u8
-
-
-
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Anmol Cinema
-https://snehz5tvnew.herokuapp.com?c=0-9-
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Bollywood
-https://snehz5tvnew.herokuapp.com?c=0-9-373
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Cinema
-https://snehz5tvnew.herokuapp.com?c=0-9-374
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&Pictures
-https://snehz5tvnew.herokuapp.com?c=0-9-375
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Action
-https://snehz5tvnew.herokuapp.com?c=0-9-376
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Keralam HD
-https://snehz5tvnew.herokuapp.com?c=0-9-377
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Punjabi
-https://snehz5tvnew.herokuapp.com?c=0-9-378
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Chardikla Time TV
-https://snehz5tvnew.herokuapp.com?c=0-9-379
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Big Ganga
-https://snehz5tvnew.herokuapp.com?c=0-9-380
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD News
-https://snehz5tvnew.herokuapp.com?c=0-9-ddsports
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD India
-https://snehz5tvnew.herokuapp.com?c=0-9-geminimusic
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD Kisan
-https://snehz5tvnew.herokuapp.com?c=0-9-starmaahd
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9X Jalwa
-https://snehz5tvnew.herokuapp.com?c=0-9-381
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Cinemalu
-https://snehz5tvnew.herokuapp.com?c=0-9-382
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9XM
-https://snehz5tvnew.herokuapp.com?c=0-9-383
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9X Jhakaas
-https://snehz5tvnew.herokuapp.com?c=0-9-384
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Boogle Bollywood
-https://snehz5tvnew.herokuapp.com?c=0-9-385
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD Odia
-https://snehz5tvnew.herokuapp.com?c=0-9-386
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&flix
-https://snehz5tvnew.herokuapp.com?c=0-9-387
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9X Tashan
-https://snehz5tvnew.herokuapp.com?c=0-9-starsports1telugu
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Alpha ETC Punjabi
-https://snehz5tvnew.herokuapp.com?c=0-9-sakshinews
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Shiksha TV
-https://snehz5tvnew.herokuapp.com?c=0-9-etv
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Sanskar TV
-https://snehz5tvnew.herokuapp.com?c=0-9-etvabhiruchi
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Shubh TV
-https://snehz5tvnew.herokuapp.com?c=0-9-etvcinema
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Satsang TV
-https://snehz5tvnew.herokuapp.com?c=0-9-etvplus
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Divya TV
-https://snehz5tvnew.herokuapp.com?c=0-9-geminimovies
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Krishna Vani
-https://snehz5tvnew.herokuapp.com?c=0-9-tnews
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Salaam
-https://snehz5tvnew.herokuapp.com?c=0-9-vissa
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD Podhigai
-https://snehz5tvnew.herokuapp.com?c=0-9-maamusic
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD Malayalam
-https://snehz5tvnew.herokuapp.com?c=0-9-ddsaptagiri
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD Yadagiri
-https://snehz5tvnew.herokuapp.com?c=0-9-ddyadagiri 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD Bangla
-https://snehz5tvnew.herokuapp.com?c=0-9-ddbangla 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD Chandana
-https://snehz5tvnew.herokuapp.com?c=0-9-ddchandana 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Sarthak
-https://snehz5tvnew.herokuapp.com?c=0-9-sakshinews
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD Sahyadri
-https://snehz5tvnew.herokuapp.com?c=0-9-ddsahyadri 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD Girnar
-https://snehz5tvnew.herokuapp.com?c=0-9-ddgirnar 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",DD Urdu
-https://snehz5tvnew.herokuapp.com?c=0-9-ddurdu
-
