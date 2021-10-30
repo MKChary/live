@@ -555,7 +555,6 @@ http://appleiptv.com:25461/1336/1336/31157
 #EXTINF:-1 tvg-id="Star Sports 1 Telugu" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Telugu3
 https://afd.sharevideo6.com/pool/pub/c9/f9/8d/ce01cb67f45351ee045876dc30c9f98d/3688271890?token=634639d467a36d890021d017164572be&ts=1635385071
 
-
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://nicefly.xyz:80/h21041003/651032140/246218
 
@@ -573,6 +572,9 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",astro cricket
 http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
+
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",astro cricket2
+http://nextlink.uk:25461/enjoy1/1234/348
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87301
