@@ -547,7 +547,10 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
-http://cdn2.niazitv.pk:8080/PTV-Sports-FunTV-100/index.m3u8
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5437
+
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow Xtra
+http://5giptv.me:8880/34516317/55678974/522005
 
 #EXTINF:-1 tvg-id="Star Sports 1 Telugu" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Telugu
 http://appleiptv.com:25461/1336/1336/31157
@@ -575,6 +578,9 @@ http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/
 
 #EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",astro cricket2
 http://nextlink.uk:25461/enjoy1/1234/348
+
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",astro cricket3
+https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87301
