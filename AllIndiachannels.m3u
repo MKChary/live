@@ -168,7 +168,8 @@ https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Telugu.in.m3u8
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-http://free.fullspeed.tv/query?url=https://youtu.be/PUSL8ZppWhk/live
+#http://free.fullspeed.tv/query?url=https://youtu.be/PUSL8ZppWhk/live
+https://m-c01-j2apps.s.llnwi.net/hls/5412.TV6Telugu.in.m3u8
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC6ickpgDIsltU_-8CbZaksQ/live
