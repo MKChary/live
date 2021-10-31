@@ -161,7 +161,8 @@ http://free.fullspeed.tv/query?url=https://youtu.be/voI4-n6WDaE/live
 https://snehz5tvnew.herokuapp.com?c=0-9-372
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
-https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
+https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Telugu.in.m3u8
+#https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in.m3u8
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
