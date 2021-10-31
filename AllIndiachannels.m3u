@@ -129,7 +129,7 @@ http://jo123.biz/jweb/m3u8.php?c=History_18_Telugu&q=600&e=junk.m3u8
 http://watchindia.net:8880/live/33253/72963/791.ts
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travel XP HD
-http://jo123.biz/jweb/m3u8.php?c=Travel_Xp&q=600&e=junk.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Travel_Xp_hd&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
 https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
