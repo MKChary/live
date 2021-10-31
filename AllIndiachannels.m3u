@@ -545,8 +545,19 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
-#EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="Sports",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+Sky cricket https://bit.ly/2Y4SVX8
+
+
+
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Fox 501 cricket
+https://bit.ly/3Ey3aTq
+
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
+https://bit.ly/3btyVAk
+
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
+https://bit.ly/3Cycw0T
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
 http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5437
@@ -557,8 +568,8 @@ http://5giptv.me:8880/34516317/55678974/522005
 #EXTINF:-1 tvg-id="Star Sports 1 Telugu" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Telugu
 http://appleiptv.com:25461/1336/1336/31157
 
-#EXTINF:-1 tvg-id="Star Sports 1 Telugu" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Telugu3
-https://afd.sharevideo6.com/pool/pub/c9/f9/8d/ce01cb67f45351ee045876dc30c9f98d/3688271890?token=634639d467a36d890021d017164572be&ts=1635385071
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
+https://bit.ly/3boNUM0
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://nicefly.xyz:80/h21041003/651032140/246218
@@ -593,13 +604,13 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 #EXTINF:-1 tvg-id="Star Sports 3" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
 http://nicefly.xyz:80/h21041003/651032140/246220
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png" group-title="Sports",Premier Sports
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/174
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png" group-title="Sports",Premier Sports
+https://bit.ly/3BwRC0O
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
 https://www.iptvmate.net/files/24042021/countries/lk.m3u
 
-#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-select-hd-2-logo.jpg" group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-select-hd-2-logo.jpg" group-title="Sports",Star Sports 2 HD
 http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports
