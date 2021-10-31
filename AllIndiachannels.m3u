@@ -221,7 +221,7 @@ http://eurotv.vip:80/590/590/51856
 http://free.fullspeed.tv/query?url=https://youtu.be/JpFbKHJLEZI/live
 
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
-https://m-c08-j2apps.s.llnwi.net/hls/1127.CVROMSpiritual.in.m3u8
+https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRSpiritual.in.m3u8
 
 #EXTINF:-1 tvg-id="SVBC2" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png" group-title="Lifestyle",SVBC2
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
