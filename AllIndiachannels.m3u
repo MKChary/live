@@ -158,18 +158,16 @@ http://free.fullspeed.tv/query?url=https://youtu.be/U2Pb3rhwaGg/live
 http://free.fullspeed.tv/query?url=https://youtu.be/voI4-n6WDaE/live
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
-https://snehz5tvnew.herokuapp.com?c=0-9-372
+http://free.fullspeed.tv/query?url=https://youtu.be/HUiHKse-YgM/live
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
-
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-#http://free.fullspeed.tv/query?url=https://youtu.be/PUSL8ZppWhk/live
-https://m-c01-j2apps.s.llnwi.net/hls/0440.TV6News.in.m3u8
+http://free.fullspeed.tv/query?url=https://youtu.be/-ki9ezc5hF0/live
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UC6ickpgDIsltU_-8CbZaksQ/live
