@@ -153,6 +153,9 @@ http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Telugu&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
 http://free.fullspeed.tv/query?url=https://youtu.be/U2Pb3rhwaGg/live
 
+#EXTINF:-1 tvg-id="YOYO News" tvg-id="T News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yoyotv.jpeg" group-title="News",YOYO News
+http://free.fullspeed.tv/query?url=https://youtu.be/mGD0coxXWk8/live
+
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
 http://free.fullspeed.tv/query?url=https://youtu.be/voI4-n6WDaE/live
 
