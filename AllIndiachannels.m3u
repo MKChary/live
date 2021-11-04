@@ -366,6 +366,9 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Movies",HBO Hits HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Movies",HBO Signature HD
+https://bit.ly/2Yfl7Xn
+
 #EXTINF:-1 tvg-id="UTV Action HD" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Movies",UTV Action HD
 https://bit.ly/2ZoTpYg
 
