@@ -563,7 +563,10 @@ http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5437
 http://appleiptv.com:25461/1336/1336/31157
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Tamil
-https://cutt.ly/vR7xI3a
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Telugu
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_TELUGU-in/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 https://cutt.ly/6R7xmf4
