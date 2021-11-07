@@ -45,6 +45,9 @@ https://bit.ly/3GHSljA
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetelugu
 
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD Ltest
+https://z5ams.akamaized.net/zeeteleguhd/index.m3u8
+
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://jo123.biz/jweb/m3u8.php?c=Zee_Telugu&q=600&e=junk.m3u8
 
