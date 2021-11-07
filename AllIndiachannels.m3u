@@ -556,8 +556,9 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
-http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5437
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow hotstar
+#http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5437
+https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464-b/sshd1livetvwv/master.mpd
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
 http://appleiptv.com:25461/1336/1336/31157
