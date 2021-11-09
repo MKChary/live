@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
+http://free.fullspeed.tv/query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
 #EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Music",Marriage Video
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/Kiran.mp4
@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/MKChary/Iptv-list/master/Kiran.mp4
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/VID-20210625-WA0000.mp4
 
 EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Music",Full Movie3
-http://free.fullspeed.tv/query?url=https://kuklink.com/1/bnYyZmloMDA1eTh5
+http://free.fullspeed.tv/query?streaming-ip=https://kuklink.com/1/bnYyZmloMDA1eTh5
 
 #EXTINF:-1 tvg-id="Gemini tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",TBO classic
 https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
@@ -100,10 +100,10 @@ https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-music-hd&e=.m3u8
 https://bit.ly/3mmOvEj
 
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
-http://free.fullspeed.tv/query?url=https://youtu.be/c6MySfUPeBo/live
+http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
 
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
-http://free.fullspeed.tv/query?url=https://youtu.be/5UvC9XEAL9k/live
+http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/5UvC9XEAL9k/live
 
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1504
@@ -112,7 +112,7 @@ http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1504
 http://jo123.biz/jweb/m3u8.php?c=Vissa_TV&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
-http://free.fullspeed.tv/query?url=https://youtu.be/nQPsY2e5e1A/live
+http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/nQPsY2e5e1A/live
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_Telugu&q=600&e=junk.m3u8
@@ -157,13 +157,13 @@ http://jo123.biz/jweb/m3u8.php?c=Nick_Telugu&q=600&e=junk.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Telugu&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
-http://free.fullspeed.tv/query?url=https://youtu.be/U2Pb3rhwaGg/live
+http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/U2Pb3rhwaGg/live
 
 EXTINF:-1 tvg-id="YOYO News" tvg-id="T News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yoyotv.jpeg" group-title="News",YOYO News
 http://free.fullspeed.tv/query?url=https://youtu.be/mGD0coxXWk8/live
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
-http://free.fullspeed.tv/query?url=https://youtu.be/voI4-n6WDaE/live
+http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/voI4-n6WDaE/live
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-372
@@ -181,7 +181,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6ickpgDIsltU_-8CbZaksQ/live
 
 EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/829808af5beba75d93ad08dee71ddb48.png" group-title="News",ETV Andhra Pradesh
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCSbwShxZsBiqqWwtUidmS6g/live
+http://free.fullspeed.tv/query?streaming-ip=https://www.youtube.com/channel/UCSbwShxZsBiqqWwtUidmS6g/live
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
 #https://sneh-iptv-play.up.railway.app/z5api.php/?c=0-9-371&e=.m3u8
@@ -194,7 +194,7 @@ EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv
 http://14.199.164.20:4001/play/a0ib/index.m3u8
 
 EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
-http://free.fullspeed.tv/query?url=https://youtu.be/qIY8IeluF9g/live
+http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/qIY8IeluF9g/live
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
@@ -209,7 +209,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 http://livezer0.hjkm.info:11991/vulcan/rajnewstelugu/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
-http://free.fullspeed.tv/query?url=https://youtu.be/8McTsOqeueE/live
+http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/8McTsOqeueE/live
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 https://snehz5tvnew.herokuapp.com?c=0-9-355
@@ -218,7 +218,7 @@ https://snehz5tvnew.herokuapp.com?c=0-9-355
 http://14.199.164.20:4001/play/a0is/index.m3u8
 
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="Education", Vidya
-http://free.fullspeed.tv/query?url=https://youtu.be/8mXj3hVbQ4c/live
+http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/8mXj3hVbQ4c/live
 
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title="Education", Nipuna
 http://manastv.xyz/m3u8.php?c=Nipuna&q=800&e=junk.m3u8
@@ -227,7 +227,7 @@ http://manastv.xyz/m3u8.php?c=Nipuna&q=800&e=junk.m3u8
 http://eurotv.vip:80/590/590/51856
 
 #EXTINF:-1 tvg-id="Sai TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/FB_IMG_1634725008032.jpg" group-title="Lifestyle",Sai TV
-http://free.fullspeed.tv/query?url=https://youtu.be/JpFbKHJLEZI/live
+http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/JpFbKHJLEZI/live
 
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRSpiritual.in.m3u8
@@ -242,7 +242,7 @@ http://manastv.xyz/m3u8.php?c=Aastha_Telugu&q=800&e=junk.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
 
 #EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Lifestyle",Bhakti TV
-http://free.fullspeed.tv/query?url=https://youtu.be/d0dB3kSCMmM/live
+http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/d0dB3kSCMmM/live
 
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
