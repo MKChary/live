@@ -187,7 +187,7 @@ EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCSbwShxZsBiqqWwtUidmS6g/live
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
-http://free.fullspeed.tv/query?url=https://youtu.be/IHuHxUo4Yps/live
+https://sneh-iptv-play.up.railway.app/z5api.php/?c=0-9-371&e=.m3u8
 
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
