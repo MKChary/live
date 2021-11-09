@@ -45,7 +45,7 @@ https://bit.ly/3GHSljA
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetelugu
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu HD
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
 http://jo123.biz/jweb/m3u8.php?c=Zee_Telugu&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
@@ -163,7 +163,7 @@ http://free.fullspeed.tv/query?url=https://youtu.be/mGD0coxXWk8/live
 http://free.fullspeed.tv/query?url=https://youtu.be/voI4-n6WDaE/live
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
-http://free.fullspeed.tv/query?url=https://youtu.be/HUiHKse-YgM/live
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-372
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
