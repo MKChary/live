@@ -203,7 +203,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News Telugu
-http://free.fullspeed.tv/query?url=https://youtu.be/kBIJ1EXnQKk/live
+http://livezer0.hjkm.info:11991/vulcan/rajnewstelugu/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 http://free.fullspeed.tv/query?url=https://youtu.be/8McTsOqeueE/live
