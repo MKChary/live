@@ -156,7 +156,7 @@ http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Telugu&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
 http://free.fullspeed.tv/query?url=https://youtu.be/U2Pb3rhwaGg/live
 
-#EXTINF:-1 tvg-id="YOYO News" tvg-id="T News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yoyotv.jpeg" group-title="News",YOYO News
+EXTINF:-1 tvg-id="YOYO News" tvg-id="T News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yoyotv.jpeg" group-title="News",YOYO News
 http://free.fullspeed.tv/query?url=https://youtu.be/mGD0coxXWk8/live
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
@@ -181,7 +181,8 @@ EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://ky-iptv.com:25461/images/
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCSbwShxZsBiqqWwtUidmS6g/live
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
-https://sneh-iptv-play.up.railway.app/z5api.php/?c=0-9-371&e=.m3u8
+#https://sneh-iptv-play.up.railway.app/z5api.php/?c=0-9-371&e=.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-371
 
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
