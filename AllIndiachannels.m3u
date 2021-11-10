@@ -229,8 +229,8 @@ http://eurotv.vip:80/590/590/51856
 #EXTINF:-1 tvg-id="Sai TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/FB_IMG_1634725008032.jpg" group-title="Lifestyle",Sai TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/iaBbNj5PZac/live
 
-#EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
-https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRSpiritual.in.m3u8
+EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
+https://m-c08-j2apps.s.llnwi.net/hls/5415.CVRSpiritual.in.m3u8
 
 #EXTINF:-1 tvg-id="SVBC2" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png" group-title="Lifestyle",SVBC2
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
@@ -304,7 +304,7 @@ http://singamcloud.in:1935/rasinetworks/rasihollywood/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Movies",Rasi Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-125332_Chrome.jpg"group-title="Movies",Rasi Hollywood HD
+EXTINF:-1 tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-125332_Chrome.jpg"group-title="Movies",Rasi Hollywood HD
 http://singamcloud.in:1935/rasinetworks/rasitelugumusic/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png" group-title="Movies",Kiran Live
@@ -382,11 +382,8 @@ https://bit.ly/2ZoTpYg
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="Movies",&Prive HD
+#EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-privéhd
-
-#EXTINF:-1 tvg-id="&Prive HD" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-channel_2105335046
