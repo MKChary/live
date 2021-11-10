@@ -567,19 +567,19 @@ https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464-b/sshd1livetvwv/master.
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1(Telugu)
 http://appleiptv.com:25461/1336/1336/31157
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD(Hindi)
 http://nicefly.xyz:80/h21041003/651032140/246218
 
-#EXTINF:-1 tvg-id="Star Sports 1 Hindi" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
+#EXTINF:-1 tvg-id="Star Sports 1 Hindi" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1(Hindi)
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD(Hindi)
 http://nicefly.xyz:80/h21041003/651032140/246218
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD(Hindi)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD(Hindi)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 
 EXTINF:-1 tvg-id="astrocricket.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",astro cricket
@@ -587,9 +587,6 @@ http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/
 
 EXTINF:-1 tvg-id="astrocricket.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",astro cricket3
 https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
-
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-https://nayeemparvez.ml/Star-Sports1-HD-Hindi.m3u8
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
