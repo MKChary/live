@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
-#EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Music",Marriage Video
+EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Music",Marriage Video
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/Kiran.mp4
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/GayathriManthra.jpeg" group-title="Music",Gayathri Mathram
