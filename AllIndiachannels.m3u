@@ -79,16 +79,10 @@ http://jo123.biz/jweb/m3u8.php?c=ETV_Abhiruchi&q=600&e=junk.m3u8
 https://bit.ly/3kIFULg
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/52835
-
-#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40866
-
-#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-#http://212.102.60.40:2200/R-EX/TELUGU_STAR_MAA_HD-in/tracks-v1a1/mono.m3u8
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/6000
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/375
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/6001
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://jo123.biz/jweb/m3u8.php?c=Raj_Music_Telugu&q=600&e=junk.m3u8
