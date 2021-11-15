@@ -64,7 +64,7 @@ http://212.102.60.40:2200/R-EX/TELUGU_ETV_HD-in/tracks-v1a1/2021/11/09/14/30/10-
 http://jo123.biz/jweb/m3u8.php?c=ETV_Cinema&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://jo123.biz/jweb/m3u8.php?c=ETV_Life&q=600&e=junk.m3u8
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/89960
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
 http://jo123.biz/jweb/m3u8.php?c=ETV_Plus&q=600&e=junk.m3u8
@@ -73,7 +73,7 @@ http://jo123.biz/jweb/m3u8.php?c=ETV_Plus&q=600&e=junk.m3u8
 http://212.102.60.40:2200/R-EX/TELUGU_ETV_PLUS-in/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-http://jo123.biz/jweb/m3u8.php?c=ETV_Abhiruchi&q=600&e=junk.m3u8
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/89958
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://bit.ly/3kIFULg
