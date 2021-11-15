@@ -116,6 +116,8 @@ http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/nQPsY2e5e1A/live
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_Telugu&q=600&e=junk.m3u8
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/56056
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
@@ -224,7 +226,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8mXj3hVbQ4c/li
 http://manastv.xyz/m3u8.php?c=Nipuna&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
-http://eurotv.vip:80/590/590/51856
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/2006
 
 #EXTINF:-1 tvg-id="Sai TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/FB_IMG_1634725008032.jpg" group-title="Lifestyle",Sai TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/iaBbNj5PZac/live
