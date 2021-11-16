@@ -55,27 +55,21 @@ http://jo123.biz/jweb/m3u8.php?c=Zee_Cinemalu&q=600&e=junk.m3u8
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecinemalu
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-http://jo123.biz/jweb/m3u8.php?c=ETV_Telugu&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-http://212.102.60.40:2200/R-EX/TELUGU_ETV_HD-in/tracks-v1a1/2021/11/09/14/30/10-10000.ts?token=RED_vqojroBEF5bGJvXYRDdV3w%3D%3D%2C1619774634.1743800549
+http://opplex.tv:8080/123456aa/123456aa/167616
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://jo123.biz/jweb/m3u8.php?c=ETV_Cinema&q=600&e=junk.m3u8
+http://opplex.tv:8080/123456aa/123456aa/167788
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/89960
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://jo123.biz/jweb/m3u8.php?c=ETV_Plus&q=600&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://212.102.60.40:2200/R-EX/TELUGU_ETV_PLUS-in/tracks-v1a1/mono.m3u8
+http://opplex.tv:8080/123456aa/123456aa/167786
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/89958
 
-#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
+EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://bit.ly/3kIFULg
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
