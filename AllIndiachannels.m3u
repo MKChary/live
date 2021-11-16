@@ -572,20 +572,14 @@ http://appleiptv.com:25461/1336/1336/31157
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD(Hindi)
 http://nicefly.xyz:80/h21041003/651032140/246218
 
-#EXTINF:-1 tvg-id="Star Sports 1 Hindi" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1(Hindi)
-http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD(Hindi)
 http://nicefly.xyz:80/h21041003/651032140/246218
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD(Hindi)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD(Hindi)
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD(Hindi)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
-
-EXTINF:-1 tvg-id="astrocricket.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",astro cricket
-http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 
 EXTINF:-1 tvg-id="astrocricket.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",astro cricket3
 https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
@@ -593,7 +587,10 @@ https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png" group-title="Sports",Premier Sports
+#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-select-hd-2-logo.jpg" group-title="Sports",Star Sports 2 HD
+https://bit.ly/3BwRC0O
+
+EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png" group-title="Sports",Premier Sports
 https://bit.ly/3BwRC0O
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
