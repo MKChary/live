@@ -84,6 +84,9 @@ http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/43603
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/6001
 
+#EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
+http://opplex.tv:8080/123456aa/123456aa/167640
+
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://jo123.biz/jweb/m3u8.php?c=Raj_Music_Telugu&q=600&e=junk.m3u8
 
