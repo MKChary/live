@@ -43,7 +43,7 @@ https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-life&e=.m3u8
 https://bit.ly/3GHSljA
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetelugu
+https://sneh-z5api.herokuapp.com/?c=0-9-zeetelugu
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
 http://jo123.biz/jweb/m3u8.php?c=Zee_Telugu&q=600&e=junk.m3u8
@@ -52,7 +52,7 @@ http://jo123.biz/jweb/m3u8.php?c=Zee_Telugu&q=600&e=junk.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Zee_Cinemalu&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecinemalu
+https://sneh-z5api.herokuapp.com/?c=0-9-zeecinemalu
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 http://opplex.tv:8080/123456aa/123456aa/167616
@@ -165,7 +165,7 @@ http://free.fullspeed.tv/iptv-query?url=https://youtu.be/mGD0coxXWk8/live
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/voI4-n6WDaE/live
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-372
+https://sneh-z5api.herokuapp.com/?c=0-9-372
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
@@ -379,13 +379,13 @@ https://bit.ly/2ZoTpYg
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-privéhd
+https://sneh-z5api.herokuapp.com/?c=0-9-privéhd
 
 #EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-channel_2105335046
+https://sneh-z5api.herokuapp.com/?c=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="&xplorHD"tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-209/list/09209xplorhd.jpg" group-title="Movies",&xplorHD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-209
+https://sneh-z5api.herokuapp.com/?c=0-9-209
 
 #EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
