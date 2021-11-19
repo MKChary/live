@@ -34,10 +34,10 @@ https://bit.ly/3GHSljA
 https://sneh-z5api.herokuapp.com/?c=0-9-zeetelugu
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
-http://jo123.biz/jweb/m3u8.php?c=Zee_Telugu&q=600&e=junk.m3u8
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232.png" group-title="Movies",Zee Cinemalu
-http://jo123.biz/jweb/m3u8.php?c=Zee_Cinemalu&q=600&e=junk.m3u8
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Cinemalu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 https://sneh-z5api.herokuapp.com/?c=0-9-zeecinemalu
@@ -76,7 +76,7 @@ http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/6001
 http://opplex.tv:8080/123456aa/123456aa/167640
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
-http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Raj_Music&q=1200&e=.m3u8
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Raj_Music_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 https://bit.ly/3mmOvEj
