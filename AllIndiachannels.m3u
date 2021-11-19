@@ -36,7 +36,7 @@ https://sneh-z5api.herokuapp.com/?c=0-9-zeetelugu
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Telugu&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232.png" group-title="Movies",Zee Cinemalu
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemal.png" group-title="Movies",Zee Cinemalu
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Cinemalu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
@@ -369,9 +369,6 @@ https://sneh-z5api.herokuapp.com/?c=0-9-209
 
 #EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
-
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
-https://jio.instream.ml/jio.php?c=CN_HD_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
