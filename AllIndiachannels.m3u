@@ -135,7 +135,7 @@ http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Nick_Telugu&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Family/Kids",Sony Yay Telugu
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sony_Yay_Telugu&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
+EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/U2Pb3rhwaGg/live
 
 EXTINF:-1 tvg-id="YOYO News" tvg-id="T News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yoyotv.jpeg" group-title="News",YOYO News
@@ -212,7 +212,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/5415.CVRSpiritual.in.m3u8
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Lifestyle",AASTHA Telugu
-http://manastv.xyz/m3u8.php?c=Aastha_Telugu&q=800&e=junk.m3u8
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Aastha_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
