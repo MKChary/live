@@ -554,7 +554,7 @@ http://opplex.tv:8080/123456aa/123456aa/109988
 #EXTINF:-1 tvg-id="astrocricket.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",jio English
 http://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Jio_Cricket_English
 
-#EXTINF:-1 tvg-id="astrocricket.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",jio telugu
+#EXTINF:-1 tvg-id="astrocricket.com" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket Telugu
 http://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Jio_Cricket_Telugu
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
