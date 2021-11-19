@@ -76,7 +76,7 @@ http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/6001
 http://opplex.tv:8080/123456aa/123456aa/167640
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
-http://jo123.biz/jweb/m3u8.php?c=Raj_Music_Telugu&q=600&e=junk.m3u8
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Raj_Music&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 https://bit.ly/3mmOvEj
@@ -91,13 +91,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/5UvC9XEAL9k/li
 http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1504
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-http://jo123.biz/jweb/m3u8.php?c=Vissa_TV&q=600&e=junk.m3u8
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Vissa_TV&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
 http://free.fullspeed.tv/query?streaming-ip=https://youtu.be/nQPsY2e5e1A/live
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
-http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD_Telugu&q=600&e=junk.m3u8
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3u8
+
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/56056
 
@@ -108,10 +109,10 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 http://rv.imax.re:80/307210510160/307210510160/83993
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
-https://idvd.multitvsolution.com/idvo/discoveryeng.m3u8
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_Channel_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
-http://jo123.biz/jweb/m3u8.php?c=History_18_Telugu&q=600&e=junk.m3u8
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=History_18_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
 http://watchindia.net:8880/live/33253/72963/791.ts
