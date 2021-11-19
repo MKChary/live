@@ -202,6 +202,13 @@ http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Nipuna&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/2006
 
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",Gujarathi
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_News_Gujarati&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",Telugu
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_News_Gujarati&q=1200&e=.m3u8
+
+
 #EXTINF:-1 tvg-id="Sai TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/FB_IMG_1634725008032.jpg" group-title="Lifestyle",Sai TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/iaBbNj5PZac/live
 
