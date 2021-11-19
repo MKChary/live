@@ -36,7 +36,7 @@ https://sneh-z5api.herokuapp.com/?c=0-9-zeetelugu
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Telugu&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemal.png" group-title="Movies",Zee Cinemalu
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Cinemalu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
