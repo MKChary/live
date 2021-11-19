@@ -551,8 +551,11 @@ http://opplex.tv:8080/123456aa/123456aa/109987
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://opplex.tv:8080/123456aa/123456aa/109988
 
-EXTINF:-1 tvg-id="astrocricket.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",astro cricket3
-https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
+#EXTINF:-1 tvg-id="astrocricket.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",jio English
+http://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Jio_Cricket_English
+
+#EXTINF:-1 tvg-id="astrocricket.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/824.png/revision/latest?cb=20200527073450" group-title="Sports",jio telugu
+http://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Jio_Cricket_Telugu
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
