@@ -569,8 +569,8 @@ https://www.iptvmate.net/files/24042021/countries/lk.m3u
 EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-select-hd-2-logo.jpg" group-title="Sports",Star Sports 2 HD
 http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports
-http://5giptv.me:8880/34516317/55678974/522001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/146
 
 #EXTINF:-1 tvg-name="Boo horror" tvg-logo="" group-title="Movies",BOO Horror Movies
 https://cutt.ly/inEizyW
