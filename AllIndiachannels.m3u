@@ -537,7 +537,7 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 http://tv.alphamediazone.com:8089/thunderbd/70/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
-http://appleiptv.com:25461/1336/1336/31157
+http://opplex.tv:8080/123456aa/123456aa/167575
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://opplex.tv:8080/123456aa/123456aa/167573
