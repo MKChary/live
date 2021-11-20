@@ -560,7 +560,7 @@ http://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Jio_Cricket_English
 #EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket
 http://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Jio_Cricket_Telugu
 
-#EXTINF:-1 tvg-id="Jio Football" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Telugu.png" group-title="Sports",Jio Football
+EXTINF:-1 tvg-id="Jio Football" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Telugu.png" group-title="Sports",Jio Football
 http://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Jio_Football_Telugu
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
