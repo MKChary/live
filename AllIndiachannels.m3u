@@ -382,6 +382,35 @@ https://sneh-z5api.herokuapp.com/?c=0-9-209
 #EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
 
+#EXTINF:-1,Premiere 2 HD
+http://livetv2021.site:8080/9897876765/6576567/124
+
+#EXTINF:-1,HBO HD
+http://livetv2021.site:8080/9897876765/6576567/125
+
+#EXTINF:-1,HBO2 HD
+http://livetv2021.site:8080/9897876765/6576567/126
+
+#EXTINF:-1,HBO+ HD
+http://livetv2021.site:8080/9897876765/6576567/127
+
+#EXTINF:-1,Arte 1 HEVC
+http://livetv2021.site:8080/9897876765/6576567/128
+#EXTINF:-1,Arte 1 HD
+http://livetv2021.site:8080/9897876765/6576567/129
+#EXTINF:-1,HBO Family HD
+http://livetv2021.site:8080/9897876765/6576567/130
+#EXTINF:-1,HBO Signature HD
+http://livetv2021.site:8080/9897876765/6576567/131
+#EXTINF:-1,HBO POP HD
+http://livetv2021.site:8080/9897876765/6576567/132
+#EXTINF:-1,Rede Vida HD
+http://livetv2021.site:8080/9897876765/6576567/133
+#EXTINF:-1,Premiere 6 HD
+http://livetv2021.site:8080/9897876765/6576567/134
+#EXTINF:-1,Premiere 7 HD
+http://livetv2021.site:8080/9897876765/6576567/135
+#EXTINF:-1,Premiere 5 HD
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
@@ -590,6 +619,9 @@ http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/146
 
+#EXTINF:-1tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",Sportv  UHD
+http://livetv2021.site:8080/9897876765/6576567/55
+
 #EXTINF:-1 tvg-name="Boo horror" tvg-logo="" group-title="Movies",BOO Horror Movies
 https://cutt.ly/inEizyW
 
@@ -637,6 +669,9 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1 tvg-id="Sony Yay Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" group-title="Family/Kids",Sony Yay Hindi
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
+#EXTINF:-1 tvg-id="KidCentral" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8046.KidCentral.in/1x1/1x/test_pic1588324065935.jpg" group-title="Family/Kids",NatGeo Kids HD
+http://livetv2021.site:8080/9897876765/6576567/77
 
 #EXTINF:-1 tvg-name="Aaj Tak Hd" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg" group-title="News",Aaj Tak Hd
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
