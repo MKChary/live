@@ -202,6 +202,12 @@ http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Vidya&q=1200&e=.m3u8
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title="Education", Nipuna
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Nipuna&q=1200&e=.m3u8
 
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="Education", AP BIE SCIENCE
+http://snehjiotv.in1.bitmana.io/play.php?c=AP_BIE_SCIENCE
+
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="Education", AP BIE ARTS
+http://snehjiotv.in1.bitmana.io/play.php?c=AP_BIE_ARTS
+
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/2006
 
