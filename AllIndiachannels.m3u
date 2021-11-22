@@ -522,6 +522,18 @@ http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3
 #EXTINF:-1 tvg-id="TLC English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Infotainment",TLC English
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 
+#EXTINF:-1 group-title="Infotainment",NatGeo Wild FHD HVEC
+http://livetv2021.site:8080/9897876765/6576567/8848
+
+#EXTINF:-1 group-title="Infotainment",NatGeo Wild HD
+http://livetv2021.site:8080/9897876765/6576567/8849
+
+#EXTINF:-1 group-title="Infotainment",National Geographic FHD HVEC
+http://livetv2021.site:8080/9897876765/6576567/8850
+
+#EXTINF:-1 group-title="Infotainment",National Geographic HD
+http://livetv2021.site:8080/9897876765/6576567/8851
+
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Family/Kids",Discovery Kids
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 
