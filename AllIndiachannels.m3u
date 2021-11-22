@@ -103,7 +103,7 @@ http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/56056
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
-http://rv.imax.re:80/307210510160/307210510160/83993
+http://livetv2021.site:8080/9897876765/6576567/8850
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_Channel_Telugu&q=1200&e=.m3u8
@@ -522,17 +522,8 @@ http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3
 #EXTINF:-1 tvg-id="TLC English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Infotainment",TLC English
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 
-#EXTINF:-1 group-title="Infotainment",NatGeo Wild FHD HVEC
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png"group-title="Infotainment",NatGeo Wild HD
 http://livetv2021.site:8080/9897876765/6576567/8848
-
-#EXTINF:-1 group-title="Infotainment",NatGeo Wild HD
-http://livetv2021.site:8080/9897876765/6576567/8849
-
-#EXTINF:-1 group-title="Infotainment",National Geographic FHD HVEC
-http://livetv2021.site:8080/9897876765/6576567/8850
-
-#EXTINF:-1 group-title="Infotainment",National Geographic HD
-http://livetv2021.site:8080/9897876765/6576567/8851
 
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Family/Kids",Discovery Kids
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
