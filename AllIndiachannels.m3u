@@ -574,13 +574,12 @@ http://tv.alphamediazone.com:8089/thunderbd/70/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
-//http://opplex.tv:8080/123456aa/123456aa/167573
 http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
+#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports Select 1 HD
+http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
+EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
