@@ -598,10 +598,10 @@ http://opplex.tv:8080/123456aa/123456aa/109988
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
 http://appleiptv.com:25461/1336/1336/31157
 
-#EXTINF:-1 tvg-id="Jio Cricket HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket HD
+#EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket HD
 http://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Jio_Cricket_Telugu
 
-#EXTINF:-1 tvg-id="Jio Football" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="Sports",Jio Football HD
+#EXTINF:-1 tvg-id="Jio Football" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Telugu_HD.png" group-title="Sports",Jio Football HD
 http://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Jio_Football_Telugu_HD
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
