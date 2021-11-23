@@ -371,7 +371,22 @@ https://bit.ly/2Yfl7Xn
 https://bit.ly/2ZoTpYg
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://livetv2021.site:8080/9897876765/6576567/125
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO2 HD
+http://livetv2021.site:8080/9897876765/6576567/126
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO+ HD
+http://livetv2021.site:8080/9897876765/6576567/127
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO Family HD
+http://livetv2021.site:8080/9897876765/6576567/130
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO Signature HD
+http://livetv2021.site:8080/9897876765/6576567/131
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO POP HD
+http://livetv2021.site:8080/9897876765/6576567/132
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive HD
 https://sneh-z5api.herokuapp.com/?c=0-9-privéhd
@@ -382,38 +397,9 @@ https://sneh-z5api.herokuapp.com/?c=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="&xplorHD"tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-209/list/09209xplorhd.jpg" group-title="Movies",&xplorHD
 https://sneh-z5api.herokuapp.com/?c=0-9-209
 
-#EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
+EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
 http://watchindia.net:8880/live/33253/72963/2102.ts
 
-#EXTINF:-1,Premiere 2 HD
-http://livetv2021.site:8080/9897876765/6576567/124
-
-#EXTINF:-1,HBO HD
-http://livetv2021.site:8080/9897876765/6576567/125
-
-#EXTINF:-1,HBO2 HD
-http://livetv2021.site:8080/9897876765/6576567/126
-
-#EXTINF:-1,HBO+ HD
-http://livetv2021.site:8080/9897876765/6576567/127
-
-#EXTINF:-1,Arte 1 HEVC
-http://livetv2021.site:8080/9897876765/6576567/128
-#EXTINF:-1,Arte 1 HD
-http://livetv2021.site:8080/9897876765/6576567/129
-#EXTINF:-1,HBO Family HD
-http://livetv2021.site:8080/9897876765/6576567/130
-#EXTINF:-1,HBO Signature HD
-http://livetv2021.site:8080/9897876765/6576567/131
-#EXTINF:-1,HBO POP HD
-http://livetv2021.site:8080/9897876765/6576567/132
-#EXTINF:-1,Rede Vida HD
-http://livetv2021.site:8080/9897876765/6576567/133
-#EXTINF:-1,Premiere 6 HD
-http://livetv2021.site:8080/9897876765/6576567/134
-#EXTINF:-1,Premiere 7 HD
-http://livetv2021.site:8080/9897876765/6576567/135
-#EXTINF:-1,Premiere 5 HD
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
@@ -584,11 +570,18 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
 http://tv.alphamediazone.com:8089/thunderbd/70/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
-http://opplex.tv:8080/123456aa/123456aa/167575
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
+http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://opplex.tv:8080/123456aa/123456aa/167573
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
+//http://opplex.tv:8080/123456aa/123456aa/167573
+http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
+
+#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
+http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
+
+#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
+http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://opplex.tv:8080/123456aa/123456aa/167575
@@ -610,9 +603,6 @@ http://snehjiotv.in1.bitmana.io/sneh_auto_q.php?c=Jio_Football_Telugu_HD
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
-
-#EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
-https://bit.ly/3BwRC0O
 
 EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png" group-title="Sports",Premier Sports
 https://bit.ly/3BwRC0O
