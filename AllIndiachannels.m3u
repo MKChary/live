@@ -49,13 +49,13 @@ http://opplex.tv:8080/123456aa/123456aa/167616
 http://opplex.tv:8080/123456aa/123456aa/167788
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Plus&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/89960
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
 http://opplex.tv:8080/123456aa/123456aa/167786
+
+#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Plus&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/89958
