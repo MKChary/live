@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
-
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
@@ -159,7 +158,8 @@ http://free.fullspeed.tv/iptv-query?url=https://youtu.be/mGD0coxXWk8/live
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/voI4-n6WDaE/live
 
 #EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
-https://sneh-z5api.herokuapp.com/?c=0-9-372
+#https://sneh-z5api.herokuapp.com/?c=0-9-372
+https://www.zee5.com/live-tv/ntv/0-9-372
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
