@@ -157,7 +157,7 @@ http://free.fullspeed.tv/iptv-query?url=https://youtu.be/mGD0coxXWk8/live
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/voI4-n6WDaE/live
 
-#EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu
+#EXTINF:-1 tvg-id="Ntv Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",Ntv Telugu2
 #https://sneh-z5api.herokuapp.com/?c=0-9-372
 https://www.zee5.com/live-tv/ntv/0-9-372
 
