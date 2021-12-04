@@ -187,7 +187,8 @@ https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-355
 http://14.199.164.20:4001/play/a0is/index.m3u8
 
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="Education", Vidya
-http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Vidya&q=1200&e=.m3u8
+#http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Vidya&q=1200&e=.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/p3mNKNzsG0o/live
 
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title="Education", Nipuna
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Nipuna&q=1200&e=.m3u8
