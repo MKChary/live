@@ -99,6 +99,9 @@ http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://livetv2021.site:8080/9897876765/6576567/8850
 
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
+http://103.153.39.36:8000/play/a00x
+
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_Channel_Telugu&q=1200&e=.m3u8
 
