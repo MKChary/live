@@ -172,6 +172,7 @@ EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/qIY8IeluF9g/live
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
+#https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
 
 #EXTINF:-1 tvg-id="CVR English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news_english.png" group-title="News",CVR English
