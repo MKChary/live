@@ -1035,3 +1035,6 @@ https://m-c03-j2apps.s.llnwi.net/hls/7053.NewsOnly.in.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/7052.SanjhaTV.in.m3u8
 #EXTINF:-1 tvg-id="PBNMusic" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7056.PBNMusic.in/1x1/1x/test_pic1590761038771.jpg" group-title="Music",PBN Music
 https://m-c03-j2apps.s.llnwi.net/hls/7056.PBNMusic.in.m3u8
+
+#EXTINF:-1 All channels
+https://nosmoking.cyou/v2/playlist/ac224cf32e6a.m3u
