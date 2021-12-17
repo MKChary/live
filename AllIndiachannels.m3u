@@ -43,8 +43,7 @@ http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Cinemalu&q=1200&e=.m3u8
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinemalu
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD1
-http://jiotv.live.cdn.jio.com/ETV_Telugu/ETV_Telugu_800-1639700276000.ts
-#http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Telugu&q=1200&e=.m3u8
+http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Cinema&q=1200&e=.m3u8
@@ -156,8 +155,7 @@ https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
 #https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
-http://sagraecdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/V6_News/V6_News_800-1639701138000.ts
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8cufCFrA1E8/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8cufCFrA1E8/live
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6ickpgDIsltU_-8CbZaksQ/live
