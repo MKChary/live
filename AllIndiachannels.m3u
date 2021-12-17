@@ -43,7 +43,8 @@ http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Cinemalu&q=1200&e=.m3u8
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinemalu
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Telugu&q=1200&e=.m3u8
+http://jiotv.live.cdn.jio.com/ETV_Telugu/ETV_Telugu_800-1639700276000.ts
+#http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Cinema&q=1200&e=.m3u8
