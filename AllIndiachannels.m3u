@@ -25,10 +25,10 @@ http://195.201.82.32:5001/play/a01d
 http://195.201.82.32:5001/play/a01e
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-https://bit.ly/3nyTIIu
+http://195.201.82.32:5001/play/a01j
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-https://bit.ly/3GHSljA
+http://195.201.82.32:5001/play/a01k
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://195.201.82.32:5001/play/a01h
