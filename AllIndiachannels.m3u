@@ -19,10 +19,10 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-https://bit.ly/3blrqLN
+http://195.201.82.32:5001/play/a01d
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-https://bit.ly/3EvM0Wz
+http://195.201.82.32:5001/play/a01e
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 https://bit.ly/3nyTIIu
@@ -44,7 +44,7 @@ http://jo123.biz/jweb/m3u8.php?c=Zee_Cinemalu&=600&e=.m3u8
 #https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinemalu
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD1
-http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Telugu&q=1200&e=.m3u8
+http://195.201.82.32:5001/play/a01f
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Cinema&q=1200&e=.m3u8
@@ -68,16 +68,19 @@ http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/2837
 http://starshare.live:8080/live/10191817/10191817/23313.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
+http://195.201.82.32:5001/play/a017
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/6001
+http://195.201.82.32:5001/play/a016
+
+#EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
+http://195.201.82.32:5001/play/a019
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Raj_Music_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-https://bit.ly/3mmOvEj
+http://195.201.82.32:5001/play/a01g
 
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
@@ -85,8 +88,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/li
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/5UvC9XEAL9k/live
 
-EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
-http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/1504
+#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
+http://195.201.82.32:5001/play/a015
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Vissa_TV&q=1200&e=.m3u8
@@ -110,7 +113,7 @@ http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_Channel_Telugu&q=1200&
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_HD_World&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
-http://snehjiotv.in1.bitmana.io/snehjioox.php?c=History_18_Telugu&q=1200&e=.m3u8
+http://195.201.82.32:5001/play/a01c
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travel XP HD
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Travel_XP_HD&q=1200&e=.m3u8
