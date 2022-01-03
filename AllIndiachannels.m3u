@@ -242,7 +242,7 @@ https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
-#EXTINF:-1 tvg-id="YSR tv" tvg-logo="https://play-lh.googleusercontent.com/RJA4rO1SnKW2QQm2AF80PBni3UpO8qqm3XS7Mma3XLeyvDB9UV3-W8xF1CxWz8PDHFc=s180-rw" group-title="Movies",YSR tv
+EXTINF:-1 tvg-id="YSR tv" tvg-logo="https://play-lh.googleusercontent.com/RJA4rO1SnKW2QQm2AF80PBni3UpO8qqm3XS7Mma3XLeyvDB9UV3-W8xF1CxWz8PDHFc=s180-rw" group-title="Movies",YSR tv
 https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
 
 #EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="Movies",Mana Telugu TV
@@ -251,7 +251,7 @@ http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Shreyas TV" tvg-logo="https://play-lh.googleusercontent.com/MPWG4eX_b9nUE7hFEL54faL0QZrGCN_vb1f4rPMBEmgKyydSSinwUI3ku7Lb7cGrhlA=s180-rw" group-title="Movies",Shreyas TV
+EXTINF:-1 tvg-id="Shreyas TV" tvg-logo="https://play-lh.googleusercontent.com/MPWG4eX_b9nUE7hFEL54faL0QZrGCN_vb1f4rPMBEmgKyydSSinwUI3ku7Lb7cGrhlA=s180-rw" group-title="Movies",Shreyas TV
 https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8
 
 #EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="Movies",Saranya TV
@@ -266,7 +266,7 @@ http://blmtech.in:8086/hls/viharitv/index.m3u8
 #EXTINF:-1 tvg-id="City News TV" tvg-logo="https://play-lh.googleusercontent.com/JX__NKk0RMa5P00ROEnftE1hxcA78rMFny0_hdf5YNrLIRx3lEq03tVMgZ7O5a5ffq8=s180-rw" group-title="Movies",City News TV
 http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Public TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Music",Batukamma TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Music",Batukamma TV
 http://live.streamplay.in:1935/bkamma/bkamma/chunklist_w842198526.m3u8
 
 #EXTINF:-1 tvg-id="STV Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj" group-title="News",STV Telugu
@@ -278,10 +278,10 @@ http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 #EXTINF:-1 tvg-id="Rashi Telugu HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-130821_Chrome.jpg"group-title="Movies",Rasi Telugu HD
 http://singamcloud.in:1935/rasinetwork/rasitelugu/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Movies",Rasi Tamil
+EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Movies",Rasi Tamil
 http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Movies",Rasi TV
+EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Movies",Rasi TV
 http://singamcloud.in:1935/rasinetworks/rasitv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Movies",Rasi Movies
@@ -299,15 +299,14 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
 EXTINF:-1 tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-125332_Chrome.jpg"group-title="Movies",Rasi Hollywood HD
 http://singamcloud.in:1935/rasinetworks/rasitelugumusic/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png" group-title="Movies",Kiran Live
+EXTINF:-1 tvg-id="ABC Sun Live" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kiran.png" group-title="Movies",Kiran Live
 http://sundaylive.livebox.co.in/abcsunlivehls/sundaylive.m3u8
 
-#EXTINF:-1 tvg-id="JL TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/JLtv.jpg" group-title="Movies",JL TV
+EXTINF:-1 tvg-id="JL TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/JLtv.jpg" group-title="Movies",JL TV
 http://sundaylive.livebox.co.in/jltvhls/jltvtv.m3u8
 
-#EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="Movies",Reshya TV
+EXTINF:-1 tvg-id="Reshya TV" tvg-logo="http://prfibers.com/assets/images/reshya%20125.png" group-title="Movies",Reshya TV
 http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
-
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDWqN_t8q9FCukTAaiVDFJCiWEGmgzWhh9g&usqp=CAU" group-title="Movies" ,Sony Pix HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
