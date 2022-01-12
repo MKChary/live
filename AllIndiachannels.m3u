@@ -68,7 +68,7 @@ http://195.201.82.32:5001/play/a020
 http://starshare.live:8080/live/10191817/10191817/23313.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://195.201.82.32:5001/play/a017
+http://50.7.128.186:8070/FM10008/ee54fb4b/82624
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://195.201.82.32:5001/play/a016
