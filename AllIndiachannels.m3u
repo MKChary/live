@@ -122,7 +122,8 @@ http://195.201.82.32:5001/play/a01c
 http://195.201.82.32:5001/play/a00l
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
-https://m-c16-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
+https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
+#https://m-c15-j2apps.s.llnwi.net/hls/0255.DDChandana.in.m3u8
 
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
