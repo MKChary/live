@@ -517,7 +517,7 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 http://tv.alphamediazone.com:8089/thunderbd/70/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://195.201.82.32:5001/play/a027
+https://bit.ly/livematchhotstar
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://195.201.82.32:5001/play/a024
