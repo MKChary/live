@@ -32,7 +32,7 @@ http://195.201.82.32:5001/play/a01m
 http://195.201.82.32:5001/play/a01n
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-http://188.93.236.53:80/iptvpoint/85g7sjaS6t/5593?token=SRsHDVFGDwhRUgcCDQVYVFUUF0BRXUdbVAEIAh4aRwtWG1xGBFQACUdNF0JRUkNfQA4DBQALR01DW19VEAIQUhAVRAZcEEdYEQQXCBoHV1JbGhkRXUERQ1sWRUIQFBALQhtcRgFdGwtVVRsDAA9PUVIaGRFQWBYJQw4TBVFZBgMKDlcHVgJUX1xYBAQIAgdQA1oFBg5bVQVQUVITHhpBFlNLEkYPRhcVRwVAQBoMQ0dOGlNcGgMLFA1YHRNbS20QV0oSFlAFWFwXQw8QCRRNRw9IXFcaA0dQVwcJAQQaHkBGUAsBF14ED1FTBAAOAVNRHw==
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5593
 
 EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Telugu&q=1200&e=.m3u8
@@ -62,7 +62,7 @@ http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
 https://bit.ly/3kIFULg
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://195.201.82.32:5001/play/a020
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5586
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://starshare.live:8080/live/10191817/10191817/23313.ts
@@ -74,7 +74,7 @@ http://50.7.128.186:8070/FM10008/ee54fb4b/82624
 http://195.201.82.32:5001/play/a016
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://195.201.82.32:5001/play/a019
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5585
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Raj_Music_Telugu&q=1200&e=.m3u8
@@ -517,10 +517,10 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 http://tv.alphamediazone.com:8089/thunderbd/70/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-https://bit.ly/livematchhotstar
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3979
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
-http://195.201.82.32:5001/play/a024
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/397844
 
 #EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports Select 1 HD
 http://195.201.82.32:5001/play/a02c
