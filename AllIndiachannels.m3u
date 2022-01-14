@@ -32,7 +32,7 @@ http://195.201.82.32:5001/play/a01m
 http://195.201.82.32:5001/play/a01n
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-http://188.93.236.53:80/iptvpoint/85g7sjaS6t/5593
+http://188.93.236.53:80/iptvpoint/85g7sjaS6t/5593?token=SRsHDVFGDwhRUgcCDQVYVFUUF0BRXUdbVAEIAh4aRwtWG1xGBFQACUdNF0JRUkNfQA4DBQALR01DW19VEAIQUhAVRAZcEEdYEQQXCBoHV1JbGhkRXUERQ1sWRUIQFBALQhtcRgFdGwtVVRsDAA9PUVIaGRFQWBYJQw4TBVFZBgMKDlcHVgJUX1xYBAQIAgdQA1oFBg5bVQVQUVITHhpBFlNLEkYPRhcVRwVAQBoMQ0dOGlNcGgMLFA1YHRNbS20QV0oSFlAFWFwXQw8QCRRNRw9IXFcaA0dQVwcJAQQaHkBGUAsBF14ED1FTBAAOAVNRHw==
 
 EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Telugu&q=1200&e=.m3u8
