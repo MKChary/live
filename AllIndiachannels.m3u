@@ -48,7 +48,8 @@ http://195.201.82.32:5001/play/a01i
 http://195.201.82.32:5001/play/a01f
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Cinema&q=1200&e=.m3u8
+#http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Cinema&q=1200&e=.m3u8
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=ETV_Cinema&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Life&q=1200&e=.m3u8
