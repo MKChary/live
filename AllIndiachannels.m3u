@@ -165,7 +165,8 @@ https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m
 https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
+http://snoidcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/output/index.mpd?minrate=80000&maxrate=920000&jct=E8vLMUf79jcmGs2ooE6okg&pxe=1642851216&st=0a0f099116b102d6602e21e1f2155d35&secversion=15
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IHuHxUo4Yps/live
