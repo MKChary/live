@@ -150,7 +150,7 @@ EXTINF:-1 tvg-id="YOYO News" tvg-id="T News" tvg-logo="https://raw.githubusercon
 http://free.fullspeed.tv/iptv-query?url=https://youtu.be/mGD0coxXWk8/live
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/voI4-n6WDaE/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xBAy69c6CXQ&t=0s/live
 
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
