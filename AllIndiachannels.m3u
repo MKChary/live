@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 #url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
@@ -20,16 +20,16 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://195.201.82.32:5001/play/a01d
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/14019.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://195.201.82.32:5001/play/a01e
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26570.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://195.201.82.32:5001/play/a01m
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9027.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-http://195.201.82.32:5001/play/a01n
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26572.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 https://snehapi.in1.bitmana.io/z5api/snehz5api/zeetelugu.m3u8
@@ -80,7 +80,7 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5585
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-http://195.201.82.32:5001/play/a01g
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26568.m3u8
 
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
@@ -129,7 +129,7 @@ https://snehapi.in1.bitmana.io/z5api/snehz5api/ddyadagiri.m3u8
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 
 #EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
-http://139.59.55.243/sunnxt/live.php?c=26571&e=.m3u8
+https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26571.m3u8
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Family/Kids",Sonic Telugu
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sonic_Telugu&q=1200&e=junk.m3u8
