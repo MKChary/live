@@ -337,7 +337,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO PO
 http://livetv2021.site:8080/9897876765/6576567/132
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive HD
-https://snehapi.in1.bitmana.io/z5api/snehz5api/privehd.m3u8
+https://snehapi.in1.bitmana.io/z5api/snehz5api/privèhd.m3u8
 
 #EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
 https://snehapi.in1.bitmana.io/z5api/snehz5api/channel_2105335046.m3u8
@@ -358,8 +358,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Movies",&Pictures Hd
-#https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/100/index.m3u8
+https://snehapi.in1.bitmana.io/z5api/snehz5api/tvpictureshd.m3u8
 
 #EXTINF:-1 tvg-id="Zee Cinema" tvg-logo="https://pbs.twimg.com/profile_images/1118895770860707840/L24AlLOt.png" tvg-chno="3" group-title="Movies",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
