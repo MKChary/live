@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
+#EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 #url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
