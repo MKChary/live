@@ -32,7 +32,7 @@ http://195.201.82.32:5001/play/a01m
 http://195.201.82.32:5001/play/a01n
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5593
+https://snehapi.in1.bitmana.io/z5api/snehz5api/zeetelugu.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Telugu&q=1200&e=junk.m3u8
@@ -41,7 +41,7 @@ https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Telugu&q=12
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Cinemalu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
-https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zee_cinemalu
+https://snehapi.in1.bitmana.io/z5api/snehz5api/zeecinemalu.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=ETV_Telugu&q=1200&e=junk.m3u8
