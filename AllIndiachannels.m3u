@@ -524,7 +524,7 @@ https://ib.qqkkqqk.com/live/ch_5.m3u8
 http://bit.ly/3FV1xj2
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://bit.ly/hotstarlivetv
+http://live.flixhub.net/hls/stersports1hd.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/397844
@@ -558,9 +558,6 @@ http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/146
-
-#EXTINF:-1tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",Sportv  UHD
-http://livetv2021.site:8080/9897876765/6576567/55
 
 #EXTINF:-1 tvg-name="Boo horror" tvg-logo="" group-title="Movies",BOO Horror Movies
 https://cutt.ly/inEizyW
