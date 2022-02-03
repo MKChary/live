@@ -119,7 +119,7 @@ http://thoptv.in1.bitmana.io/jioo.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
 http://thoptv.in1.bitmana.io/jioo.php?c=History_18_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travel XP HD
-http://195.201.82.32:5001/play/a00l
+http://thoptv.in1.bitmana.io/jioo.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
 #https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
@@ -132,16 +132,16 @@ https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26571.m3u8
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Family/Kids",Sonic Telugu
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sonic_Telugu&q=1200&e=junk.m3u8
+http://thoptv.in1.bitmana.io/jioo.php?c=Sonic_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CN_HD_Telugu&q=1200&e=junk.m3u8
+http://thoptv.in1.bitmana.io/jioo.php?c=CN_HD_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Telugu&q=1200&e=junk.m3u8
+http://thoptv.in1.bitmana.io/jioo.php?c=Nick_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Family/Kids",Sony Yay Telugu
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
+http://thoptv.in1.bitmana.io/jioo.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
 
 EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/U2Pb3rhwaGg/live
