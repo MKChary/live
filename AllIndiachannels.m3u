@@ -122,8 +122,7 @@ http://thoptv.in1.bitmana.io/jioo.php?c=History_18_Telugu&q=1200&e=junk.m3u8
 http://thoptv.in1.bitmana.io/jioo.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
-#https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
-https://snehapi.in1.bitmana.io/z5api/snehz5api/ddyadagiri.m3u8
+https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
 
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
@@ -140,7 +139,7 @@ http://thoptv.in1.bitmana.io/jioo.php?c=CN_HD_Telugu&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
 http://thoptv.in1.bitmana.io/jioo.php?c=Nick_Telugu&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Family/Kids",Sony Yay Telugu
+#EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="" group-title="Family/Kids",Sony Yay Telugu
 http://thoptv.in1.bitmana.io/jioo.php?c=Sony_Yay_Telugu&q=1200&e=junk.m3u8
 
 EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
