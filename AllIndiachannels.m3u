@@ -77,7 +77,7 @@ http://195.201.82.32:5001/play/a016
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5585
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
-http://thoptv.in1.bitmana.io/jioo.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=_fR9xWEOa7Q
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26568.m3u8
