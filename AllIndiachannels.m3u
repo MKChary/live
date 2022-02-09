@@ -101,16 +101,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/3jI-FsUZN8U/li
 http://thoptv.in1.bitmana.io/jioo.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
-http://195.201.82.32:5001/play/a01a
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
-http://thoptv.in1.bitmana.io/jioo.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
-http://195.201.82.32:5001/play/a01l
+http://103.153.39.36:8000/play/a00x
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
-http://195.201.82.32:5001/play/a018
+http://103.153.39.36:8000/play/a01x
 
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
 http://thoptv.in1.bitmana.io/jioo.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
