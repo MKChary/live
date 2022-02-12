@@ -88,7 +88,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/li
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/5UvC9XEAL9k/live
 
-#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
+EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
 http://195.201.82.32:5001/play/a015
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
