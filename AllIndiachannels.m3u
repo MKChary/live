@@ -104,7 +104,7 @@ https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=
 http://103.153.39.36:8000/play/a00x
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
-http://103.153.39.36:8000/play/a01x
+https://iptv.airtelindia.cf/discoveryplus/api.m3u8?id=95
 
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Discovery_HD_World&q=1200&e=junk.m3u8
