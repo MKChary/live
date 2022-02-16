@@ -104,7 +104,7 @@ https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=
 http://103.153.39.36:8000/play/a00x
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
-https://iptv.airtelindia.cf/discoveryplus/api.m3u8?id=95
+http://103.153.39.36:8000/play/a00y
 
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Discovery_HD_World&q=1200&e=junk.m3u8
@@ -213,7 +213,7 @@ EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=AP_CIE_SIVE&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
-https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=BBC_World_News&q=1200&e=junk.m3u8
+http://103.153.39.36:8000/play/a01f
 
 #EXTINF:-1 tvg-id="Sai TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/FB_IMG_1634725008032.jpg" group-title="Lifestyle",Sai TV
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Saileela_TV_Telugu&q=1200&e=junk.m3u8
