@@ -527,7 +527,7 @@ http://live.flixhub.net/hls/stersports1hd.m3u8
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/397844
 
 #EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports Select 1 HD
-http://195.201.82.32:5001/play/a02c
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 
 EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://195.201.82.32:5001/play/a02b
