@@ -315,7 +315,8 @@ http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbKerd0Gbn5LQFt5q1iwDgaUL6cpYC8DrMxTBDjxYKngnOlSf4lKqzjBD&s=10" group-title="Movies" ,STAR MOVIES HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.166.253.222/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="" group-title="Movies",MN+ HD
 http://live.flixhub.net/hls/mn+.m3u8
