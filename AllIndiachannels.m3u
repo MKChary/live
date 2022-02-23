@@ -325,7 +325,7 @@ http://live.flixhub.net/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",MNX HD
 http://live.flixhub.net/hls/mnx-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",Movies Now
+#EXTINF:-1 tvg-logo="" group-title="Movies",Movies Now
 http://live.flixhub.net/hls/movies-now.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO Family HD
