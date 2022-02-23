@@ -191,7 +191,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/QCpUNDFogQM/live
+https://snehapi.in1.bitmana.io/jioapi/tsjio800/Raj_News.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8McTsOqeueE/live
@@ -220,7 +220,7 @@ EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=AP_CIE_SIVE&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
-http://103.153.39.36:8000/play/a01f
+https://snehapi.in1.bitmana.io/jioapi/tsjio800/BBC_World_News.m3u8
 
 #EXTINF:-1 tvg-id="Sai TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/FB_IMG_1634725008032.jpg" group-title="Lifestyle",Sai TV
 https://snehapi.in1.bitmana.io/jioapi/tsjio800/Saileela_TV_Telugu.m3u8
