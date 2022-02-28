@@ -20,19 +20,19 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/14019.m3u8
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2665
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26570.m3u8
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2664
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/9027.m3u8
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2663
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26572.m3u8
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2647
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-https://snehapi.in1.bitmana.io/z5api/snehz5api/zeetelugu.m3u8
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2649
 
 EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
 https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Zee_u&q=1200&e=junk.m3u8
@@ -41,39 +41,39 @@ EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/
 http://thoptv.in1.bitmana.io/jioo.php?c=Zee_Cinemalu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
-https://snehapi.in1.bitmana.io/z5api/snehz5api/zeecinemalu.m3u8
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2650
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 #https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=ETV_Telugu&q=800&e=junk.m3u8
-https://snehott.in1.bitmana.io/jiotv/play.php?c=ETV_Telugu
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2666
 
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-https://snehapi.in1.bitmana.io/jioapi/tsjio800/ETV_Cinema.m3u8
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2667
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-https://snehapi.in1.bitmana.io/jioapi/tsjio800/ETV_Life.m3u8
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2646
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-https://snehapi.in1.bitmana.io/jioapi/tsjio800/ETV_Plus.m3u8
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2651
 
-#EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-https://snehapi.in1.bitmana.io/jioapi/tsjio800/ETV_Abhiruchi.m3u8
+EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2668
 
 EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://bit.ly/3kIFULg
 
-EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5586
+#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2656
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://oqab.life:8080/live/223344/223344/261.ts
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2655
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://50.7.128.186:8070/FM10008/ee54fb4b/82624
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-https://1331.myindian.tv:443/edge/19541/index.m3u8?token=48.1.7850.f310b05550e15ec79cde0d4b93744968.1.2.2.851.0.0.d71a53867840f8b74a64bbe2ef09ec25
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2661
 
 EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5585
@@ -82,7 +82,7 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5585
 https://snehapi.in1.bitmana.io/jioapi/tsjio800/Raj_Music_Telugu.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26568.m3u8
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2648
 
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
@@ -115,7 +115,7 @@ http://live.flixhub.net/hls/ngohd.m3u8
 http://103.153.39.36:8000/play/a00y
 
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
-https://snehapi.in1.bitmana.io/jioapi/tsjio800/Discovery_HD_World.m3u8
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2668
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
 https://snehapi.in1.bitmana.io/jioapi/tsjio800/History_18_Telugu.m3u8
