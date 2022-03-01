@@ -100,7 +100,8 @@ https://snehapi.in1.bitmana.io/jioapi/tsjio800/Vissa_TV.m3u8
 https://snehapi.in1.bitmana.io/jioapi/tsjio800/Vanitha.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
-https://snehapi.in1.bitmana.io/jioapi/tsjio800/Sony_BBC_Earth_HD_Telugu.m3u8
+#https://snehapi.in1.bitmana.io/jioapi/tsjio800/Sony_BBC_Earth_HD_Telugu.m3u8
+https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=Sony_BBC_Earth_HD_Telugu
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",SONY BBC EARTH HD
 http://live.flixhub.net/hls/bbcearth.m3u8
