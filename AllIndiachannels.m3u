@@ -222,7 +222,7 @@ http://snehjiotv.in1.bitmana.io/snehjioox.php?c=AP_CIE_SIVE&q=1200&e=.m3u8
 https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=BBC_World_News
 
 #EXTINF:-1 tvg-id="Sai TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/FB_IMG_1634725008032.jpg" group-title="Lifestyle",Sai TV
-https://snehapi.in1.bitmana.io/jioapi/tsjio800/Saileela_TV_Telugu.m3u8
+http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
 http://iptv.hdsindia.com:2574/udp/228.10.10.171:4640
