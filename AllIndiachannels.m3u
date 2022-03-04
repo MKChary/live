@@ -275,7 +275,7 @@ http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 http://live.streamplay.in:1935/bkamma/bkamma/chunklist_w842198526.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Music",Batukamma TV
-http://live.streamplay.in:1935/bkamma/bkamma/media_w874601515_1746.ts
+http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STV Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj" group-title="News",STV Telugu
 http://blmtech.in:8086/hls/stvtelugu/index.m3u8
