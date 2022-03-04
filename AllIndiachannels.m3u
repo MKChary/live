@@ -256,8 +256,8 @@ http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
 
-EXTINF:-1 tvg-id="Shreyas TV" tvg-logo="https://play-lh.googleusercontent.com/MPWG4eX_b9nUE7hFEL54faL0QZrGCN_vb1f4rPMBEmgKyydSSinwUI3ku7Lb7cGrhlA=s180-rw" group-title="Movies",Shreyas TV
-https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8
+EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/MPWG4eX_b9nUE7hFEL54faL0QZrGCN_vb1f4rPMBEmgKyydSSinwUI3ku7Lb7cGrhlA=s180-rw" group-title="Movies",Local News
+http://live.streamplay.in:1935/localtv/localtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="Movies",Saranya TV
 http://blmtech.in:8086/hls/saranyatv/index.m3u8
