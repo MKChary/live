@@ -244,6 +244,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/d0dB3kSCMmM/li
 #EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
 https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",MS Digital
+http://telugusolutions.com/msdigitaltv/msdigitaltv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
