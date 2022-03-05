@@ -245,14 +245,16 @@ https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",MS Digital
 http://telugusolutions.com/msdigitaltv/msdigitaltv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Music",9TV Telangana
+http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id=" " tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",DBR News
 http://telugusolutions.com/dbr12/dbr12/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",Sriyadadri
 http://live.streamplay.in:1935/sriyadadri/sriyadadri/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",RK9 News
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Rk9news.jpg" group-title="Movies",RK9 News
 http://telugusolutions.com/rk9news/rk9news/index.m3u8
 
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
@@ -294,7 +296,7 @@ http://blmtech.in:8086/hls/stvtelugu/index.m3u8
 #EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="News",Cowa TV
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="News",Santhosham TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Santhoshamtv.jpg" group-title="News",Santhosham TV
 http://hdserver.7starcloud.com:1935/shts/live/chunklist_w1579620889.m3u8
 
 #EXTINF:-1 tvg-id="Rashi Telugu HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-130821_Chrome.jpg"group-title="Movies",Rasi Telugu HD
