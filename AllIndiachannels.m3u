@@ -242,13 +242,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/d0dB3kSCMmM/li
 #EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
 https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",MS Digital
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",MS Digital
 http://telugusolutions.com/msdigitaltv/msdigitaltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Music",9TV Telangana
 http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",DBR News
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Dbrnews.jpg" group-title="Movies",DBR News
 http://telugusolutions.com/dbr12/dbr12/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Movies",Sriyadadri
