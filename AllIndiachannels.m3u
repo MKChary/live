@@ -260,6 +260,9 @@ http://telugusolutions.com/rk9news/rk9news/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="Movies",Amma News
 http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Bhavyatv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bhavyatv.jpg" group-title="Movies",Bhavya TV
+http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Movies",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
