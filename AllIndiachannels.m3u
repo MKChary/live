@@ -251,6 +251,9 @@ http://telugusolutions.com/msdigitaltv/msdigitaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AB5 News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ab5news.jpg" group-title="News",AB5 News
 http://183.87.51.10/hls/sungroup.m3u8
 
+#EXTINF:-1 tvg-id="Teja Tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Tejatv.jpg" group-title="News",Teja TV
+http://telugusolutions.com/tejatv/tejatv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Music",9TV Telangana
 http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 
