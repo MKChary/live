@@ -66,7 +66,7 @@ https://bit.ly/3kIFULg
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2656
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2655
+http://zee5tv.in1.bitmana.io//autoq.php?id=758
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://50.7.128.186:8070/FM10008/ee54fb4b/82624
@@ -100,7 +100,7 @@ https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=Vanitha
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 #https://snehapi.in1.bitmana.io/jioapi/tsjio800/Sony_BBC_Earth_HD_Telugu.m3u8
-https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=Sony_BBC_Earth_HD_Telugu
+http://zee5tv.in1.bitmana.io//autoq.php?id=854
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",SONY BBC EARTH HD
 http://live.flixhub.net/hls/bbcearth.m3u8
@@ -136,7 +136,8 @@ https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26571.m3u8
 https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=Sonic_Telugu
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
-https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=CN_HD_Telugu
+#https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=CN_HD_Telugu
+http://zee5tv.in1.bitmana.io//autoq.php?id=1080
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
 https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=Nick_Telugu
