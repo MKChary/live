@@ -177,8 +177,8 @@ https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
-http://iptv.hdsindia.com:2574/udp/228.10.10.207:4640
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IHuHxUo4Yps/live
+#http://iptv.hdsindia.com:2574/udp/228.10.10.207:4640
+https://www.zee5.com/live-tv/10tv/0-9-371
 
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
