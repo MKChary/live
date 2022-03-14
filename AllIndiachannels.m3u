@@ -100,7 +100,7 @@ https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=Vanitha
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 #https://snehapi.in1.bitmana.io/jioapi/tsjio800/Sony_BBC_Earth_HD_Telugu.m3u8
-http://zee5tv.in1.bitmana.io//autoq.php?id=854
+https://tnrockerztv.xyz/z5/z5.php?c=0-9-854
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",SONY BBC EARTH HD
 http://live.flixhub.net/hls/bbcearth.m3u8
@@ -137,7 +137,7 @@ https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=Sonic_Telugu
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
 #https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=CN_HD_Telugu
-http://zee5tv.in1.bitmana.io//autoq.php?id=1080
+https://tnrockerztv.xyz/z5/z5.php?c=0-9-1080
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
 https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=Nick_Telugu
@@ -158,7 +158,7 @@ http://cloud.streamplay.in:1935/jaitelanganatv/jaitelanganatv/playlist.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xBAy69c6CXQ&t=0s/live
 http://iptv.hdsindia.com:2574/udp/228.10.10.193:4640
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",ZEE Telugu News
+#EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
 https://tnrockerztv.xyz/z5/z5.php?c=0-9-9z583538
 
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV
@@ -178,7 +178,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
 #http://iptv.hdsindia.com:2574/udp/228.10.10.207:4640
-https://www.zee5.com/live-tv/10tv/0-9-371
+https://tnrockerztv.xyz/z5/z5.php?c=0-9-371
 
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
@@ -203,7 +203,7 @@ https://snehapi.in1.bitmana.io/jioapi/tsjio800/Raj_News_Telugu.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8McTsOqeueE/live
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
-https://snehapi.in1.bitmana.io/z5api/snehz5api/355.m3u8
+https://tnrockerztv.xyz/z5/z5.php?c=0-9-355
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IKj_cj51_W0/live
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
@@ -216,10 +216,10 @@ https://snehapi.in1.bitmana.io/jioapi/tsjio800/Vidya.m3u8
 http://iptv.hdsindia.com:2574/udp/227.10.10.120:4640
 
 
-#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="Education",AP BIE SCIENCE
+EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="Education",AP BIE SCIENCE
 https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=AP_BIE_SCIENCE
 
-#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="Education",AP BIE ARTS
+EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="Education",AP BIE ARTS
 https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=AP_BIE_ARTS
 
 EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" group-title="Education",AP CIE SIVE
@@ -312,7 +312,7 @@ http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Music",Batukamma TV
 http://live.streamplay.in:1935/bkamma/bkamma/chunklist_w842198526.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Music",Batukamma TV
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Music",Batukamma TV
 http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STV Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj" group-title="News",STV Telugu
