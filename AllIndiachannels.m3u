@@ -156,7 +156,7 @@ http://cloud.streamplay.in:1935/jaitelanganatv/jaitelanganatv/playlist.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xBAy69c6CXQ&t=0s/live
 http://iptv.hdsindia.com:2574/udp/228.10.10.193:4640
 
-#EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
+EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
 https://tnrockerztv.xyz/z5/z5.php?c=0-9-9z583538
 
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV
@@ -213,7 +213,6 @@ https://snehapi.in1.bitmana.io/jioapi/tsjio800/Vidya.m3u8
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title="Education", Nipuna
 http://iptv.hdsindia.com:2574/udp/227.10.10.120:4640
 
-
 EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="Education",AP BIE SCIENCE
 https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=AP_BIE_SCIENCE
 
@@ -256,6 +255,12 @@ http://live.mrstream.in:1935/powertv/powertv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",MS Digital
 http://telugusolutions.com/msdigitaltv/msdigitaltv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",Sity
+http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",Vizag Local News
+http://live.streamplay.in:1935/vlnews/vlnews/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AB5 News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ab5news.jpg" group-title="News",AB5 News
 http://183.87.51.10/hls/sungroup.m3u8
 
@@ -268,7 +273,7 @@ http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Dbrnews.jpg" group-title="Movies",DBR News
 http://telugusolutions.com/dbr12/dbr12/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Movies",Sriyadadri
+EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Movies",Sriyadadri
 http://live.streamplay.in:1935/sriyadadri/sriyadadri/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Rk9news.jpg" group-title="Movies",RK9 News
