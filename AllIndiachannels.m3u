@@ -44,8 +44,7 @@ https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Zee_Cinemalu
 https://tnrockerztv.xyz/z5/z5.php?c=0-9-zeecinemalu
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=ETV_Telugu
-
+http://myjio.in1.bitmana.io/livetv/liveamar.php?id=629&q=250
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Etv_Cinema
