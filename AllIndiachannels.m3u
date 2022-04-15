@@ -251,6 +251,12 @@ rtmp://cloud.streamplay.in/taazanews/taazanews
 #EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",Power TV
 http://live.mrstream.in:1935/powertv/powertv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",CTV News
+http://blmtech.in:8086/hls/ctv/index.m3u8
+
+#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",HN9TV
+http://blmtech.in:8086/hls/hn9tv/index.m3u8
+
 #EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",MS Digital
 http://telugusolutions.com/msdigitaltv/msdigitaltv/tracks-v1a1/mono.m3u8
 
