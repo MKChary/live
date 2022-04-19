@@ -1,0 +1,309 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", 24 Ghanta
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-24ghantatv
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Republic Bharat
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-162
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeenews
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Polimer News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-203
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Putiya Thalamurai
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-220
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Vendhar TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-306
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", TV9 Telugu
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-258
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", TV5 News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-222
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Punjab Haryana Himachal Pradesh
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeepunjabharyanahima
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Saam TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-270
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", TV9 Marathi
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-257
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Aaj Tak
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-aajtak
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", India TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-282
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", TV9 Bharatvarsh
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-251
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Busines
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeebusiness
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", TV9 Gujarati
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-260
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee 24 Kalak
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zee24kalak
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", TV9 Kannada
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-259
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Suvarna News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-201
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", News24
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-206
+#EXTINF: -1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="ZEE5", Techie Sneh
+https://github.com/techiesneh
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", India Today
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-indiatoday
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Tez
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-255
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee 24 Taas
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zee24taas
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Hindustan
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeehindustan
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Bihar Jharkhand
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeebiharjharkhand
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", WION
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-wion
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", E24
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-207
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Odisha
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeekalinganews
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Rajasthan News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeerajasthannews
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", News State Uttar Pradesh Uttrakhand
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-171
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zing
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zing
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Big Magic
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-bigmagic_1786965389
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee TV HD
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeetvhd
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", &TV HD
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-tvhd_0
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Marathi HD
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeemarathi
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Yuva
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeeyuva
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Café HD
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeecafehd
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Madhya Pradesh Chhattisgarh
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeemadhyapradeshchat
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Kannada
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeekannada
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Bangla
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeebangla
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Anmol
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeeanmol
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Cinema HD
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeecinemahd
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", &Pictures HD
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-tvpictureshd
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Talkies
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeetalkies
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Telugu
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeetelugu
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Bangla Cinema
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeebanglacinema
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Tamil
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeetamil
+#EXTINF: -1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="ZEE5", Techie Sneh
+https://github.com/techiesneh
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Anmol Cinema
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeeanmolcinema
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Bollywood
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeeclassic
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Cinema
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeecinema
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", &Pictures
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-pictures
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Action
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeeaction
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Keralam HD
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-129
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Punjabi
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-215
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Chardikla Time TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-chardiklatimetvtimet
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Big Ganga
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-bigganga
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddnews
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD India
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddindia
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Kisan
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddkisan
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", 9X Jalwa
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-133
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Cinemalu
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeecinemalu
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", 9XM
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-131
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", 9X Jhakaas
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-134
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Boogle Bollywood
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-165
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Odia
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddodia
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", &flix
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-channel_2105335046
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", 9X Tashan
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-132
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Alpha ETC Punjabi
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-channel_2132977507
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Shiksha TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-163
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Sanskar TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-channel_1144658965
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Shubh TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-327
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Satsang TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-channel_1565694979
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Divya TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-divyatv
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Krishna Vani
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-166
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Salaam
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeesalaam
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeetv
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Makkal TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-makkaltv
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Podhigai
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddpodhigai
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Malayalam
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddmalayalam
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Yadagiri
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddyadagiri
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Bangla
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddbangla
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Chandana
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddchandana
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Sarthak
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-sarthaktv
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Sahyadri
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddsahyadri
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Girnar
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddgirnar
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Urdu
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddurdu
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Rajasthan
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddrajasthanjaipur
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Bharati
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddbharati
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Madhya Pradesh
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddmadhyapradesh
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Bihar
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddbihar
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Uttar Pradesh
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-dduttarpradesh
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Hare Krsna
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-183
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee News Uttar Pradesh Uttrakhand
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-channel_265145625
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD Punjabi
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-ddpunjabi
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", State Madhya Pradesh Chhattisgarh
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-172 News
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Sports Flashes - Hindi
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-185
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Classic
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-176
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", The Q
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-181
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Asianet News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-200
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", &xplorHD
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-209
+#EXTINF: -1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="ZEE5", Techie Sneh
+https://github.com/techiesneh
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Biskope
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-216
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Puthyugam TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-221
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Thirai
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-224
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Zest HD
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-348
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", News X
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-273
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", India News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-272
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Picchar
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-241
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", DD National HD
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-250
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Sugran TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-271
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", India News Punjabi Himachal
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-274
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", India News UP
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-275
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", India News Rajasthan
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-276
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", India News MP
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-277
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", India News Haryana
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-278
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", India News Gujarat
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-279
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", NE News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-280
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Sadhna TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-284
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", IshwarTV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-285
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", ZEE5 Kids
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-290
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Non-stop EDM
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-296
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Local Vocal | United We Stand
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-298
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Sounds of ZEE5 - Originals
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-299
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Sounds of ZEE5 - Punjabi Beats
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-300
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Sounds of ZEE5 - Romance
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-301
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Sounds of ZEE5 - EDM
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-302
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", BBC World News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-339
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Living India
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-305
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Prag News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-310
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Sadhna Plus News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-313
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", VIP News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-314
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Live Today
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-315
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Awakening
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-316
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", TIME8
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-317
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Sadhna News MP/CG
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-319
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Rengoni
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-322
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Next Up on ZEE5 for April 2021
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-364
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Demo Moon Live
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-373
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Test Channel
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-381
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Ptunes
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-344
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Ek Onkar
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-345
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Uday News
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-346
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Zee Vajwa
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-353
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Bharat Samachar
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-354
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", ABN Andhra Jyothy
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-355
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", 10TV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-371
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", NTV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-372
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", LIVE Event
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-374
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Haryanvi Hits
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-375
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", Wah Punjabi
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-376
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", BTV
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-377
+#EXTINF: -1 tvg-id="1" group-title="ZEE5", TV9 Bangla
+https://iamsom5.000webhostapp.com/zee5.php?c=0-9-378
