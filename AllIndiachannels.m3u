@@ -47,7 +47,7 @@ https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeecinemalu
 http://103.132.16.98:8080/etvhd/mpegts
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Etv_Cinema
+http://103.132.16.98:8080/etvplus/mpegts
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Etv_Life
