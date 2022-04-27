@@ -44,7 +44,7 @@ http://myjio.in1.bitmana.io/livetv/liveamar.php?id=413&q=250
 https://iamsom5.000webhostapp.com/zee5.php?c=0-9-zeecinemalu
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-http://myjio.in1.bitmana.io/livetv/liveamar.php?id=629&q=250
+http://103.132.16.98:8080/etvhd/mpegts
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Etv_Cinema
@@ -580,7 +580,7 @@ http://89.187.162.109/STARSPORTS1HINDIHD/mono.m3u8
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/3979
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://live.flixhub.net/hls/stersports1hd.m3u8
+http://103.132.16.98:8080/starsports1hd/mpegts
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/397844
