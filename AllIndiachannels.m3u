@@ -159,8 +159,7 @@ EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu New
 https://tnrockerztv.xyz/z5/z5.php?c=0-9-9z583538
 
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
-https://ipl2022.in1.bitmana.io/play.php?c=NTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
