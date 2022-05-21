@@ -372,13 +372,13 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 tvg-id="https://dthhelp.net" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbKerd0Gbn5LQFt5q1iwDgaUL6cpYC8DrMxTBDjxYKngnOlSf4lKqzjBD&s=10" group-title="Movies" ,STAR MOVIES HD
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-http://103.166.253.222/hls/starmovies.m3u8
+http://103.167.190.250/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="" group-title="Movies",MN+ HD
 http://103.167.190.250/hls/mn+.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",MNX HD
-http://live.flixhub.net/hls/mnx-hd.m3u8
+http://103.167.190.250/hls/mnx-hd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Movies Now
 http://103.167.190.250/hls/movies-now.m3u8
@@ -401,7 +401,7 @@ https://ranapkz5.1.mywebsites.link/play.php?c=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="&xplorHD"tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-209/list/09209xplorhd.jpg" group-title="Movies",&xplorHD
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-209
 
-#EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
+EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
 http://103.167.190.250/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
