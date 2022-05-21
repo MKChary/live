@@ -247,44 +247,23 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/d0dB3kSCMmM/li
 #EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
 https://m-c03-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 
-#EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/V7Music.jpg",V7Music
+#EXTINF:-1 tvg-id="v7music" group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/V7Music.jpg",V7Music
 rtmp://cloud.streamplay.in/taazanews/taazanews
 
-#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",Power TV
-http://live.mrstream.in:1935/powertv/powertv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",CTV News
-http://blmtech.in:8086/hls/ctv/index.m3u8
-
-#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",HN9TV
+#EXTINF:-1 tvg-id="HN9TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Powertv.jpg" group-title="News",HN9TV
 http://blmtech.in:8086/hls/hn9tv/index.m3u8
 
-#EXTINF:-1 tvg-id="Ms Digital" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",MS Digital
-http://telugusolutions.com/msdigitaltv/msdigitaltv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",Sity
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",Sity TELANGANA
 http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Msdigitaltv.jpg" group-title="News",Vizag Local News
 http://live.streamplay.in:1935/vlnews/vlnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AB5 News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ab5news.jpg" group-title="News",AB5 News
-http://183.87.51.10/hls/sungroup.m3u8
-
-#EXTINF:-1 tvg-id="Teja Tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Tejatv.jpg" group-title="News",Teja TV
-http://telugusolutions.com/tejatv/tejatv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Music",9TV Telangana
 http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Dbrnews.jpg" group-title="Movies",DBR News
-http://telugusolutions.com/dbr12/dbr12/index.m3u8
-
 EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Movies",Sriyadadri
 http://live.streamplay.in:1935/sriyadadri/sriyadadri/playlist.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Rk9news.jpg" group-title="Movies",RK9 News
-http://telugusolutions.com/rk9news/rk9news/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="Movies",Amma News
 http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
@@ -303,9 +282,6 @@ http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="News",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Localnews.jpg" group-title="Movies",Local News
-http://live.streamplay.in:1935/localtv/localtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="Movies",Saranya TV
 http://blmtech.in:8086/hls/saranyatv/index.m3u8
@@ -334,7 +310,7 @@ http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Santhoshamtv.jpg" group-title="News",Santhosham TV
 http://hdserver.7starcloud.com:1935/shts/live/chunklist_w1579620889.m3u8
 
-#EXTINF:-1 tvg-id="Rashi Telugu HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-130821_Chrome.jpg"group-title="Movies",Rasi Telugu HD
+EXTINF:-1 tvg-id="Rashi Telugu HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-130821_Chrome.jpg"group-title="Movies",Rasi Telugu HD
 http://singamcloud.in:1935/rasinetwork/rasitelugu/chunklist.m3u8
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/9F47DP6q/rasi-tamil.png" group-title="Movies",Rasi Tamil
@@ -343,16 +319,16 @@ http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist.m3u8
 EXTINF:-1 tvg-logo="https://i.postimg.cc/kMYSMYpm/rasi-tv.png" group-title="Movies",Rasi TV
 http://singamcloud.in:1935/rasinetworks/rasitv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Movies",Rasi Movies
+EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Movies",Rasi Movies
 http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Movies",Rasi Music
+EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Movies",Rasi Music
 http://singamcloud.in:1935/rasinetworks/rasimusic/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Movies",Rasi Hollywood
+EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Movies",Rasi Hollywood
 http://singamcloud.in:1935/rasinetworks/rasihollywood/chunklist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Movies",Rasi Hindi
+EXTINF:-1 tvg-logo="https://i.postimg.cc/T3v29n4S/newcanvas-1619629207647-1619856224339.png" group-title="Movies",Rasi Hindi
 http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
 
 EXTINF:-1 tvg-id="Rashi HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Screenshot_20210626-125332_Chrome.jpg"group-title="Movies",Rasi Hollywood HD
