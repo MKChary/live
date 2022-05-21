@@ -101,7 +101,7 @@ https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Vanitha_TV
 http://myjio.in1.bitmana.io/livetv/liveamar.php?id=854&q=250
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",SONY BBC EARTH HD
-http://live.flixhub.net/hls/bbcearth.m3u8
+http://103.167.190.250/hls/bbcearth.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://103.153.39.36:8000/play/a00x
@@ -119,7 +119,7 @@ http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2668
 http://myjio.in1.bitmana.io/livetv/liveamar.php?id=577&q=250
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travel XP HD
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Travel_XP_HD
+http://103.167.190.250/hls/travelxp.m3u8
 
 #EXTINF:-1 tvg-id="DDSaptagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
 https://m-c15-j2apps.s.llnwi.net/hls/2880.DDSaptagiri.in.m3u8
@@ -375,13 +375,13 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 http://103.166.253.222/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="" group-title="Movies",MN+ HD
-http://live.flixhub.net/hls/mn+.m3u8
+http://103.167.190.250/hls/mn+.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",MNX HD
 http://live.flixhub.net/hls/mnx-hd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Movies Now
-http://live.flixhub.net/hls/movies-now.m3u8
+http://103.167.190.250/hls/movies-now.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO Family HD
 http://livetv2021.site:8080/9897876765/6576567/130
@@ -402,7 +402,7 @@ https://ranapkz5.1.mywebsites.link/play.php?c=0-9-channel_2105335046
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-209
 
 #EXTINF:-1 tvg-id="Hbo.in" tvg-name="HBO" tvg-logo="" group-title="Movies",Movies Now HD
-http://103.153.39.36:8000/play/a01i/index.m3u8
+http://103.167.190.250/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-name="FashionTV.in" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_fr.png" group-title="Lifestyle",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
@@ -571,7 +571,7 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
-http://new-pro.tv:8080/Fernando/123321/90139
+http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Hindi
 http://89.187.162.109/STARSPORTS1HINDIHD/mono.m3u8
@@ -596,7 +596,6 @@ http://5gfksa.ltd:2052/55667788/88776655/10710
 
 #EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket HD
 http://93.189.58.42:8880/57655/57655/206297
-
 
 #EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket HD
 https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Jio_Cricket_English
