@@ -50,7 +50,7 @@ http://103.132.16.98:8080/etvhd/mpegts
 http://103.132.16.98:8080/etvplus/mpegts
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Etv_Life
+http://techmaxpro-id01.in1.bitmana.io/live.php?c=Etv_Life&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
 https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Etv_Plus
