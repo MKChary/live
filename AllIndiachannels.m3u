@@ -47,16 +47,16 @@ https://ranapkz5.1.mywebsites.link/play.php?c=0-9-zeecinemalu
 http://103.132.16.98:8080/etvhd/mpegts
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://103.132.16.98:8080/etvplus/mpegts
+http://yashraj005.in1.bitmana.io/live.php?c=ETV_Cinema&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://techmaxpro-id01.in1.bitmana.io/live.php?c=Etv_Life&q=1200&e=junk.m3u8
+http://yashraj005.in1.bitmana.io/live.php?c=ETV_Life&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Etv_Plus
+http://yashraj005.in1.bitmana.io/live.php?c=ETV_Plus&q=800&e=.m3u8
 
 EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-http://89.187.162.109/ETVABHIRUCHI/mono.m3u8
+http://yashraj005.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=800&e=.m3u8
 
 EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://bit.ly/3kIFULg
@@ -92,13 +92,13 @@ EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dar
 http://195.201.82.32:5001/play/a015
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Vissa_TV
+http://yashraj005.in1.bitmana.io/live.php?c=Vissa_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
 https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Vanitha_TV
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
-http://myjio.in1.bitmana.io/livetv/liveamar.php?id=854&q=250
+http://yashraj005.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",SONY BBC EARTH HD
 http://103.167.190.250/hls/bbcearth.m3u8
@@ -110,7 +110,7 @@ http://103.153.39.36:8000/play/a00x
 http://live.flixhub.net/hls/ngohd.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Discovery_Channel_Telugu
+http://yashraj005.in1.bitmana.io/live.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2668
@@ -134,10 +134,10 @@ https://snehapi.in1.bitmana.io/snxtapi/sneh-snxt/26571.m3u8
 https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Sonic_Telugu
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=CN_HD_Telugu
+http://yashraj005.in1.bitmana.io/live.php?c=CN_HD_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Nick_Telugu
+http://yashraj005.in1.bitmana.io/live.php?c=Nick_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="" group-title="Family/Kids",Sony Yay Telugu
 https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Sony_Yay_Telugu
