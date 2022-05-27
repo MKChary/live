@@ -80,7 +80,7 @@ EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/log
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5585
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
-https://snehapi.in1.bitmana.io/jioapi/tsjio800/Raj_Music_Telugu.m3u8
+http://yashraj005.in1.bitmana.io/live.php?c=Raj_Music_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2648
