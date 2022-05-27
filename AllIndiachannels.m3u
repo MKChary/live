@@ -43,7 +43,7 @@ http://yashraj005.in1.bitmana.io/live.php?c=Zee_Cinemalu&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 http://yashraj005.in1.bitmana.io/live.php?c=ZEE_Cinemalu&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
+EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 http://103.132.16.98:8080/etvhd/mpegts
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
@@ -58,13 +58,13 @@ http://yashraj005.in1.bitmana.io/live.php?c=ETV_Life&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
 http://yashraj005.in1.bitmana.io/live.php?c=ETV_Plus&q=800&e=.m3u8
 
-EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
+#EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
 http://yashraj005.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=800&e=.m3u8
 
 EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://bit.ly/3kIFULg
 
-#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
+EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5586
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA
@@ -98,7 +98,7 @@ http://195.201.82.32:5001/play/a015
 http://yashraj005.in1.bitmana.io/live.php?c=Vissa_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Vanitha_TV
+http://yashraj005.in1.bitmana.io/live.php?c=Vanitha&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://yashraj005.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
@@ -124,8 +124,8 @@ http://yashraj005.in1.bitmana.io/live.php?c=History_18_Telugu&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travel XP HD
 http://103.167.190.250/hls/travelxp.m3u8
 
-#EXTINF:-1 tvg-id="DDSaptagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
-https://m-c15-j2apps.s.llnwi.net/hls/2880.DDSaptagiri.in.m3u8
+#EXTINF:-1 tvg-id="DDSaptagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Saptagiri
+http://yashraj005.in1.bitmana.io/live.php?c=DD_Saptagiri&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
