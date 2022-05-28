@@ -14,7 +14,8 @@ XTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustrat
 https://weqnipiuor-ikcuv-zeijwbqdia.ibo.link/player/ns-inNnzIqP1Hj8NQHpsuHqdqoq/in/?link=aHR0cHM6Ly9zODcuaWJvbW1hLmRvd25sb2FkL01haGEtU2FtdWRyYW0tMjAyMS5tcDQ=
 
 #EXTINF:-1 tvg-id="Gemini tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",TBO classic
-https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
+#https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
+https://catchup.yuppcdn.net/amazonv2/20/preview/tbo/master/master.m3u8
 
 #EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
 https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
@@ -50,16 +51,20 @@ http://103.132.16.98:8080/etvhd/mpegts
 http://yashraj005.in1.bitmana.io/live.php?c=ETV_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://yashraj005.in1.bitmana.io/live.php?c=ETV_Cinema&q=800&e=.m3u8
+#http://yashraj005.in1.bitmana.io/live.php?c=ETV_Cinema&q=800&e=.m3u8
+https://catchup.yuppcdn.net/amazonv2/20/preview/etvcinema/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://yashraj005.in1.bitmana.io/live.php?c=ETV_Life&q=800&e=.m3u8
+#http://yashraj005.in1.bitmana.io/live.php?c=ETV_Life&q=800&e=.m3u8
+https://catchup.yuppcdn.net/amazonv2/20/preview/etvlife/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://yashraj005.in1.bitmana.io/live.php?c=ETV_Plus&q=800&e=.m3u8
+#http://yashraj005.in1.bitmana.io/live.php?c=ETV_Plus&q=800&e=.m3u8
+https://catchup.yuppcdn.net/amazonv2/20/preview/etvplus/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-http://yashraj005.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=800&e=.m3u8
+#http://yashraj005.in1.bitmana.io/live.php?c=ETV_Abhiruchi&q=800&e=.m3u8
+https://catchup.yuppcdn.net/amazonv2/20/preview/etvabhiruchi/master/master.m3u8
 
 EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://bit.ly/3kIFULg
@@ -98,7 +103,8 @@ http://195.201.82.32:5001/play/a015
 http://yashraj005.in1.bitmana.io/live.php?c=Vissa_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
-http://yashraj005.in1.bitmana.io/live.php?c=Vanitha&q=800&e=.m3u8
+#http://yashraj005.in1.bitmana.io/live.php?c=Vanitha&q=800&e=.m3u8
+https://catchup.yuppcdn.net/amazonv2/20/preview/vanitha/master/master.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://yashraj005.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
@@ -156,17 +162,19 @@ http://cloud.streamplay.in:1935/jaitelanganatv/jaitelanganatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xBAy69c6CXQ&t=0s/live
-http://iptv.hdsindia.com:2574/udp/228.10.10.193:4640
+#http://iptv.hdsindia.com:2574/udp/228.10.10.193:4640
+https://catchup.yuppcdn.net/amazonv2/20/preview/tnews/master/master.m3u8
 
 EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
 https://tnrockerztv.xyz/z5/z5.php?c=0-9-9z583538
 
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
+https://catchup.yuppcdn.net/amazonv2/20/preview/ntv/master/master.m3u8
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
-#https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/uNi667HM4UI/live
+https://catchup.yuppcdn.net/amazonv2/20/preview/tv5/master/master.m3u8
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/uNi667HM4UI/live
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
@@ -175,7 +183,8 @@ https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m
 https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
+https://catchup.yuppcdn.net/amazonv2/20/preview/etvtelangana/master/master.m3u8
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
 #http://iptv.hdsindia.com:2574/udp/228.10.10.207:4640
@@ -185,8 +194,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IHuHxUo4Yps/li
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
 #EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/qIY8IeluF9g/live
-#http://iptv.hdsindia.com:2574/udp/228.10.10.208:4640
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/qIY8IeluF9g/live
+https://catchup.yuppcdn.net/amazonv2/20/preview/hmtv/master/master.m3u8
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
@@ -201,7 +210,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Raj_News_Telugu
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
-http://89.187.162.109/SAKSHITV/mono.m3u8
+https://catchup.yuppcdn.net/amazonv2/20/preview/sakshi/master/master.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8McTsOqeueE/live
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
@@ -209,7 +218,8 @@ https://tnrockerztv.xyz/z5/z5.php?c=0-9-355
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IKj_cj51_W0/live
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
-http://14.199.164.20:4001/play/a0is/index.m3u8
+#http://14.199.164.20:4001/play/a0is/index.m3u8
+https://catchup.yuppcdn.net/amazonv2/20/preview/tnews/master/master.m3u8
 
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="Education", Vidya
 http://yashraj005.in1.bitmana.io/live.php?c=Vidya&q=800&e=.m3u8
