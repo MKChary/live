@@ -21,16 +21,17 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tbo/master/master.m3u8
 https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://89.187.162.109/GEMINIHD/mono.m3u8
+#http://89.187.162.109/GEMINIHD/mono.m3u8
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2665
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2664
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2664
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2663
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2663
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2647
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2647
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5593
@@ -42,7 +43,7 @@ https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Zee_Telugu
 http://yashraj005.in1.bitmana.io/live.php?c=Zee_Cinemalu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
-https://ranapkz5.1.mywebsites.link/play.php?c=0-9-zeecinemalu
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2650
 
 EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 http://103.132.16.98:8080/etvhd/mpegts
@@ -69,11 +70,11 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/etvabhiruchi/master/master.m3u8
 EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://bit.ly/3kIFULg
 
-EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5586
+#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2654
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA
-http://89.187.162.109/STARMAAHD/mono.m3u8
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2655
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5585
@@ -81,8 +82,8 @@ http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5585
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5584
 
-EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5585
+#EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2661
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://yashraj005.in1.bitmana.io/live.php?c=Raj_Music_Telugu&q=800&e=.m3u8
@@ -116,7 +117,7 @@ http://103.167.190.250/hls/bbcearth.m3u8
 http://103.153.39.36:8000/play/a00x
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
-http://live.flixhub.net/hls/ngohd.m3u8
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2660
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
 http://yashraj005.in1.bitmana.io/live.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
