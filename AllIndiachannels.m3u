@@ -222,6 +222,9 @@ https://tnrockerztv.xyz/z5/z5.php?c=0-9-355
 #http://14.199.164.20:4001/play/a0is/index.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/tnews/master/master.m3u8
 
+#EXTINF:-1 tvg-id="CNBCTV18.in" status="online",group-title="News",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="Education", Vidya
 http://yashraj005.in1.bitmana.io/live.php?c=Vidya&q=800&e=.m3u8
 
