@@ -18,14 +18,17 @@ https://weqnipiuor-ikcuv-zeijwbqdia.ibo.link/player/ns-inNnzIqP1Hj8NQHpsuHqdqoq/
 https://catchup.yuppcdn.net/amazonv2/20/preview/tbo/master/master.m3u8
 
 #EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
-https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
+http://iptv12k.com:35461/8032022060101/452381/5030
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 #http://89.187.162.109/GEMINIHD/mono.m3u8
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2665
 
-#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2664
+
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
+http://iptv12k.com:35461/8032022060101/452381/5036
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2663
@@ -36,8 +39,8 @@ http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2647
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5593
 
-EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Zee_Telugu
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
+http://iptv12k.com:35461/8032022060101/452381/5028
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
 http://yashraj005.in1.bitmana.io/live.php?c=Zee_Cinemalu&q=800&e=.m3u8
@@ -86,7 +89,7 @@ http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5584
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2661
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
-http://yashraj005.in1.bitmana.io/live.php?c=Raj_Music_Telugu&q=800&e=.m3u8
+http://iptv12k.com:35461/8032022060101/452381/5037
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2648
@@ -171,7 +174,7 @@ https://tnrockerztv.xyz/z5/z5.php?c=0-9-9z583538
 
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
-https://catchup.yuppcdn.net/amazonv2/20/preview/ntv/master/master.m3u8
+http://iptv12k.com:35461/8032022060101/452381/5033
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 http://14.199.164.20:4001/play/a0lf/index.m3u8
@@ -208,7 +211,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Raj_News_Telugu
+http://iptv12k.com:35461/8032022060101/452381/5032
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 https://catchup.yuppcdn.net/amazonv2/20/preview/sakshi/master/master.m3u8
