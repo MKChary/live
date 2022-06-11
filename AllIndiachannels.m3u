@@ -273,6 +273,9 @@ rtmp://cloud.streamplay.in/taazanews/taazanews
 #EXTINF:-1 tvg-id="Gatla TV" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Gatlatv.jpg",Gatla TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 
+#EXTINF:-1 tvg-id="Star9News" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/star9news.jpg",Star9News
+http://server.streamplay.in:1935/star9/star9/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TN24/7News" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/TN24.jpg",TN24/7News
 http://play.sundaylive.in:8088/gayathri/gayathri.m3u8
 
