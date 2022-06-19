@@ -42,7 +42,7 @@ http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5593
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
 http://iptv12k.com:35461/8032022060101/452381/5028
 
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
+EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
 http://yashraj005.in1.bitmana.io/live.php?c=Zee_Cinemalu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
@@ -173,8 +173,8 @@ EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu New
 https://tnrockerztv.xyz/z5/z5.php?c=0-9-9z583538
 
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
-http://iptv12k.com:35461/8032022060101/452381/5033
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
+#http://iptv12k.com:35461/8032022060101/452381/5033
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 http://14.199.164.20:4001/play/a0lf/index.m3u8
@@ -187,19 +187,18 @@ https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m
 https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
-https://catchup.yuppcdn.net/amazonv2/20/preview/etvtelangana/master/master.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
+#https://catchup.yuppcdn.net/amazonv2/20/preview/etvtelangana/master/master.m3u8
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2643
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IHuHxUo4Yps/live
+#http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2643
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IHuHxUo4Yps/live
 
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
 #EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/qIY8IeluF9g/live
-
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
@@ -217,17 +216,16 @@ http://iptv12k.com:35461/8032022060101/452381/5032
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8McTsOqeueE/live
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/3055
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IKj_cj51_W0/live
+#http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/3055
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IKj_cj51_W0/live
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
-#http://14.199.164.20:4001/play/a0is/index.m3u8
-https://catchup.yuppcdn.net/amazonv2/20/preview/tnews/master/master.m3u8
+http://14.199.164.20:4001/play/a0is/index.m3u8
 
-#EXTINF:-1 tvg-id="CNBCTV18.in" status="online",group-title="News",CNBC TV18
+#EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="" group-title="News",CNBCTV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 
-#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="Education", Vidya
+EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="Education", Vidya
 http://yashraj005.in1.bitmana.io/live.php?c=Vidya&q=800&e=.m3u8
 
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title="Education", Nipuna
