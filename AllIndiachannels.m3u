@@ -192,7 +192,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
 #http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2643
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IHuHxUo4Yps/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Q0eu7HCRBgw/live
 
 #EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
@@ -210,7 +210,7 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News
-http://iptv12k.com:35461/8032022060101/452381/5032
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.yupptv.com/yupptvnew/channels/raj-news/live
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8McTsOqeueE/live
