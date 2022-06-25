@@ -123,13 +123,13 @@ http://103.153.39.36:8000/play/a00x
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2660
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
-http://yashraj005.in1.bitmana.io/live.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
+https://iamsom.in1.bitmana.io/play.php?c=Discovery_Channel_Telugu
 
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2668
+https://iamsom.in1.bitmana.io/play.php?c=Discovery_HD_World
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2662
+https://iamsom.in1.bitmana.io/play.php?c=History_18_Telugu
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travel XP HD
 http://103.167.190.250/hls/travelxp.m3u8
@@ -254,7 +254,7 @@ https://m-c03-j2apps.s.llnwi.net/hls/2591.CVROM.in.m3u8
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Lifestyle",AASTHA Telugu
-http://yashraj005.in1.bitmana.io/live.php?c=Aastha_Telugu&q=800&e=.m3u8
+https://iamsom.in1.bitmana.io/play.php?c=Aastha_Telugu
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Hindu Dharmam
 https://m-c08-j2apps.s.llnwi.net/hls/5414.HinduDharmam.in.m3u8
