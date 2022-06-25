@@ -39,7 +39,7 @@ http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2647
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5593
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
+EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
 http://iptv12k.com:35461/8032022060101/452381/5028
 
 EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
@@ -48,7 +48,7 @@ http://yashraj005.in1.bitmana.io/live.php?c=Zee_Cinemalu&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-zeecinemalu
 
-#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
+EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 http://103.132.16.98:8080/etvhd/mpegts
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
