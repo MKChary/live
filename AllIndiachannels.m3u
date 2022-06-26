@@ -381,19 +381,19 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 tvg-id="https://dthhelp.net" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbKerd0Gbn5LQFt5q1iwDgaUL6cpYC8DrMxTBDjxYKngnOlSf4lKqzjBD&s=10" group-title="Movies" ,STAR MOVIES HD
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-http://103.167.190.250/hls/starmovies.m3u8
+http://103.55.144.46:80/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="" group-title="Movies",MN+ HD
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2920
+http://103.55.144.46:80/hls/mn+.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",MNX HD
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2919
+http://103.55.144.46:80/hls/mnx-hd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Movies Now
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2918
+http://103.55.144.46:80/hls/movies-now.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO HD
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2922
+http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO Signature HD
 http://livetv2021.site:8080/9897876765/6576567/131
@@ -409,8 +409,8 @@ http://103.99.249.107/play/a01i
 
 #EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
 http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
-http://103.99.249.107/play/a00x
+#EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",cinemax
+http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="&xplorHD"tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-209/list/09209xplorhd.jpg" group-title="Movies",&xplorHD
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-209
