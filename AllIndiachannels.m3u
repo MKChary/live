@@ -222,7 +222,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IKj_cj51_W0/li
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
 http://14.199.164.20:4001/play/a0is/index.m3u8
 
-#EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="" group-title="News",CNBCTV18
+#EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="http://sagraecdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="News",CNBCTV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 
 EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="Education", Vidya
