@@ -25,16 +25,16 @@ http://iptv12k.com:35461/8032022060101/452381/5030
 http://iptvtree.net:8080/rhaddaoui90/58b4b54325/165794
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2664
+http://rv.bleutv.net:80/152087360475456/152066530788190/198029
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://iptv12k.com:35461/8032022060101/452381/5036
+http://rv.bleutv.net:80/152087360475456/152066530788190/198019
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2663
+http://rv.bleutv.net:80/152087360475456/152066530788190/198028
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2647
+http://rv.bleutv.net:80/152087360475456/152066530788190/198012
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5593
@@ -52,18 +52,18 @@ EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_
 http://103.132.16.98:8080/etvhd/mpegts
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2666
+http://rv.bleutv.net:80/152087360475456/152066530788190/198031
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2667
+http://rv.bleutv.net:80/152087360475456/152066530788190/198032
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvcinema/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2646
+http://rv.bleutv.net:80/152087360475456/152066530788190/198016
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvlife/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2651
+http://rv.bleutv.net:80/152087360475456/152066530788190/198011
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvplus/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
@@ -92,7 +92,7 @@ http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2661
 http://iptv12k.com:35461/8032022060101/452381/5037
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2648
+http://rv.bleutv.net:80/152087360475456/152066530788190/198013
 
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
@@ -104,14 +104,14 @@ EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dar
 http://195.201.82.32:5001/play/a015
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2639
+http://rv.bleutv.net:80/152087360475456/152066530788190/198003
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
 #http://yashraj005.in1.bitmana.io/live.php?c=Vanitha&q=800&e=.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/vanitha/master/master.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2657
+http://rv.bleutv.net:80/152087360475456/152066530788190/198022
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",SONY BBC EARTH HD
 http://103.167.190.250/hls/bbcearth.m3u8
@@ -120,7 +120,7 @@ http://103.167.190.250/hls/bbcearth.m3u8
 http://103.153.39.36:8000/play/a00x
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2660
+http://rv.bleutv.net:80/152087360475456/152066530788190/198025
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
 https://iamsom.in1.bitmana.io/play.php?c=Discovery_Channel_Telugu
@@ -141,7 +141,7 @@ https://m-c047-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 
 #EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2638
+http://rv.bleutv.net:80/152087360475456/152066530788190/198004
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Family/Kids",Sonic Telugu
 http://yashraj005.in1.bitmana.io/live.php?c=Sonic_Telugu&q=800&e=.m3u8
@@ -1053,6 +1053,78 @@ https://m-c03-j2apps.s.llnwi.net/hls/7053.NewsOnly.in.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/7052.SanjhaTV.in.m3u8
 #EXTINF:-1 tvg-id="PBNMusic" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7056.PBNMusic.in/1x1/1x/test_pic1590761038771.jpg" group-title="Music",PBN Music
 https://m-c03-j2apps.s.llnwi.net/hls/7056.PBNMusic.in.m3u8
+
+#EXTINF:-1 group-title="AS| TELUGU" ,##### |TELEGU| GENERAL #####
+http://rv.bleutv.net:80/152087360475456/152066530788190/198035
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| BHAKTI TV
+http://rv.bleutv.net:80/152087360475456/152066530788190/198034
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| DISCOVERY WORLD HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198033
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| ETV CINEMA
+http://rv.bleutv.net:80/152087360475456/152066530788190/198032
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| ETV HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198031
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| GEMINI HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198030
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| GEMINI MOVIES HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198029
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| GEMINI COMEDY
+http://rv.bleutv.net:80/152087360475456/152066530788190/198028
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| HISTORY 18 TELUGU HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198027
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| STAR MAA MOVIES HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198026
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| NATIONAL GEOGRAPHIC HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198025
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| RAJ MUSIC TELUGU
+http://rv.bleutv.net:80/152087360475456/152066530788190/198024
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| RAJ NEWS TELUGU
+http://rv.bleutv.net:80/152087360475456/152066530788190/198023
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| SONY BBC EARTH HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198022
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| STAR MAA GOLD HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198021
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| STAR MAA HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198020
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| TATA SKY TELUGU CINEMA HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198019
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| TV9 NEWS
+http://rv.bleutv.net:80/152087360475456/152066530788190/198018
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| V6 NEWS
+http://rv.bleutv.net:80/152087360475456/152066530788190/198017
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| ETV PLUS
+http://rv.bleutv.net:80/152087360475456/152066530788190/198016
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| ZEE CINEMALU HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198015
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| ZEE TELUGU HD
+http://rv.bleutv.net:80/152087360475456/152066530788190/198014
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| GEMINI MUSIC
+http://rv.bleutv.net:80/152087360475456/152066530788190/198013
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| GEMINI LIFE
+http://rv.bleutv.net:80/152087360475456/152066530788190/198012
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| ETV LIFE
+http://rv.bleutv.net:80/152087360475456/152066530788190/198011
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| TV5 NEWS
+http://rv.bleutv.net:80/152087360475456/152066530788190/198010
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| SONY YAY
+http://rv.bleutv.net:80/152087360475456/152066530788190/198009
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| 10 TV
+http://rv.bleutv.net:80/152087360475456/152066530788190/198008
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| GEMINI NEWS
+http://rv.bleutv.net:80/152087360475456/152066530788190/198007
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| DD SAPTAGIRI
+http://rv.bleutv.net:80/152087360475456/152066530788190/198006
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| VANITHA TV
+http://rv.bleutv.net:80/152087360475456/152066530788190/198005
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| VISSA TV
+http://rv.bleutv.net:80/152087360475456/152066530788190/198004
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| KUSHI TV
+http://rv.bleutv.net:80/152087360475456/152066530788190/198003
+#EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| SAKSHI TV
+http://rv.bleutv.net:80/152087360475456/152066530788190/198002
+
+
+
 
 #EXTINF:-1 All channels
 https://nosmoking.cyou/v2/playlist/ac224cf32e6a.m3u
