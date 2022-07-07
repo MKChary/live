@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
-#EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Music",HDR Prime
+EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Music",HDR Prime
 http://iptv.hdsindia.com:2574/udp/227.10.10.76:4640
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/GayathriManthra.jpeg" group-title="Music",Gayathri Mathram
@@ -17,14 +17,14 @@ https://weqnipiuor-ikcuv-zeijwbqdia.ibo.link/player/ns-inNnzIqP1Hj8NQHpsuHqdqoq/
 #https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/tbo/master/master.m3u8
 
-#EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
+EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
 http://iptv12k.com:35461/8032022060101/452381/5030
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
 #http://89.187.162.109/GEMINIHD/mono.m3u8
 http://iptvtree.net:8080/rhaddaoui90/58b4b54325/165794
 
-#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 http://rv.bleutv.net:80/152087360475456/152066530788190/198029
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
@@ -59,11 +59,11 @@ http://rv.bleutv.net:80/152087360475456/152066530788190/198032
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvcinema/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://rv.bleutv.net:80/152087360475456/152066530788190/198016
+http://rv.bleutv.net:80/152087360475456/152066530788190/198011
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvlife/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://rv.bleutv.net:80/152087360475456/152066530788190/198011
+http://rv.bleutv.net:80/152087360475456/152066530788190/198016
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvplus/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
@@ -177,8 +177,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/li
 #http://iptv12k.com:35461/8032022060101/452381/5033
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
-http://14.199.164.20:4001/play/a0lf/index.m3u8
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/uNi667HM4UI/live
+#http://14.199.164.20:4001/play/a0lf/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/uNi667HM4UI/live
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
