@@ -228,9 +228,6 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="ETNow.in" status="timeout",ET Now
 https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
 
-#EXTINF:-1 tvg-id="ETNow.in" status="error",ET Now (288p)
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-
 EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="Education", Vidya
 http://yashraj005.in1.bitmana.io/live.php?c=Vidya&q=800&e=.m3u8
 
