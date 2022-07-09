@@ -48,8 +48,8 @@ http://iptvtree.net:8080/rhaddaoui90/58b4b54325/45504
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-zeecinemalu
 
-EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-http://103.132.16.98:8080/etvhd/mpegts
+#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV
+http://103.139.171.5:5001/play.php?c=ETV_Telugu
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 http://rv.bleutv.net:80/152087360475456/152066530788190/198031
