@@ -77,15 +77,15 @@ https://bit.ly/3kIFULg
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2654
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA
-http://iptvtree.net:8080/iptvromania2020/31e75bff/82625
+http://iptvtree.net:8080/iptvromania2020/31e75bff/82624
 
-#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
+EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5585
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5584
+http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5585
 
-#EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
+EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2661
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
@@ -169,12 +169,12 @@ http://cloud.streamplay.in:1935/jaitelanganatv/jaitelanganatv/playlist.m3u8
 http://iptv.hdsindia.com:2574/udp/228.10.10.193:4640
 
 
-EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
-https://tnrockerztv.xyz/z5/z5.php?c=0-9-9z583538
+#EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
+http://iptvtree.net:8080/iptvromania2020/31e75bff/296489
 
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
-#http://iptv12k.com:35461/8032022060101/452381/5033
+#http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
+http://iptvtree.net:8080/iptvromania2020/31e75bff/165796
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 #http://14.199.164.20:4001/play/a0lf/index.m3u8
@@ -184,7 +184,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/uNi667HM4UI/li
 https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/v6_news.png" group-title="News",V6 News
-https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
+http://iptvtree.net:8080/iptvromania2020/31e75bff/192185
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
@@ -405,14 +405,12 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO PO
 http://livetv2021.site:8080/9897876765/6576567/132
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive HD
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2933
-
-#EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive HD
-http://103.99.249.107/play/a01i
+http://iptvtree.net:8080/iptvromania2020/31e75bff/45506
 
 #EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
-http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",cinemax
+http://iptvtree.net:8080/iptvromania2020/31e75bff/49557
+
+EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="&xplorHD"tvg-logo="https://akamaividz2.zee5.com/image/upload/w_599,h_337,c_scale,f_auto,q_auto/resources/0-9-209/list/09209xplorhd.jpg" group-title="Movies",&xplorHD
