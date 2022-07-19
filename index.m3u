@@ -167,7 +167,7 @@ http://cloud.streamplay.in:1935/jaitelanganatv/jaitelanganatv/playlist.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xBAy69c6CXQ&t=0s/live
 http://iptv.hdsindia.com:2574/udp/228.10.10.193:4640
 
-#EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
+EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
 http://iptvtree.net:8080/iptvromania2020/31e75bff/296489
 
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV
@@ -196,7 +196,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Q0eu7HCRBgw/li
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
 #EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/qIY8IeluF9g/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/2fvNaWiBUPU/live
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
