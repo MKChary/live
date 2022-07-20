@@ -241,8 +241,8 @@ https://snehtv-march.in1.bitmana.io/jiotv/play.php?c=AP_BIE_ARTS
 EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" group-title="Education",AP CIE SIVE
 http://snehjiotv.in1.bitmana.io/snehjioox.php?c=AP_CIE_SIVE&q=1200&e=.m3u8
 
-EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=BBC_World_News
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
+http://flix12.site:8080/3wb1vvh8du/6fh1xit35/692369
 
 #EXTINF:-1 tvg-id="Sai TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/FB_IMG_1634725008032.jpg" group-title="Lifestyle",Sai TV
 http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
