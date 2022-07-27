@@ -604,8 +604,8 @@ http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://live.flixhub.net/hls/select2.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Hindi HD
-http://5gfksa.ltd:2052/55667788/88776655/10710
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Fancode Hindi HD
+https://livehin.fancode.com/hls/live/2093039/4952hindi49748ta-no/1080p.m3u8
 
 #EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel%28DDSPORTS%29/index.m3u8
