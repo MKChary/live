@@ -20,13 +20,13 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tbo/master/master.m3u8
 EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
 http://iptv12k.com:35461/8032022060101/452381/5030
 
-#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
-http://0nelivezer0.rbtvnw.com:21190/vulcan/geminitv/chunks.m3u8
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
+http://102.222.232.18:9981/stream/channelid/1551132684
 
-#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
+EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
 http://iptvtree.net:8080/iptvromania2020/31e75bff/165794
 
-#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
+EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 http://0nelivezer0.rbtvnw.com:21190/vulcan/geminimovies/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
@@ -50,7 +50,7 @@ http://iptvtree.net:8080/iptvromania2020/31e75bff/45504
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 http://iamsom.1.mywebsites.link/zee5/telegram_iamsom5.php?c=0-9-zeecinemalu
 
-#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV
+EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV
 http://103.139.171.5:5001/play.php?c=ETV_Telugu
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
@@ -68,7 +68,7 @@ http://rv.bleutv.net:80/152087360475456/152066530788190/198011
 http://rv.bleutv.net:80/152087360475456/152066530788190/198016
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvplus/master/master.m3u8
 
-#EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
+EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2661
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvabhiruchi/master/master.m3u8
 
