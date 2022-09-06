@@ -228,7 +228,7 @@ https://tv.googledrivelinks.com/live.php?c=Raj_News_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8McTsOqeueE/live
-https://tv.googledrivelinks.com/live.php?c=Sakshi_TV&q=1200&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Sakshi_tv&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 https://tv.googledrivelinks.com/live.php?c=ABN_Andhra_Jyothi&q=1200&e=.m3u8
