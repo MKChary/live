@@ -121,6 +121,9 @@ http://103.167.190.250/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://103.153.39.36:8000/play/a00x
 
+#EXTINF:-1 tvg-id="Wild Earth" tvg-logo="https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg" group-title="Infotainment",Wild Earth
+https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=68c76dbf-12a1-5b6f-a538-a75fe1cbd790&dnt=0&X-Plex-Token=sDBxGsM7f5HSsD2SGcFD&cha
+
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://flix12.site:8080/3wb1vvh8du/6fh1xit35/692453
 
