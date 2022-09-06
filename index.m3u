@@ -48,7 +48,7 @@ http://iptvtree.net:8080/iptvromania2020/31e75bff/21561
 http://iptvtree.net:8080/iptvromania2020/31e75bff/45504
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
-https://tv.googledrivelinks.com1200&e=.m3u8
+Sony_Yay_Telugue=.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV
 https://tv.googledrivelinks.com/live.php?c=ETV_Telugu&q=1200&e=.m3u8
@@ -57,19 +57,19 @@ https://tv.googledrivelinks.com/live.php?c=ETV_Telugu&q=1200&e=.m3u8
 http://rv.bleutv.net:80/152087360475456/152066530788190/198031
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://rv.bleutv.net:80/152087360475456/152066530788190/198032
+https://tv.googledrivelinks.com/live.php?c=ETV_Cinema&q=1200&e=.m3u8
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvcinema/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://rv.bleutv.net:80/152087360475456/152066530788190/198011
+https://tv.googledrivelinks.com/live.php?c=ETV_Life&q=1200&e=.m3u8
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvlife/master/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://rv.bleutv.net:80/152087360475456/152066530788190/198016
+https://tv.googledrivelinks.com/live.php?c=ETV_Plus&q=1200&e=.m3u8
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvplus/master/master.m3u8
 
 EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2661
+https://tv.googledrivelinks.com/live.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
 #https://catchup.yuppcdn.net/amazonv2/20/preview/etvabhiruchi/master/master.m3u8
 
 EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
@@ -106,11 +106,11 @@ EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dar
 http://195.201.82.32:5001/play/a015
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-http://rv.bleutv.net:80/152087360475456/152066530788190/198003
+https://tv.googledrivelinks.com/live.php?c=Vissa&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
 #http://yashraj005.in1.bitmana.io/live.php?c=Vanitha&q=800&e=.m3u8
-https://catchup.yuppcdn.net/amazonv2/20/preview/vanitha/master/master.m3u8
+https://tv.googledrivelinks.com/live.php?c=Vanitha&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://rv.bleutv.net:80/152087360475456/152066530788190/198022
@@ -121,26 +121,29 @@ http://103.167.190.250/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://103.153.39.36:8000/play/a00x
 
-#EXTINF:-1 tvg-id="Wild Earth" tvg-logo="https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg" group-title="Infotainment",Wild Earth
+EXTINF:-1 tvg-id="Wild Earth" tvg-logo="https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg" group-title="Infotainment",Wild Earth
 https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=68c76dbf-12a1-5b6f-a538-a75fe1cbd790&dnt=0&X-Plex-Token=sDBxGsM7f5HSsD2SGcFD&cha
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://flix12.site:8080/3wb1vvh8du/6fh1xit35/692453
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
-https://iamsom.in1.bitmana.io/play.php?c=Discovery_Channel_Telugu
+#https://iamsom.in1.bitmana.io/play.php?c=Discovery_Channel_Telugu
+https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
-https://iamsom.in1.bitmana.io/play.php?c=Discovery_HD_World
+#https://iamsom.in1.bitmana.io/play.php?c=Discovery_HD_World
+https://tv.googledrivelinks.com/live.php?c=Discovery_HD_World&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
-https://iamsom.in1.bitmana.io/play.php?c=History_18_Telugu
+#https://iamsom.in1.bitmana.io/play.php?c=History_18_Telugu
+https://tv.googledrivelinks.com/live.php?c=History_18_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Yadagiri
-https://m-c047-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
+https://tv.googledrivelinks.com/live.php?c=DDYadagiri&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
@@ -149,16 +152,20 @@ https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 http://rv.bleutv.net:80/152087360475456/152066530788190/198004
 
 #EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Family/Kids",Sonic Telugu
-http://yashraj005.in1.bitmana.io/live.php?c=Sonic_Telugu&q=800&e=.m3u8
+#http://yashraj005.in1.bitmana.io/live.php?c=Sonic_Telugu&q=800&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Sonic_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
-http://yashraj005.in1.bitmana.io/live.php?c=CN_HD_Telugu&q=800&e=.m3u8
+#http://yashraj005.in1.bitmana.io/live.php?c=CN_HD_Telugu&q=800&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=CN_HD_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
-http://yashraj005.in1.bitmana.io/live.php?c=Nick_Telugu&q=800&e=.m3u8
+#http://yashraj005.in1.bitmana.io/live.php?c=Nick_Telugu&q=800&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Nick_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="" group-title="Family/Kids",Sony Yay Telugu
-https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Sony_Yay_Telugu
+#https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Sony_Yay_Telugu
+https://tv.googledrivelinks.com/live.php?c=Sony_Yay_Telugu&q=1200&e=.m3u8
 
 EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/U2Pb3rhwaGg/live
