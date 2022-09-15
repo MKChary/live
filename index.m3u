@@ -118,6 +118,9 @@ https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3
 EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",SONY BBC EARTH HD
 http://103.167.190.250/hls/bbcearth.m3u8
 
+#EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
+https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=1200&e=.m3u8
+
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://103.153.39.36:8000/play/a00x
 
@@ -527,9 +530,6 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0069.Zoom.in/en/1x1/208x208/test_pic1550666525581.jpg" group-title="Music",Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-
-#EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
-http://live.flixhub.net/hls/animalplanent.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Infotainment",NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
