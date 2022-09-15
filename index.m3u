@@ -471,8 +471,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 tvg-id="ZEE CAFE HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="Entertainment",ZEE CAFE HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
-EXTINF:-1 tvg-name="Zee Tv Hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv Hd
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/181
+#EXTINF:-1 tvg-name="Zee Tv Hd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv HD
+https://tv.googledrivelinks.com/live.php?c=Zee_TV_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-name="Zee Tv HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvsdusa/tracks-v1a1/index.m3u8
