@@ -95,7 +95,7 @@ https://tv.googledrivelinks.com/live.php?c=Studio_Yuva_Alpha&q=1200&e=.m3u8
 https://tv.googledrivelinks.com/live.php?c=Raj_Music_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-http://rv.bleutv.net:80/152087360475456/152066530788190/198013
+https://suntvlive.akamaized.net/hls/live/2093464/GeminiMusicHD/master.m3u8?hdnea=st=1669819637~exp=1669819937~acl=!*/2093464/GeminiMusicHD/*~hmac=6df73d80e3d2b85c36a62274b5ed67c835c9cf7d3c81cf46f025696ec43dedf8&PlayBackId=2401062880&cid=26568&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
