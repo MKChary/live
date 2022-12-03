@@ -39,35 +39,38 @@ http://0nelivezer0.rbtvnw.com:21190/vulcan/geminilife/chunks.m3u8
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5593
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
-https://tv.googledrivelinks.com/live.php?c=Zee_Telugu&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Zee_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
 http://102.222.232.18:9981/stream/channelid/2007835217
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
-https://tv.googledrivelinks.com/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Zee_Cinemalu&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
+EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 https://tv.googledrivelinks.com/live.php?c=ETV_Telugu&q=1200&e=.m3u8
 
+
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
-https://tv.googledrivelinks.com/live.php?c=ETV_HD&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=ETV_HD&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=ETV_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-https://tv.googledrivelinks.com/live.php?c=ETV_Cinema&q=1200&e=.m3u8
-#https://catchup.yuppcdn.net/amazonv2/20/preview/etvcinema/master/master.m3u8
+#https://tv.googledrivelinks.com/live.php?c=ETV_Cinema&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=ETV_Cinema&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-https://tv.googledrivelinks.com/live.php?c=ETV_Life&q=1200&e=.m3u8
-#https://catchup.yuppcdn.net/amazonv2/20/preview/etvlife/master/master.m3u8
+#https://tv.googledrivelinks.com/live.php?c=ETV_Life&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=ETV_Life&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-https://tv.googledrivelinks.com/live.php?c=ETV_Plus&q=1200&e=.m3u8
-#https://catchup.yuppcdn.net/amazonv2/20/preview/etvplus/master/master.m3u8
+#https://tv.googledrivelinks.com/live.php?c=ETV_Plus&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=ETV_Plus&q=1200&e=junk.m3u8
 
 EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-https://tv.googledrivelinks.com/live.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
-#https://catchup.yuppcdn.net/amazonv2/20/preview/etvabhiruchi/master/master.m3u8
+#https://tv.googledrivelinks.com/live.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=ETV_Abhiruchi&q=1200&e=junk.m3u8
 
 EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://rv.bleutv.net:80/152087360475456/152066530788190/198021
@@ -93,6 +96,7 @@ https://tv.googledrivelinks.com/live.php?c=Studio_Yuva_Alpha&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 https://tv.googledrivelinks.com/live.php?c=Raj_Music_Telugu&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 https://suntvlive.akamaized.net/hls/live/2093464/GeminiMusicHD/master.m3u8?hdnea=st=1669819637~exp=1669819937~acl=!*/2093464/GeminiMusicHD/*~hmac=6df73d80e3d2b85c36a62274b5ed67c835c9cf7d3c81cf46f025696ec43dedf8&PlayBackId=2401062880&cid=26568&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
@@ -107,20 +111,23 @@ EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dar
 http://195.201.82.32:5001/play/a015
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-https://tv.googledrivelinks.com/live.php?c=Vissa_TV&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=Vissa_TV&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Vissa_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
 #http://yashraj005.in1.bitmana.io/live.php?c=Vanitha&q=800&e=.m3u8
 https://tv.googledrivelinks.com/live.php?c=Vanitha&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
-https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=junk.m3u8
 
 EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",SONY BBC EARTH HD
 http://103.167.190.250/hls/bbcearth.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
-https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
 
 EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 http://103.153.39.36:8000/play/a00x
@@ -133,15 +140,17 @@ http://flix12.site:8080/3wb1vvh8du/6fh1xit35/692453
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
 #https://iamsom.in1.bitmana.io/play.php?c=Discovery_Channel_Telugu
-https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Telugu&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Telugu&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Discovery_Channel_Telugu&q=1200&e=junk.m3u8
+
 
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
-#https://iamsom.in1.bitmana.io/play.php?c=Discovery_HD_World
-https://tv.googledrivelinks.com/live.php?c=Discovery_HD_World&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
+#Discovery_HD_World
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
-#https://iamsom.in1.bitmana.io/play.php?c=History_18_Telugu
-https://tv.googledrivelinks.com/live.php?c=History_18_Telugu&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=History_18_Telugu&q=1200&e=junk.m3u8
+#https://tv.googledrivelinks.com/live.php?c=History_18_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
