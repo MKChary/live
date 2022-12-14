@@ -23,17 +23,17 @@ http://102.222.232.18:9981/stream/channelid/1692700510
 EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
 http://iptvtree.net:8080/iptvromania2020/31e75bff/165794
 
-EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://0nelivezer0.rbtvnw.com:21190/vulcan/geminimovies/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
+https://4v9v.short.gy/sun26570.m3u8
+
+EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/203037
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-http://rv.bleutv.net:80/152087360475456/152066530788190/198028
+https://4v9v.short.gy/sun9027.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
-http://0nelivezer0.rbtvnw.com:21190/vulcan/geminilife/chunks.m3u8
+https://4v9v.short.gy/sun9017.m3u8
 
 EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5593
@@ -99,7 +99,7 @@ https://tv.googledrivelinks.com/live.php?c=Studio_Yuva_Alpha&q=1200&e=.m3u8
 http://techmaxlive.ml/live.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-https://suntvlive.akamaized.net/hls/live/2093464/GeminiMusicHD/master.m3u8?hdnea=st=1669819637~exp=1669819937~acl=!*/2093464/GeminiMusicHD/*~hmac=6df73d80e3d2b85c36a62274b5ed67c835c9cf7d3c81cf46f025696ec43dedf8&PlayBackId=2401062880&cid=26568&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+https://4v9v.short.gy/sun26574.m3u8
 
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
