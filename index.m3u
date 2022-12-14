@@ -20,8 +20,8 @@ http://iptv12k.com:35461/8032022060101/452381/5030
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://102.222.232.18:9981/stream/channelid/1692700510
 
-EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
-http://iptvtree.net:8080/iptvromania2020/31e75bff/165794
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
+https://4v9v.short.gy/sun14019.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 https://4v9v.short.gy/sun26570.m3u8
@@ -99,7 +99,7 @@ https://tv.googledrivelinks.com/live.php?c=Studio_Yuva_Alpha&q=1200&e=.m3u8
 http://techmaxlive.ml/live.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-https://4v9v.short.gy/sun26574.m3u8
+https://4v9v.short.gy/sun9026.m3u8
 
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
