@@ -17,10 +17,10 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tbo/master/master.m3u8
 EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
 http://iptv12k.com:35461/8032022060101/452381/5030
 
-#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
+EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://102.222.232.18:9981/stream/channelid/1692700510
 
-#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 https://4v9v.short.gy/sun14019.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
@@ -50,7 +50,6 @@ http://techmaxlive.ml/live.php?c=Zee_Cinemalu&q=1200&e=junk.m3u8
 
 EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 https://tv.googledrivelinks.com/live.php?c=ETV_Telugu&q=1200&e=.m3u8
-
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
 #https://tv.googledrivelinks.com/live.php?c=ETV_HD&q=1200&e=.m3u8
@@ -143,7 +142,6 @@ http://flix12.site:8080/3wb1vvh8du/6fh1xit35/692453
 #https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Telugu&q=1200&e=.m3u8
 http://techmaxlive.ml/live.php?c=Discovery_Channel_Telugu&q=1200&e=junk.m3u8
 
-
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
 http://techmaxlive.ml/live.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
 #Discovery_HD_World
@@ -220,43 +218,53 @@ http://techmaxlive.ml/live.php?c=V6_News&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
-https://tv.googledrivelinks.com/live.php?c=ETV_Telangana&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=ETV_Telangana&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=ETV_Telangana&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
-https://tv.googledrivelinks.com/live.php?c=10_TV&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=10_TV&q=1200&e=.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Q0eu7HCRBgw/live
+http://techmaxlive.ml/live.php?c=10_TV&q=1200&e=junk.m3u8
 
 EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
 #EXTINF:-1 tvg-id="HM TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hm_tv_in.png" group-title="News",HM TV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/2fvNaWiBUPU/live
-https://tv.googledrivelinks.com/live.php?c=HM_TV&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=HM_TV&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=HM_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
-https://tv.googledrivelinks.com/live.php?c=CVR_Health&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=CVR_Health&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=CVR_Health&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="CVR English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news_english.png" group-title="News",CVR English
-https://tv.googledrivelinks.com/live.php?c=CVR_English&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=CVR_English&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=CVR_English&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
-https://tv.googledrivelinks.com/live.php?c=CVR_News&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=CVR_News&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=CVR_News&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.yupptv.com/yupptvnew/channels/raj-news/live
-http://rv.bleutv.net:80/152087360475456/152066530788190/198023
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.yupptv.com/yupptvnew/channels/raj-news/live
+#http://rv.bleutv.net:80/152087360475456/152066530788190/198023
+#http://techmaxlive.ml/live.php?c=10_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv_in.png" group-title="News",Sakshi TV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8McTsOqeueE/live
-https://tv.googledrivelinks.com/live.php?c=Sakshi_tv&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=Sakshi_tv&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Sakshi_tv&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
-https://tv.googledrivelinks.com/live.php?c=ABN_Andhra_Jyothi&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=ABN_Andhra_Jyothi&q=1200&e=.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IKj_cj51_W0/live
+http://techmaxlive.ml/live.php?c=ABN_Andhra_Jyothi&q=1200&e=junk.m3u8
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
 #http://14.199.164.20:4001/play/a0is/index.m3u8
-https://tv.googledrivelinks.com/live.php?c=I_News&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=I_News&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=I_News&q=1200&e=junk.m3u8
 
 EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="http://sagraecdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="News",CNBCTV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
@@ -287,21 +295,24 @@ http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
 #http://iptv.hdsindia.com:2574/udp/228.10.10.171:4640
-https://tv.googledrivelinks.com/live.php?c=CVR_OM_Spiritual&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=CVR_OM_Spiritual&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=CVR_OM_Spiritual&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="SVBC2" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png" group-title="Lifestyle",SVBC2
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 
 #EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Lifestyle",AASTHA Telugu
-https://tv.googledrivelinks.com/live.php?c=Aastha_Telugu&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=Aastha_Telugu&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Aastha_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Hindu Dharmam
 https://tv.googledrivelinks.com/play.php?c=Hindu_Dharmam&q=1200&e=.m3u8
+http://techmaxlive.ml/live.php?c=Hindu_Dharmam&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Lifestyle",Bhakti TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/d0dB3kSCMmM/live
 
-#EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
+EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
 https://m-c07-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 
 #EXTINF:-1 tvg-id="v7music" group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/V7Music.jpg",V7Music
