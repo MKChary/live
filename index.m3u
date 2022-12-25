@@ -17,8 +17,8 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tbo/master/master.m3u8
 EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
 http://iptv12k.com:35461/8032022060101/452381/5030
 
-EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://102.222.232.18:9981/stream/channelid/1692700510
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
+http://clientsportals.com:2095/caupwuBz/jRqqbXWC/460760
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 https://4v9v.short.gy/sun14019.m3u8
@@ -53,7 +53,7 @@ https://tv.googledrivelinks.com/live.php?c=ETV_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
 #https://tv.googledrivelinks.com/live.php?c=ETV_HD&q=1200&e=.m3u8
-http://techmaxlive.ml/live.php?c=ETV_HD&q=1200&e=junk.m3u8
+http://clientsportals.com:2095/caupwuBz/jRqqbXWC/460964
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 #https://tv.googledrivelinks.com/live.php?c=ETV_Cinema&q=1200&e=.m3u8
