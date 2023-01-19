@@ -455,7 +455,7 @@ http://livetv2021.site:8080/9897876765/6576567/132
 http://103.162.136.235:4500/play/a00s/83611826.m3u8
 
 #EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
-http://iptvtree.net:8080/iptvromania2020/31e75bff/49557
+https://dai.google.com/ssai/event/ly19VgtnTqKB24y5FaYTTw/master.m3u8
 
 EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
