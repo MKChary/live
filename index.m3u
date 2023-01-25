@@ -17,7 +17,7 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tbo/master/master.m3u8
 EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
 http://iptv12k.com:35461/8032022060101/452381/5030
 
-#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
+EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://clientsportals.com:2095/caupwuBz/jRqqbXWC/460760
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
@@ -26,8 +26,8 @@ http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165794
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 https://4v9v.short.gy/sun26570.m3u8
 
-EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/203037
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
+http://clientsportals.com:2095/caupwuBz/jRqqbXWC/460760
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 https://4v9v.short.gy/sun9027.m3u8
@@ -49,7 +49,7 @@ http://102.222.232.18:9981/stream/channelid/2007835217
 http://servertv.ml/JIO/live.php?c=Zee_Cinemalu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-http://servertv.ml/JIO/live.php?c=ETV_Telugu&q=1200&e=.m3u8
+http://servertv.ml/JIO/live.php?c=ETV_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
 #https://tv.googledrivelinks.com/live.php?c=ETV_HD&q=1200&e=.m3u8
@@ -74,7 +74,7 @@ http://servertv.ml/JIO/live.php?c=ETV_Abhiruchi&q=1200&e=junk.m3u8
 EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://rv.bleutv.net:80/152087360475456/152066530788190/198021
 
-#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
+EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5586
 
 EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA
@@ -97,13 +97,13 @@ http://servertv.ml/JIO/live.php?c=Studio_Yuva_Alpha&q=1200&e=.m3u8
 #https://tv.googledrivelinks.com/live.php?c=Raj_Music_Telugu&q=1200&e=.m3u8
 http://servertv.ml/JIO/live.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
+EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 https://4v9v.short.gy/sun9026.m3u8
 
-#EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
+EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
 
-#EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
+EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/5UvC9XEAL9k/live
 
 EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
