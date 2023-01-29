@@ -17,11 +17,11 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tbo/master/master.m3u8
 EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
 http://iptv12k.com:35461/8032022060101/452381/5030
 
-#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
+EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://rv.bleutv.net:80/152087360475456/152066530788190/198030
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165794
+http://102.222.232.18:9981/stream/channelid/1692700510
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 https://4v9v.short.gy/sun26570.m3u8
@@ -36,7 +36,7 @@ https://4v9v.short.gy/sun9027.m3u8
 http://rv.bleutv.net:80/152087360475456/152066530788190/198012
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-http://rv.bleutv.net:80/152087360475456/152066530788190/198015
+http://102.222.232.18:9981/stream/channelid/1350892703
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
 http://servertv.ml/JIO/live.php?c=Zee_Telugu&q=1200&e=junk.m3u8
@@ -103,8 +103,8 @@ https://4v9v.short.gy/sun9026.m3u8
 EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
 
-EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/5UvC9XEAL9k/live
+#EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
+http://102.222.232.18:9981/stream/channelid/2007835217
 
 EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
 http://195.201.82.32:5001/play/a015
@@ -437,7 +437,7 @@ http://103.55.144.46:80/hls/starmovies.m3u8
 http://103.55.144.46:80/hls/mn+.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",MNX HD
-http://103.55.144.46:80/hls/mnx-hd.m3u8
+http://102.222.232.18:9981/stream/channelid/1102428313
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Movies Now
 http://103.55.144.46:80/hls/movies-now.m3u8
@@ -455,7 +455,7 @@ http://livetv2021.site:8080/9897876765/6576567/132
 http://103.162.136.235:4500/play/a00s/83611826.m3u8
 
 #EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
-https://dai.google.com/ssai/event/ly19VgtnTqKB24y5FaYTTw/master.m3u8
+http://102.222.232.18:9981/stream/channelid/882507324
 
 EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
@@ -630,17 +630,17 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
-#EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow Xtra HD
+EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow Xtra HD
 http://server.sibfungold.info:8080/arbcamd/OBMwEWI1W5/46714
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Hindi
+EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Hindi
 http://89.187.162.109/STARSPORTS1HINDIHD/mono.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
+EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/3979
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://103.132.16.98:8080/starsports1hd/mpegts
+http://102.222.232.18:9981/stream/channelid/1905027567
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/397844
