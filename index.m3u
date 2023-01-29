@@ -46,9 +46,9 @@ http://rv.bleutv.net:80/152087360475456/152066530788190/198015
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 #https://tv.googledrivelinks.com/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
-http://servertv.ml/JIO/live.php?c=Zee_Cinemalu&q=1200&e=junk.m3u8
+http://102.222.232.18:9981/stream/channelid/1753427240
 
-#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
+#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment" status="timeout",ETV HD
 http://servertv.ml/JIO/live.php?c=ETV_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
@@ -89,9 +89,9 @@ http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/203034
 #EXTINF:-1 tvg-id="Star Maa Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies
 http://102.222.232.18:9981/stream/channelid/1813535474
 
-#EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies",Studio Yuva
-#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
-http://servertv.ml/JIO/live.php?c=Studio_Yuva_Alpha&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies" status="timeout",Studio Yuva
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
+#http://servertv.ml/JIO/live.php?c=Studio_Yuva_Alpha&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 #https://tv.googledrivelinks.com/live.php?c=Raj_Music_Telugu&q=1200&e=.m3u8
@@ -345,7 +345,7 @@ http://live.streamplay.in:1935/vlnews/vlnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Music",9TV Telangana
 http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Movies",Telugu Movies
+EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Movies",Telugu Movies
 http://102.222.232.18:9981/stream/channelid/1753427240
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="Movies",Amma News
