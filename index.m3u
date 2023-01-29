@@ -57,7 +57,7 @@ http://clientsportals.com:2095/caupwuBz/jRqqbXWC/460964
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
 #https://tv.googledrivelinks.com/live.php?c=ETV_Cinema&q=1200&e=.m3u8
-http://servertv.ml/JIO/live.php?c=ETV_Cinema&q=1200&e=junk.m3u8
+http://rv.bleutv.net:80/152087360475456/152066530788190/198032
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
 #https://tv.googledrivelinks.com/live.php?c=ETV_Life&q=1200&e=.m3u8
@@ -202,9 +202,9 @@ http://iptvtree.net:8080/iptvromania2020/31e75bff/296489
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165796
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
-#http://14.199.164.20:4001/play/a0lf/index.m3u8
+http://14.199.164.20:4001/play/a0lf/index.m3u8
 #https://tv.googledrivelinks.com/live.php?c=TV_5_News&q=1200&e=.m3u8
-http://servertv.ml/JIO/live.php?c=TV_5_News&q=1200&e=junk.m3u8
+#http://servertv.ml/JIO/live.php?c=TV_5_News&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
 #https://tv.googledrivelinks.com/live.php?c=TV9_Telugu_News&q=1200&e=.m3u8
@@ -224,7 +224,7 @@ http://servertv.ml/JIO/live.php?c=ETV_Telangana&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
 #https://tv.googledrivelinks.com/live.php?c=10_TV&q=1200&e=.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Q0eu7HCRBgw/live
-http://servertv.ml/JIO/live.php?c=10_TV&q=1200&e=junk.m3u8
+http://rv.bleutv.net:80/152087360475456/152066530788190/198008
 
 EXTINF:-1 tvg-id="Maha News" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" group-title="News",Maha News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
@@ -1168,9 +1168,3 @@ http://rv.bleutv.net:80/152087360475456/152066530788190/198004
 http://rv.bleutv.net:80/152087360475456/152066530788190/198003
 #EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| SAKSHI TV
 http://rv.bleutv.net:80/152087360475456/152066530788190/198002
-
-
-
-
-#EXTINF:-1 All channels
-https://nosmoking.cyou/v2/playlist/ac224cf32e6a.m3u
