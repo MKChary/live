@@ -119,7 +119,7 @@ http://servertv.ml/JIO/live.php?c=Vanitha&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 #https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3u8
-http://servertv.ml/JIO/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=junk.m3u8
+http://rv.bleutv.net:80/152087360475456/152066530788190/198022
 
 EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",SONY BBC EARTH HD
 http://103.167.190.250/hls/bbcearth.m3u8
