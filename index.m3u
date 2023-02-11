@@ -1100,6 +1100,18 @@ https://m-c07-j2apps.s.llnwi.net/hls/7052.SanjhaTV.in.m3u8
 #EXTINF:-1 tvg-id="PBNMusic" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7056.PBNMusic.in/1x1/1x/test_pic1590761038771.jpg" group-title="Music",PBN Music
 https://m-c03-j2apps.s.llnwi.net/hls/7056.PBNMusic.in.m3u8
 
+#EXTINF:-1 tvg-id="DilSeMusic" tvg-logo="" group-title="Music",Dil Se Music
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-id="DhammalMusic" tvg-logo="" group-title="Music",Dhammal Music
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
+#EXTINF:-1 tvg-id="KadakHits" tvg-logo="" group-title="Music",Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 tvg-id="POPMusic" tvg-logo="" group-title="Music",POP Music
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+
+
+
+
 #EXTINF:-1 group-title="AS| TELUGU" ,##### |TELEGU| GENERAL #####
 http://rv.bleutv.net:80/152087360475456/152066530788190/198035
 #EXTINF:-1 group-title="AS| TELUGU" ,|TELUGU| BHAKTI TV
