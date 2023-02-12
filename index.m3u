@@ -35,14 +35,15 @@ https://4v9v.short.gy/sun9027.m3u8
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
 http://rv.bleutv.net:80/152087360475456/152066530788190/198012
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
+EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://102.222.232.18:9981/stream/channelid/1350892703
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu
-http://servertv.ml/JIO/live.php?c=Zee_Telugu&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu HD
+https://zee.yashrajmod.online/api.php?c=0-9-zeetelugu
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu HD
-http://rv.bleutv.net:80/152087360475456/152066530788190/198015
+https://zee.yashrajmod.online/api.php?c=0-9-zeecinemalu
+#http://rv.bleutv.net:80/152087360475456/152066530788190/198015
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 #https://tv.googledrivelinks.com/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
@@ -155,7 +156,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Saptagiri
 #https://tv.googledrivelinks.com/live.php?c=DD_Saptagiri&q=1200&e=.m3u8
-http://servertv.ml/JIO/live.php?c=DD_Saptagiri&q=1200&e=junk.m3u8
+https://zee.yashrajmod.online/api.php?c=0-9-ddyadagiri
 
 #EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 #https://tv.googledrivelinks.com/live.php?c=Studio_One&q=1200&e=.m3u8
