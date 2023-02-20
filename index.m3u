@@ -668,8 +668,8 @@ http://thoptv.in1.bitmana.io/jioo.php?c=Jio_Football_Telugu_HD&q=1200&e=junk.m3u
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 
-EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png" group-title="Sports",Premier Sports
-https://bit.ly/3BwRC0O
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png" group-title="Sports",T Sports
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
 https://www.iptvmate.net/files/24042021/countries/lk.m3u
