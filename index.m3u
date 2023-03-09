@@ -49,8 +49,8 @@ EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com
 #https://tv.googledrivelinks.com/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
 http://102.222.232.18:9981/stream/channelid/1753427240
 
-EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment" status="timeout",ETV HD
-http://servertv.ml/JIO/live.php?c=ETV_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment" status="timeout",ETV HD
+https://watchtvs.live/play.html?id=1973&ch=ETV_HD.png
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
 #https://tv.googledrivelinks.com/live.php?c=ETV_HD&q=1200&e=.m3u8
