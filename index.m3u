@@ -53,7 +53,7 @@ http://102.222.232.18:9981/stream/channelid/1753427240
 https://watchtvs.live/play.html?id=1973&ch=ETV_HD.png
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
-#https://tv.googledrivelinks.com/live.php?c=ETV_HD&q=1200&e=.m3u8
+#https://watchtvs.live/play.php?c=ETV_HD&q=1200&e=.m3u8
 http://clientsportals.com:2095/caupwuBz/jRqqbXWC/460964
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
