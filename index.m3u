@@ -632,8 +632,8 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
-EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow Xtra HD
-http://server.sibfungold.info:8080/arbcamd/OBMwEWI1W5/46714
+#EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow Xtra HD
+https://epg.pw/stream/019e036318572cd9b1ffbafc2133debf68e71ce0fa619a639042798fb7cff846.ctv
 
 EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Hindi
 http://89.187.162.109/STARSPORTS1HINDIHD/mono.m3u8
