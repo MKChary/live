@@ -100,7 +100,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://servertv.ml/JIO/live.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-http://50.7.69.66/GEMINI_MUSIC/index.m3u8
+#http://50.7.69.66/GEMINI_MUSIC/index.m3u8
+http://darkteam.vip:25461/TR5367465299F/FRWnJs8GhD/13313
 
 EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
