@@ -222,7 +222,7 @@ http://servertv.ml/JIO/live.php?c=V6_News&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_3_telangana.png" group-title="News",ETV Telangana
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
 #https://tv.googledrivelinks.com/live.php?c=ETV_Telangana&q=1200&e=.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1678637528/ei/eKUNZNC7Eq-H_tcPnty2wAY/ip/40.122.244.97/id/yalGWmDcLR0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDGx7QR2pVfnDpHj2pQjjCjnAM2Qs-7WiEnHyoTJesnoCIQDYK71CzmFEUIpAC0vvup2jTgesUOUzaGUoixFwjZDtyA%3D%3D/file/index.m3u8
+https://ythls.onrender.com/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
 #https://tv.googledrivelinks.com/live.php?c=10_TV&q=1200&e=.m3u8
