@@ -196,7 +196,7 @@ http://cloud.streamplay.in:1935/jaitelanganatv/jaitelanganatv/playlist.m3u8
 https://ythls.onrender.com/video/nkq4s4k3--k.m3u8
 #http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/296490
 
-#EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
+EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
 https://ythls.onrender.com/video/L6pXP3zDIF0.m3u8
 
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV
@@ -262,7 +262,7 @@ https://ythls.onrender.com/video/8McTsOqeueE.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IKj_cj51_W0/live
 https://ythls.onrender.com/video/EUesLjuZYo8.m3u8
 
-#EXTINF:-1,tvg-id="I News" tvg-logo="" group-title="News",I News
+#EXTINF:-1,tvg-id="I News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/inews.png" group-title="News",I News
 #http://14.199.164.20:4001/play/a0is/index.m3u8
 #https://tv.googledrivelinks.com/live.php?c=I_News&q=1200&e=.m3u8
 https://ythls.onrender.com/video/xtNvq36LIgc.m3u8
