@@ -19,6 +19,7 @@ http://iptv12k.com:35461/8032022060101/452381/5030
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://rv.bleutv.net:80/152087360475456/152066530788190/198030
+#http://s1.pubnow.info:8080/Jean0188/016035/118590
 
 #EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
 http://s1.pubnow.info:8080/Jean0188/016035/118589
