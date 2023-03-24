@@ -407,8 +407,8 @@ http://singamcloud.in:1935/rasinetworks/rasitv/chunklist.m3u8
 EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Movies",Rasi Movies
 http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Movies",Rasi Music
-http://singamcloud.in:1935/rasinetworks/rasimusic/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Movies",Rasi Music
+http://s1.pubnow.info:8080/Jean0188/016035/118576
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Movies",Rasi Hollywood
 http://singamcloud.in:1935/rasinetworks/rasihollywood/chunklist.m3u8 
