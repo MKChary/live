@@ -441,7 +441,7 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 tvg-id="https://dthhelp.net" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbKerd0Gbn5LQFt5q1iwDgaUL6cpYC8DrMxTBDjxYKngnOlSf4lKqzjBD&s=10" group-title="Movies" ,STAR MOVIES HD
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-http://103.55.144.46:80/hls/starmovies.m3u8
+http://144.217.70.181:9587/hin2/UTVMOVIESINTERNATIONAL/index.m3u8?token=test&v=697229347
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="" group-title="Movies",MN+ HD
 http://103.55.144.46:80/hls/mn+.m3u8
@@ -570,7 +570,7 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 http://144.217.70.181:9587/hin2/E24/index.m3u8?token=test&v=697229347
 
 #EXTINF:-1 tvg-name="Zoom" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0069.Zoom.in/en/1x1/208x208/test_pic1550666525581.jpg" group-title="Music",Zoom
-https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test&v=697229347
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Infotainment",NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
