@@ -37,8 +37,8 @@ https://4v9v.short.gy/sun9027.m3u8
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
 http://rv.bleutv.net:80/152087360475456/152066530788190/198012
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Tamil
-http://s1.pubnow.info:8080/Jean0188/016035/118586
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
+http://jiotv.its-nayeemparvez.ml:3500/getm3u8/638/master.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu HD
 http://s1.pubnow.info:8080/Jean0188/016035/118569
@@ -47,9 +47,9 @@ http://s1.pubnow.info:8080/Jean0188/016035/118569
 #https://zee.yashrajmod.online/api.php?c=0-9-zeecinemalu
 http://rv.bleutv.net:80/152087360475456/152066530788190/198015
 
-EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu
 #https://tv.googledrivelinks.com/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
-http://102.222.232.18:9981/stream/channelid/1753427240
+http://jiotv.its-nayeemparvez.ml:3500/getm3u8/413/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment" status="timeout",ETV HD
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/1973/master.m3u8
@@ -126,8 +126,8 @@ https://ythls.onrender.com/video/dtO9va-apv0.m3u8
 #https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3u8
 http://rv.bleutv.net:80/152087360475456/152066530788190/198022
 
-EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",SONY BBC EARTH HD
-http://103.167.190.250/hls/bbcearth.m3u8
+#EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
+http://jiotv.its-nayeemparvez.ml:3500/getm3u8/854/master.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
 #https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=1200&e=.m3u8
