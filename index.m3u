@@ -934,8 +934,8 @@ https://m-c04-j2apps.s.llnwi.net/hls/9310.GODTV.in.m3u8
 https://m-c29-j2apps.s.llnwi.net/hls/0121.AakashAath.in.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1328.KhushbooBangla.in/1x1/1x/test_pic1554722612560.jpg" group-title="Lifestyle",Khushboo Bangla
 https://m-c07-j2apps.s.llnwi.net/hls/1328.KhushbooBangla.in.m3u8
-#EXTINF:-1 tvg-id="SangeetBangla" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0138.SangeetBangla.in/1x1/1x/test_pic1552387328406.jpg" group-title="Music",Sangeet Bangla
-https://m-c02-j2apps.s.loris.llnwd.net/hls/0138.SangeetBangla.in.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0138.SangeetBangla.in/1x1/1x/test_pic1552387328406.jpg" group-title="Music" ILove TV
+https://livetv-channels.b-cdn.net/8047/chunklist0.m3u8
 #EXTINF:-1 tvg-id="Dishum" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5332.Dishum.in/1x1/1x/test_pic1537963348466.jpg" group-title="Lifestyle",Dishum
 https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
 #EXTINF:-1 tvg-id="AnjanTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1359.AnjanTV.in/1x1/1x/test_pic1535463038783.jpg" group-title="Lifestyle",Anjan TV
