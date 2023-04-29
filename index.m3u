@@ -18,13 +18,13 @@ EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-
 http://iptv12k.com:35461/8032022060101/452381/5030
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-http://rv.bleutv.net:80/152087360475456/152066530788190/198030
+http://103.175.73.14:8000/play/a00f/index.m3u8
 #http://s1.pubnow.info:8080/Jean0188/016035/118590
 
-#EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
+EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
 http://s1.pubnow.info:8080/Jean0188/016035/118589
 
-#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
+EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
 https://epg.pw/stream/ce928fb4bb37ebb56fda57bb21d20e432311cfa0346256e8ed6c6cbf2603319e.ctv
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
@@ -32,7 +32,7 @@ https://epg.pw/stream/ce928fb4bb37ebb56fda57bb21d20e432311cfa0346256e8ed6c6cbf26
 http://iptv.ccshare.in:8080/fms_xtreamui/jPwM0QXZsQ/44719
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-https://4v9v.short.gy/sun9027.m3u8
+http://103.175.73.14:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
 http://rv.bleutv.net:80/152087360475456/152066530788190/198012
@@ -70,12 +70,12 @@ http://50.7.69.66/etv_life/index.m3u8
 #https://tv.googledrivelinks.com/live.php?c=ETV_Plus&q=1200&e=.m3u8
 http://servertv.ml/JIO/live.php?c=ETV_Plus&q=1200&e=junk.m3u8
 
-EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
+#EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
 #https://tv.googledrivelinks.com/live.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
-http://50.7.69.66/ETV_ABHIRUCHI/index.m3u8
+http://103.175.73.14:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://rv.bleutv.net:80/152087360475456/152066530788190/198021
+http://103.175.73.14:8000/play/a00p/index.m3u8
 
 EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5586
@@ -90,10 +90,10 @@ http://102.222.232.18:9981/stream/channelid/589622635
 EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
 http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/203034
 
-#EXTINF:-1 tvg-id="Star Maa Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies
+EXTINF:-1 tvg-id="Star Maa Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies
 http://102.222.232.18:9981/stream/channelid/1813535474
 
-#EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies" status="timeout",Studio Yuva
+EXTINF:-1 tvg-id="Studio Yuva" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movies" status="timeout",Studio Yuva
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 #http://servertv.ml/JIO/live.php?c=Studio_Yuva_Alpha&q=1200&e=.m3u8
 
