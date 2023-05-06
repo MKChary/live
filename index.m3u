@@ -560,7 +560,7 @@ https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8
 
 #EXTINF:-1 tvg-name="9xm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xm
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="Mastiii.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmRsR8dtcVQGo2PaAeP49OFW6OvQRMNxVHw&usqp=CAU" group-title="Music",Mastiii
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
