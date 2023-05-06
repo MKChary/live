@@ -108,7 +108,7 @@ http://darkteam.vip:25461/TR5367465299F/FRWnJs8GhD/13313
 EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",mango music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/c6MySfUPeBo/live
 
-#EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
+EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
 http://102.222.232.18:9981/stream/channelid/2007835217
 
 EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
@@ -324,7 +324,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/d0dB3kSCMmM/li
 EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
 https://m-c07-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 
-#EXTINF:-1 tvg-id="v7music" group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/V7Music.jpg",V7Music
+EXTINF:-1 tvg-id="v7music" group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/V7Music.jpg",V7Music
 rtmp://cloud.streamplay.in/taazanews/taazanews
 
 #EXTINF:-1 tvg-id="Gatla TV" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Gatlatv.jpg",Gatla TV
@@ -333,22 +333,22 @@ http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
 #EXTINF:-1 tvg-id="Star9News" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/star9news.jpg",Star9News
 http://server.streamplay.in:1935/star9/star9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9TVNewe" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Channel9.jpg",9TV News
+EXTINF:-1 tvg-id="9TVNewe" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Channel9.jpg",9TV News
 http://blmtech.in:8086/hls/channel9/index.m3u8
 
-#EXTINF:-1 tvg-id="TN24/7News" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/TN24.jpg",TN24/7News
+EXTINF:-1 tvg-id="TN24/7News" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/TN24.jpg",TN24/7News
 http://play.sundaylive.in:8088/gayathri/gayathri.m3u8
 
 #EXTINF:-1 tvg-id="TN24/7News" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/TS.jpg",Telangana Sanskruti
 http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HN9TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/hn9tv.jpg" group-title="News",HN9TV
+EXTINF:-1 tvg-id="HN9TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/hn9tv.jpg" group-title="News",HN9TV
 http://blmtech.in:8086/hls/hn9tv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Studio18.jpg" group-title="News",Studio18 News
 http://server.streamplay.in:1935/studio18/studio18/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vizag local news" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/VizagLocalNews.jpg" group-title="News",Vizag Local News
+EXTINF:-1 tvg-id="vizag local news" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/VizagLocalNews.jpg" group-title="News",Vizag Local News
 http://live.streamplay.in:1935/vlnews/vlnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Music",9TV Telangana
@@ -393,7 +393,7 @@ http://live.streamplay.in:1935/bkamma/bkamma/chunklist_w842198526.m3u8
 EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Music",Batukamma TV
 http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
 
-#EXTINF:-1 tvg-id="STV Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj" group-title="News",STV Telugu
+EXTINF:-1 tvg-id="STV Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj" group-title="News",STV Telugu
 http://blmtech.in:8086/hls/stvtelugu/index.m3u8
 
 #EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="News",Cowa TV
@@ -414,7 +414,7 @@ http://singamcloud.in:1935/rasinetworks/rasitv/chunklist.m3u8
 EXTINF:-1 tvg-logo="https://i.postimg.cc/tJcnr7xT/Rasi-Movies.png" group-title="Movies",Rasi Movies
 http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Movies",Rasi Music
+EXTINF:-1 tvg-logo="https://i.postimg.cc/900qtyzK/rasi-music.png" group-title="Movies",Rasi Music
 http://s1.pubnow.info:8080/Jean0188/016035/118576
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMthkmM/rasi-hollywood.png" group-title="Movies",Rasi Hollywood
