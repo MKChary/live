@@ -203,12 +203,12 @@ https://ythls.onrender.com/video/L6pXP3zDIF0.m3u8
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Ntv_India_official_logo.png" group-title="News",NTV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
 #https://tv.googledrivelinks.com/live.php?c=NTV&q=1200&e=.m3u8
-https://ythls.onrender.com/video/_kPE2uUR8SI.m3u8
+https://ythls.onrender.com/video/L0RktSIM980.m3u8
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv5_in.png" group-title="News",TV5 News
 #http://14.199.164.20:4001/play/a0lf/index.m3u8
 #https://tv.googledrivelinks.com/live.php?c=TV_5_News&q=1200&e=.m3u8
-https://ythls.onrender.com/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8
+https://ythls.onrender.com/video/ox2rT1KRkFI.m3u8
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-telugu-in.png" group-title="News",TV9 Telugu
 #https://tv.googledrivelinks.com/live.php?c=TV9_Telugu_News&q=1200&e=.m3u8
@@ -319,7 +319,7 @@ http://servertv.ml/JIO/live.php?c=Aastha_Telugu&q=1200&e=junk.m3u8
 http://servertv.ml/JIO/live.php?c=Hindu_Dharmam&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Lifestyle",Bhakti TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/d0dB3kSCMmM/live
+https://ythls.onrender.com/video/d0dB3kSCMmM.m3u8
 
 EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
 https://m-c07-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
