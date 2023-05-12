@@ -1,0 +1,1922 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FindianTvKarnataka.jpg?alt=media&token=ecc74aff-372e-4610-a094-a4d6b489845a" " group-title="Others", Indian TV
+http://live.streamingbharat.com:8080/hls21/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fhr_news_logo.jpeg?alt=media&token=7876d1c9-b466-49c9-9d1a-7703616b793b" " group-title="ಕನ್ನಡ", HR News Kannada
+http://telugusolutions.com:8088/hrnewskannada/hrnewskannada.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjkTv.jpg?alt=media&token=a39e255e-15db-4b81-8304-3bd76df8eb2c" " group-title="ಕನ್ನಡ", JK TV Kannada
+rtmp://jktvkannada.livebox.co.in:1935/jktvrec/jktvrec
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzeeKannadaNews.jpeg?alt=media&token=33e29815-34da-4ba3-8a05-bebac07324b1" " group-title="ಕನ್ನಡ", Zee Kannada News
+https://d27bhw2yi777iv.cloudfront.net/out/v1/13dc2cfe6eff4d008a6df9b50b8670b6/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftv6Kannada.jpeg?alt=media&token=79e4a7fd-4c7d-4aab-92e2-f9531605c92d" " group-title="Others", TV6 Kannada
+rtmp://49.206.16.183:1935/tv6kannada/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fbengaluru1News.jpeg?alt=media&token=b3c76225-1509-4f84-8bd6-7c2d80cd1249" " group-title="ಕನ್ನಡ", Bengaluru 1 News
+http://live.streamingbharat.com:8080/hls5/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fnews365Kannada.jpeg?alt=media&token=4fde8a01-245d-4f63-8dbf-0295a13e38c5" " group-title="ಕನ್ನಡ", News 365 Kannada
+http://live.streamingbharat.com:8080/hls2/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fnews365Kannada.jpeg?alt=media&token=4fde8a01-245d-4f63-8dbf-0295a13e38c5" " group-title="Others", The MAK TV Kannada
+http://live.streamingbharat.com:8080/hls2/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FIncharaNewsTv.png?alt=media&token=7598489e-e82b-4d62-a8c7-97a01ec9d5c4" " group-title="ಕನ್ನಡ", Inchara News TV
+https://shashwatha.com/hls/inchara/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmmTv.png?alt=media&token=3cd5f23b-f8a6-4285-bb0b-7d13f970403e" " group-title="ಕನ್ನಡ", MM TV
+rtmp://account19.livebox.co.in:1935/mmtv/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnksTvKannada.jpeg?alt=media&token=134c2df6-b1da-4699-a0d5-d94f6bfc8b89" " group-title="Others", NKS TV Kannada
+http://live.streamingbharat.com:8080/hls18/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FchamindiTv.jpeg?alt=media&token=318c621f-403e-4a56-9bc8-2bfaf5a55677" " group-title="ಕನ್ನಡ", Chamundi TV
+rtmp://shinestream.in:1935/chamunditv/chamunditv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvijayaNews.jpeg?alt=media&token=6fd2f951-21e6-42a3-b24e-38004823a56e" " group-title="Others", Vijaya News
+http://live.streamingbharat.com:8080/hls9/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="ಕನ್ನಡ", Hamsa TV Kannada
+http://telugusolutions.com:8088/hamsatvkannada/hamsatvkannada.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FSamagra.jpg?alt=media&token=68a41121-c8a0-4e9e-b750-b72efaa0b427" " group-title="ಕನ್ನಡ", Samagra
+rtmp://shashwatha.com/samagra/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FKannadaGirivani.png?alt=media&token=c5139c6f-c9ff-47ff-8248-14f56c35a209" " group-title="Others", Kannada Girivaani
+https://vbniptv.live/hls/ch3/ch3.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsriTv.jpg?alt=media&token=99d182c4-d109-46dd-83ab-78df3be4bfb9" " group-title="Others", Sri Kannada
+rtmp://shinestream.in:1935/srikannada/srikannada
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmysoreNews.png?alt=media&token=d2b127d7-e2e8-47a1-af11-7306161ff7ef" " group-title="Others", Mysore News
+rtmp://shinestream.in:1935/mysorenews/mysorenews
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmediaTv.jpg?alt=media&token=1645c131-11e5-4d37-878c-3244f1635dfd" " group-title="ಕನ್ನಡ", Media TV
+rtmp://shinestream.in:1935/mediatv/mediatv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FraithaTv.png?alt=media&token=5ff5e749-0e4a-47f1-b2c9-be126f71959c" " group-title="Others", Raitha Dhvani TV
+rtmp://shinestream.in:1935/raithatv/raithatv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FhcnTv.png?alt=media&token=9e809c11-789b-4500-aa74-511e7ffc39c7" " group-title="Others", HCN Channel
+rtmp://shinestream.in:1935/hcn/hcn
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FshabdhaNews.jpg?alt=media&token=56ab63d1-0a02-4eb1-9fdf-6bf6629e32e0" " group-title="Others", Shabdha News
+rtmp://shinestream.in:1935/shabdhanews/shabdhanews
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FHCN%20HASSAN%20.png?alt=media&token=3ad6adc8-ece5-4571-baad-01c96c8f7554" " group-title="Others", HCN Hassan
+https://shashwatha.com/hls/hcntv/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fsatyam%20tv.jpg?alt=media&token=0d017168-7ead-4cfd-b39a-3545ced44023" " group-title="ಕನ್ನಡ", Satyam TV
+https://account31.livebox.co.in/satyamtvhls/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fspandana%20tv.jpg?alt=media&token=109a53d2-9746-46a5-9311-3b7cddae74c3" " group-title="ಕನ್ನಡ", Spandana TV
+rtmp://playbackdigitalmedia.livebox.co.in:1935/Spandana/Spandana
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fv2NammaTv.jpg?alt=media&token=5ae1a104-fb2c-42c3-a3ee-d16006899189" " group-title="ಕನ್ನಡ", V2 Namma TV
+http://live.streamingbharat.com:8080/hls36/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftv9Kannada.jpg?alt=media&token=7e81560c-c795-46fd-a325-2674eb9a86d8" " group-title="Others", TV9 Kannada
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsuvarnaNews.jpg?alt=media&token=c592bb6f-ac6a-49a4-8ebd-884eb8d555a8" " group-title="Others", Asianet Suvarna News
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Public Music
+http://5giptv.me:8880/live/70124378/53182954/179230.ts
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FexpressKannada.jpg?alt=media&token=551cf424-cf26-4383-8196-48401b6aa0ce" " group-title="Others", Express TV
+rtmp://172.104.63.196:1935/orangetv/expresstv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjanataaTv.jpg?alt=media&token=9040ae9c-4a2c-4990-88d8-3636484c96bd" " group-title="ಕನ್ನಡ", Janata TV
+http://bmlive.net:8000/janataa/janataa/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FakashDigital.jpg?alt=media&token=eecf7320-5534-47b8-99b7-edbbc46a684a" " group-title="Others", Akash Digital
+rtmp://mydreams.livebox.co.in:1935/AKASHMOVIES/AKASHMOVIES
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FayushTv.png?alt=media&token=27548f8a-92b4-400b-b069-1b9525cacbcc" " group-title="ಕನ್ನಡ", Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fv4NewsKarnataka.png?alt=media&token=3921be72-5856-4bb5-bf17-df1ad6d1f618" " group-title="Others", V4 News Karnataka
+rtmp://103.53.41.226:1935/v4news/livestream
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Frightchannel.png?alt=media&token=dd3de5e3-f47a-493a-a926-8324ab1c69ee" " group-title="ಕನ್ನಡ", Right Channel
+rtmp://righttv.sritv.co.in/righttvplus/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmarikambaDigitaltv.jpg?alt=media&token=e774b79f-b02f-4d1e-9662-fa1811dff5c5" " group-title="ಕನ್ನಡ", Sri Marikamba Digital TV
+rtmp://studiosystem.livebox.co.in:1935/marikamba1/live?psk=stream1
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FabhiTv.png?alt=media&token=9c7b0054-9230-4b4f-bfc3-2720c5284bdf" " group-title="Others", Abhi TV
+rtmp://studiosystem.livebox.co.in:1935/marikamba2/live?psk=stream2
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FtvKodagu.png?alt=media&token=1fc76516-779b-4d47-bd8a-f50477eced30" " group-title="Others", TV 1 Kodagu
+rtmp://shashwatha.com/news1kodagu/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsamruddhiTV.jpg?alt=media&token=6d5dbfa6-5603-4626-b153-f3d46d367af3" " group-title="ಕನ್ನಡ", Samrudhi TV
+http://live.streamingbharat.com:8080/hls28/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcityTv.jpg?alt=media&token=94c575f5-0022-4987-a906-db3f6b3d0f33" " group-title="ಕನ್ನಡ", City TV
+https://shashwatha.com/hls/citytv/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FCBengaluru.jpg?alt=media&token=8d9c04c6-f277-435d-a4b2-955a427073ff" " group-title="ಕನ್ನಡ", C Bengaluru
+rtmp://shashwatha.com/cbangalore/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FavishkaarTv.png?alt=media&token=b0dc34ac-4d55-4333-9264-820bab7f3d63" " group-title="ಕನ್ನಡ", Avishkaar News
+http://live.streamingbharat.com:8080/hls7/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbloomTv.png?alt=media&token=ebbd951d-4a1e-4ead-9bc6-f1498d71c599" " group-title="ಕನ್ನಡ", Bloom TV
+https://shashwatha.com/hls/bloomtv/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnewsAlert24x7Kannada.jpg?alt=media&token=830a73c6-f9a4-4076-853a-e2d4af2241f3" " group-title="ಕನ್ನಡ", News Alert 24X7 Kannada
+https://shashwatha.com/hls/newsalert/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FpublicNews24Kannada.jpg?alt=media&token=32234a84-ad94-4ded-b351-4381508331d3" " group-title="Others", Public News 24 Kannada
+http://live.streamingbharat.com:8080/hls38/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbpNewsKarnataka.jpg?alt=media&token=d4eeb0fd-fced-403a-8fb6-53311538a987" " group-title="Others", BP Karnataka News
+rtmp://36.255.87.124:1935/bpnews/bpnews
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgtvHunsurNews.jpg?alt=media&token=3a304669-7e6c-436d-b1e2-0814b3c47380" " group-title="Others", G TV Hunsur News
+rtmp://36.255.87.124:1935/GTv/GTv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F10Tvmandya.png?alt=media&token=c0cc098a-6891-4925-a1b5-297f75cc6179" " group-title="Others", 10 TV Mandya
+rtmp://36.255.87.124:1935/10tv/Live/10tv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjeevanTV.png?alt=media&token=5b0a282d-9ec7-4eb0-a3e2-c607aa1f95ba" " group-title="Others", Jeevan TV
+https://shashwatha.com/hls/jeevantv/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkishkindaTv.png?alt=media&token=556ea85f-3451-46a4-9e36-8bdd74ea3648" " group-title="Others", Kishkinda TV
+rtmp://shashwatha.com/kishkindatv/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnakshatraTv.jpg?alt=media&token=30179312-3138-4a83-b9d6-3496dd320e8e" " group-title="ಕನ್ನಡ", Nakshatra TV
+https://shashwatha.com/hls/nakshatratv/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnewStar.png?alt=media&token=de23a798-9e8d-440b-a24f-960860c8656b" " group-title="Others", New Star
+https://shashwatha.com/hls/newstar/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsambramaTv.jpg?alt=media&token=c83648ed-2e39-4536-adc5-dace23bded8d" " group-title="ಕನ್ನಡ", Sambrama TV
+https://shashwatha.com/hls/sambrama/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjanaspandanaMovies.png?alt=media&token=f88206bf-964d-44fa-9c01-843055da96dd" " group-title="Others", Janaspandana Movies
+rtmp://cloud.logicwebs.in:1935/janaspandana/movies
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbhavaniTv.png?alt=media&token=1322b30c-a935-4d8c-bd17-9fe57fbcda6e" " group-title="Others", Bhavani TV
+https://shashwatha.com/hls/bhavanitv/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjanaspandanaKannada.png?alt=media&token=d7082345-281d-4e21-a577-c3ac57433576" " group-title="Others", Janaspandana Kannada
+rtmp://cloud.logicwebs.in:1935/janaspandana/janalive
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FswastikKannadaTv.png?alt=media&token=6d6c788b-ae4e-42de-b0ae-6a5e49310e4d" " group-title="Others", Swastik Kannada
+rtmp://studiosystem.livebox.co.in:1935/marikamba3/live?psk=stream3
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FfastTv.jpeg?alt=media&token=c4cb2fd5-6111-4b12-b175-9cb4b5b9bde3" " group-title="ಕನ್ನಡ", Fast TV
+https://shashwatha.com/hls/hassannews/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FhamsaTv.png?alt=media&token=7e8d936e-fc1c-437f-b835-4013d003311e" " group-title="ಕನ್ನಡ", Hamsa TV
+http://live.streamingbharat.com:8080/hls8/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FspeedNewsKannada.jpg?alt=media&token=d5c515ea-ade9-4f29-a208-76b9d97c47ca" " group-title="Others", Speed News Kannada
+http://cloud.streamplay.in:1935/nationaltv/nationaltv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsriKannadaTv.PNG?alt=media&token=1f5b0792-7e70-443c-b054-49f263224138" " group-title="ಕನ್ನಡ", Sri Kannada
+rtmp://36.255.87.124:1935/live/SriSuddiKannada
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FchitharaTv.PNG?alt=media&token=a2f0b634-ecc2-40ac-9843-89ae7cd84dd8" " group-title="Others", Chitharaa TV
+http://131.153.22.8:1935/test2/test2/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FyashuTV.png?alt=media&token=7db176f5-46c2-45f1-8673-467b611631e2" " group-title="Others", Yashu TV
+rtmp://36.255.87.124:1935/YashuTV/YashuTV
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fdighvijay.jpg?alt=media&token=12117ac5-8363-45ee-8a64-c22835d1b0d7" " group-title="Others", Dighvijay
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbsKannadaTv.PNG?alt=media&token=8d366850-f751-42c9-ae9f-802e78d5f1af" " group-title="Others", BS Kannada TV
+rtmp://36.255.87.124/BSTv/Live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FshineKannadaTv.png?alt=media&token=49a0001e-b44b-4eb4-b784-f537c802ff0f" " group-title="ಕನ್ನಡ", Shine Kannada
+rtmp://shinestream.in:1935/shine/shinekannada
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fchaduranga.jpg?alt=media&token=163d50fb-dd43-44cd-bb95-d6f3c0bc5e75" " group-title="Others", Chaduranga
+rtmp://bmlive.net:1935/chaduranga/chadurangatv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmadhuraTv.jpg?alt=media&token=5c48e526-b865-45fb-89ca-43362bf4c77d" " group-title="ಕನ್ನಡ", Madhura TV
+rtmp://bmlive.net:1935/madhuratv/madhuratv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FabbTv.png?alt=media&token=74abaefb-a689-46e9-a6dd-fefb85ba58cc" " group-title="Others", ABB TV
+http://live.streamingbharat.com:8080/hls1/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FksheeraTv.png?alt=media&token=b5d1904a-9ac9-4eea-a15e-66908a70ee89" " group-title="Others", Ksheera TV
+http://live.streamingbharat.com:8080/hls19/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkarnatakaTimes.jpeg?alt=media&token=385d9aea-9821-43b6-947d-31c13493a147" " group-title="ಕನ್ನಡ", Karnataka Times
+http://live.streamingbharat.com:8080/hls11/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FphoenixTv.jpeg?alt=media&token=fad9332a-881c-4dac-9d8e-5be9ea7bfffd" " group-title="Others", Phoenix TV
+http://live.streamingbharat.com:8080/hls4/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmyDreams.jpg?alt=media&token=e11b9ebb-29fc-4988-8b78-937f8ffbacaf" " group-title="ಕನ್ನಡ", My Dreams
+rtmp://live.streamingbharat.com/mydreams/stream
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvNews.jpg?alt=media&token=2c48dff9-9b64-468d-a5e5-002983cbe32d" " group-title="Others", VNews
+rtmp://ott.legitpro.in:1935/vnews/vnews
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvNews.jpg?alt=media&token=2c48dff9-9b64-468d-a5e5-002983cbe32d" " group-title="Others", V News
+http://bmlive.net:8000/madhuratv/madhuratv/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FinDavangere.jpg?alt=media&token=ea346b33-4b47-4c23-9bf6-6fb54cf05c92" " group-title="Others", In Davangere
+rtmp://shashwatha.com/indavangere/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbhoomiTv.jpg?alt=media&token=b70a9787-b120-430c-bbf9-00d4eb44d514" " group-title="ಕನ್ನಡ", Bhoomi Plus
+https://shashwatha.com/hls/bhoomiplus/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fc4u.png?alt=media&token=891c18df-258b-40c9-bba1-0b939e15bd2d" " group-title="ಕನ್ನಡ", C4U
+rtmp://playbackdigitalmedia.livebox.co.in:1935/C4U/c4u
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnammaKudla.jpg?alt=media&token=fdab23a2-e098-42dc-9cc3-ebb7fe6bd035" " group-title="Others", Namma Kudla
+rtmp://95.217.239.38:1935/NKudla/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnsnHunsurChannel.jpg?alt=media&token=ac70bef9-a001-4230-b171-3b91e5cb4b74" " group-title="Others", NSN Hunusur Channel
+rtmp://36.255.87.124:1935/NSNtv/Live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FprajaTv.jpg?alt=media&token=5db1d057-b13d-40e7-8bb5-d6af32e3e6bc" " group-title="Others", Prajaa TV
+http://5giptv.me:8880/live/70124378/53182954/324964.ts
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnewsFirstKannada.png?alt=media&token=c800b601-57c9-4a30-b389-64819172ad52" " group-title="Others", News First Kannada
+https://m-c010-j2apps.s.llnwi.net/hls/7099.NewsFirstKannada.in.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftv5Kannada.jpg?alt=media&token=2661edee-25ac-4abb-851c-3b505e93843d" " group-title="Others", TV5 Kannada
+http://5giptv.me:8880/live/70124378/53182954/324973.ts
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsuvarnaSiri.jpeg?alt=media&token=6f54eaa6-a7ee-4443-9e60-9ed27f5be1a4" " group-title="Others", Suvarna Siri
+http://live.streamingbharat.com:8080/hls15/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbhavanaTv.jpeg?alt=media&token=be2a4075-e3ef-470d-a9ed-3a9da26076e1" " group-title="ಕನ್ನಡ", Bhavana TV
+https://playbackdigitalmedia.livebox.co.in/Bhavanahls/bhavana.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsreeTv.png?alt=media&token=49730658-ae8f-4fc9-b530-fcd0ec3d6b77" " group-title="ಕನ್ನಡ", Sree TV
+rtmp://rtmp.5centscdn.com/tricubestream/sritvlive
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsuperNews.png?alt=media&token=36c60721-5065-459f-929c-0aa828d5223f" " group-title="Others", Super News
+http://live.streamingbharat.com:8080/hls17/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcmTvKannada.jpeg?alt=media&token=17992866-9935-4a36-9a88-4647d8b7f8e0" " group-title="Others", CM TV Kannada
+http://rtmp2.logicwebs.in:1935/cmtv/cmtvlive/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbhimaTv.jpg?alt=media&token=fea5519f-a47b-411f-9398-0d991025e8b1" " group-title="ಕನ್ನಡ", Bhima TV
+http://live.streamingbharat.com:8080/hls19/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FspoorthiTv.jpeg?alt=media&token=1ee85c29-eb92-42eb-a340-bceaf5516503" " group-title="ಕನ್ನಡ", Spoorthi TV
+http://live.streamingbharat.com:8080/hls20/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbalajiTv.png?alt=media&token=6ae0ea75-7348-4c41-a45c-a9f42e062c80" " group-title="Others", Balaji TV
+http://live.streamingbharat.com:8080/hls12/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsTv.jpeg?alt=media&token=21ba6dba-68a6-4879-8e5e-89b0cc45f6b0" " group-title="ಕನ್ನಡ", S TV
+http://live.streamingbharat.com:8080/hls23/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Bharath TV News
+http://live.streamingbharat.com:8080/hls30/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnationalTv.jpg?alt=media&token=0d653a65-96cb-42bd-aa0f-ddf63e1fedce" " group-title="Others", National TV
+http://cloud.streamplay.in:1935/nationaltv/nationaltv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Yadgiri TV
+http://live.streamingbharat.com:8080/hls10/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Somu1
+http://live.streamingbharat.com:8080/hls23/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Somu2
+https://g4wlkejal23a-hls-live.5centscdn.com/tricubestream/9180856cdddf23d45191f875e6608b75.sdp/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Somu3
+http://shinestream.in:1935/chamunditv/chamunditv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Somu4
+http://live.streamingbharat.com:8080/hls30/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Somu5
+http://studiosystem.livebox.co.in/marikamba1hls/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", VCN TV
+http://live.streamingbharat.com:8080/hls26/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Namma Hassan TV
+http://live.streamingbharat.com:8080/hls27/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FacnChannel.jpeg?alt=media&token=2cfb2c91-f84a-4cd8-bce6-4c81a11a8228" " group-title="ಕನ್ನಡ", ACN Channel
+rtmp://live.streamingbharat.com/kkntv/stream
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Kannada Kasthuri News
+rtmp://live.streamingbharat.com/kkntv/stream
+
+
+#EXTINF:-1, tvg-logo="" " group-title="ಕನ್ನಡ", Jana Nandan
+http://live.streamingbharat.com:8080/hls24/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", ACN Channel
+http://live.streamingbharat.com:8080/hls25/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Amruthalayam TV
+http://live.streamingbharat.com:8080/hls30/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", V News 24
+https://shashwatha.com/hls/vnews24/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Namma Nakshatra TV
+http://live.streamingbharat.com:8080/hls32/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", 4M TV
+http://live.streamingbharat.com:8080/hls22/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Fast News Kannada
+http://live.streamingbharat.com:8080/hls40/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", In Mysore TV
+http://live.streamingbharat.com:8080/hls17/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", In Cable Raichur Box
+http://live.streamingbharat.com:8080/hls34/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", MFGoa Media
+http://live.streamingbharat.com:8080/hls14/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Janathadhvani News Kannada
+rtmp://live.streamingbharat.com/jnktv/stream
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdharaniNews.jpeg?alt=media&token=24d99917-3946-4562-b58d-5b2274db47b8" " group-title="ಕನ್ನಡ", Dharani News
+http://live.streamingbharat.com:8080/hls39/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnammaMudalagi.png?alt=media&token=e167400b-ebcf-4ac5-a6b6-e7c30d7ad100" " group-title="ಕನ್ನಡ", Namma Mudalagi TV
+http://live.streamingbharat.com:8080/hls35/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FasthraNews.jpg?alt=media&token=1487f0fe-64e6-4b6e-92bc-017ff6f52a08" " group-title="Others", Asthra News 24X7
+http://live.streamingbharat.com:8080/hls3/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Hassan Box 1
+rtmp://shinestream.in:1935/chamunditv/chamunditv
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Hassan Box 2
+http://live.publicstarnews.com:1935/publicstar/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnandiTv.png?alt=media&token=6ad1a58b-1585-4329-bdce-5d2d0d30291b" " group-title="ಕನ್ನಡ", Nandi Tv
+http://telugusolutions.com:8088/nanditv/nanditv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnandiMusic.png?alt=media&token=968fb4f2-8676-4e25-9c21-ea14b49b40a4" " group-title="ಕನ್ನಡ", Nandi music
+http://telugusolutions.com:8088/nandimusic/nandimusic.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FprimeTv.png?alt=media&token=af036039-3f54-4ce0-af27-87db0d4815d8" " group-title="ಕನ್ನಡ", Prime tv
+http://telugusolutions.com:8088/primetv/primetv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FeNewsTv.png?alt=media&token=786ed890-24f8-4d73-8678-3d47a2b13305" " group-title="ಕನ್ನಡ", E News Tv
+http://telugusolutions.com:8088/enewstv/enewstv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fgn.png?alt=media&token=db08c9df-0fe1-4ad4-9ada-6484faf52f6a" " group-title="ಕನ್ನಡ", GN Channel
+http://telugusolutions.com:8088/gnchannel/gnchannel.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbharathTvKannada.jpeg?alt=media&token=89e4b7ec-a83e-4e0d-af62-0d5e3805123a" " group-title="ಕನ್ನಡ", Bharath TV Kannada
+http://live.streamingbharat.com:8080/hls30/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FchamundiTvMusic.jpeg?alt=media&token=b9fa24b6-b9e9-4f83-bb6d-9a8e30282dd4" " group-title="ಕನ್ನಡ", Chamundi TV Music
+rtmp://chamunditv1.sritv.co.in/chamunditv3/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FchamundiTvMovies.jpeg?alt=media&token=36a65ce5-24a1-495d-b137-c0ab6f627fda" " group-title="ಕನ್ನಡ", Chamundi TV Movies
+rtmp://chamunditv1.sritv.co.in/chamunditv1/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnammaShimogaTv.jpeg?alt=media&token=87b0550f-89a1-47eb-941b-6f323527d5f5" " group-title="ಕನ್ನಡ", Namma TV Shivamogga
+https://cdn.castlerockin.com/nammatvshimoga.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsitaraTv.jpeg?alt=media&token=df8a4514-1ac9-4d7f-a1cd-cbf2996df06c" " group-title="ಕನ್ನಡ", Sitara TV
+https://shashwatha.com/hls/sitara/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnxtDigitalVijaypur.jpg?alt=media&token=d5fc317c-5514-45b1-987d-c74e0d1405d3" " group-title="ಕನ್ನಡ", Nxt Digital Vijayapur
+rtmp://in-2.castr.io/static/ad81f960636011ed95131d392d5a023b
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzeeTeluguNews.png?alt=media&token=f7aa026e-d98c-4587-96ba-3b3cf819c4b0" " group-title="తెలుగు", Zee Telugu News
+https://d8ba55t6wa9p9.cloudfront.net/out/v1/1abef7be5629479a91eeb77e41701f86/index_4.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsitiChannel.png?alt=media&token=f4c474b0-7a06-4c6f-82a9-27cf50edb84c" " group-title="తెలుగు", Siti Channel
+https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrasiNetwork.png?alt=media&token=0ef2d21d-c057-418b-9612-32b0959e7c02" " group-title="తెలుగు", Rasi network
+http://singamcloud.in/rasinetwork/rasitelugu/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmetroTv.png?alt=media&token=9dac514e-5c92-43a9-a9f3-cf86f4852ebe" " group-title="తెలుగు", Metro TV
+https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FtejaTv.png?alt=media&token=16ce266e-e269-4951-9951-b56c4c724b60" " group-title="తెలుగు", Teja TV
+http://telugusolutions.com:8088/tejatv/tejatv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FysrTv.png?alt=media&token=058f4cb1-386f-4b43-82a7-e2acd2a6dd6d" " group-title="తెలుగు", YSR TV
+http://telugusolutions.com:8088/ysrtv/ysrtv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgatlaTv.png?alt=media&token=1df8ecc2-3f83-4229-9c03-237235c1df62" " group-title="తెలుగు", Gatla TV
+http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmassTv.png?alt=media&token=debd8cc9-0321-4734-a03f-6ca87cea42fe" " group-title="తెలుగు", Mass TV
+http://telugusolutions.com:8088/masstv/masstv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FpublicTv.png?alt=media&token=3d6226e7-e366-49f9-a449-0ad6fd0dbdaa" " group-title="తెలుగు", Public TV
+http://telugusolutions.com:8088/publictv/publictv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fdbr12.png?alt=media&token=56372d7f-a49e-4e70-b668-9191b44def32" " group-title="తెలుగు", DBR News
+http://telugusolutions.com:8088/dbr12/dbr12.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmsDigital.png?alt=media&token=0920adfe-50fa-4ffc-ba0e-7398221e8a8c" " group-title="తెలుగు", MS Digital
+http://telugusolutions.com:8088/msdigitaltv/msdigitaltv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fap39Tv.png?alt=media&token=bbfa0416-628d-4ecb-9588-7180d2e312db" " group-title="తెలుగు", AP 39 TV
+http://telugusolutions.com:8088/ap39tv/ap39tv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FEeTv.jpg?alt=media&token=cbfea3cf-8792-40fa-99fd-bd42accf29e1" " group-title="తెలుగు", EE TV
+https://server.vidyamidya.online/hls/eenews.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmanukotaNews.png?alt=media&token=ecf18fa7-4c9a-44af-9543-424dbe150ab6" " group-title="తెలుగు", Manukota News
+http://telugusolutions.com:8088/mnews/mnews.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbuddhaTv.png?alt=media&token=1ccb73b5-23cf-420c-8058-f39e9e419f80" " group-title="తెలుగు", Buddha TV
+http://streamcp.logosys.cloud:1935/buddhatelevision/buddhatelevision/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Frk9news.png?alt=media&token=8d707417-cbea-44df-84a2-b4653fbe1963" " group-title="తెలుగు", RK9 News
+http://telugusolutions.com:8088/rk9news/rk9news.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsityCableTandur.png?alt=media&token=dc4ee5ae-d581-4b74-a536-266f8052689e" " group-title="తెలుగు", Sity Cable Tandur
+http://telugusolutions.com:8088/cabletandur/cabletandur.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkvrTv.png?alt=media&token=a64d7a0f-e783-4369-a19d-3cae941a5253" " group-title="తెలుగు", KVR TV
+http://telugusolutions.com:8088/kvrtv/kvrtv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmanaTv.png?alt=media&token=d3c3e3b4-a6a7-43ec-976d-e9530d5c2773" " group-title="తెలుగు", Mana TV
+http://telugusolutions.com:8088/manatv/manatv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftv7Hills.png?alt=media&token=dd568460-ed55-482c-96ff-ffc436afb06e" " group-title="తెలుగు", TV7 Hills
+https://server.streamwell.in/hls/7hills.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrklTv.png?alt=media&token=9a253331-2654-42ae-aac2-6a8933a2062e" " group-title="తెలుగు", RKL TV
+http://telugusolutions.com:8088/rkltv/rkltv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsreeNews.png?alt=media&token=6876fad7-6474-4694-af82-0583b346f606" " group-title="తెలుగు", Sree News
+http://telugusolutions.com:8088/sreenews/sreenews.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgsGrameen.png?alt=media&token=c00bebf8-6b98-4967-8e77-f4dc0ac8fff0" " group-title="తెలుగు", GS Grameen
+http://telugusolutions.com:8088/sgchannel/sgchannel.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FandariTv.png?alt=media&token=fad3ce9e-6886-499b-9155-a8672fd0189b" " group-title="తెలుగు", Andari TV
+https://andaritv.com/hls/andharitv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsrkCityHd.png?alt=media&token=92222bf3-4a55-4577-920c-1828a6623640" " group-title="తెలుగు", SRK City HD
+https://server.streamwell.in/hls/srkcityhd.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fv5News.png?alt=media&token=db0dab1d-03cc-47af-83d8-7968414e5ddb" " group-title="తెలుగు", V5 News
+http://cloud.streamplay.in:1935/v5news/v5news/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsuperTv.png?alt=media&token=30ec12e0-4d88-4d49-b530-09b66307caab" " group-title="తెలుగు", Super TV
+http://server.streamplay.in:1935/supertv/supertv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fchannel9.png?alt=media&token=c36262d2-5358-4f1a-9626-43d23e64ec86" " group-title="తెలుగు", Channel9
+http://blmtech.in:8086/hls/channel9/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcityNewsTelugu.png?alt=media&token=a160af2b-5d0a-49a9-89a0-2d714be18f77" " group-title="తెలుగు", City News Telugu
+http://citynews.mythrimediaindia.com:1935/citynews/citynews/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fmrr69Tv.png?alt=media&token=f761e5ae-0366-4d15-bddc-a536e52f6f8b" " group-title="తెలుగు", MRR69 TV
+http://telugusolutions.com:8088/mrr69tv/mrr69tv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsanthoshamTv.png?alt=media&token=f30782ee-d8bc-4fe7-8cc6-bf34b6457a18" " group-title="తెలుగు", Santhosham TV
+http://hdserver.7starcloud.com:1935/shts/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FprimeTvVizag.png?alt=media&token=85033769-67c5-48d7-a74e-4bd841e6bec9" " group-title="తెలుగు", Prime TV Vizag
+https://amigofx.com:1936/PrimeCinema/PrimeCinema/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FtcnDigital.png?alt=media&token=25622f17-2e32-4f86-8977-d9eaad5ed585" " group-title="తెలుగు", TCN Digital
+https://amigofx.com:1936/TCNDigital/TCNDigital/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FssNews.png?alt=media&token=29478038-5d8c-4313-b5a6-d255f1f85943" " group-title="తెలుగు", SS News
+http://streamcp.logosys.cloud:1935/snewsnpt/snewsnpt/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="తెలుగు", BCN Channel
+http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fvee9News.png?alt=media&token=d335681d-7725-4b47-851f-c159cae2394d" " group-title="తెలుగు", Vee9 news
+http://streamcp.logosys.cloud:1935/vee9news/vee9news/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fmedia24.png?alt=media&token=fd2ff15e-e81b-4ff1-9033-1a2afbc45a6a" " group-title="తెలుగు", Media 24
+http://waytv.livebox.co.in:80/media24hls/telugunews.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fy8Tv.png?alt=media&token=3939028f-d173-484e-b33c-12e0f6358cb5" " group-title="తెలుగు", Y8 TV
+http://waytv.livebox.co.in:80/y8tvhls/news.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmusicHd.png?alt=media&token=704a8a74-f02d-44a4-9dbe-100c0ea8b7ea" " group-title="తెలుగు", Music HD
+https://rtmp.streamwell.in/hls/andhranews.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FprimeClassic.png?alt=media&token=6983e927-57d6-4a80-82e2-e948d9190871" " group-title="తెలుగు", Prime Classic
+https://amigofx.com:1936/PrimeClassic/PrimeClassic/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzillaVani.png?alt=media&token=4cb55ec2-4f6c-421c-a3ee-a660d3a33977" " group-title="తెలుగు", Zilla vani
+https://streaming.livebox.co.in/vedhikahls/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fmy3Telugu.png?alt=media&token=6776e3f6-86fc-4412-bcb1-4cb914d91fd0" " group-title="తెలుగు", My3 Telugu
+http://telugusolutions.com:8088/my3telugu/my3telugu.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgarudaNews.jpeg?alt=media&token=f944e5c3-1b2b-4a77-9854-75c782bfab71" " group-title="Others", Garuda News
+https://rtmp.streamwell.in/hls/garudatv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FprajavaniTv.png?alt=media&token=dbfc5022-be32-4291-94b9-33ac252b3181" " group-title="తెలుగు", Prajavani TV
+http://live.mrstream.in:1935/prajavanitv/prajavanitv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FTV%203%20News.jpeg?alt=media&token=c8dfcce1-a053-41a2-bd6e-804329ddb91a" " group-title="Others", News 3 TV
+https://tv3.livebox.co.in/news3tvhls/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F1%20India%20News.jpeg?alt=media&token=3269f5bf-086c-4b59-bdcc-5a2780cd7e71" " group-title="Others", 1 India TV
+https://teluguwebsolutions.com/hls/1india/1india.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fmee_tv.jpeg?alt=media&token=dc4f82bd-0565-4304-89f0-2d68617a538c" " group-title="తెలుగు", Mee TV
+https://sharsolution.in/hls/meetv/meetv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FGTPL%20S%20TV.jpeg?alt=media&token=80e21f95-da23-4155-ad37-696ace6fecef" " group-title="Others", GTPL S TV
+https://sharsolution.in/hls/stv/stv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FS9%20Channel.jpeg?alt=media&token=bb56e5e8-661a-4352-ae22-6ffc44279926" " group-title="తెలుగు", S9 Channel
+https://sharsolution.in/hls/s9tv/s9tv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FJTv.jpg?alt=media&token=e893e276-3d2a-4071-8ed6-16f6cf6f94ef" " group-title="Others", J TV
+https://streamspace.live/hls/jtv/jtv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FJlTv.png?alt=media&token=3442d6c7-9b43-44d0-908c-07d79cc3df75" " group-title="Others", JL TV
+https://stream.sundaylive.in/hls/jltv/jltvk.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F19News.jpg?alt=media&token=1a0c5910-8ddc-4bc7-8a4b-162e08a8dd4d" " group-title="Others", 19 News
+https://stream.sundaylive.in/hls/19news/19newsk.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FVinodam.jpg?alt=media&token=e8c2997f-b27e-402e-bb7a-2f74e44595d4" " group-title="తెలుగు", Vinodam
+https://sharsolution.in/hls/vinodam/vinodam.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FVisionOne.png?alt=media&token=d6e840ff-be63-46f2-9487-38d91614223e" " group-title="Others", Vision One
+https://vbniptv.live/hls/visionone/visionone.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FAmaravathiTv.png?alt=media&token=4fba321d-de44-48f5-aff9-09df8dce0082" " group-title="తెలుగు", Amaravathi TV
+http://mn.capitalfi.net:8088/amaravathitv/amaravathitv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FCsNews.jpg?alt=media&token=9ace8cb1-4909-42e3-9a71-2fa6391dc904" " group-title="Others", CS News
+https://teluguwebsolutions.com/hls/csnews/csnews.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftv72.jpg?alt=media&token=258de3af-1013-420e-8edb-2d63f11b2422" " group-title="Others", TV 72 News
+https://tv72.livebox.co.in/tv72hls/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fa1%20tv.jpeg?alt=media&token=a7495c05-dbc1-49d0-9a91-e3ec0f992863" " group-title="తెలుగు", A1 TV
+http://183.82.119.7:1935/a1tv/a1tv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FSHREYAS%20TV.jpeg?alt=media&token=c9cd2df4-1a0f-49ee-b3f4-03d9d9e94f45" " group-title="Others", Shreyas TV
+https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fev%20tv%20.jpg?alt=media&token=6a0d2903-4ffd-4c06-8df6-628f30393ff0" " group-title="Others", EV TV
+https://teluguwebsolutions.com/hls/evtv/evtv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fptv.jpg?alt=media&token=e99793fd-a71d-4c40-8730-1ffb98f4487d" " group-title="తెలుగు", P TV
+http://telugusolutions.com:8088/ptvtelugu/ptvtelugu.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FD2%20News.jpg?alt=media&token=b8d6d38b-1e1b-4c07-9405-b50d09ab4bd4" " group-title="Others", D2 News
+https://cdn3.wowza.com/1/UE9ZU210ZGgwQkF4/YitwTWtq/hls/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FABNEWS.jpg?alt=media&token=3b527650-9aa0-46a5-b5ce-6c30a2a8489a" " group-title="Others", AB News
+https://cloud.streamplay.in:1935/abnews/abnews/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcowaTv.jpg?alt=media&token=2da48da7-98a0-4ae6-ac35-ca0511b0a4ee" " group-title="తెలుగు", Cowa TV
+http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftnn.jpeg?alt=media&token=1ac40bff-dd67-48ab-81ba-3f9d335943bf" " group-title="Others", TNN
+rtmp://cloud.streamplay.in:1935/tnn/tnn 
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fap180News.jpg?alt=media&token=0f2bc0ab-89b7-45da-908b-c19aca96d88d" " group-title="తెలుగు", AP 180 News
+https://server.vidyamidya.online/hls/ap180news.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsltTv.jpeg?alt=media&token=d12242bb-40cd-4a2e-82a6-7cde01618ca4" " group-title="Others", SLT TV
+http://live.streamingbharat.com:8080/hls13/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzeeMalayalamNews.jpeg?alt=media&token=3d89f7c3-bfb4-4d9a-bfd5-cf68bbfa5c75" " group-title="മലയാളം", Zee Malayalam News
+https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Frealnewskerala.jpg?alt=media&token=129c0ce2-bef2-40d9-ac68-b63cbd2e1c57" " group-title="മലയാളം", Real News Kerala
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnVision.jpeg?alt=media&token=b176a565-8f7c-44fb-885c-5c65399eb9d3" " group-title="മലയാളം", N Vision
+rtmp://live.singamcloud.in:1935/nvision/nvision
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FweOneHelp.png?alt=media&token=02e0a744-7660-4ea1-9244-be73678853c6" " group-title="മലയാളം", We One Help
+http://rtmp.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrealTv.png?alt=media&token=95106a43-cc93-4ea3-b221-6399f230077b" " group-title="മലയാളം", Real TV
+http://131.153.22.8:1935/realtv/realtv1/chunklist_w615713034.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FswanthamChannel.png?alt=media&token=77a2b9db-740c-4b57-822f-172330965520" " group-title="മലയാളം", Swantham Channel
+http://131.153.22.8:1935/SWANTHAM/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkcvChannel.png?alt=media&token=ab972b7e-2979-4a0b-82aa-3345a3d8bdca" " group-title="മലയാളം", KCV Channel
+http://131.153.22.8:1935/kcvlive/kcv/chunklist_w1935364946.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F24hourLive.png?alt=media&token=36c7ccbe-0003-4aca-bdcd-a14a8f90226d" " group-title="മലയാളം", 24Hour Live
+http://kl.logicwebs.in:1935/24/24rlive/chunklist_w1593883426.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvisionMedia.png?alt=media&token=bdeafdc4-99d0-4964-acce-ba87b443f72b" " group-title="മലയാളം", Vision Media
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FajNet.png?alt=media&token=703c387b-0046-415d-a9b0-b7663a315001" " group-title="മലയാളം", Aj Net
+http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkcvChannel.png?alt=media&token=90501ad5-b007-413b-b67b-7d75e31e3649" " group-title="മലയാളം", KCV Online
+http://198.144.149.82:8080/NOTV/KCVTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FlTv.png?alt=media&token=5d3458e4-47b6-4280-91d5-9c0015b52ba8" " group-title="മലയാളം", L TV
+http://cloud.logicwebs.in:1935/Echannel/echannel/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FskyMusic.jpg?alt=media&token=9c9ade2e-7331-47e9-bb72-8403acd39da6" " group-title="മലയാളം", Sky Music
+http://stream.singamcloud.in:80/skytv/skytv/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneTv.png?alt=media&token=0610a793-9215-4116-af20-5da09d69aa44" " group-title="മലയാളം", One TV
+http://137.59.86.218:1935/live/onetv/chunklist_w439742991.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FuTv.jpg?alt=media&token=43d7ade3-9a84-4e55-bc0d-154bb12dc605" " group-title="മലയാളം", U TV
+http://live.wmncdn.net:80/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FptaNews.png?alt=media&token=8697648e-815c-4f8b-bda1-061b37463c39" " group-title="മലയാളം", PTA News
+http://137.59.86.218:1935/live/ptanews/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fpulari%20Tv.png?alt=media&token=a9d285e3-263e-4f25-9c5e-1d31c96fa9c9" " group-title="മലയാളം", Pulari TV
+http://192.99.2.28/pularitv_hls/pularitv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fsafari.png?alt=media&token=5f17e9c7-2a40-4fc7-a49a-d3030a05c77c" " group-title="മലയാളം", Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fkcl.jpeg?alt=media&token=841827b6-3e99-4700-b3a6-b33a784452ff" " group-title="Others", KCL TV
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fvbcnews.jpg?alt=media&token=746458c9-b569-4cc4-b520-e0f666205c98" " group-title="Others", VBC News
+https://5d00db0e0fcd5.streamlock.net:443/7522/7522/chunklist_w1482865117.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvcvVision.png?alt=media&token=f0c804ca-e9a5-497d-a28c-9040aeb34990" " group-title="Others", VCV Vison
+https://5d00db0e0fcd5.streamlock.net:443/7234/7234/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcityChannels%20.png?alt=media&token=58c390ab-439c-4f58-bcaf-21923e968bd7" " group-title="Others", City Channel
+https://5d00db0e0fcd5.streamlock.net:443/7032/7032/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FublHd.jpg?alt=media&token=f0434447-6aff-47f5-a231-f4096242bc06" " group-title="Others", UBL HD
+https://5d00db0e0fcd5.streamlock.net:443/7130/7130/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkannurVision.png?alt=media&token=0cf11ae5-20d6-42bb-bc73-4bfae27e5008" " group-title="Others", Kannur Vision
+https://stream.ufworldind.in/live/kvision/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjanamTV.png?alt=media&token=d955ae62-62db-4da7-8b69-06af5141e7f8" " group-title="Others", Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FwayanadVisio.png?alt=media&token=1f7a6e91-bb33-49cc-9f56-7c3dd6f542d5" " group-title="Others", Wayanad Vision
+http://adhiyarnetworks.in:80/wayanadvisionhls/wayanadvision.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FamritaTelevision.jpg?alt=media&token=fb987b44-edc9-45cf-937f-a5ac670405d6" " group-title="Others", Amrita
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FflowersTv.jpg?alt=media&token=8bae49f7-972c-4bcd-9eda-a55db094911a" " group-title="Others", Flowers
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkairaliNews.jpg?alt=media&token=88fa0016-c384-4e18-b1d5-ee116b7beec8" " group-title="Others", Kairali News
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkairaliTv.png?alt=media&token=75a7d262-2dac-466f-80c0-1a89bdb35d0b" " group-title="Others", Kairali TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FMangalam.png?alt=media&token=df158f81-9131-4a6d-8e59-c58aeff47dcd" " group-title="Others", Mangalam
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmathrubhumiNews.jpg?alt=media&token=96a4c0e8-9a85-48cb-84da-36cdabdce832" " group-title="Others", Mathrubhumi News
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjeevanTv.jpg?alt=media&token=a3e45e84-0ea0-439c-b0bc-a7015f5acf6e" " group-title="Others", Jeevan TV
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmediaOne.png?alt=media&token=9c1f7557-bf67-4319-908f-686775339840" " group-title="Others", Media One
+http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkairaliWeTv.jpg?alt=media&token=e6eeee24-5d8f-4349-84f3-1b3161371056" " group-title="Others", Kairali We TV
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdarshanaTv.jpg?alt=media&token=8f2baff0-e781-42e3-8b13-85318c585827" " group-title="Others", Darsana TV
+http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkappaTv.jpg?alt=media&token=e88d66fc-bc1c-439a-afb0-cda1f17121b7" " group-title="Others", Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F24.jpg?alt=media&token=7aadef5b-1a8d-42e3-8bd4-68a835a403b1" " group-title="Others", Twenty Four
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FddMalayalam.png?alt=media&token=37412cd5-7f54-487e-b646-53e888dab456" " group-title="Others", DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FreporterTv.jpg?alt=media&token=0887c174-aee9-42e0-a2f2-6dee9c892387" " group-title="Others", Reporter TV
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzeeTamilNews.jpeg?alt=media&token=f27148e6-4747-46fe-ab78-916459635fca" " group-title="தமிழ்", Zee Tamil News
+rtmp://203.101.97.68:1935/live/CH3nN@1ZEE
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FammaTv.PNG?alt=media&token=b167fdb3-04af-4a3a-bec0-4811f2e89837" " group-title="தமிழ்", Amma TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmmTV.png?alt=media&token=ecf457ea-d047-47de-955a-6402275cbfad" " group-title="தமிழ்", MM TV
+https://sscloud7.com/hls/aonetv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FezhilTv.png?alt=media&token=765ad329-5d96-4326-ad50-eefaceb134bf" " group-title="தமிழ்", Ezhil TV
+http://198.144.149.82:8080/NOTV/EZHILTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvedhaTv.png?alt=media&token=78f15de8-c329-4882-b217-59de40d56b1d" " group-title="தமிழ்", Veda TV
+https://sscloud7.com/hls/vedhatv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmmMedia.png?alt=media&token=7a82a422-a2f1-4d6e-8c7e-e538e1585108" " group-title="தமிழ்", MM Media
+http://198.144.149.82:8080/NOTV/MMTV2/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvTv.png?alt=media&token=af28e340-29e5-4d8f-a040-f30f0e170e5b" " group-title="தமிழ்", V TV
+http://198.144.149.82:8080/NOTV/VTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2ForangeTv.png?alt=media&token=fbfbae68-493c-4273-92bc-60ec6235a14f" " group-title="தமிழ்", Orange TV
+http://198.144.149.82:8080/NOTV/ORANGETV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdharsanTv.png?alt=media&token=af4fbb68-99bf-49b8-bd54-b6508d271992" " group-title="தமிழ்", Dharsan TV
+http://198.144.149.82:8080/NOTV/DHARSANTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjmTv.png?alt=media&token=45187e7a-a171-494f-891c-4e3f281af24b" " group-title="தமிழ்", JM TV
+http://198.144.149.82:8080/NOTV/JMTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FthirumalaiTv.png?alt=media&token=f9e1226c-738f-45c3-8ec6-cec271a6d59c" " group-title="தமிழ்", Thirumalai TV
+https://mobile.iptelevision.in/hls/thirumalai.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjeiyanTv.png?alt=media&token=14e5879e-2f08-4c0e-8df7-45fbc854c78b" " group-title="தமிழ்", Jeiyan TV
+http://198.144.149.82:8080/NOTV/JEIYANTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FskyMedia.png?alt=media&token=52adbbf1-e068-41cc-975b-8f5c896413b4" " group-title="தமிழ்", Sky Media
+http://198.144.149.82:8080/NOTV/SKYTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmayaTv.png?alt=media&token=9fc277c5-88ca-4233-b82c-fdc5f698a13a" " group-title="தமிழ்", Maya TV
+http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/mayatv/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvedhaTvKanchi.png?alt=media&token=1d133b2a-2026-4cd1-b752-92f6e43006c1" " group-title="தமிழ்", Vedha TV Kanchi
+http://198.144.149.82:8080/NOTV/VEDHAKANCHI/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsuccesTv.png?alt=media&token=7ec3d7bf-96f5-435c-ae7e-a47c542f81c4" " group-title="தமிழ்", Succes TV
+https://5c75277727cd1.streamlock.net/succestv/succestv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FthenralTv.jpeg?alt=media&token=e129cba4-23a5-4cb8-9488-2378a7cc135b" " group-title="தமிழ்", Thendral TV 
+rtmp://live.singamcloud.in:1935/thenraltv/thenraltv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FanandhamTv.png?alt=media&token=a64a7ae6-6c06-4209-811c-b9ef8500a8d8" " group-title="தமிழ்", Anandham TV
+rtmp://live.singamcloud.in:1935/anandhamtv/anandhamtv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmullaiTv.jpeg?alt=media&token=02f5c22f-0cdd-45a7-ad2f-57978c70e1e9" " group-title="தமிழ்", Mullai TV
+https://live.singamcloud.in/mullaitv/mullaitv/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FthalapathyvjTv.jpg?alt=media&token=7c61347b-d5bb-4dd7-ba28-346edfb71011" " group-title="தமிழ்", Thalapathyvj TV
+http://stream.applemedianetwork.com/hls/thalapathytv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FluckyTV.jpeg?alt=media&token=cdb3ccd1-3381-41eb-901a-5da6a622c240" " group-title="தமிழ்", Lucky TV
+rtmp://singamcloud.in:1935/luckytv/luckytv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvajraTv.jpeg?alt=media&token=156704be-4bcf-4173-bc29-582082fe8534" " group-title="தமிழ்", Vajra TV
+rtmp://indiamatrix.in:1935/vajratv/vajratv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnilaTv.png?alt=media&token=27e87778-8520-4dc0-be1e-88a528096bb6" " group-title="தமிழ்", Nila TV
+http://131.153.22.8:1935/nilatv/nilalive/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsanaPlus.png?alt=media&token=3d94304d-a998-4472-b63b-0df40bd2c7b1" " group-title="தமிழ்", Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/chunklist_w1520728118.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FramTvHd.png?alt=media&token=0353e2c2-fd58-4a30-9a23-5b5c84590376" " group-title="தமிழ்", Ram TV HD
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbhavaniSangamamTv.png?alt=media&token=38795242-d3ca-4b47-954e-a9a66d0777e0" " group-title="தமிழ்", Bhavani Sangamam TV
+http://7starcloud.com:1935/bhavanitv/livestream/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FatnTv.png?alt=media&token=7d943cfb-2fd1-46dc-9a60-7c9b91712364" " group-title="தமிழ்", ATN
+http://hdserver.7starcloud.com:1935/atntv/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsilverSatMedia.png?alt=media&token=abcbd5f5-bdad-4d1e-a133-c969cdecdd2c" " group-title="தமிழ்", Silver Sat Media
+http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FlotusTv.png?alt=media&token=1c36ad57-f5c9-4783-8954-52cbcad72ce7" " group-title="தமிழ்", Lotus TV
+http://hdserver.7starcloud.com:1935/lotustv/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FtamilplusTv.png?alt=media&token=f635acd8-c3d2-4c8d-8e9d-92f819b76d55" " group-title="தமிழ்", Tamil Plus TV
+http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjayamTv.png?alt=media&token=0fc343a0-680f-4e76-8c4b-7b3c20928659" " group-title="தமிழ்", Jayam TV
+http://103.147.60.4:1935/live/jayamtv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkannaTv.png?alt=media&token=0c0b3a79-abbe-4ff2-95cc-82828897d62b" " group-title="தமிழ்", Kanna TV
+http://198.144.149.82:8080/NOTV/KANAA/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FshaliniMedia.png?alt=media&token=1023b817-7573-4ff3-a633-a7768fd67391" " group-title="தமிழ்", Shalini Media
+http://198.144.149.82:8080/NOTV/SSSTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FudumalpetAnnaiTv.png?alt=media&token=e754ee91-2970-4af6-95a7-2aa368e6ef3d" " group-title="தமிழ்", Udumalpet Annai TV
+http://198.144.149.82:8080/NOTV/ANNAITV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FssTvTirupur.png?alt=media&token=dc4fcab3-dc91-4bf4-88d0-afdb1f445825" " group-title="தமிழ்", SS TV Tirupur
+http://68.183.82.116:8080/ssTV/ft86Iv8l.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FttvKanchi.png?alt=media&token=f8a85b44-9cb0-4572-affd-ff7a8ebe134b" " group-title="தமிழ்", TTV Kanchi
+http://198.144.149.82:8080/NOTV/TTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjeyamPlusTv.png?alt=media&token=bdd65942-3305-4a6c-a1f6-474730378dbe" " group-title="தமிழ்", Jeyam Plus TV
+http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmusicStar.png?alt=media&token=98e4268f-453b-462a-8182-332dabe4a803" " group-title="தமிழ்", Music Star
+http://198.144.149.82:8080/NOTV/MUSICSTARTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FyesManTv.png?alt=media&token=a9f9df40-7cd6-47a0-bfc2-e7e34b68da9a" " group-title="தமிழ்", Yes Man TV
+http://198.144.149.82:8080/NOTV/YESMANTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsriArjunTv.png?alt=media&token=e61dd411-e848-44b5-a47c-c988f3ff7cc0" " group-title="தமிழ்", Sri Arjun TV
+http://198.144.149.82:8080/NOTV/SRIARJUNTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FutvMayuram.png?alt=media&token=bf3ff9aa-9288-4810-a527-2d633e24e4de" " group-title="தமிழ்", UTV Mayuram
+http://198.144.149.82:8080/NOTV/UTV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fkanchi.png?alt=media&token=ab4afa73-57b8-42da-936c-78ece027c8a3" " group-title="தமிழ்", Kanchi
+http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fnakkubettatv.jpeg?alt=media&token=7763c8c3-8f9a-442b-afdc-58ef62b0c55b" " group-title="தமிழ்", Nakkubetta TV
+rtmp://nakkubettatv.livebox.co.in:1935/nbtv/nbtv?psk=admin
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsanthoraTV%20.png?alt=media&token=c7447b04-88a7-4503-b767-e23639dd9c09" " group-title="தமிழ்", Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F7starTv.jpg?alt=media&token=7745d94f-9f13-4707-a4bf-a2fab80514af" " group-title="தமிழ்", 7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsanaTv.png?alt=media&token=17f6f508-718a-4ca5-8390-53fb04fd2536" " group-title="தமிழ்", Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FRagam%20TV.jpeg?alt=media&token=40229f95-aadc-492d-a93b-863a8d4b2298" " group-title="தமிழ்", Ragam Tv
+rtmp://account12.livebox.co.in:1935/ntv/ntv?psk=ntv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FtamilVision.png?alt=media&token=a6afe09e-66c4-4a7f-98d1-e2e6d5ecb0b2" " group-title="தமிழ்", Tamil Vision
+http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fvelicham.png?alt=media&token=32ef8c02-e6c0-41e0-b1c9-42a13853702b" " group-title="தமிழ்", Velicham
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FakramKids.jpg?alt=media&token=0cf11de3-1d69-4920-85e1-daa6c2316c96" " group-title="தமிழ்", Akram Kids
+http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FaathavanTV%20.png?alt=media&token=adecd98c-d286-44bf-8ace-419c17e2fdbe" " group-title="தமிழ்", Aathavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FeetTv.png?alt=media&token=77ab2a8c-7ad5-40f1-8bec-a5da8832b0d3" " group-title="தமிழ்", EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsdMedia.jpg?alt=media&token=4bd0ac52-229c-4df8-ab61-5e48ab9dc235" " group-title="தமிழ்", SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsanthoraShortFilmTV.jpg?alt=media&token=1eb1f0ae-703c-496f-adf1-cd76d393a66c" " group-title="தமிழ்", Santhora Short Film
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FasokaTv.jpeg?alt=media&token=e5cf545c-c2e2-4f0a-9bfb-a7fd52e572c4" " group-title="தமிழ்", Asoka TV
+http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrPlusTv.jpeg?alt=media&token=48235ab5-ad94-4665-8902-d8f571eecd6d" " group-title="தமிழ்", R Plus TV
+https://rasi.iptelevision.in/rpuls.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgMusic.jpeg?alt=media&token=0807ada0-4a77-4b78-a4a0-21822c54aedd" " group-title="தமிழ்", G Music
+https://rasi.iptelevision.in/hls/gmusic.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcheranTv.jpeg?alt=media&token=b07a544a-c223-4c87-a103-af349cccd051" " group-title="தமிழ்", Cheran TV
+https://mobile.iptelevision.in/hls/cherantv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTv.jpeg?alt=media&token=2d75cfc4-e8cf-4b66-a11f-87a7f00949e6" " group-title="தமிழ்", Apple TV
+https://eagle.iptelevision.in/hls/appletv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkingTelevision.jpg?alt=media&token=dfa7bae2-e2a9-4f01-9222-803a8f354f02" " group-title="தமிழ்", King Television
+http://hdserver.singamcloud.in:1935/kingtv/kingtv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsmcvHd.jpg?alt=media&token=cc8ed83c-643f-4b6e-8baa-9dfafff067a7" " group-title="தமிழ்", SMCV TV
+http://singamcloud.in/smcvtv/smcvtv/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrjLogo.png?alt=media&token=d60a848f-d60b-47fa-98a4-95f76f15a28e" " group-title="தமிழ்", RJ Logo
+https://wmoy8ngoy2a7-hls-live.5centscdn.com/rjtamil/livetv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="தமிழ்", Apple TV
+http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsriArjunDigitalTv.jpeg?alt=media&token=1f5c3efa-39b9-4d4a-a60f-4d1769d46fea" " group-title="தமிழ்", Sri Arjun Digital TV
+rtmp://bmlive.net:1935/balaaravinth/arjun
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FroyalHd.png?alt=media&token=6648446d-5844-4fb6-9eae-c9f41a7acc39" " group-title="தமிழ்", Royal HD
+http://bmlive.net:8000/dsrchannel/theniroyal/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FambikaTv.jpeg?alt=media&token=a5e106dd-fe14-4e31-82e3-0012b7087f6f" " group-title="தமிழ்", Ambika TV
+http://bmlive.net:8000/karnan/ambika/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdsrTv.png?alt=media&token=f8f05862-4ee0-4eeb-9765-0915702babc7" " group-title="தமிழ்", DSR TV
+http://bmlive.net:8000/dsrchannel/dino/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FadhavanTv.jpeg?alt=media&token=8ffeb939-5129-42f6-8591-90a823e1407a" " group-title="தமிழ்", Adhavan TV
+http://test.7starcloud.com:1935/adhavantv/mystream/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjeysonTv.png?alt=media&token=8b97500b-5554-4f49-8c79-3e2908a74917" " group-title="தமிழ்", Jeyson TV
+http://bmlive.net:8000/appletv/jeysontv/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjjMaxHd.png?alt=media&token=0c58b222-6cb5-4ee4-b17e-750dc4bb86db" " group-title="தமிழ்", JJ Max HD
+http://bmlive.net:8000/appletv/jjmax/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgstarTv.PNG?alt=media&token=9357b812-dd5e-4f2a-a44f-b6d164cac1f7" " group-title="தமிழ்", GStar TV
+http://bmlive.net:8000/gstartv/gstar/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjawaharChannel.png?alt=media&token=fa6324e0-b9cd-41e9-8635-fd660c88d6a6" " group-title="தமிழ்", Jawahar Channel
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FshaliniTv.PNG?alt=media&token=7e41d7c7-91d8-46d5-9438-12b40b6aa060" " group-title="தமிழ்", Shalini TV 
+http://bmlive.net:8000/Raja/shalinitvtvm/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsriVairava.png?alt=media&token=45a0c3a8-775c-4d3d-a054-ac85ce673d67" " group-title="தமிழ்", Sri Vairava
+rtmp://bmlive.net:1935/kannan/krishika
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmsnTv.png?alt=media&token=df340573-b5fa-4687-88e5-a12d5cc719b3" " group-title="தமிழ்", Msn TV
+rtmp://media.7starcloud.com:1935/msntv/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbharathiTvVadipatti.JPG?alt=media&token=44f93ebd-db12-4760-a9d6-11d94a0c9938" " group-title="தமிழ்", Bharathi TV
+http://bmlive.net:8000/karnan/bharathivadipatti/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FizzathTv.jpg?alt=media&token=f374f87e-4d06-46e7-8b79-ef681918ef01" " group-title="தமிழ்", Izzath TV
+http://bmlive.net:8000/karnan/bharathivadipatti/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnandhanaaTv.png?alt=media&token=63c5ac0b-300f-4f64-a035-6d911589dcf5" " group-title="தமிழ்", Nandanaa TV
+http://198.144.149.82:8080/NOTV/NANDANAATV/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FthendralTv.jpg?alt=media&token=58579352-846b-4634-8f49-07c20fbd5d5f" " group-title="தமிழ்", Thendral TV
+rtmp://iptelevision.in/live/thendral
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbossTv.jpg?alt=media&token=346ef211-37dd-4edf-8a70-f29c70fb088a" " group-title="தமிழ்", Hero TV
+rtmp://cloudstream4k.com:1935/herotv/bsk
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvisionTv.png?alt=media&token=72ed4960-7443-44b2-9f66-dfbf65c1492c" " group-title="தமிழ்", Vision TV
+http://bmlive.net:8000/VIJAYARUL/ahcomedy/bms.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FithayaChanel.png?alt=media&token=e5171985-7421-4069-8e31-3bfd886912a9" " group-title="தமிழ்", Ithaya Channel HD
+rtmp://bmlive.net:1935/dsrchannel/ithayatv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FanandhamSangamam.png?alt=media&token=45d80c90-d2d0-49e7-b722-4f0e8a02be38" " group-title="தமிழ்", Anandha Sangamam
+rtmp://anantham. 7starcloud.com/anantham/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FminnalTv.png?alt=media&token=1f8537c5-5d66-4fb5-b06b-4fd4af788e4f" " group-title="தமிழ்", Minnal TV
+rtmp://bmlive.net:1935/dsrchannel/vjtvusilai
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsriVinayagaTv.jpg?alt=media&token=b8605181-24e9-4d04-90e4-9e5058acb2ec" " group-title="தமிழ்", Sri Vinayag TV HD
+rtmp://media.7starcloud.com:1935/harimedia/vinayagahd
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsriVinayagaMusic.jpg?alt=media&token=d95c8810-c6b7-43cd-b442-3a3435369a44" " group-title="தமிழ்", Sri Vinayaga Music HD
+rtmp://media.7starcloud.com:1935/harimedia/vinayagamusic
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fkchannel.jpeg?alt=media&token=2f958bea-25b9-4f71-9a8a-3ffe06cc101b" " group-title="தமிழ்", K Channel
+http://indiamatrix.in:80/kchannel/kchannel.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" " group-title="தமிழ்", One Hollywood HD
+rtmp://1cloud.digital:1935/onetv/onehollywood
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkalamTv.png?alt=media&token=c176e78c-dcc8-44be-bb3d-8e3921d0951b" " group-title="தமிழ்", Kalam TV
+http://web.applelive.in/hls/kalamtv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FtamilStarTv.jpg?alt=media&token=c7adcb02-6e47-4d83-8451-c643b738a361" " group-title="தமிழ்", Tamil Star TV
+http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjjNewsShankar.png?alt=media&token=070126c8-d4d5-4dd5-947d-7b3f8dcb87b0" " group-title="தமிழ்", JJ News/Shankar
+https://j78dpm3odq5r-hls-live.5centscdn.com/jjtv/508c75c8507a2ae5223dfd2faeb98122.sdp/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkalamTvMedia.jpg?alt=media&token=0eda2126-6d75-4595-89de-660d647206f3" " group-title="தமிழ்", Kalam TV Media
+http://web.applelive.in/hls/kalamtv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmoonTv.jpg?alt=media&token=e49967b5-99a9-42fb-a10b-d5115da3dd35" " group-title="தமிழ்", Moon TV
+http://web.applelive.in/hls/moontv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FviwaTv.png?alt=media&token=8261e149-5f69-431a-8a48-ca115119f6b9" " group-title="தமிழ்", Viwa TV
+https://jr7yv29eda4v-hls-live.5centscdn.com/viwatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrasiTamil.png?alt=media&token=1616398b-4652-4320-ab77-0633bc47280c" " group-title="Others", Rasi Tamil
+http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fasosatv.jpeg?alt=media&token=6ce7025c-238c-4942-9595-4f6a8e72641a" " group-title="Others", Asosa TV
+rtmp://live2.livebox.co.in:1935/asosatv/live?psk=stream
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrasiTV.png?alt=media&token=498294ab-fab6-4388-b65a-59b0cba3019d" " group-title="Others", Rasi TV
+http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrasiClassic.png?alt=media&token=56b6574c-9445-4c68-80fa-4d67b1b69121" " group-title="Others", Rasi Classic
+http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FG110%20TV.png?alt=media&token=bd100602-86f3-4c37-b5a9-2504c9c4110f" " group-title="Others", G110 TV
+rtmp://account12.livebox.co.in:1935/Antony/admin?psk=wvantony
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrasiHollywood.png?alt=media&token=647f475b-f1bf-4aa0-9b9b-e4dbc8416f31" " group-title="Others", Rasi Hollywood
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrasiMovies.png?alt=media&token=c471d14f-a0b0-45f0-ac46-30e72ee3d113" " group-title="Others", Rasi Movies
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FNamma%20TV.jpeg?alt=media&token=30f027b5-1bb5-40c0-85c2-2c7ad4c2963a" " group-title="Others", Namma TV
+rtmp://account12.livebox.co.in:1935/nammatv/live?psk=stream
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrasiMusic.png?alt=media&token=c878074d-38bb-4643-a2e0-6b184309f17b" " group-title="Others", Rasi Music
+http://singamcloud.in:1935/rasinetwork/rasimusic/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fvaigaitv.jpeg?alt=media&token=a69679ec-a09b-46b9-85f0-3ba389da08a5" " group-title="Others", Vaigai TV
+rtmp://account9.livebox.co.in:1935/vaigaitv/live?psk=stream
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftamil3.png?alt=media&token=530f80c3-3ba6-4378-91eb-ef995e3a1c77" " group-title="Others", Tamil3
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvettamTv.png?alt=media&token=65199c24-2716-4144-ab8c-00cdfb793e25" " group-title="Others", Vettam
+https://cloudflare-cdn301.ottpro.in/vettam/vettam/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmalaimurasuTv.png?alt=media&token=12a4a06b-15ea-408c-b465-f3829c33d64a" " group-title="Others", Malaimurasu TV
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmkSixTv.jpg?alt=media&token=e5db62ae-35ed-4582-9b4a-8d61e634fa5b" " group-title="Others", MK TV SIX
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FthanthiTV.png?alt=media&token=3b5c54a8-4793-435a-b098-500ddae779f6" " group-title="Others", Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FtamilanTv.jpg?alt=media&token=4549d22f-5b80-43c2-9c55-90bf27cdf757" " group-title="Others", Tamilan TV
+https://olivatv.livebox.co.in/ch4hls/ch4.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FvaanoviyaTv.jpg?alt=media&token=1f2c6a65-592b-4fce-a70e-ad5723e7dbbe" " group-title="Others", Vaanoviya TV
+rtmp://stream1.playbox.co.in:1935/vaanoviyatv/vaanoviyatv
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", TDCTO
+http://live.singamcloud.in:1935/applemusic/applemusic/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmkTv.png?alt=media&token=52da62ad-f584-4183-96b0-06e680b6d932" " group-title="Others", MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmkTunes.png?alt=media&token=85b91e55-1ba8-4d4c-bf5b-6d8e5fb1ab3d" " group-title="Others", MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F7sMusic.jpg?alt=media&token=1545dbd0-0857-45fb-a9f6-7b71bf8035d1" " group-title="Others", 7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmnTv.jpg?alt=media&token=66efee10-2978-4c9d-a5e5-f28354fbcf08" " group-title="Others", MN TV
+https://mntv.livebox.co.in/mntvhls/mntv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkalaignarTv.jpg?alt=media&token=d01ea08b-ea6b-4834-91f2-005dfcb6cd38" " group-title="Others", Kalaignar TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FasiantNewsTamil.jpg?alt=media&token=b98980b6-4564-4f8a-a7c7-e5498064fde2" " group-title="Others", Asianet News Tamil
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fputhuyugam.png?alt=media&token=5392b617-4f18-43e2-8ffb-e308076e3fe9" " group-title="Others", Puthuyugam
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fvaanavil.jpg?alt=media&token=e7e8baa4-4612-4a8f-910f-808713fddada" " group-title="Others", Vaanavil TV
+https://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FddNews.jpg?alt=media&token=60ffbb43-8a06-4ca4-bff1-6fc5aea85147" " group-title="Others", DD News
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FddSports.jpg?alt=media&token=0e3bb2e5-8c05-4998-9182-7a8f8b3b4a9a" " group-title="Others", DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcfNews.png?alt=media&token=38c63961-3b0f-4975-b3c1-1c7f12608d73" " group-title="हिंदी", CF News
+http://139.59.80.118:8080/hls/cfnews.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fanjan.png?alt=media&token=bfc0f3a8-c8e1-45b7-97b5-9d35b15b0f35" " group-title="हिंदी", Anjan
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbFlixMovies.png?alt=media&token=de363aed-a9fe-403f-b95c-6d172a353397" " group-title="Others", BFlix Movies
+http://5giptv.me:8880/live/70124378/53182954/326095.ts
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FindiaTv.jpg?alt=media&token=e2206f66-f3fb-4391-ae7b-b1d7455e6dab" " group-title="Others", India TV
+http://5giptv.me:8880/live/70124378/53182954/179128.ts
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrepublicBharath.jpg?alt=media&token=14f6c043-9878-4dbf-a7d8-aaa0fb881b33" " group-title="Others", Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_234p.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F9xM.jpg?alt=media&token=5f4aa922-fe1c-452c-96ad-9e6f30af7e56" " group-title="हिंदी", 9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrasiHindi.png?alt=media&token=467817d6-8e05-42d7-889c-b8284395fc90" " group-title="Others", Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FaajTak.png?alt=media&token=f20ae336-550d-4a89-ae70-980e7c2fab65" " group-title="Others", Aaj Tak
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fnews24.jpg?alt=media&token=656dce77-3738-4d9e-9c0b-b536b6904383" " group-title="Others", News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmahaMovie.png?alt=media&token=1d0ef257-cac1-430c-b63e-4811e76f0021" " group-title="Others", Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmanoranjanMovies.jpg?alt=media&token=46a895e2-0f6a-45e0-a9f6-c77badadff90" " group-title="Others", Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FlokSabhaTv.jpg?alt=media&token=f5d1718a-e510-41eb-a9bc-5920fd80195d" " group-title="Others", Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrajyaSabhaTv.jpg?alt=media&token=d81201a1-9478-4bbc-a43a-7f8fdf427eb9" " group-title="Others", Rajya Sabha TV
+https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjanataTv.png?alt=media&token=b06fe19e-41ec-40b3-96fb-9047036172c9" " group-title="हिंदी", Janata TV
+https://live.wmncdn.net/jantatv/live.stream/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FswarajExpress.jpg?alt=media&token=f47b8372-f650-49e9-89c8-c655cf640c65" " group-title="हिंदी", Swaraj Express
+https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Others", Bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FindiaNews.png?alt=media&token=dd7f3c6b-ccd3-4824-9fe9-18854f841c9d" " group-title="Others", India News
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkhabrainAbhiTak.jpg?alt=media&token=ba48a6ed-e25b-4f6e-8164-4137a1c3e35e" " group-title="Others", Khabrain Abhi Tak
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fb4uKadak.jpg?alt=media&token=4726f809-0a15-465b-9f04-8f80004b756b" " group-title="Others", B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FmusicIndia.png?alt=media&token=1ae228c4-b490-4867-915f-efbfe99f7da7" " group-title="Others", Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsadhnaPlusNews.jpg?alt=media&token=2114ada3-d3dc-4717-8ef2-aac14f17e7b0" " group-title="Others", Sadhna Plus News
+http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FabpNews.jpg?alt=media&token=07c2e207-fdd6-46ec-9edf-fa24d09b144d" " group-title="Others", ABP News
+https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fmasti.png?alt=media&token=a84ee3fd-354b-4aff-bee6-8737636088ee" " group-title="Others", Masthi
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjanTv.jpg?alt=media&token=d7fe2158-fe79-410d-a51d-321d609e76fc" " group-title="Others", Jan TV
+http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcnbcAwaaz.png?alt=media&token=99849b0b-b4c4-4a6e-aae6-91dc81017643" " group-title="Others", CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FfizaTv.jpeg?alt=media&token=a277b325-c101-42e9-b703-466049492284" " group-title="Others", Fiza TV
+rtmp://103.232.131.28:1935/server/fizatv
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FddNational.jpg?alt=media&token=8c75c76c-f385-4198-b0fe-491c5cc2b2c4" " group-title="Others", DD National
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FtTv.jpeg?alt=media&token=3a5cba6b-9727-4b49-8972-a22690b1ae9a" " group-title="Others", T TV News
+http://117.203.103.9:8080/hls/ttvurdu/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FchoisceTv.jpeg?alt=media&token=0b933ccf-7575-4216-b9e0-f460af94b3ed" " group-title="हिंदी", Choice TV
+http://103.206.104.208:8080/channel/choicetv/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ffilmy.jpg?alt=media&token=b0df02b7-4d05-4fe5-a79f-7aee199b8dc8" " group-title="Others", Filmy
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_360p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsuryaCinema.jpg?alt=media&token=ddadcc83-f979-44e8-a208-cd6b4e1f8d91" " group-title="Others", Surya Cinema
+https://m-c06-j2apps.s.llnwi.net/hls/7080.SuryaCinema.in_360p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fshowbox.jpg?alt=media&token=82554d5c-12c4-43fd-a719-e84310ed82de" " group-title="Others", ShowBox
+https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in_480p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F9xJalwa.png?alt=media&token=e79a84a9-0611-4c4c-b7db-6c1bf4469077" " group-title="Others", 9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnewsWorldIndia.jpg?alt=media&token=5aff164c-a469-4c2f-8907-9d11bcbfe69e" " group-title="Others", News World India
+http://itv24.livebox.co.in/Newsworldindiahls/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FhiffMovies.jpg?alt=media&token=a49ac508-5385-407a-956e-5902cae0e8de" " group-title="Others", Hiff Movies
+http://haryanatashantv.livebox.co.in/hiffmovieshls/hiffmovies.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FupdateIndia.jpg?alt=media&token=6e7908bf-7e46-4ac6-80eb-f1792d10a1da" " group-title="Others", Update India
+http://haryanatashantv.livebox.co.in/updateindiahls/updateindia.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FaaryaaNews.jpg?alt=media&token=9cb84b90-b1dd-48a5-8d78-3ce29e65e0a4" " group-title="Others", Aaryaa News
+https://stream.playbox.co.in:19360/aaryaanews/aaryaanews.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FabStarNews.jpg?alt=media&token=000cb525-84ee-4c72-bcae-37b4f5aa0e57" " group-title="Others", AB Star News
+http://live.agmediachandigarh.com/abstarnews/5002be987c79e8b1f25b7a3b9051a33f.sdp/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FtaazaTv.jpg?alt=media&token=ba34431d-45b7-4e6a-b80f-ed1e05ed4f72" " group-title="Others", Taaza TV
+http://202.142.127.197/0.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FpratidinTime.png?alt=media&token=c0d9c149-7446-4f57-b27e-9a913837c67d" " group-title="অসমীয়া", Pratidin Time
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FJonack.png?alt=media&token=ad4b975e-de5e-43ee-a0b1-5438ba465295" " group-title="অসমীয়া", Jonack
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FAssamTalks.jpg?alt=media&token=8a58d7d9-b5f3-4a2f-8a7d-d1e388e58a42" " group-title="Others", Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FfastwayNews.jpg?alt=media&token=f09f2d5f-a590-43b1-9414-a8c2e626f928" " group-title="ਪੰਜਾਬੀ", Fastway News
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdesiChannel.png?alt=media&token=a90543ba-c43c-4fe7-879d-f0ea7c5fd289" " group-title="Others", Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FboogleBollywood.jpg?alt=media&token=20063929-c2a1-4766-9c94-3f7ddc56ab8c" " group-title="ਪੰਜਾਬੀ", Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsteelBirdMusic.jpg?alt=media&token=2ec5e41a-a35f-47e5-becc-c1f67053d8a0" " group-title="ਪੰਜਾਬੀ", Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FpunjabZindabad.png?alt=media&token=8ef17ac0-d5da-44bd-8ea8-64d1fbfe4dce" " group-title="ਪੰਜਾਬੀ", Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjhanjarMusic.png?alt=media&token=a6daa8fc-b4cc-474c-860b-6b379681cfab" " group-title="ਪੰਜਾਬੀ", Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FworldPunjabiTV.jpg?alt=media&token=045bd35f-ac4b-42bd-b9df-e784af21c2bf" " group-title="ਪੰਜਾਬੀ", World Punjabi TV
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FhulchulTvCannada.png?alt=media&token=bbac7cc4-3ada-4aad-8cdf-58b5728f2528" " group-title="ਪੰਜਾਬੀ", Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fmh1Prime.jpg?alt=media&token=eecfa880-116d-403e-b5eb-62a39c352718" " group-title="ਪੰਜਾਬੀ", MH1 Prime
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FballeBalleTv.jpg?alt=media&token=e730f8f7-7e18-48c5-a521-261eebb3f672" " group-title="Others", Balle Balle
+https://m-c07-j2apps.s.llnwi.net/hls/7058.BalleBalle.in_480p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FwahPunjabi.jpg?alt=media&token=818a565c-22d0-4e1b-8880-663d9d559f26" " group-title="ਪੰਜਾਬੀ", Wah Punjabi
+http://live.agmediachandigarh.com/wahpunjabi/45f5bff56a47f9ebb68595aac72db8b0.sdp/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FglobalSanjh.jpg?alt=media&token=24c20511-fb60-489e-8c6f-2d0a7c995d7a" " group-title="Others", Global Sanjh
+http://globalsanjh.r.worldssl.net/global-sanjh/global-sanjhGfN25/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FharyanaTashanMusic.jpg?alt=media&token=9b6bfd64-44e7-4f2b-8a13-b188b5b70a48" " group-title="Others", Haryana Tashan Music
+http://haryanatashantv.livebox.co.in/haryanatashantvhls/haryanatashantv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FharyanaTashanEntertainment.jpg?alt=media&token=89dac71c-8d6b-497a-90ec-52df45113a04" " group-title="Others", Haryana Tashan Entertainment
+http://haryanatashantv.livebox.co.in/haryanatehelkahls/haryanatehelka.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FiTv24.jpg?alt=media&token=0d2b0cb6-b37a-4a9b-8dd9-9c908404c27e" " group-title="Others", ITV24
+https://itv24.livebox.co.in/Itv24hls/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Demo", DEMO
+http://live.streamingbharat.com:8080/hls1/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FhareKrsna.jpg?alt=media&token=146a178a-6915-472c-82d1-4c6ece4fd4f4" " group-title="Devotional", Hare Krsna
+http://live.streamingbharat.com:8080/hls4/stream.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdharisanamTv.jpeg?alt=media&token=6f36501d-5aca-4b84-8c57-b9a01514696c" " group-title="Devotional", Dharisanam TV
+http://198.144.149.82:8080/NOTV/DHARISANAMTV/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fsvbc.jpg?alt=media&token=2972f4f4-272a-45ad-bd6f-d750e00babd2" " group-title="Devotional", SVBC
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsriBasavaTv.jpg?alt=media&token=51599706-d7c4-4c34-abc3-2f70bb8c1ea9" " group-title="Devotional", Sri Basava TV
+http://95.217.11.117/Basavatvhls/Tv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgayathriTv.png?alt=media&token=d42e92e9-2d1d-4454-972d-3fa0f259f45f" " group-title="Devotional", Gayathri TV
+http://198.144.149.82:8080/NOTV/GAYATHRITV/index.m3u8?token=GTR
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FchamundiTvBakthi.jpeg?alt=media&token=e4c3deec-921c-4c6e-8b75-c80ce07ddb91" " group-title="Devotional", Chamundi TV Bakthi
+rtmp://chamunditv1.sritv.co.in/chamunditv2/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsriOmTv.png?alt=media&token=3990b5a7-ea79-42fa-87f1-93bb6f46876e" " group-title="Devotional", Sri Om TV
+http://hdserver.7starcloud.com:1935/sriomtv/livetv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsrisailaTv.png?alt=media&token=9c01aa57-8987-4dec-a9ea-f0f22119ce53" " group-title="Devotional", Srisaila TV
+http://202.83.27.171:1935/sslm/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FshirdiLive.jpg?alt=media&token=bc903e52-e750-4263-b311-56845049d10d" " group-title="Devotional", Shirdi Live
+https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FpmcTv.png?alt=media&token=9fdc2cf0-c63c-4932-8584-fafc845df48e" " group-title="Devotional", PMC Kannada
+rtmp://pmc.sritv.co.in/pmckannada/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FalQuranAlKareem.png?alt=media&token=a912a486-839a-4539-a64f-33028edfd79b" " group-title="Devotional", Mecca Live
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fsatsang.jpg?alt=media&token=bbe765a9-1a2b-4388-8be9-fe90fa6bd238" " group-title="Devotional", Satsang TV
+https://satsangtv.sanskargroup.in/satsangtvlive.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FshubhSandeshTv.png?alt=media&token=e37d3377-df23-4102-b497-f94caeacef04" " group-title="Others", Shubhsandesh
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsadhnaTv.png?alt=media&token=e16d6c58-1a28-4821-bb89-8561eb6d7f80" " group-title="Devotional", Sadhana TV
+http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FshraddhaMh1.jpg?alt=media&token=ee95408a-940a-4e61-9b88-ea0d54afc876" " group-title="Devotional", MH One Shradha
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fsvbc2.jpg?alt=media&token=36b3f067-3baa-4498-b3b2-72236c209089" " group-title="Devotional", SVBC 2
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="" " group-title="Devotional", Sikh Channel
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fsanskar.png?alt=media&token=81e87520-7e13-4e68-8ab3-5babcda31f7d" " group-title="Devotional", Sanskar Live
+https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FakaalChannel.png?alt=media&token=7cea7fbe-baed-43e3-97aa-d1ca91f4ce50" " group-title="Devotional", Akaal Channel
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnishaIslamicTv.jpeg?alt=media&token=7c4bb5d6-7ab9-4664-b2e8-4384b7fc99d8" " group-title="Devotional", Nisha Islamic TV
+rtmp://blmtech.in:1935/blmlive/nishatislamic
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FhmoChannel.jpeg?alt=media&token=4f061314-54c7-4978-a47d-90e1cc73793b" " group-title="Devotional", HMO Channel
+http://kheranimassmedia.com/hmo/live/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fsristi35Mm.jpg?alt=media&token=5e525728-5956-47d4-957a-b3c058029bca" " group-title="Devotional", Sristi 35 MM
+http://sristi.livebox.co.in/35mmhls/35mm.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjigyasaTv.jpg?alt=media&token=84715b3a-8099-4b40-a646-19d3ce8eb79e" " group-title="Devotional", Jigyasa TV
+http://51.68.121.238/jigyasatvhls/demo.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FparamSatta.jpg?alt=media&token=d1d92bd0-da74-4f08-b9b0-163a874b6021" " group-title="Devotional", Param Satta TV
+http://9b6lewmzlpxw-hls-live.5centscdn.com/paramsatta/fa755cf9ef27fc0bc12b00b420e8488a.sdp/chunks.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkrishnaVani.jpg?alt=media&token=f68a259e-f535-41ad-9812-21b70e59bcf3" " group-title="Devotional", Krishna Vani
+http://live.agmediachandigarh.com/KRISHNAVAANI/cdb4d5121f9b2fa38a5e58ce4284414e.sdp/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fmangalmay.jpg?alt=media&token=1542d0f1-a1c4-43e3-985c-9e9a0b03a0b4" " group-title="Devotional", Mangalmay
+http://mangalmaydigital.com:1935/liveashram/mystreamhd/chunklist_w1823042546.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FaamarBangla.jpg?alt=media&token=5081579e-10c4-4d93-97f5-550f700209b5" " group-title="বাংলা", Aamar Bangla
+http://stream1.livebox.co.in/kbcreationhls/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FddBangla.jpg?alt=media&token=2f940cd8-a325-4477-b9f8-3fdf194384b9" " group-title="বাংলা", DD Bangla
+https://m-c048-j2apps.s.llnwi.net/hls/0252.DDBangla.in_360p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcalcuttaNews.png?alt=media&token=ca5d7332-3952-4c54-9bf2-866b83fe8af1" " group-title="বাংলা", Calcutta News
+https://m-c05-j2apps.s.llnwi.net/hls/7063.CalcuttaNews.in_480p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FfriendsTv.jpg?alt=media&token=cccab348-ad59-414c-a745-8e3245e088b2" " group-title="বাংলা", Friends TV
+http://202.78.232.142:1935/Friendstv/friendstv/chunklist_w2071847490.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fdoinandin.jpg?alt=media&token=f9882aa0-115e-4380-bd36-91767204425d" " group-title="বাংলা", Doinandin
+http://highmedia.livebox.co.in/Doinandinhls/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrongeenTv.jpg?alt=media&token=ab4a3ced-1ea7-43c0-b2f0-fe48a82ae7ed" " group-title="বাংলা", Rongeen TV
+https://m-c09-j2apps.s.llnwi.net/hls/8027.RongeenTV.in_480p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsristiTv.jpg?alt=media&token=4e365886-31b3-4d21-8b92-25a99e127876" " group-title="বাংলা", Sristi TV
+http://sristi.livebox.co.in/sristihls/live.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fmaiboli.png?alt=media&token=1bff2aa6-e219-413b-b485-ac39589e703d" " group-title="मराठी", Maiboli
+https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_360p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FddSahyadri.jpg?alt=media&token=0698b291-a106-4abe-94e6-3184a4b8d755" " group-title="मराठी", DD Sahyadri
+https://m-c048-j2apps.s.llnwi.net/hls/0113.DDSahyadri.in_360p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FabpMajha.png?alt=media&token=78cea61f-a370-469c-b3a0-0fc990d20e3c" " group-title="मराठी", ABP Majha
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7016.ABPMajha.in_360p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzeeKannadaNews.jpeg?alt=media&token=33e29815-34da-4ba3-8a05-bebac07324b1" " group-title="News", Zee Kannada News
+https://d27bhw2yi777iv.cloudfront.net/out/v1/13dc2cfe6eff4d008a6df9b50b8670b6/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzeeTamilNews.jpeg?alt=media&token=f27148e6-4747-46fe-ab78-916459635fca" " group-title="News", Zee Tamil News
+rtmp://203.101.97.68:1935/live/CH3nN@1ZEE
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzeeTeluguNews.png?alt=media&token=f7aa026e-d98c-4587-96ba-3b3cf819c4b0" " group-title="News", Zee Telugu News
+https://d8ba55t6wa9p9.cloudfront.net/out/v1/1abef7be5629479a91eeb77e41701f86/index_4.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzeeMalayalamNews.jpeg?alt=media&token=3d89f7c3-bfb4-4d9a-bfd5-cf68bbfa5c75" " group-title="News", Zee Malayalam News
+https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcfNews.png?alt=media&token=38c63961-3b0f-4975-b3c1-1c7f12608d73" " group-title="News", CF News
+http://139.59.80.118:8080/hls/cfnews.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FrepublicBharath.jpg?alt=media&token=14f6c043-9878-4dbf-a7d8-aaa0fb881b33" " group-title="Others", Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_234p.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftv6Kannada.jpeg?alt=media&token=79e4a7fd-4c7d-4aab-92e2-f9531605c92d" " group-title="Others", TV6 Kannada
+rtmp://49.206.16.183:1935/tv6kannada/live
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FaajTak.png?alt=media&token=f20ae336-550d-4a89-ae70-980e7c2fab65" " group-title="Others", Aaj Tak
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftv9Kannada.jpg?alt=media&token=7e81560c-c795-46fd-a325-2674eb9a86d8" " group-title="Others", TV9 Kannada
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsuvarnaNews.jpg?alt=media&token=c592bb6f-ac6a-49a4-8ebd-884eb8d555a8" " group-title="Others", Asianet Suvarna News Kannada
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FindiaTv.jpg?alt=media&token=e2206f66-f3fb-4391-ae7b-b1d7455e6dab" " group-title="Others", India TV
+http://5giptv.me:8880/live/70124378/53182954/179128.ts
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FpratidinTime.png?alt=media&token=c0d9c149-7446-4f57-b27e-9a913837c67d" " group-title="Others", Pratidin Time
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FAssamTalks.jpg?alt=media&token=8a58d7d9-b5f3-4a2f-8a7d-d1e388e58a42" " group-title="Others", Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FfastwayNews.jpg?alt=media&token=f09f2d5f-a590-43b1-9414-a8c2e626f928" " group-title="News", Fastway News
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcalcuttaNews.png?alt=media&token=ca5d7332-3952-4c54-9bf2-866b83fe8af1" " group-title="Others", Calcutta News
+https://m-c05-j2apps.s.llnwi.net/hls/7063.CalcuttaNews.in_480p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FabpMajha.png?alt=media&token=78cea61f-a370-469c-b3a0-0fc990d20e3c" " group-title="Others", ABP Majha
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7016.ABPMajha.in_360p/index.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fnews24.jpg?alt=media&token=656dce77-3738-4d9e-9c0b-b536b6904383" " group-title="Others", News 24 Hindi
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FindiaNews.png?alt=media&token=dd7f3c6b-ccd3-4824-9fe9-18854f841c9d" " group-title="Others", India News Hindi
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FkhabrainAbhiTak.jpg?alt=media&token=ba48a6ed-e25b-4f6e-8164-4137a1c3e35e" " group-title="Others", Khabrain Abhi Tak
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FabpNews.jpg?alt=media&token=07c2e207-fdd6-46ec-9edf-fa24d09b144d" " group-title="Others", ABP News
+https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FspeedNewsKannada.jpg?alt=media&token=d5c515ea-ade9-4f29-a208-76b9d97c47ca" " group-title="Others", Speed News Kannada
+http://cloud.streamplay.in:1935/nationaltv/nationaltv/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fdighvijay.jpg?alt=media&token=12117ac5-8363-45ee-8a64-c22835d1b0d7" " group-title="Others", Dighvijay Kannada
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FprajaTv.jpg?alt=media&token=5db1d057-b13d-40e7-8bb5-d6af32e3e6bc" " group-title="Others", Prajaa TV Kannada
+http://5giptv.me:8880/live/70124378/53182954/324964.ts
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FnewsFirstKannada.png?alt=media&token=c800b601-57c9-4a30-b389-64819172ad52" " group-title="Others", News First Kannada
+https://m-c010-j2apps.s.llnwi.net/hls/7099.NewsFirstKannada.in.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftv5Kannada.jpg?alt=media&token=2661edee-25ac-4abb-851c-3b505e93843d" " group-title="Others", TV5 Kannada
+http://5giptv.me:8880/live/70124378/53182954/324973.ts
+
+
