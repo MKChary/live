@@ -437,7 +437,7 @@ http://sundaylive.livebox.co.in/reshyahls/reshyatv.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FprimeClassic.png?alt=media&token=6983e927-57d6-4a80-82e2-e948d9190871" " group-title="Local", Prime Classic
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FprimeClassic.png?alt=media&token=6983e927-57d6-4a80-82e2-e948d9190871" " group-title="Local", Prime Classic
 https://amigofx.com:1936/PrimeClassic/PrimeClassic/playlist.m3u8
 
 
@@ -449,19 +449,19 @@ https://streaming.livebox.co.in/vedhikahls/live.m3u8
 http://telugusolutions.com:8088/my3telugu/my3telugu.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgarudaNews.jpeg?alt=media&token=f944e5c3-1b2b-4a77-9854-75c782bfab71" " group-title="Local", Garuda News
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FgarudaNews.jpeg?alt=media&token=f944e5c3-1b2b-4a77-9854-75c782bfab71" " group-title="Local", Garuda News
 https://rtmp.streamwell.in/hls/garudatv.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FprajavaniTv.png?alt=media&token=dbfc5022-be32-4291-94b9-33ac252b3181" " group-title="Local", Prajavani TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FprajavaniTv.png?alt=media&token=dbfc5022-be32-4291-94b9-33ac252b3181" " group-title="Local", Prajavani TV
 http://live.mrstream.in:1935/prajavanitv/prajavanitv/playlist.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FTV%203%20News.jpeg?alt=media&token=c8dfcce1-a053-41a2-bd6e-804329ddb91a" " group-title="Local", News 3 TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FTV%203%20News.jpeg?alt=media&token=c8dfcce1-a053-41a2-bd6e-804329ddb91a" " group-title="Local", News 3 TV
 https://tv3.livebox.co.in/news3tvhls/live.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F1%20India%20News.jpeg?alt=media&token=3269f5bf-086c-4b59-bdcc-5a2780cd7e71" " group-title="Local", 1 India TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F1%20India%20News.jpeg?alt=media&token=3269f5bf-086c-4b59-bdcc-5a2780cd7e71" " group-title="Local", 1 India TV
 https://teluguwebsolutions.com/hls/1india/1india.m3u8
 
 
@@ -469,23 +469,23 @@ https://teluguwebsolutions.com/hls/1india/1india.m3u8
 https://sharsolution.in/hls/meetv/meetv.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FGTPL%20S%20TV.jpeg?alt=media&token=80e21f95-da23-4155-ad37-696ace6fecef" " group-title="Local", GTPL S TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FGTPL%20S%20TV.jpeg?alt=media&token=80e21f95-da23-4155-ad37-696ace6fecef" " group-title="Local", GTPL S TV
 https://sharsolution.in/hls/stv/stv.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FS9%20Channel.jpeg?alt=media&token=bb56e5e8-661a-4352-ae22-6ffc44279926" " group-title="Local", S9 Channel
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FS9%20Channel.jpeg?alt=media&token=bb56e5e8-661a-4352-ae22-6ffc44279926" " group-title="Local", S9 Channel
 https://sharsolution.in/hls/s9tv/s9tv.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FJTv.jpg?alt=media&token=e893e276-3d2a-4071-8ed6-16f6cf6f94ef" " group-title="Local", J TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FJTv.jpg?alt=media&token=e893e276-3d2a-4071-8ed6-16f6cf6f94ef" " group-title="Local", J TV
 https://streamspace.live/hls/jtv/jtv.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FJlTv.png?alt=media&token=3442d6c7-9b43-44d0-908c-07d79cc3df75" " group-title="Local", JL TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FJlTv.png?alt=media&token=3442d6c7-9b43-44d0-908c-07d79cc3df75" " group-title="Local", JL TV
 https://stream.sundaylive.in/hls/jltv/jltvk.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F19News.jpg?alt=media&token=1a0c5910-8ddc-4bc7-8a4b-162e08a8dd4d" " group-title="Local", 19 News
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F19News.jpg?alt=media&token=1a0c5910-8ddc-4bc7-8a4b-162e08a8dd4d" " group-title="Local", 19 News
 https://stream.sundaylive.in/hls/19news/19newsk.m3u8
 
 
@@ -493,59 +493,61 @@ https://stream.sundaylive.in/hls/19news/19newsk.m3u8
 https://sharsolution.in/hls/vinodam/vinodam.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FVisionOne.png?alt=media&token=d6e840ff-be63-46f2-9487-38d91614223e" " group-title="Local", Vision One
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FVisionOne.png?alt=media&token=d6e840ff-be63-46f2-9487-38d91614223e" " group-title="Local", Vision One
 https://vbniptv.live/hls/visionone/visionone.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FAmaravathiTv.png?alt=media&token=4fba321d-de44-48f5-aff9-09df8dce0082" " group-title="Local", Amaravathi TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FAmaravathiTv.png?alt=media&token=4fba321d-de44-48f5-aff9-09df8dce0082" " group-title="Local", Amaravathi TV
 http://mn.capitalfi.net:8088/amaravathitv/amaravathitv.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FCsNews.jpg?alt=media&token=9ace8cb1-4909-42e3-9a71-2fa6391dc904" " group-title="Local", CS News
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FCsNews.jpg?alt=media&token=9ace8cb1-4909-42e3-9a71-2fa6391dc904" " group-title="Local", CS News
 https://teluguwebsolutions.com/hls/csnews/csnews.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftv72.jpg?alt=media&token=258de3af-1013-420e-8edb-2d63f11b2422" " group-title="Local", TV 72 News
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftv72.jpg?alt=media&token=258de3af-1013-420e-8edb-2d63f11b2422" " group-title="Local", TV 72 News
 https://tv72.livebox.co.in/tv72hls/live.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fa1%20tv.jpeg?alt=media&token=a7495c05-dbc1-49d0-9a91-e3ec0f992863" " group-title="Local", A1 TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fa1%20tv.jpeg?alt=media&token=a7495c05-dbc1-49d0-9a91-e3ec0f992863" " group-title="Local", A1 TV
 http://183.82.119.7:1935/a1tv/a1tv/playlist.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FSHREYAS%20TV.jpeg?alt=media&token=c9cd2df4-1a0f-49ee-b3f4-03d9d9e94f45" " group-title="Local", Shreyas TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FSHREYAS%20TV.jpeg?alt=media&token=c9cd2df4-1a0f-49ee-b3f4-03d9d9e94f45" " group-title="Local", Shreyas TV
 https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fev%20tv%20.jpg?alt=media&token=6a0d2903-4ffd-4c06-8df6-628f30393ff0" " group-title="Local", EV TV
+
+
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fev%20tv%20.jpg?alt=media&token=6a0d2903-4ffd-4c06-8df6-628f30393ff0" " group-title="Local", EV TV
 https://teluguwebsolutions.com/hls/evtv/evtv.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fptv.jpg?alt=media&token=e99793fd-a71d-4c40-8730-1ffb98f4487d" " group-title="Local", P TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fptv.jpg?alt=media&token=e99793fd-a71d-4c40-8730-1ffb98f4487d" " group-title="Local", P TV
 http://telugusolutions.com:8088/ptvtelugu/ptvtelugu.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FD2%20News.jpg?alt=media&token=b8d6d38b-1e1b-4c07-9405-b50d09ab4bd4" " group-title="Local", D2 News
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FD2%20News.jpg?alt=media&token=b8d6d38b-1e1b-4c07-9405-b50d09ab4bd4" " group-title="Local", D2 News
 https://cdn3.wowza.com/1/UE9ZU210ZGgwQkF4/YitwTWtq/hls/live/playlist.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FABNEWS.jpg?alt=media&token=3b527650-9aa0-46a5-b5ce-6c30a2a8489a" " group-title="Local", AB News
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FABNEWS.jpg?alt=media&token=3b527650-9aa0-46a5-b5ce-6c30a2a8489a" " group-title="Local", AB News
 https://cloud.streamplay.in:1935/abnews/abnews/playlist.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcowaTv.jpg?alt=media&token=2da48da7-98a0-4ae6-ac35-ca0511b0a4ee" " group-title="Local", Cowa TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FcowaTv.jpg?alt=media&token=2da48da7-98a0-4ae6-ac35-ca0511b0a4ee" " group-title="Local", Cowa TV
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftnn.jpeg?alt=media&token=1ac40bff-dd67-48ab-81ba-3f9d335943bf" " group-title="Local", TNN
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Ftnn.jpeg?alt=media&token=1ac40bff-dd67-48ab-81ba-3f9d335943bf" " group-title="Local", TNN
 rtmp://cloud.streamplay.in:1935/tnn/tnn 
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fap180News.jpg?alt=media&token=0f2bc0ab-89b7-45da-908b-c19aca96d88d" " group-title="Local", AP 180 News
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fap180News.jpg?alt=media&token=0f2bc0ab-89b7-45da-908b-c19aca96d88d" " group-title="Local", AP 180 News
 https://server.vidyamidya.online/hls/ap180news.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsltTv.jpeg?alt=media&token=d12242bb-40cd-4a2e-82a6-7cde01618ca4" " group-title="Local", SLT TV
+EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsltTv.jpeg?alt=media&token=d12242bb-40cd-4a2e-82a6-7cde01618ca4" " group-title="Local", SLT TV
 http://live.streamingbharat.com:8080/hls13/stream.m3u8
 
 
@@ -768,10 +770,10 @@ EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" grou
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/3979
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://s1.pubnow.info:8080/Jean0188/016035/118578
+http://103.245.195.80:9500/play/a002/index.m3u8
 
-EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/397844
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
+http://103.245.195.80:9500/play/a003/index.m3u8
 
 EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports Select 1 HD
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
