@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 #url-tvg="http://rstream.me/epg.xml.gz"
+#https://mkchary.github.io/live/index.m3u
 
 EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Music",HDR Prime
 http://iptv.hdsindia.com:2574/udp/227.10.10.76:4640
