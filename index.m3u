@@ -76,7 +76,7 @@ http://servertv.ml/JIO/live.php?c=ETV_Plus&q=1200&e=junk.m3u8
 http://103.175.73.14:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://103.175.73.14:8000/play/a00p/index.m3u8
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
 
 EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5586
@@ -88,8 +88,8 @@ http://212.224.84.217:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=CXtoCQYVe
 EXTINF:-1 tvg-id="STAR MAA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA
 http://102.222.232.18:9981/stream/channelid/589622635
 
-EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/203034
+#EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd
 
 EXTINF:-1 tvg-id="Star Maa Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies
 http://102.222.232.18:9981/stream/channelid/1813535474
@@ -104,7 +104,7 @@ http://servertv.ml/JIO/live.php?c=Raj_Music_Telugu&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 #http://50.7.69.66/GEMINI_MUSIC/index.m3u8
-http://darkteam.vip:25461/TR5367465299F/FRWnJs8GhD/13313
+https://jiolivestreaming.akamaized.net/bpk-tv/Gemini_Music_HD_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",Adithya music
 https://ythls.onrender.com/video/CNPdyttDuAY.m3u8
