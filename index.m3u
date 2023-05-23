@@ -53,7 +53,7 @@ http://rv.bleutv.net:80/152087360475456/152066530788190/198015
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/413/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment" status="timeout",ETV HD
-http://jiotv.its-nayeemparvez.ml:3500/getm3u8/1973/master.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=155852&extension=ts&play_token=VxpbYdYj96
 
 EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
 #https://watchtvs.live/play.php?c=ETV_HD&q=1200&e=.m3u8
@@ -112,8 +112,8 @@ https://ythls.onrender.com/video/CNPdyttDuAY.m3u8
 EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
 http://102.222.232.18:9981/stream/channelid/2007835217
 
-EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
-http://195.201.82.32:5001/play/a015
+#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=281969&extension=ts&play_token=i9nRUWBbok
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
 http://rv.bleutv.net:80/152087360475456/152066530788190/198004
