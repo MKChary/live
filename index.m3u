@@ -764,8 +764,8 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow Xtra HD
 https://epg.pw/stream/019e036318572cd9b1ffbafc2133debf68e71ce0fa619a639042798fb7cff846.ctv
 
-EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Hindi
-http://89.187.162.109/STARSPORTS1HINDIHD/mono.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tel_UHD_IDC_BTS/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",ASTRO cricket
 http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
