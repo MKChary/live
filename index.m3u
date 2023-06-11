@@ -771,10 +771,10 @@ EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" grou
 http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
-http://ind_star_sports_1_hd-iptvcat.com.m3u8
+https://list.iptvcat.com/my_list/s/3aefeffac956071b0f09c82bec8c70e1.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
-http://star_sports_1_hd_in-iptvcat.com.m3u8
+https://list.iptvcat.com/my_list/s/378bd20dd628da2fd3b82750ec8bd670.m3u8
 
 EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports Select 1 HD
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
