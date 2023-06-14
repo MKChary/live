@@ -352,7 +352,7 @@ http://server.streamplay.in:1935/studio18/studio18/playlist.m3u8
 EXTINF:-1 tvg-id="vizag local news" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/VizagLocalNews.jpg" group-title="Local",Vizag Local News
 http://live.streamplay.in:1935/vlnews/vlnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Local",9TV Telangana
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/9tvtelangana.jpg" group-title="Local",9TV Telangana
 http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 
 EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Local",Telugu Movies
@@ -442,11 +442,11 @@ EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607
 https://amigofx.com:1936/PrimeClassic/PrimeClassic/playlist.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzillaVani.png?alt=media&token=4cb55ec2-4f6c-421c-a3ee-a660d3a33977" " group-title="Local", Zilla vani
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/zillavani.jpg" " group-title="Local", Zilla vani
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fmy3Telugu.png?alt=media&token=6776e3f6-86fc-4412-bcb1-4cb914d91fd0" " group-title="Local", My3 Telugu
+#EXTINF:-1, tvg-logo="https://fhttps://raw.githubusercontent.com/MKChary/Iptv-list/master/my3telugu.jpg" " group-title="Local", My3 Telugu
 http://telugusolutions.com:8088/my3telugu/my3telugu.m3u8
 
 
@@ -466,7 +466,7 @@ EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607
 https://teluguwebsolutions.com/hls/1india/1india.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fmee_tv.jpeg?alt=media&token=dc4f82bd-0565-4304-89f0-2d68617a538c" " group-title="Local", Mee TV
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/myhttps://raw.githubusercontent.com/MKChary/Iptv-list/master/meetv.jpg" " group-title="Local", Mee TV
 https://sharsolution.in/hls/meetv/meetv.m3u8
 
 
@@ -490,7 +490,7 @@ EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607
 https://stream.sundaylive.in/hls/19news/19newsk.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FVinodam.jpg?alt=media&token=e8c2997f-b27e-402e-bb7a-2f74e44595d4" " group-title="Local", Vinodam
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/vinodam.jpg" " group-title="Local", Vinodam
 https://sharsolution.in/hls/vinodam/vinodam.m3u8
 
 
