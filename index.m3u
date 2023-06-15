@@ -346,7 +346,7 @@ http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist
 EXTINF:-1 tvg-id="HN9TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/hn9tv.jpg" group-title="Local",HN9TV
 http://blmtech.in:8086/hls/hn9tv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Studio18.jpg" group-title="Local",Studio18 News
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Studio18.jpg" group-title="Local",Studio18 News
 http://server.streamplay.in:1935/studio18/studio18/playlist.m3u8
 
 EXTINF:-1 tvg-id="vizag local news" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/VizagLocalNews.jpg" group-title="Local",Vizag Local News
@@ -358,25 +358,25 @@ http://server.streamplay.in:1935/9tv/9tv/playlist.m3u8
 EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yadadritv.jpg" group-title="Local",Telugu Movies
 http://102.222.232.18:9981/stream/channelid/1753427240
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="Local",Amma News
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Ammanews.jpg" group-title="Local",Amma News
 http://server.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bhavya_tv" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bhavya_tv.jpg" group-title="Local",Bhavya TV
 http://server.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BCN Channel" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Local",BCN
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://play-lh.googleusercontent.com/ClePPVBWTmlUmeTLZEggWZBVROHVyPXHOkyJzXwrnwzIH3NG9mNtTRfQMHm7UD9UNpU1=s180-rw" group-title="Local",BCN
 http://bcnchannelapp.logosys.in:8080/hls/bcnchannelapp.m3u8
 
 EXTINF:-1 tvg-id="YSR tv" tvg-logo="https://play-lh.googleusercontent.com/RJA4rO1SnKW2QQm2AF80PBni3UpO8qqm3XS7Mma3XLeyvDB9UV3-W8xF1CxWz8PDHFc=s180-rw" group-title="Local",YSR tv
 https://teluguwebsolutions.com/hls/ysrtv/ysrtv.m3u8
 
-#EXTINF:-1 tvg-id="Mana TV" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="Local",Mana Telugu TV
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="Local",Mana Telugu TV
 http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Metro TV" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="Local",Metro TV
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="http://www.metrotvtelugu.com/images/metro-logo.jpg" group-title="Local",Metro TV
 https://gvjyg5n9doem-hls-live.qezycdn.com/metrotv/b1f4f51a218492fff9f0616b4c91297c.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="saranyatv" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="Local",Saranya TV
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://play-lh.googleusercontent.com/y7nG2foe5dSlc9atI01_uKg0737PdUXVE-SFYDTuH56-tLc7PP2TVHnCsEUn_cjPGkY=s180-rw" group-title="Local",Saranya TV
 http://blmtech.in:8086/hls/saranyatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Sathya News" tvg-logo="https://play-lh.googleusercontent.com/DTK6083Z8NlyQrtms-MR_5kx0kurxQzJAfGtQQXAnd4UD9cIs62jxzk7Qo54cz9JtA=s180-rw" group-title="Local",Sathya News
@@ -388,16 +388,16 @@ http://blmtech.in:8086/hls/viharitv/index.m3u8
 #EXTINF:-1 tvg-id="City News TV" tvg-logo="https://play-lh.googleusercontent.com/JX__NKk0RMa5P00ROEnftE1hxcA78rMFny0_hdf5YNrLIRx3lEq03tVMgZ7O5a5ffq8=s180-rw" group-title="Local",City News TV
 http://server.streamplay.in:1935/citynews/citynews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Local",Batukamma TV
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Local",Batukamma TV
 http://live.streamplay.in:1935/bkamma/bkamma/chunklist_w842198526.m3u8
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Local",Batukamma TV
+EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/BatukammaTV.jpg" group-title="Local",Batukamma TV
 http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
 
 EXTINF:-1 tvg-id="STV Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj5cbiFsqCEVuplBIqHgAOSkk4W-8wKS-QkxTdLvw=s900-c-k-c0x00ffffff-no-rj" group-title="Local",STV Telugu
 http://blmtech.in:8086/hls/stvtelugu/index.m3u8
 
-#EXTINF:-1 tvg-id="Cowa TV" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="Local",Cowa TV
+#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://lh3.googleusercontent.com/TpQn_OjdF_NQiVX6ZnEmTJ72jh0pXJ_MhWqyjzdK44xbdUrwSU94t1BXf3PKXWdmdgM" group-title="Local",Cowa TV
 http://live.streamplay.in:1935/cowa/cowa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Santhoshamtv.jpg" group-title="Local",Santhosham TV
@@ -442,11 +442,11 @@ EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607
 https://amigofx.com:1936/PrimeClassic/PrimeClassic/playlist.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/zillavani.jpg" " group-title="Local", Zilla vani
+#EXTINF:-1,tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/zillavani.jpg" " group-title="Local", Zilla vani
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/my3telugu.jpg" " group-title="Local", My3 Telugu
+#EXTINF:-1,tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/my3telugu.jpg" " group-title="Local", My3 Telugu
 http://telugusolutions.com:8088/my3telugu/my3telugu.m3u8
 
 
@@ -466,7 +466,7 @@ EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607
 https://teluguwebsolutions.com/hls/1india/1india.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/meetv.jpg" " group-title="Local", Mee TV
+#EXTINF:-1,tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/meetv.jpg" " group-title="Local", Mee TV
 https://sharsolution.in/hls/meetv/meetv.m3u8
 
 
@@ -478,19 +478,19 @@ EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607
 https://sharsolution.in/hls/s9tv/s9tv.m3u8
 
 
-EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FJTv.jpg?alt=media&token=e893e276-3d2a-4071-8ed6-16f6cf6f94ef" " group-title="Local", J TV
+EXTINF:-1,tvg-id="ETNow.in" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FJTv.jpg?alt=media&token=e893e276-3d2a-4071-8ed6-16f6cf6f94ef" " group-title="Local", J TV
 https://streamspace.live/hls/jtv/jtv.m3u8
 
 
-EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FJlTv.png?alt=media&token=3442d6c7-9b43-44d0-908c-07d79cc3df75" " group-title="Local", JL TV
+EXTINF:-1,tvg-id="ETNow.in" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FJlTv.png?alt=media&token=3442d6c7-9b43-44d0-908c-07d79cc3df75" " group-title="Local", JL TV
 https://stream.sundaylive.in/hls/jltv/jltvk.m3u8
 
 
-EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F19News.jpg?alt=media&token=1a0c5910-8ddc-4bc7-8a4b-162e08a8dd4d" " group-title="Local", 19 News
+EXTINF:-1,tvg-id="ETNow.in" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2F19News.jpg?alt=media&token=1a0c5910-8ddc-4bc7-8a4b-162e08a8dd4d" " group-title="Local", 19 News
 https://stream.sundaylive.in/hls/19news/19newsk.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/vinodam.jpg" " group-title="Local", Vinodam
+#EXTINF:-1, tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/vinodam.jpg" " group-title="Local", Vinodam
 https://sharsolution.in/hls/vinodam/vinodam.m3u8
 
 
