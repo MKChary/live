@@ -763,14 +763,13 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
-#EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
+EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
 http://trs.mh89tv.xyz:80/nrc6798/nrc.506/134052?checkedby:iptvcat.com
 
 EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tel_UHD_IDC_BTS/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",ASTRO cricket
-http://2hubs.ddns.net:25461/BabNour/telegrramm/66506?checkedby:iptvcat.com
+
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/58220?checkedby:iptvcat.com
@@ -784,13 +783,17 @@ http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://live.flixhub.net/hls/select2.m3u8
 
-EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Fancode Sports HD
-https://dai.google.com/linear/hls/event/9gixSXwMSrmHZdQZCllcEg/master.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Fancode Sports HD
+#https://dai.google.com/linear/hls/event/9gixSXwMSrmHZdQZCllcEg/master.m3u8
+https://dai.google.com/linear/hls/event/v6OFk91ZQ_2YWUDn2b1qFQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",ASTRO cricket
+http://2hubs.ddns.net:25461/BabNour/telegrramm/66506?checkedby:iptvcat.com
 
 EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD SPORTS
 https://cutt.ly/T3XaMTq
 
-#EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket HD
+EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tel_HD_IDC_AND/Fallback/index.m3u8
 
 EXTINF:-1 tvg-id="Jio Football" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Telugu_HD.png" group-title="Sports",Jio Football HD
@@ -808,10 +811,10 @@ https://www.iptvmate.net/files/24042021/countries/lk.m3u
 EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-select-hd-2-logo.jpg" group-title="Sports",Star Sports 2 HD
 http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports
+EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports
 http://freecatv-manik.xyz/ASTRO-CRICKET~HD1.ts
 
-#EXTINF:-1 tvg-name="Boo horror" tvg-logo="" group-title="Movies",BOO Horror Movies
+EXTINF:-1 tvg-name="Boo horror" tvg-logo="" group-title="Movies",BOO Horror Movies
 https://cutt.ly/inEizyW
 
 #EXTINF:-1 tvg-name="Sony Ten 1 Hd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Ten 1 HD
@@ -823,16 +826,16 @@ https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",Sony Ten 3 HD
 https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony Ten 4 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Sports 4 HD
+#EXTINF:-1 tvg-id="Sony Ten 4 HD" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_ten4hd_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Sports 4 HD
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony Ten 4" tvg-logo="https://www.adgully.com/img/400/202106/sony-ten4.png.jpg" group-title="Sports",Sony Ten 4
+#EXTINF:-1 tvg-id="Sony Ten 4" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_ten4hd_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Ten 4
 https://cutt.ly/lmDy0j5
 
 #EXTINF:-1 tvg-name="Sony Six Sd" tvg-logo="https://images.slivcdn.com/masthead_logo/Sony_TEN5HD_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Sports 5
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
-#EXTINF:-1 tvg-name="Sony Six HD" tvg-logo="https://images.slivcdn.com/masthead_logo/Sony_TEN5HD_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Sports 5 HD
+EXTINF:-1 tvg-name="Sony Six HD" tvg-logo="https://images.slivcdn.com/masthead_logo/Sony_TEN5HD_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Sports 5 HD
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18805
 
 #EXTINF:-1 tvg-name="SONY SET HD"tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Movies", SONY SET HD
