@@ -19,7 +19,7 @@ EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-
 http://iptv12k.com:35461/8032022060101/452381/5030
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
-https://crichd.gq/jiox/app/live/897/null/index.m3u8
+http://103.61.73.220:8000/play/a0e9
 #http://s1.pubnow.info:8080/Jean0188/016035/118590
 
 EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
@@ -33,7 +33,7 @@ https://epg.pw/stream/ce928fb4bb37ebb56fda57bb21d20e432311cfa0346256e8ed6c6cbf26
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/231308
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
-https://crichd.gq/jiox/app/live/729/null/index.m3u8
+http://103.61.73.220:8000/play/a0ea
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
 https://crichd.gq/jiox/app/live/684/null/index.m3u8
@@ -42,7 +42,7 @@ EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKCh
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/638/master.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu HD
-https://crichd.gq/jiox/app/live/638/null/index.m3u8
+http://103.61.73.220:8000/play/a0eg
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu HD
 #https://zee.yashrajmod.online/api.php?c=0-9-zeecinemalu
@@ -69,27 +69,27 @@ http://50.7.69.66/etv_life/index.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
 #https://tv.googledrivelinks.com/live.php?c=ETV_Plus&q=1200&e=.m3u8
-https://crichd.gq/jiox/app/live/692/null/index.m3u8
+http://103.61.73.220:8000/play/a0e8
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
 #https://tv.googledrivelinks.com/live.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
 http://103.175.73.14:8000/play/a00u/index.m3u8
 
-#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
+EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
 
-EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://mytv.fun:8080/vghvcmfbpl/l0se322xac/5586
+#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
+http://103.61.73.220:8000/play/a06y
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198020
-http://212.224.84.217:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+http://103.61.73.220:8000/play/a06t
 
 EXTINF:-1 tvg-id="STAR MAA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA
 http://102.222.232.18:9981/stream/channelid/589622635
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd
+http://103.61.73.220:8000/play/a067
 
 EXTINF:-1 tvg-id="Star Maa Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies
 http://102.222.232.18:9981/stream/channelid/1813535474
@@ -100,11 +100,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 #https://tv.googledrivelinks.com/live.php?c=Raj_Music_Telugu&q=1200&e=.m3u8
-https://crichd.gq/jiox/app/live/737/null/index.m3u8
+http://103.61.73.220:8000/play/a0d4
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
 #http://50.7.69.66/GEMINI_MUSIC/index.m3u8
-https://crichd.gq/jiox/app/live/898/null/index.m3u8
+http://103.61.73.220:8000/play/a0eb
 
 #EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",Adithya music
 https://ythls.onrender.com/video/CNPdyttDuAY.m3u8
@@ -113,7 +113,7 @@ EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/
 http://102.222.232.18:9981/stream/channelid/2007835217
 
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=281969&extension=ts&play_token=i9nRUWBbok
+http://103.61.73.220:8000/play/a0ed
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
 https://crichd.gq/jiox/app/live/734/null/index.m3u8
@@ -123,12 +123,12 @@ https://crichd.gq/jiox/app/live/734/null/index.m3u8
 #http://yashraj005.in1.bitmana.io/live.php?c=Vanitha&q=800&e=.m3u8
 https://ythls.onrender.com/video/dtO9va-apv0.m3u8
 
-#EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
+EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 #https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3u8
 http://rv.bleutv.net:80/152087360475456/152066530788190/198022
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
-http://jiotv.its-nayeemparvez.ml:3500/getm3u8/854/master.m3u8
+http://103.61.73.220:8000/play/a05b
 
 #EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
 #https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=1200&e=.m3u8
@@ -152,7 +152,7 @@ http://servertv.ml/JIO/live.php?c=Discovery_Channel_Telugu&q=1200&e=junk.m3u8
 https://varun-iptv.netlify.app/m3u/discoverytelugu.m3u8
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
-http://servertv.ml/JIO/live.php?c=History_18_Telugu&q=1200&e=junk.m3u8
+http://103.61.73.220:8000/play/a059
 #https://tv.googledrivelinks.com/live.php?c=History_18_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travel XP HD
@@ -257,7 +257,7 @@ EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cv
 http://servertv.ml/JIO/live.php?c=CVR_News&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_news_telugu.png" group-title="News",Raj News
-https://ythls.onrender.com/video/Z3y29376YA4.m3u8
+http://103.61.73.220:8000/play/a0d6
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198023
 #http://techmaxlive.ml/live.php?c=10_TV&q=1200&e=junk.m3u8
 
