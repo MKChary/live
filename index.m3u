@@ -838,25 +838,25 @@ https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 EXTINF:-1 tvg-name="Sony Six HD" tvg-logo="https://images.slivcdn.com/masthead_logo/Sony_TEN5HD_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Sports 5 HD
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18805
 
-#EXTINF:-1 tvg-name="SONY SET HD"tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Movies", SONY SET HD
+#EXTINF:-1 tvg-name="SONY SET HD"tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Movies", SONY SET HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY SAB HD
+#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Movies", SONY SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF:-1 tvg-name="SONY PAL" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="Movies", SONY PAL
+#EXTINF:-1 tvg-name="SONY PAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Movies", SONY PAL
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
-#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY SAB HD
+#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Movies", SONY SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
-#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Movies", SONY AATH
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Movies", SONY AATH
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 
-#EXTINF:-1 tvg-name="SONY MAX HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="Movies", SONY MAX HD
+#EXTINF:-1 tvg-name="SONY MAX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", SONY MAX HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
-#EXTINF:-1 tvg-name="SONY WAH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="Movies", SONY WAH
+#EXTINF:-1 tvg-name="SONY WAH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Movies", SONY WAH
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1 tvg-id="Sony Yay Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Family/Kids",Sony Yay Hindi
