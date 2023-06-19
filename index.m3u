@@ -678,10 +678,10 @@ https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855
 #EXTINF:-1 tvg-name="Ptc Punjabi" tvg-logo="https://exchange4media.gumlet.io/news-photo/100312.ptcMain.jpg" group-title="Movies",Ptc Punjabi
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="9xm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xm
+#EXTINF:-1 tvg-name="9xm" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="Music",9xm
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="9xm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xm
+EXTINF:-1 tvg-name="9xm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xm
 http://2hubs.ddns.net:25461/BabNour/telegrramm/72877?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Mastiii.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmRsR8dtcVQGo2PaAeP49OFW6OvQRMNxVHw&usqp=CAU" group-title="Music",Mastiii
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
@@ -1109,8 +1109,8 @@ https://m-c16-j2apps.s.llnwi.net/hls/0477.SriSankara.in.m3u8
 https://m-c15-j2apps.s.llnwi.net/hls/0284.DDNorthEast.in.m3u8
 #EXTINF:-1 tvg-id="Pitaara" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5366.Pitaara.in/1x1/1x/test_pic1535976851878.JPG" group-title="News",Pitaara
 https://m-c16-j2apps.s.llnwi.net/hls/5366.Pitaara.in.m3u8
-#EXTINF:-1 tvg-id="9XTashan" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0730.9XTashan.in/1x1/1x/test_pic1567670342521.jpg" group-title="Music",9X Tashan
-http://b0b64c61.shukinuki.website/iptv/V3NQDV3C894B6S/6672/index.m3u8
+#EXTINF:-1 tvg-id="9XTashan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="Music",9X Tashan
+http://2hubs.ddns.net:25461/BabNour/telegrramm/72877?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="MH1" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0197.MH1.in/1x1/1x/test_pic1544189994326.jpg" group-title="News",MH1
 https://m-c17-j2apps.s.llnwi.net/hls/0197.MH1.in.m3u8
 #EXTINF:-1 tvg-id="WahPunjabi" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6492.WahPunjabi.in/1x1/1x/test_pic1552999207034.jpg" group-title="Music",Wah Punjabi
@@ -1149,11 +1149,11 @@ https://m-c09-j2apps.s.llnwi.net/hls/8018.FitnessTV.in.m3u8
 https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
 #EXTINF:-1 tvg-id="Bollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8001.Bollywood.in/1x1/1x/test_pic1574770761731.jpg" group-title="Movies",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
-#EXTINF:-1 tvg-id="FootballTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8017.FootballTV.in/1x1/1x/test_pic1574772381747.jpg" group-title="Sports",Football TV
+EXTINF:-1 tvg-id="FootballTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8017.FootballTV.in/1x1/1x/test_pic1574772381747.jpg" group-title="Sports",Football TV
 https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in.m3u8
 #EXTINF:-1 tvg-id="GamingTVSpanish" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8007.GamingTVSP.in/1x1/1x/test_pic1574771254803.jpg" group-title="News",Gaming TV Spanish
 https://m-c09-j2apps.s.llnwi.net/hls/8007.GamingTVSP.in.m3u8
-#EXTINF:-1 tvg-id="SportsTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8016.SportsTV.in/1x1/1x/test_pic1574772297087.jpg" group-title="Sports",Sports TV
+EXTINF:-1 tvg-id="SportsTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8016.SportsTV.in/1x1/1x/test_pic1574772297087.jpg" group-title="Sports",Sports TV
 https://m-c09-j2apps.s.llnwi.net/hls/8016.SportsTV.in.m3u8
 #EXTINF:-1 tvg-id="Kollywood" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8002.Kollywood.in/1x1/1x/test_pic1574770846721.jpg" group-title="News",Kollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in.m3u8
@@ -1236,13 +1236,13 @@ https://m-c07-j2apps.s.llnwi.net/hls/7052.SanjhaTV.in.m3u8
 #EXTINF:-1 tvg-id="PBNMusic" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7056.PBNMusic.in/1x1/1x/test_pic1590761038771.jpg" group-title="Music",PBN Music
 https://m-c03-j2apps.s.llnwi.net/hls/7056.PBNMusic.in.m3u8
 
-#EXTINF:-1 tvg-id="DilSeMusic" tvg-logo="" group-title="Music",Dil Se Music
+EXTINF:-1 tvg-id="DilSeMusic" tvg-logo="" group-title="Music",Dil Se Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:-1 tvg-id="DhammalMusic" tvg-logo="" group-title="Music",Dhammal Music
+EXTINF:-1 tvg-id="DhammalMusic" tvg-logo="" group-title="Music",Dhammal Music
 https://live.hungama.com/linear/dhamaal/playlist.m3u8
-#EXTINF:-1 tvg-id="KadakHits" tvg-logo="" group-title="Music",Kadak Hits
+EXTINF:-1 tvg-id="KadakHits" tvg-logo="" group-title="Music",Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:-1 tvg-id="POPMusic" tvg-logo="" group-title="Music",POP Music
+EXTINF:-1 tvg-id="POPMusic" tvg-logo="" group-title="Music",POP Music
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 
 
