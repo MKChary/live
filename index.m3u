@@ -639,7 +639,7 @@ https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-name="Zee Tv Canada" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="Entertainment",Zee Tv Canada
 https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
 
-#EXTINF:-1 tvg-name="&Tv Sd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/270x152/09tvhd_0tvhd.jpg" group-title="Entertainment",&Tv Sd
+#EXTINF:-1 tvg-name="&Tv Sd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/270x152/09tvhd_0tvhd.jpg" group-title="Entertainment",&TV HD
 http://trs.mh89tv.xyz:80/nrc6798/nrc.506/134034?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-name="Big Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Big_Magic.jpg" group-title="Entertainment",Big Magic
@@ -648,7 +648,7 @@ https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
 #EXTINF:-1 tvg-name="Big Ganga" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-bigganga/list/09biggangabigganga.jpg" group-title="Entertainment",Big Ganga
 https://y5w8j4a9.ssl.hwcdn.net/bigganga/index.m3u8
 
-#EXTINF:-1 tvg-name="Zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zing/list/09zingzing.jpg" group-title="Music",Zing
+#EXTINF:-1 tvg-name="Zing" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Music",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Anmol" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_692/zee-anmol.png" group-title="Entertainment",Zee Anmol
@@ -783,11 +783,11 @@ http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 http://live.flixhub.net/hls/select2.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Fancode Sports HD
+EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Fancode Sports HD
 #https://dai.google.com/linear/hls/event/9gixSXwMSrmHZdQZCllcEg/master.m3u8
 https://dai.google.com/linear/hls/event/v6OFk91ZQ_2YWUDn2b1qFQ/master.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",ASTRO cricket
+#EXTINF:-1 tvg-id="ASTRO cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports",ASTRO cricket
 http://2hubs.ddns.net:25461/BabNour/telegrramm/66506?checkedby:iptvcat.com
 
 EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD SPORTS
@@ -802,7 +802,7 @@ http://thoptv.in1.bitmana.io/jioo.php?c=Jio_Football_Telugu_HD&q=1200&e=junk.m3u
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo-1.png" group-title="Sports",T Sports
+#EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodh60VA3-sRcCxWbNpzaqgsj40ECR7A27_A&s" group-title="Sports",T Sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
@@ -1030,7 +1030,7 @@ https://m-c29-j2apps.s.llnwi.net/hls/5835.BhaktiSagar.in.m3u8
 https://m-c08-j2apps.s.llnwi.net/hls/1115.ShubhsandeshTV.in.m3u8
 #EXTINF:-1 tvg-id="Sadhna" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0133.Sadhna.in/1x1/1x/test_pic1543827526739.jpg" group-title="Lifestyle",Sadhna
 https://m-c01-j2apps.s.llnwi.net/hls/0133.Sadhna.in.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0750.9XJhakaas.in/1x1/1x/test_pic1552384478964.jpg" group-title="Music",9X Jhakaas
+#EXTINF:-1 tvg-id="9XJhakaas" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jhakaas.png" group-title="Music",9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8
 #EXTINF:-1 tvg-id="PeaceofMind" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1114.PeaceofMind.in/1x1/1x/test_pic1544773319581.jpg" group-title="Lifestyle",Peace of Mind
 https://m-c04-j2apps.s.llnwi.net/hls/1114.PeaceofMind.in.m3u8
