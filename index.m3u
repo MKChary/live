@@ -81,11 +81,11 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifes
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://103.61.73.220:8000/play/a06y
 
-#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA
+#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198020
 http://103.61.73.220:8000/play/a06t
 
-EXTINF:-1 tvg-id="STAR MAA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA
+EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA Hd
 http://102.222.232.18:9981/stream/channelid/589622635
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
@@ -115,7 +115,7 @@ http://102.222.232.18:9981/stream/channelid/2007835217
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
 http://103.61.73.220:8000/play/a0ed
 
-EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
+#EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
 https://crichd.gq/jiox/app/live/734/null/index.m3u8
 #http://servertv.ml/JIO/live.php?c=Vissa_TV&q=1200&e=junk.m3u8
 
@@ -141,9 +141,10 @@ EXTINF:-1 tvg-id="Wild Earth" tvg-logo="https://i.ytimg.com/vi/5PRpF9e-fQs/maxre
 https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=68c76dbf-12a1-5b6f-a538-a75fe1cbd790&dnt=0&X-Plex-Token=sDBxGsM7f5HSsD2SGcFD&cha
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
-https://ythls.onrender.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
+#https://ythls.onrender.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73022?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
+EXTINF:-1 tvg-id="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY
 #https://iamsom.in1.bitmana.io/play.php?c=Discovery_Channel_Telugu
 #https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Telugu&q=1200&e=.m3u8
 http://servertv.ml/JIO/live.php?c=Discovery_Channel_Telugu&q=1200&e=junk.m3u8
@@ -228,8 +229,6 @@ https://ythls.onrender.com/video/IN9OA5VmvTo.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
 #https://tv.googledrivelinks.com/live.php?c=ETV_Telangana&q=1200&e=.m3u8
 https://ythls.onrender.com/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
-
-
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png" group-title="News",10 TV HD
 #https://tv.googledrivelinks.com/live.php?c=10_TV&q=1200&e=.m3u8
