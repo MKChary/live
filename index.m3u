@@ -115,7 +115,7 @@ http://102.222.232.18:9981/stream/channelid/2007835217
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
 http://103.61.73.220:8000/play/a0ed
 
-#EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
+EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
 https://crichd.gq/jiox/app/live/734/null/index.m3u8
 #http://servertv.ml/JIO/live.php?c=Vissa_TV&q=1200&e=junk.m3u8
 
@@ -155,7 +155,7 @@ https://varun-iptv.netlify.app/m3u/discoverytelugu.m3u8
 http://103.61.73.220:8000/play/a059
 #https://tv.googledrivelinks.com/live.php?c=History_18_Telugu&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travel XP HD
+#EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2880.DDYadagiri.in/1x1/1x/test_pic1535463634327.jpg" group-title="Entertainment",DD Saptagiri
@@ -787,7 +787,7 @@ EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" g
 #https://dai.google.com/linear/hls/event/9gixSXwMSrmHZdQZCllcEg/master.m3u8
 https://dai.google.com/linear/hls/event/v6OFk91ZQ_2YWUDn2b1qFQ/master.m3u8
 
-#EXTINF:-1 tvg-id="ASTRO cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports",ASTRO cricket
+#EXTINF:-1 tvg-id="astro cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports",astro cricket
 http://2hubs.ddns.net:25461/BabNour/telegrramm/66506?checkedby:iptvcat.com
 
 EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD SPORTS
