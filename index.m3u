@@ -553,7 +553,7 @@ http://live.streamingbharat.com:8080/hls13/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDWqN_t8q9FCukTAaiVDFJCiWEGmgzWhh9g&usqp=CAU" group-title="Movies" ,Sony Pix HD
+#EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Sony Pix HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 tvg-id="https://dthhelp.net" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbKerd0Gbn5LQFt5q1iwDgaUL6cpYC8DrMxTBDjxYKngnOlSf4lKqzjBD&s=10" group-title="Movies" ,STAR MOVIES HD
