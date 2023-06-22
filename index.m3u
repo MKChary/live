@@ -52,7 +52,7 @@ EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com
 #https://tv.googledrivelinks.com/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/413/master.m3u8
 
-#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment" status="timeout",ETV HD
+#EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment" status="timeout",ETV HD
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=155852&extension=ts&play_token=VxpbYdYj96
 
 EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
