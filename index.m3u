@@ -299,10 +299,10 @@ http://snehjiotv.in1.bitmana.io/snehjioox.php?c=AP_CIE_SIVE&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="News",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="Sai TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/FB_IMG_1634725008032.jpg" group-title="Lifestyle",Sai TV
+#EXTINF:-1 tvg-id="Sai TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title="Lifestyle",Sai TV
 http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_spiritual.png" group-title="Lifestyle",CVR OM Spiritual
+#EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="Lifestyle",CVR OM Spiritual
 #http://iptv.hdsindia.com:2574/udp/228.10.10.171:4640
 #https://tv.googledrivelinks.com/live.php?c=CVR_OM_Spiritual&q=1200&e=.m3u8
 http://servertv.ml/JIO/live.php?c=CVR_OM_Spiritual&q=1200&e=junk.m3u8
@@ -314,7 +314,7 @@ EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="http://sgdccdnems04.cdn
 #https://tv.googledrivelinks.com/live.php?c=Aastha_Telugu&q=1200&e=.m3u8
 http://servertv.ml/JIO/live.php?c=Aastha_Telugu&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5414.HinduDharmam.in/1x1/1x/test_pic1542964449744.jpg" group-title="Lifestyle",Hindu Dharmam
+#EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title="Lifestyle",Hindu Dharmam
 #https://tv.googledrivelinks.com/play.php?c=Hindu_Dharmam&q=1200&e=.m3u8
 http://servertv.ml/JIO/live.php?c=Hindu_Dharmam&q=1200&e=junk.m3u8
 
