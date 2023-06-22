@@ -71,7 +71,7 @@ http://50.7.69.66/etv_life/index.m3u8
 #https://tv.googledrivelinks.com/live.php?c=ETV_Plus&q=1200&e=.m3u8
 http://103.61.73.220:8000/play/a0e8
 
-#EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_ABHIRUCHI.png" group-title="Lifestyle",ETV ABHIRUCHI
+#EXTINF:-1 tvg-id="ETV Abhiruchi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Lifestyle",ETV Abhiruchi
 #https://tv.googledrivelinks.com/live.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
 http://103.175.73.14:8000/play/a00u/index.m3u8
 
