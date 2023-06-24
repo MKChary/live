@@ -545,13 +545,8 @@ rtmp://cloud.streamplay.in:1935/tnn/tnn
 
 EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2Fap180News.jpg?alt=media&token=0f2bc0ab-89b7-45da-908b-c19aca96d88d" " group-title="Local", AP 180 News
 https://server.vidyamidya.online/hls/ap180news.m3u8
-
-
 EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsltTv.jpeg?alt=media&token=d12242bb-40cd-4a2e-82a6-7cde01618ca4" " group-title="Local", SLT TV
 http://live.streamingbharat.com:8080/hls13/stream.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="Sony Pix HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies" ,Sony Pix HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
@@ -762,14 +757,11 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
-EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
-http://trs.mh89tv.xyz:80/nrc6798/nrc.506/134052?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/69848?checkedby:iptvcat.com
 
 EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tel_UHD_IDC_BTS/Fallback/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/58220?checkedby:iptvcat.com
 
