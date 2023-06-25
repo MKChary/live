@@ -83,17 +83,17 @@ EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold_HD.png" group-title="Movies",STAR MAA GOLD HD
-http://103.61.73.220:8000/play/a06y
+http://xtv.ooo:8080/Rizwan335/2217286/355821
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Entertainment",STAR MAA HD
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198020
-http://103.61.73.220:8000/play/a06t
+http://xtv.ooo:8080/Rizwan335/2217286/355591
 
 EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA Hd
 http://102.222.232.18:9981/stream/channelid/589622635
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Movies",Star Maa Movies HD
-http://103.61.73.220:8000/play/a067
+http://xtv.ooo:8080/Rizwan335/2217286/355592
 
 EXTINF:-1 tvg-id="Star Maa Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies
 http://102.222.232.18:9981/stream/channelid/1813535474
@@ -801,7 +801,36 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/66506?checkedby:iptvcat.com
 
 EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD SPORTS
 https://cutt.ly/T3XaMTq
-
+#####
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Sports",STAR SPORTS 1 Hindi
+http://xtv.ooo:8080/Rizwan335/2217286/167573
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",Star Sports tamil 1
+http://xtv.ooo:8080/Rizwan335/2217286/167574
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1 Hindi FHD" tvg-logo="" group-title="Sports",Star Sports 1 Hindi FHD
+http://xtv.ooo:8080/Rizwan335/2217286/355535
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Sports",Star Sports 1 HD
+http://xtv.ooo:8080/Rizwan335/2217286/167575
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="Sports",Star Sports 2 HD
+http://xtv.ooo:8080/Rizwan335/2217286/167576
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="Sports",Star Sports 3 HD
+http://xtv.ooo:8080/Rizwan335/2217286/167577
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Sports",STAR SPORTS SELECT 1
+http://xtv.ooo:8080/Rizwan335/2217286/167578
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Sports",STAR SPORTS SELECT 2
+http://xtv.ooo:8080/Rizwan335/2217286/167579
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1 FHD" tvg-logo="" group-title="SportsL",Star Sports 1 FHD
+http://xtv.ooo:8080/Rizwan335/2217286/355594
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2 FHD" tvg-logo="" group-title="Sports",Star Sports 2 FHD
+http://xtv.ooo:8080/Rizwan335/2217286/355595
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1 FHD" tvg-logo="" group-title="Sports",Star Sports Select 1 FHD
+http://xtv.ooo:8080/Rizwan335/2217286/355596
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2 FHD" tvg-logo="" group-title="Sports",Star Sports Select 2 FHD
+http://xtv.ooo:8080/Rizwan335/2217286/355597
+EXTINF:-1 tvg-id="" tvg-name="IND: Star Cricket Tamil HD ( Live Match Only )" tvg-logo="" group-title="Sports",IND: Star Cricket Tamil HD ( Live Match Only )
+http://xtv.ooo:8080/Rizwan335/2217286/244636
+#EXTINF:-1 tvg-id="" tvg-name="IND: Star Sports 1 Tamil" tvg-logo="" group-title="Sports",Star Sports 1 Tamil
+http://xtv.ooo:8080/Rizwan335/2217286/244637
+####
 EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tel_HD_IDC_AND/Fallback/index.m3u8
 
