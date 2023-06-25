@@ -574,10 +574,10 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO PO
 http://livetv2021.site:8080/9897876765/6576567/132
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive HD
-http://103.245.195.80:9500/play/a019/index.m3u8
+http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=155746&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
-http://103.245.195.80:9500/play/a01f/index.m3u8
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=155746&extension=m3u8&play_token=xdbt7BgLik
 
 EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",cinemax
 https://zee.yashrajmod.online/api.php?c=0-9-channel_2105335046
