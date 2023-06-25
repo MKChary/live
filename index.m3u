@@ -553,16 +553,16 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 tvg-id="https://dthhelp.net" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbKerd0Gbn5LQFt5q1iwDgaUL6cpYC8DrMxTBDjxYKngnOlSf4lKqzjBD&s=10" group-title="Movies" ,STAR MOVIES HD
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-http://144.217.70.181:9587/hin2/UTVMOVIESINTERNATIONAL/index.m3u8?token=test&v=697229347
+http://xtv.ooo:8080/Rizwan335/2217286/109970
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="" group-title="Movies",MN+ HD
+EXTINF:-1 tvg-id="HBO" tvg-logo="" group-title="Movies",MN+ HD
 http://103.55.144.46:80/hls/mn+.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",MNX HD
 http://102.222.232.18:9981/stream/channelid/1102428313
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Movies Now
-http://103.55.144.46:80/hls/movies-now.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",STAR WORLD
+http://xtv.ooo:8080/Rizwan335/2217286/109971
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
