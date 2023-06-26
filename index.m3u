@@ -15,8 +15,8 @@ EXTINF:-1 tvg-id="Gemini tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/
 #https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/tbo/master/master.m3u8
 
-EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
-http://iptv12k.com:35461/8032022060101/452381/5030
+#EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",Movie Telugu
+http://ibixtream.com:8080/movie/550300550300/550300550300/247934.mkv
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="Entertainment",Gemini TV HD
 http://ibixtream.com:8080/550300550300/550300550300/236379
