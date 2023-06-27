@@ -18,6 +18,9 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/tbo/master/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_8XfdqRIr6XS_O1dF-K5qGcdD3gJG0ES6g&s" group-title="Movies-Telugu",Super Machi(2022)
 http://ibixtream.com:8080/movie/550300550300/550300550300/247934.mkv
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.91-cdn.com/metareel-images/content/posters-1687229666-rvbQXeFRRVtpNg2OK8J35vrLaRd.jpg?tr=h-200,q-60&version=5" group-title="Movies-Telugu",Malli Pelli(2023)
+http://ibixtream.com:8080/movie/550300550300/550300550300/247891.mkv
+
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="Entertainment",Gemini TV HD
 http://ibixtream.com:8080/550300550300/550300550300/236379
 #http://s1.pubnow.info:8080/Jean0188/016035/118590
