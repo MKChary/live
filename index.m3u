@@ -763,8 +763,14 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 #EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/69848?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg/revision/latest?cb=20180916123020" group-title="Sports",FOX501 HD
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://ibixtream.com:8080/550300550300/550300550300/236869
+
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
+http://ibixtream.com:8080/550300550300/550300550300/236842
+
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
+http://ibixtream.com:8080/550300550300/550300550300/236852
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://kuchini.site:8080/mosesmn/4e40546ad6/3630
