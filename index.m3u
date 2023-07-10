@@ -164,7 +164,12 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri
 #https://tv.googledrivelinks.com/live.php?c=DD_Saptagiri&q=1200&e=.m3u8
-https://crichd.gq/jiox/app/live/706/null/index.m3u8
+http://202.176.3.76:8000/play/a027/74269470.m3u8
+
+#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri
+#https://tv.googledrivelinks.com/live.php?c=DD_Saptagiri&q=1200&e=.m3u8
+http://202.176.3.76:8000/play/a02k/index.m3u8
+
 
 EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 #https://tv.googledrivelinks.com/live.php?c=Studio_One&q=1200&e=.m3u8
@@ -808,8 +813,8 @@ https://dai.google.com/linear/hls/event/v6OFk91ZQ_2YWUDn2b1qFQ/master.m3u8
 #EXTINF:-1 tvg-id="astro cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports",astro cricket
 http://2hubs.ddns.net:25461/BabNour/telegrramm/66506?checkedby:iptvcat.com
 
-EXTINF:-1 tvg-id="Jio Cricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD SPORTS
-https://cutt.ly/T3XaMTq
+#EXTINF:-1 tvg-id=" " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD SPORTS
+http://202.176.3.76:8000/play/a02b/96461415.m3u8
 #####
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Sports",STAR SPORTS 1 Hindi
 http://xtv.ooo:8080/Rizwan335/2217286/167573
