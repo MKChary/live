@@ -814,9 +814,9 @@ http://live.flixhub.net/hls/select2.m3u8
 EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png
 
-EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Fancode Sports HD
+#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Fancode Sports HD
 #https://dai.google.com/linear/hls/event/9gixSXwMSrmHZdQZCllcEg/master.m3u8
-https://dai.google.com/linear/hls/event/v6OFk91ZQ_2YWUDn2b1qFQ/master.m3u8
+https://dai.fancode.com/linear/hls/pb/event/FjgK4WcrRrSSthZtnSvXMQ/stream/373b1ed8-0da3-4d3e-9016-12c3abbac844:TPE2/master.m3u8?hdnea=st=1690124836~exp=1690125136~acl=*~id=76150c1d-5bfd-4da4-83f3-eb942ebd9b37~hmac=aff5f73e0ce36e56f2a1bda80b4e24b066ee83f21280ea727280b376948881a4
 
 #EXTINF:-1 tvg-id="astro cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports",astro cricket
 http://2hubs.ddns.net:25461/BabNour/telegrramm/66506?checkedby:iptvcat.com
