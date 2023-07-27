@@ -22,10 +22,10 @@ EXTINF:-1 tvg-id="" tvg-logo="https://www.91-cdn.com/metareel-images/content/pos
 http://ibixtream.com:8080/movie/550300550300/550300550300/247891.mkv
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="Entertainment",Gemini TV HD
-http://ibixtream.com:8080/550300550300/550300550300/236379
+http://dpny5.1234.uno:6061/GeminiTvTelugu/tracks-v1a1/mono.m3u8?token=4d76c78e9a280575504ae9bb69ee4b20
 #http://s1.pubnow.info:8080/Jean0188/016035/118590
 
-#EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
+EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
 http://ibixtream.com:8080/movie/550300550300/550300550300/247934.mkv
 
 EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_movies.png" group-title="Movies",Gemini Movies HD
@@ -33,23 +33,23 @@ https://epg.pw/stream/ce928fb4bb37ebb56fda57bb21d20e432311cfa0346256e8ed6c6cbf26
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="Movies",Gemini Movies HD
 #http://clientsportals.com:2095/caupwuBz/jRqqbXWC/460760
-http://ibixtream.com:8080/550300550300/550300550300/236377
+http://dpny5.1234.uno:6061/geminimovies/tracks-v1a1/mono.m3u8?token=b7193a91bbc82e177356ee0c79c1ca44
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="Entertainment",Gemini Comedy
-http://ibixtream.com:8080/550300550300/550300550300/236393
+http://dpny3.1234.uno:6061/geminicomedy/tracks-v1a1/mono.m3u8?token=e8d3db40a5e5c900cdf635dd5500fb55
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Entertainment",Gemini Life
-http://ibixtream.com:8080/550300550300/550300550300/236395
+http://dpny3.1234.uno:6061/geminilife/tracks-v1a1/mono.m3u8?token=f91aed908a92bffd77658d2737e8b829
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Music",Gemini Music HD
 #http://50.7.69.66/GEMINI_MUSIC/index.m3u8
-http://103.61.73.220:8000/play/a0eb
+http://dpny3.1234.uno:6061/geminimusic/tracks-v1a1/mono.m3u8?token=957b5978a50f0a49f12ff2a11fdd69f1
 
 EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/638/master.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu HD
-http://103.61.73.220:8000/play/a0eg
+http://dpny5.1234.uno:6061/zeeteluguhd/tracks-v1a1/mono.m3u8?token=6dc61fd86f96067877c7e6e0ff18be60
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
 #https://zee.yashrajmod.online/api.php?c=0-9-zeecinemalu
