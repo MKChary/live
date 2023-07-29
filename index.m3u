@@ -118,7 +118,7 @@ http://102.222.232.18:9981/stream/channelid/2007835217
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
 http://starshare.live:8080/live/Kim2/geGfLcVODf/57772.ts
 
-#EXTINF:-1 tvg-id="Vissa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="Entertainment",Vissa TV
+EXTINF:-1 tvg-id="Vissa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="Entertainment",Vissa TV
 https://crichd.gq/jiox/app/live/734/null/index.m3u8
 #http://servertv.ml/JIO/live.php?c=Vissa_TV&q=1200&e=junk.m3u8
 
@@ -162,7 +162,7 @@ http://103.61.73.220:8000/play/a059
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri
+EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri
 #https://tv.googledrivelinks.com/live.php?c=DD_Saptagiri&q=1200&e=.m3u8
 http://50.7.237.7:8081/DDSAPTAGIRI/tracks-v1a1/index.m3u8
 
@@ -182,11 +182,11 @@ EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jio
 http://servertv.ml/JIO/live.php?c=Sonic_Telugu&q=1200&e=junk.m3u8
 #https://tv.googledrivelinks.com/live.php?c=Sonic_Telugu&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
+EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
 https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/166/master.m3u8
 #https://tv.googledrivelinks.com/live.php?c=CN_HD_Telugu&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
+EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
 https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/543/master.m3u8
 #https://tv.googledrivelinks.com/live.php?c=Nick_Telugu&q=1200&e=.m3u8
 
@@ -194,7 +194,7 @@ https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/543/master.m3u8
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #https://tv.googledrivelinks.com/live.php?c=Sony_Yay_Telugu&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="" group-title="Family/Kids",Sony Yay Telugu
+EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="" group-title="Family/Kids",Sony Yay Telugu
 https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/874/master.m3u8
 
 EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
@@ -203,7 +203,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/U2Pb3rhwaGg/li
 EXTINF:-1 tvg-id="YOYO News" tvg-id="T News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yoyotv.jpeg" group-title="News",YOYO News
 http://free.fullspeed.tv/iptv-query?url=https://youtu.be/mGD0coxXWk8/live
 
-#EXTINF:-1 tvg-id="Jaitelangana" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/JaiTelangana.jpeg" group-title="News",Big TV
+#EXTINF:-1 tvg-id="T Newd" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bigtv.jpeg" group-title="News",T News
 http://125.18.81.106/hlslive/Admin/px0219610/live/Shranyu_aws/chunklist_0.m3u8
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="News",T News
