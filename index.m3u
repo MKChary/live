@@ -203,7 +203,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/U2Pb3rhwaGg/li
 EXTINF:-1 tvg-id="YOYO News" tvg-id="T News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Yoyotv.jpeg" group-title="News",YOYO News
 http://free.fullspeed.tv/iptv-query?url=https://youtu.be/mGD0coxXWk8/live
 
-#EXTINF:-1 tvg-id="T Newd" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bigtv.jpeg" group-title="News",T News
+#EXTINF:-1 tvg-id="T News" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bigtv.jpg" group-title="News",T News
 http://125.18.81.106/hlslive/Admin/px0219610/live/Shranyu_aws/chunklist_0.m3u8
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="News",T News
