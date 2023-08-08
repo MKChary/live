@@ -776,36 +776,36 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 #EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/69848?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
+EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
 http://fr.sananda.online:80/test/test/387.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
+EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 https://shorturl.at/finoE
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
+EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://ibixtream.com:8080/550300550300/550300550300/236842
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
+EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://ibixtream.com:8080/550300550300/550300550300/236852
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
+EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://kuchini.site:8080/mosesmn/4e40546ad6/3630
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png" group-title="Sports",Star Sports 1 HD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/58220?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Sports 2 HD
+EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Sports 2 HD
 http://50.7.237.7:8081/STARSPORTS2HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Sports 2 HD
+EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Sports 2 HD
 http://kuchini.site:8080/mosesmn/4e40546ad6/3631
-#EXTINF:-1 tvg-id="Star Sports 4 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_4.png" group-title="Sports",Star Sports 4 HD
+EXTINF:-1 tvg-id="Star Sports 4 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_4.png" group-title="Sports",Star Sports 4 HD
 http://50.7.237.7:8081/STARSPORTS3/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png" group-title="Sports",Star Sports Select 1 HD
+EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png" group-title="Sports",Star Sports Select 1 HD
 http://kuchini.site:8080/mosesmn/4e40546ad6/82628
 
-EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.pngg" group-title="Sports",Star Sports Select 1 HD
+EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png" group-title="Sports",Star Sports Select 1 HD
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 
 EXTINF:-1 tvg-id="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports Select 1 HD
@@ -817,21 +817,21 @@ http://live.flixhub.net/hls/select2.m3u8
 EXTINF:-1 tvg-id="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 HD
 https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Fancode Sports HD
+EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Fancode Sports HD
 #https://dai.google.com/linear/hls/event/9gixSXwMSrmHZdQZCllcEg/master.m3u8
 https://dai.fancode.com/linear/hls/pb/event/FjgK4WcrRrSSthZtnSvXMQ/stream/373b1ed8-0da3-4d3e-9016-12c3abbac844:TPE2/master.m3u8?hdnea=st=1690124836~exp=1690125136~acl=*~id=76150c1d-5bfd-4da4-83f3-eb942ebd9b37~hmac=aff5f73e0ce36e56f2a1bda80b4e24b066ee83f21280ea727280b376948881a4
 
 #EXTINF:-1 tvg-id="astro cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports",astro cricket
 http://2hubs.ddns.net:25461/BabNour/telegrramm/66506?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id=" " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD SPORTS
+EXTINF:-1 tvg-id=" " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD SPORTS
 http://202.176.3.76:8000/play/a02b/96461415.m3u8
 #####
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",STAR SPORTS 1 Hindi
 http://xtv.ooo:8080/Rizwan335/2217286/167573
-#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports",Star Sports tamil 1
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1
 http://xtv.ooo:8080/Rizwan335/2217286/167574
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1 Hindi FHD" tvg-logo="" group-title="Sports",Star Sports 1 Hindi FHD
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1 Hindi FHD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 Hindi
 http://xtv.ooo:8080/Rizwan335/2217286/355535
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://xtv.ooo:8080/Rizwan335/2217286/167575
@@ -839,27 +839,27 @@ http://xtv.ooo:8080/Rizwan335/2217286/167575
 http://xtv.ooo:8080/Rizwan335/2217286/167576
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="Sports",Star Sports 3 HD
 http://xtv.ooo:8080/Rizwan335/2217286/167577
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Sports",STAR SPORTS SELECT 1
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png" group-title="Sports",Star Sports Select 1 HD
 http://xtv.ooo:8080/Rizwan335/2217286/167578
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Sports",STAR SPORTS SELECT 2
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png" group-title="Sports",Star Sports Select 2 HD
 http://xtv.ooo:8080/Rizwan335/2217286/167579
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1 FHD" tvg-logo="" group-title="Sports",Star Sports 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="" group-title="Sports",Star Sports 1
 http://xtv.ooo:8080/Rizwan335/2217286/355594
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2 FHD" tvg-logo="" group-title="Sports",Star Sports 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="" group-title="Sports",Star Sports 2
 http://xtv.ooo:8080/Rizwan335/2217286/355595
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1 FHD" tvg-logo="" group-title="Sports",Star Sports Select 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png" group-title="Sports",Star Sports Select 1 HD
 http://xtv.ooo:8080/Rizwan335/2217286/355596
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2 FHD" tvg-logo="" group-title="Sports",Star Sports Select 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png" group-title="Sports",Star Sports Select 2 HD
 http://xtv.ooo:8080/Rizwan335/2217286/355597
 EXTINF:-1 tvg-id="" tvg-name="IND: Star Cricket Tamil HD ( Live Match Only )" tvg-logo="" group-title="Sports",IND: Star Cricket Tamil HD ( Live Match Only )
 http://xtv.ooo:8080/Rizwan335/2217286/244636
 EXTINF:-1 tvg-id="" tvg-name="IND: Star Sports 1 Tamil" tvg-logo="" group-title="Sports",Star Sports 1 Tamil
 http://xtv.ooo:8080/Rizwan335/2217286/244637
 ####
-#EXTINF:-1 tvg-id="JioCricket" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket
+#EXTINF:-1 tvg-id="JIO Cricket English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket English
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099789/hd_akamai_iosmob_avc_tel_t2003/master.m3u8
 
-#EXTINF:-1 tvg-id="Jio Football" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Telugu_HD.png" group-title="Sports",Sports18
+EXTINF:-1 tvg-id="Jio Football" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Telugu_HD.png" group-title="Sports",Sports18
 http://fr.sananda.online:80/test/test/325.m3u8
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
