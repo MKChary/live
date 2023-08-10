@@ -90,13 +90,13 @@ http://ibixtream.com:8080/550300550300/550300550300/236394
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Entertainment",STAR MAA HD
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198020
-http://ibixtream.com:8080/550300550300/550300550300/236375
+http://154.6.190.51:8080/550300550300/550300550300/237190?token=HRdcVERdQA8VCFEMUl0EAgJVVQIFWVNaWgdYUFEFBAIFAARRBFdWVlUSSRYSTUEDVA88XVBDDVBQB1BaBR1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoBV1sBBVAEShdEXFMXWFtCXAkYQ1xLElAQDVVYPlMHFVkCBhcLD0QKWRgXWFs9UVJdBFoFGwlEBEBPFl0SR0BZXhQPWR1DUw9BRlRDUEAPWUUJWE0bUAlADBdGTUMNQDZjQ08XVBlFA1tHXFhbQA8VRBYWTRtaFWoQBkdAE1IDDlUTQQ8TURNKF1lUT2oBWlleAFcVUFwIRkBZFgZRB1JBHEMOWl8IRQlHa0VeUUAPWUUJWBw=
 
 EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA Hd
 http://102.222.232.18:9981/stream/channelid/589622635
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Movies",Star Maa Movies HD
-http://ibixtream.com:8080/550300550300/550300550300/236390
+http://154.6.190.51:8080/550300550300/550300550300/237191?token=HRdcVERdQA8VBgcMVgtSAgJbBgIDU1FTVABTUAMBVgcHA1IFUgRWBgMSSRYSTUEDVA88XVBDDVBQB1BaBB1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoBV1sBB1kBShdEXFMXWFtCXAkYQ1xLElAQDVVYPlMHFVkCBhcLD0QKWRgXWFs9UVJdBFoFGwlEBEBPFl0SR0BZXhQPWR1DUw9BRlRDUEAPWUUJWE0bUAlADBdGTUMNQDZjQ08XVBlFA1tHXFhbQA8VRBYWTRtaFWoQBkdAE1IDDlUTQQ8TURNKF1lUT2oBWlleAFcVUFwIRkBZFgZRB1JBHEMOWl8IRQlHa0VeUUAPWUUJWBw=
 
 EXTINF:-1 tvg-id="Star Maa Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies
 http://102.222.232.18:9981/stream/channelid/1813535474
@@ -172,9 +172,9 @@ http://50.7.237.7:8081/DDSAPTAGIRI/tracks-v1a1/index.m3u8
 http://202.176.3.76:8000/play/a02k/index.m3u8
 
 
-EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
+#EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 #https://tv.googledrivelinks.com/live.php?c=Studio_One&q=1200&e=.m3u8
-http://servertv.ml/JIO/live.php?c=Studio_One&q=1200&e=junk.m3u8
+http://154.6.190.49:8080/550300550300/550300550300/237495?token=HRdcVERdQA8VAlMFUQ5WBFdSBgVXVQIDAQEFBgEIAAFQVgIAVVZXAVUSSRYSTUEDVA88XVBDDVBQB1VaAB1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoBV1sBBlcGShdEXFMXWBcFA1MNUxsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfWhRVX0oXAQxBWhVFG0EKQzZmE00TA01AUFlGC1pZEl8WFUoRShcLEGtGBEQWEVUADlBDQwtEBRYZFVgDTWhTCloPXFASXA0NRxZbFVBTAFFBGRMMXghcQFpFahJcUxJfFlMMAF4HQB4=
 
 EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
 http://rv.bleutv.net:80/152087360475456/152066530788190/198004
@@ -359,8 +359,8 @@ http://play.sundaylive.in:8088/gayathri/gayathri.m3u8
 #EXTINF:-1 tvg-id="TN24/7News" group-title="Local" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/TS.jpg",Telangana Sanskruti
 http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
 
-EXTINF:-1 tvg-id="HN9TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/hn9tv.jpg" group-title="Local",HN9TV
-http://blmtech.in:8086/hls/hn9tv/index.m3u8
+#EXTINF:-1 tvg-id="HN9TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/hn9tv.jpg" group-title="Local",HN9TV
+http://154.6.190.49:8080/550300550300/550300550300/237479?token=HRdcVERdQA8VUlwAUQtSUgZXVFACUQ5VAgFYAVNSWFIFBQENB1ZVAwASSRYSTUEDVA88XVBDDVBQB1VUDB1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoBV1sBCVMEShdEXFMXWBcFBVwHUxsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfWhRVX0oXAQxBWhVFG0EKQzZmE00TA01AUFlGC1pZEl8WFUoRShcLEGtGBEQWEVUADlBDQwtEBRYZFVgDTWhTCloPXFASXA0NRxZbFVBTAFFBGRMMXghcQFpFahJcUxJfFlMOAFEEQB4=
 
 #EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Studio18.jpg" group-title="Local",Studio18 News
 http://server.streamplay.in:1935/studio18/studio18/playlist.m3u8
