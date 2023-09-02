@@ -45,11 +45,11 @@ http://dpny3.1234.uno:6061/geminilife/tracks-v1a1/mono.m3u8?token=f91aed908a92bf
 #http://50.7.69.66/GEMINI_MUSIC/index.m3u8
 http://dpny3.1234.uno:6061/geminimusic/tracks-v1a1/mono.m3u8?token=957b5978a50f0a49f12ff2a11fdd69f1
 
-EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
-http://jiotv.its-nayeemparvez.ml:3500/getm3u8/638/master.m3u8
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
+http://new-pro.tv:8080/99622282/etbVXafU6f/72065
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu HD
-http://dpny5.1234.uno:6061/zeeteluguhd/tracks-v1a1/mono.m3u8?token=6dc61fd86f96067877c7e6e0ff18be60
+http://new-pro.tv:8080/99622282/etbVXafU6f/426182
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
 #https://zee.yashrajmod.online/api.php?c=0-9-zeecinemalu
@@ -107,13 +107,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music",Raj Music Telugu
 #https://tv.googledrivelinks.com/live.php?c=Raj_Music_Telugu&q=1200&e=.m3u8
-http://103.61.73.220:8000/play/a0d4
+http://new-pro.tv:8080/99622282/etbVXafU6f/425813
 
 EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",Adithya music
 https://ythls.onrender.com/video/CNPdyttDuAY.m3u8
 
-EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
-http://102.222.232.18:9981/stream/channelid/2007835217
+#EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Movies",mango movies
+http://new-pro.tv:8080/99622282/etbVXafU6f/426012
 
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
 http://starshare.live:8080/live/Kim2/geGfLcVODf/57772.ts
@@ -272,8 +272,8 @@ EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cv
 #https://tv.googledrivelinks.com/live.php?c=CVR_News&q=1200&e=.m3u8
 http://servertv.ml/JIO/live.php?c=CVR_News&q=1200&e=junk.m3u8
 
-EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News",Raj News
-http://103.61.73.220:8000/play/a0d6
+#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News",Raj News
+http://new-pro.tv:8080/99622282/etbVXafU6f/425821
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198023
 #http://techmaxlive.ml/live.php?c=10_TV&q=1200&e=junk.m3u8
 
