@@ -211,8 +211,8 @@ https://ythls.onrender.com/video/VD8BDDwfBIQ.m3u8
 http://125.18.81.106/hlslive/Admin/px0219610/live/Shranyu_aws/chunklist_0.m3u8
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="News",T News
-https://ythls.onrender.com/video/fruCSo_YwHs.m3u8
-#http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/296490
+https://ythls.onrender.com/video/MGv7jFOuCc8.m3u8
+#https://www.youtube.com/live/MGv7jFOuCc8?si=MSGPGcMPkt80GwZT
 
 EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
 https://ythls.onrender.com/video/L6pXP3zDIF0.m3u8
@@ -857,10 +857,10 @@ http://xtv.ooo:8080/Rizwan335/2217286/244636
 EXTINF:-1 tvg-id="" tvg-name="IND: Star Sports 1 Tamil" tvg-logo="" group-title="Sports",Star Sports 1 Tamil
 http://xtv.ooo:8080/Rizwan335/2217286/244637
 ####
-#EXTINF:-1 tvg-id="JIO Cricket English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket English
+#EXTINF:-1 tvg-id="Sports18 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18 1 HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="Jio Football" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu_HD.png" group-title="Sports",JIO Cricket
+EXTINF:-1 tvg-id="Jio Football" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu_HD.png" group-title="Sports",JIO Cricket
 https://prod-sports-south-gm.jiocinema.com/hls/live/2099789/hd_akamai_merged_avc_tel_indvsiret2002/master.m3u8
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
