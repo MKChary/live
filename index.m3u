@@ -86,17 +86,17 @@ EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold_HD.png" group-title="Movies",STAR MAA GOLD HD
-http://ibixtream.com:8080/550300550300/550300550300/236394
+http://154.6.190.49:8080/550300550300/550300550300/236394?token=HRdcVERdQA8VVl1XWV1QUFdaV1UNUgRTAAJTUwEFUwFQBQMGBwcEB1ISSRYSTUEDVA88XVBDDVBQBlJaAR1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEEAVAEShdEXFMXWBcCCVUCVhsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfFlALC1QXTkFXWxRZFhFJQ1kXZDITShdRTUNQDEZeXwsWWxtHFRdOQV1HPkUHEEQTBlRcBENEDxYFFRlAWFZIOlcOV10DVhYKW1oSFVhBAlFTBRNNEwtaWlxDWhBqR1kBFlsbBl8FV1cWSQ==
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Entertainment",STAR MAA HD
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198020
-http://154.6.190.51:8080/550300550300/550300550300/237190?token=HRdcVERdQA8VCFEMUl0EAgJVVQIFWVNaWgdYUFEFBAIFAARRBFdWVlUSSRYSTUEDVA88XVBDDVBQB1BaBR1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoBV1sBBVAEShdEXFMXWFtCXAkYQ1xLElAQDVVYPlMHFVkCBhcLD0QKWRgXWFs9UVJdBFoFGwlEBEBPFl0SR0BZXhQPWR1DUw9BRlRDUEAPWUUJWE0bUAlADBdGTUMNQDZjQ08XVBlFA1tHXFhbQA8VRBYWTRtaFWoQBkdAE1IDDlUTQQ8TURNKF1lUT2oBWlleAFcVUFwIRkBZFgZRB1JBHEMOWl8IRQlHa0VeUUAPWUUJWBw=
+http://154.6.190.49:8080/550300550300/550300550300/236406?token=HRdcVERdQA8VCVACVl0KUlFSWgJXBVZRVAlYU1EFUwFTVlYDUVFWUAMSSRYSTUEDVA88XVBDDVBQBlVTAx1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEFBFkHShdEXFMXWBcGAlIFVxsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfFlABBVIXTkFXWxRZFhFJQ1kXZDITShdRTUNQDEZeXwsWWxtHFRdOQV1HPkUHEEQTBlRcBENEDxYFFRlAWFZIOlcOV10DVhYKW1oSFVhBAlFTBRNNEwtaWlxDWhBqR1kBFlsbAVIFVEFJ
 
 EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA Hd
 http://102.222.232.18:9981/stream/channelid/589622635
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Movies",Star Maa Movies HD
-http://154.6.190.51:8080/550300550300/550300550300/237191?token=HRdcVERdQA8VBgcMVgtSAgJbBgIDU1FTVABTUAMBVgcHA1IFUgRWBgMSSRYSTUEDVA88XVBDDVBQB1BaBB1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoBV1sBB1kBShdEXFMXWFtCXAkYQ1xLElAQDVVYPlMHFVkCBhcLD0QKWRgXWFs9UVJdBFoFGwlEBEBPFl0SR0BZXhQPWR1DUw9BRlRDUEAPWUUJWE0bUAlADBdGTUMNQDZjQ08XVBlFA1tHXFhbQA8VRBYWTRtaFWoQBkdAE1IDDlUTQQ8TURNKF1lUT2oBWlleAFcVUFwIRkBZFgZRB1JBHEMOWl8IRQlHa0VeUUAPWUUJWBw=
+http://154.6.190.49:8080/550300550300/550300550300/236407?token=HRdcVERdQA8VBwNVUQpXAwFRBQcEVFRUAQkDBwZUBQEHB1cHBVEEAgESSRYSTUEDVA88XVBDDVBQBlVTAh1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEFCVgBShdEXFMXWBcCCFEHUhsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfFlILClcXTkFXWxRZFhFJQ1kXZDITShdRTUNQDEZeXwsWWxtHFRdOQV1HPkUHEEQTBlRcBENEDxYFFRlAWFZIOlcOV10DVhYKW1oSFVhBAlFTBRNNEwtaWlxDWhBqR1kBFlsbBl4BUFoWSQ==
 
 EXTINF:-1 tvg-id="Star Maa Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies
 http://102.222.232.18:9981/stream/channelid/1813535474
@@ -107,7 +107,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music",Raj Music Telugu
 #https://tv.googledrivelinks.com/live.php?c=Raj_Music_Telugu&q=1200&e=.m3u8
-http://new-pro.tv:8080/99622282/etbVXafU6f/425813
+http://154.6.190.49:8080/550300550300/550300550300/236386?token=HRdcVERdQA8VVlMMUgFRAAIBUlAFVVZXBwUCUQEHUAJfDQYEVFMABwASSRYSTUEDVA88XVBDDVBQBlJbAx1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEEAFMDShdEXFMXWFtCXAkYQ1xLElAQDVVYPlMHFVkCBhcLD0QKWRgXWFs9UVJdBFoFGwlEBEBPFl0SR0BZXhQPWR1DUw9BRlRDUEAPWUUJWE0bUAlADBdGTUMNQDZjQ08XVBlFA1tHXFhbQA8VRBYWTRtaFWoQBkdAE1IDDlUTQQ8TURNKF1lUT2oBWlleAFcVUFwIRkBZFgZRB1JBHEMOWl8IRQlHa0VeUUAPWUUJWBw=
 
 EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",Adithya music
 https://ythls.onrender.com/video/CNPdyttDuAY.m3u8
@@ -116,7 +116,7 @@ https://ythls.onrender.com/video/CNPdyttDuAY.m3u8
 http://new-pro.tv:8080/99622282/etbVXafU6f/426012
 
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
-http://starshare.live:8080/live/Kim2/geGfLcVODf/57772.ts
+http://154.6.190.49:8080/550300550300/550300550300/236413?token=HRdcVERdQA8VUQAEBQ4EVgxVUVdVVA4HVAcDAlQABQJUBwIGAAFbAFISSRYSTUEDVA88XVBDDVBQBlVSBh1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEEAVkAShdEXFMXWBcBBFIEWRsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfFlAJB1AXTkFXWxRZFhFJQ1kXZDITShdRTUNQDEZeXwsWWxtHFRdOQV1HPkUHEEQTBlRcBENEDxYFFRlAWFZIOlcOV10DVhYKW1oSFVhBAlFTBRNNEwtaWlxDWhBqR1kBFlsbBVIDW1UWSQ==
 
 EXTINF:-1 tvg-id="Vissa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="Entertainment",Vissa TV
 https://crichd.gq/jiox/app/live/734/null/index.m3u8
@@ -128,7 +128,7 @@ https://ythls.onrender.com/video/dtO9va-apv0.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 #https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3u8
-http://103.86.134.34:9981/stream/channelid/1978064002
+http://154.6.190.49:8080/550300550300/550300550300/236380?token=HRdcVERdQA8VAVRWVwoDBAQHWwMNWQdaUgJVVFAIUQEAVwQNVVQABlUSSRYSTUEDVA88XVBDDVBQBlJbBR1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEFCFQEShdEXFMXWFtCXAkYQ1xLElAQDVVYPlMHFVkCBhcLD0QKWRgXWFs9UVJdBFoFGwlEBEBPFl0SR0BZXhQPWR1DUw9BRlRDUEAPWUUJWE0bUAlADBdGTUMNQDZjQ08XVBlFA1tHXFhbQA8VRBYWTRtaFWoQBkdAE1IDDlUTQQ8TURNKF1lUT2oBWlleAFcVUFwIRkBZFgZRB1JBHEMOWl8IRQlHa0VeUUAPWUUJWBw=
 
 EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://103.61.73.220:8000/play/a05b
@@ -780,11 +780,11 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/69848?checkedby:iptvcat.com
 EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
 http://fr.sananda.online:80/test/test/387.m3u8
 
-EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
-https://shorturl.at/finoE
+#EXTINF:-1 tvg-id=" " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",PTV Sports HD
+http://154.6.190.49:8080/550300550300/550300550300/236838?token=HRdcVERdQA8VAQMDBAgKVAcBU1AFVFFbAgdUBw0BUwYHDAQNVFFRUAMSSRYSTUEDVA88XVBDDVBQBllQDR1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEEBVMCShdEXFMXWBcBBFAMVRsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfFlAOB14XTkFXWxRZFhFJQ1kXZDITShdRTUNQDEZeXwsWWxtHFRdOQV1HPkUHEEQTBlRcBENEDxYFFRlAWFZIOlcOV10DVhYKW1oSFVhBAlFTBRNNEwtaWlxDWhBqR1kBFlsbAlEGVlIWSQ==
 
-EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
-http://ibixtream.com:8080/550300550300/550300550300/236842
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
+http://154.6.190.49:8080/550300550300/550300550300/236847?token=HRdcVERdQA8VBFQGAg9SXlMEUAYEAFJSVFFUAVZVUFJRBgwEDgBUUFYSSRYSTUEDVA88XVBDDVBQBllXAh1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEEB1kHShdEXFMXWBcGBVICWRsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfFlUMBlcXTkFXWxRZFhFJQ1kXZDITShdRTUNQDEZeXwsWWxtHFRdOQV1HPkUHEEQTBlRcBENEDxYFFRlAWFZIOlcOV10DVhYKW1oSFVhBAlFTBRNNEwtaWlxDWhBqR1kBFlsbB1MCW1MWSQ==
 
 EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://ibixtream.com:8080/550300550300/550300550300/236852
