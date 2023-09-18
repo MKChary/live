@@ -133,7 +133,7 @@ http://154.6.190.49:8080/550300550300/550300550300/236380?token=HRdcVERdQA8VAVRW
 EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://103.61.73.220:8000/play/a05b
 
-#EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
+EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
 #https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=1200&e=.m3u8
 http://103.86.134.34:9981/stream/channelid/875849202
 
@@ -141,8 +141,8 @@ http://103.86.134.34:9981/stream/channelid/875849202
 #https://ythls.onrender.com/channel/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
 http://103.86.134.34:9981/stream/channelid/529973772
 
-EXTINF:-1 tvg-id="Wild Earth" tvg-logo="https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg" group-title="Infotainment",Wild Earth
-https://wildearth-plex.amagi.tv/amRdirect/us_privacy=1---&did=68c76dbf-12a1-5b6f-a538-a75fe1cbd790&dnt=0&X-Plex-Token=sDBxGsM7f5HSsD2SGcFD&cha
+#EXTINF:-1 tvg-id="Wild Earth" tvg-logo="https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg" group-title="Infotainment",Wild Earth
+https://ythls.onrender.com/video/XZ7BWbmvi94.m3u8
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_HD.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 #https://ythls.onrender.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
