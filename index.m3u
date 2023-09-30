@@ -591,7 +591,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO PO
 http://livetv2021.site:8080/9897876765/6576567/132
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive HD
-http://ibixtream.com:8080/550300550300/550300550300/236897
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:6f:5a:5d&stream=155746&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 tvg-id="Andflixhd.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
 http://ibixtream.com:8080/550300550300/550300550300/236898
