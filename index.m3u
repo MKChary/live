@@ -2,8 +2,8 @@
 #url-tvg="http://rstream.me/epg.xml.gz"
 #https://mkchary.github.io/live/index.m3u
 
-EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Music",HDR Prime
-http://iptv.hdsindia.com:2574/udp/227.10.10.76:4640
+#EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Sports",DD Sports
+http://181.215.178.40:8080/play/hls/eyJpdiI6IndyQWRXRW54Vm5HMDdFMEZJcXozWkE9PSIsInZhbHVlIjoibXlqZ0hieExHNlluczFqbStVT2ZIZERHYUNRZkRTcEZPbVFjM1BBZzdLaXJJRkxsZ05lRnJtRWdHRm5qamkzcSIsIm1hYyI6IjY5NTMzYWE0YTc1ODA4YjM2YWYzMjIzMWE2ZDI0ZjE1ZDdhMjUzYzk0NGE4YzlhNmJhOGY4M2Q0Y2VhNjU3OTQiLCJ0YWciOiIifQ==/db22b65f-9a3b-4a52-bb72-28df74df5303.m3u8?lvtoken=eyJpdiI6IkFCU3N6cmxaNCsrdm9kZUEyT21iTnc9PSIsInZhbHVlIjoicU1YRTgwK2FaRjFRMm1VZmV2MmFSaXlzcmlmWnhpaVZORVM4dDhjUnkzUlJsV3pnRU01WE1hVVJVME1uQ1YyVnVOU3Qza2JQTldlYWdDZkRHUFB0NFFOVWhHS2xQak5yNjY5K2lNay80Uy9mMWdXV1EyWk5TYllKWi8ybzRjS0txdDYvdGIrSDBKQ2NpWkFuOGZlOHNyWUdvMldKMDNuaGw1cTlrRURuUitBRTNSc1RGcmRwWmtwemlaQ3BsQ3p4Q3J2Nk03SEpFelpEeG9LdDQxSXNyZz09IiwibWFjIjoiNGE1NjNkZWEyMjI3MjA4NWMxMTg5ZmM5MmI1Mzc5M2I3NDg5OGViN2YwOGJkNmIxMWYxY2Y3MzgyMDQ1MjYwZSIsInRhZyI6IiJ9&r=ec06cf&rt=67652fde77992831cfcc49cbc2c814d3
 
 EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/GayathriManthra.jpeg" group-title="Music",Gayathri Mathram
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/VID-20210625-WA0000.mp4
