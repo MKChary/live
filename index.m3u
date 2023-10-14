@@ -829,7 +829,7 @@ EXTINF:-1 tvg-id=" " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/imag
 http://202.176.3.76:8000/play/a02b/96461415.m3u8
 #####
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",STAR SPORTS 1 Hindi
-http://xtv.ooo:8080/Rizwan335/2217286/167573
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd?|drmScheme=clearkey&drmLicense=6a9e4204f3f8577ebf6e79b3b18573f8:b3d1696abda84be7835283db24f028da
 #EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1
 http://xtv.ooo:8080/Rizwan335/2217286/167574
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1 Hindi FHD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 Hindi
