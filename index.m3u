@@ -176,8 +176,8 @@ http://202.176.3.76:8000/play/a02k/index.m3u8
 #https://tv.googledrivelinks.com/live.php?c=Studio_One&q=1200&e=.m3u8
 http://154.6.190.49:8080/550300550300/550300550300/237495?token=HRdcVERdQA8VAlMFUQ5WBFdSBgVXVQIDAQEFBgEIAAFQVgIAVVZXAVUSSRYSTUEDVA88XVBDDVBQB1VaAB1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoBV1sBBlcGShdEXFMXWBcFA1MNUxsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfWhRVX0oXAQxBWhVFG0EKQzZmE00TA01AUFlGC1pZEl8WFUoRShcLEGtGBEQWEVUADlBDQwtEBRYZFVgDTWhTCloPXFASXA0NRxZbFVBTAFFBGRMMXghcQFpFahJcUxJfFlMMAF4HQB4=
 
-EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
-http://rv.bleutv.net:80/152087360475456/152066530788190/198004
+#EXTINF:-1 tvg-id="Kushitv.in" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kushi_tv.png" group-title="Family/Kids",Kushi TV
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155868
 
 EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Family/Kids",Sonic Telugu
 http://servertv.ml/JIO/live.php?c=Sonic_Telugu&q=1200&e=junk.m3u8
