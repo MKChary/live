@@ -860,8 +860,8 @@ http://xtv.ooo:8080/Rizwan335/2217286/244637
 #EXTINF:-1 tvg-id="Sports18 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18 1 HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
-EXTINF:-1 tvg-id="Jio Football" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu_HD.png" group-title="Sports",JIO Cricket
-https://prod-sports-south-gm.jiocinema.com/hls/live/2099789/hd_akamai_merged_avc_tel_indvsiret2002/master.m3u8
+#EXTINF:-1 tvg-id="Sports18 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18 1 HD
+https://prod-sports-south-gm.jiocinema.com/hls/live/2099789/hd_akamai_iosmob_avc_tel_indvsaus_t2001/master.m3u8
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
