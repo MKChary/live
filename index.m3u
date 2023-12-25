@@ -825,8 +825,8 @@ EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://i.imgur.com/KhZPrnw.jpg" g
 #https://dai.google.com/linear/hls/event/9gixSXwMSrmHZdQZCllcEg/master.m3u8
 https://dai.fancode.com/linear/hls/pb/event/FjgK4WcrRrSSthZtnSvXMQ/stream/373b1ed8-0da3-4d3e-9016-12c3abbac844:TPE2/master.m3u8?hdnea=st=1690124836~exp=1690125136~acl=*~id=76150c1d-5bfd-4da4-83f3-eb942ebd9b37~hmac=aff5f73e0ce36e56f2a1bda80b4e24b066ee83f21280ea727280b376948881a4
 
-EXTINF:-1 tvg-id=" " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD SPORTS
-http://202.176.3.76:8000/play/a02b/96461415.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD SPORTS
+https://dai.fancode.com/linear/hls/pb/event/2tKgLGMHT_-KIiWFZybNrA/stream/2e5ede92-2473-4824-8fde-b428e65b1281:SIN2/master.m3u8?hdnea=st=1703485866~exp=1703486166~acl=*~id=c9cbf8a0-f302-469d-898a-2d611352f077~hmac=8c5ddf873e7f0694d33c1aa3a9cddf39309e1e0187121898975467c283e425a7p=1703486166~acl=*~id=c9cbf8a0-f302-469d-898a-2d611352f077~hmac=8c5ddf873e7f0694d33c1aa3a9cddf39309e1e0187121898975467c283e425a7
 #####
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",STAR SPORTS 1 Hindi
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd?|drmScheme=clearkey&drmLicense=6a9e4204f3f8577ebf6e79b3b18573f8:b3d1696abda84be7835283db24f028da
