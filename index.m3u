@@ -22,7 +22,7 @@ EXTINF:-1 tvg-id="" tvg-logo="https://www.91-cdn.com/metareel-images/content/pos
 http://ibixtream.com:8080/movie/550300550300/550300550300/247891.mkv
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="Entertainment",Gemini TV HD
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165794
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236379
 #http://s1.pubnow.info:8080/Jean0188/016035/118590
 
 EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
@@ -33,23 +33,23 @@ https://epg.pw/stream/ce928fb4bb37ebb56fda57bb21d20e432311cfa0346256e8ed6c6cbf26
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="Movies",Gemini Movies HD
 #http://clientsportals.com:2095/caupwuBz/jRqqbXWC/460760
-http://dpny5.1234.uno:6061/geminimovies/tracks-v1a1/mono.m3u8?token=b7193a91bbc82e177356ee0c79c1ca44
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236377
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="Entertainment",Gemini Comedy
-http://dpny3.1234.uno:6061/geminicomedy/tracks-v1a1/mono.m3u8?token=e8d3db40a5e5c900cdf635dd5500fb55
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236393
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Entertainment",Gemini Life
-http://dpny3.1234.uno:6061/geminilife/tracks-v1a1/mono.m3u8?token=f91aed908a92bffd77658d2737e8b829
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236395
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Music",Gemini Music HD
 #http://50.7.69.66/GEMINI_MUSIC/index.m3u8
 http://dpny3.1234.uno:6061/geminimusic/tracks-v1a1/mono.m3u8?token=957b5978a50f0a49f12ff2a11fdd69f1
 
-#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
+EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
 http://37.49.225.117:8080/a0edca74/42969842bf/21561
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu HD
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=m3u8&stream=155866
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236388
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
 #https://zee.yashrajmod.online/api.php?c=0-9-zeecinemalu
@@ -57,7 +57,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/zeecinemalu-aud
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 #https://tv.googledrivelinks.com/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236391
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment" status="timeout",ETV HD
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236392
@@ -90,13 +90,13 @@ http://154.6.190.49:8080/550300550300/550300550300/236394?token=HRdcVERdQA8VVl1X
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Entertainment",STAR MAA HD
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198020
-http://154.6.190.49:8080/550300550300/550300550300/236406?token=HRdcVERdQA8VCVACVl0KUlFSWgJXBVZRVAlYU1EFUwFTVlYDUVFWUAMSSRYSTUEDVA88XVBDDVBQBlVTAx1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEFBFkHShdEXFMXWBcGAlIFVxsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfFlABBVIXTkFXWxRZFhFJQ1kXZDITShdRTUNQDEZeXwsWWxtHFRdOQV1HPkUHEEQTBlRcBENEDxYFFRlAWFZIOlcOV10DVhYKW1oSFVhBAlFTBRNNEwtaWlxDWhBqR1kBFlsbAVIFVEFJ
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236375
 
 EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA Hd
 http://102.222.232.18:9981/stream/channelid/589622635
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Movies",Star Maa Movies HD
-http://154.6.190.49:8080/550300550300/550300550300/236407?token=HRdcVERdQA8VBwNVUQpXAwFRBQcEVFRUAQkDBwZUBQEHB1cHBVEEAgESSRYSTUEDVA88XVBDDVBQBlVTAh1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEFCVgBShdEXFMXWBcCCFEHUhsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfFlILClcXTkFXWxRZFhFJQ1kXZDITShdRTUNQDEZeXwsWWxtHFRdOQV1HPkUHEEQTBlRcBENEDxYFFRlAWFZIOlcOV10DVhYKW1oSFVhBAlFTBRNNEwtaWlxDWhBqR1kBFlsbBl4BUFoWSQ==
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236390
 
 EXTINF:-1 tvg-id="Star Maa Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies
 http://102.222.232.18:9981/stream/channelid/1813535474
@@ -128,7 +128,7 @@ https://ythls.onrender.com/video/dtO9va-apv0.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 #https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3u8
-http://154.6.190.49:8080/550300550300/550300550300/236380?token=HRdcVERdQA8VAVRWVwoDBAQHWwMNWQdaUgJVVFAIUQEAVwQNVVQABlUSSRYSTUEDVA88XVBDDVBQBlJbBR1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEFCFQEShdEXFMXWFtCXAkYQ1xLElAQDVVYPlMHFVkCBhcLD0QKWRgXWFs9UVJdBFoFGwlEBEBPFl0SR0BZXhQPWR1DUw9BRlRDUEAPWUUJWE0bUAlADBdGTUMNQDZjQ08XVBlFA1tHXFhbQA8VRBYWTRtaFWoQBkdAE1IDDlUTQQ8TURNKF1lUT2oBWlleAFcVUFwIRkBZFgZRB1JBHEMOWl8IRQlHa0VeUUAPWUUJWBw=
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236380
 
 EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://103.61.73.220:8000/play/a05b
