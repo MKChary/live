@@ -60,7 +60,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/zeecinemalu-aud
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment" status="timeout",ETV HD
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=155852&extension=ts&play_token=VxpbYdYj96
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236392
 
 EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
 #https://watchtvs.live/play.php?c=ETV_HD&q=1200&e=.m3u8
