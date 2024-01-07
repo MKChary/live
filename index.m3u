@@ -227,11 +227,12 @@ https://ythls.onrender.com/video/L0RktSIM980.m3u8
 #https://tv.googledrivelinks.com/live.php?c=TV_5_News&q=1200&e=.m3u8
 https://ythls.onrender.com/video/ox2rT1KRkFI.m3u8
 
+
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9.png" group-title="News",TV9 Telugu
 #https://tv.googledrivelinks.com/live.php?c=TV9_Telugu_News&q=1200&e=.m3u8
 #https://vidcdn.vidgyor.com/tv9telugu-origin/live/playlist.m3u8
-https://ythls.onrender.com/video/II_m28Bm-iM.m3u8
-
+#https://ythls.onrender.com/video/II_m28Bm-iM.m3u8
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="News",V6 News
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198017
