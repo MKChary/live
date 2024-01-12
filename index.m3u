@@ -781,8 +781,8 @@ http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
 http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
-http://fr.sananda.online:80/test/test/387.m3u8
+#EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",sports
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/FqOCxRjhBPBIWleQ4Y0Ehd5eA_5LJABTPJvH4oagr6FcD7UotzODfsU0PyhoxjGZ8TUbIHGE3qn1mOjfdpH5hw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",PTV Sports HD
 http://154.6.190.49:8080/550300550300/550300550300/236838?token=HRdcVERdQA8VAQMDBAgKVAcBU1AFVFFbAgdUBw0BUwYHDAQNVFFRUAMSSRYSTUEDVA88XVBDDVBQBllQDR1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEEBVMCShdEXFMXWBcBBFAMVRsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfFlAOB14XTkFXWxRZFhFJQ1kXZDITShdRTUNQDEZeXwsWWxtHFRdOQV1HPkUHEEQTBlRcBENEDxYFFRlAWFZIOlcOV10DVhYKW1oSFVhBAlFTBRNNEwtaWlxDWhBqR1kBFlsbAlEGVlIWSQ==
