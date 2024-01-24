@@ -211,7 +211,7 @@ https://ythls.onrender.com/video/VD8BDDwfBIQ.m3u8
 http://125.18.81.106/hlslive/Admin/px0219610/live/Shranyu_aws/chunklist_0.m3u8
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="News",T News
-https://ythls.onrender.com/video/MGv7jFOuCc8.m3u8
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236400
 #https://www.youtube.com/live/MGv7jFOuCc8?si=MSGPGcMPkt80GwZT
 
 EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
@@ -225,7 +225,7 @@ https://ythls.onrender.com/video/L0RktSIM980.m3u8
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="News",TV5 News
 #http://14.199.164.20:4001/play/a0lf/index.m3u8
 #https://tv.googledrivelinks.com/live.php?c=TV_5_News&q=1200&e=.m3u8
-https://ythls.onrender.com/video/ox2rT1KRkFI.m3u8
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236376
 
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9.png" group-title="News",TV9 Telugu
@@ -236,7 +236,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="V6News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="News",V6 News
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198017
-https://ythls.onrender.com/video/_xtceKvlVYQ.m3u8
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236381
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="News",ETV Telangana
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
@@ -273,15 +273,15 @@ EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cv
 #https://tv.googledrivelinks.com/live.php?c=CVR_News&q=1200&e=.m3u8
 http://servertv.ml/JIO/live.php?c=CVR_News&q=1200&e=junk.m3u8
 
-EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News",Raj News
-http://new-pro.tv:8080/99622282/etbVXafU6f/425821
+#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News",Raj News
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236412
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198023
 #http://techmaxlive.ml/live.php?c=10_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="News",Sakshi TV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8McTsOqeueE/live
 #https://tv.googledrivelinks.com/live.php?c=Sakshi_tv&q=1200&e=.m3u8
-https://ythls.onrender.com/video/8McTsOqeueE.m3u8
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236399
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 #https://tv.googledrivelinks.com/live.php?c=ABN_Andhra_Jyothi&q=1200&e=.m3u8
