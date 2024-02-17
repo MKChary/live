@@ -788,19 +788,19 @@ https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/FqOCxRjhBPBIWleQ4
 http://154.6.190.49:8080/550300550300/550300550300/236838?token=HRdcVERdQA8VAQMDBAgKVAcBU1AFVFFbAgdUBw0BUwYHDAQNVFFRUAMSSRYSTUEDVA88XVBDDVBQBllQDR1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEEBVMCShdEXFMXWBcBBFAMVRsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfFlAOB14XTkFXWxRZFhFJQ1kXZDITShdRTUNQDEZeXwsWWxtHFRdOQV1HPkUHEEQTBlRcBENEDxYFFRlAWFZIOlcOV10DVhYKW1oSFVhBAlFTBRNNEwtaWlxDWhBqR1kBFlsbAlEGVlIWSQ==
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
-https://aha.libateh520.repl.co/telugu/master.m3u8
+http://103.131.214.129:9985/stream/channelid/174631324
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
+EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:6E:26:8C
 
 EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://kuchini.site:8080/mosesmn/4e40546ad6/3630
 
-#EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
+EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://14.102.123.50:4000/play/a0hm
 
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Sports 2 HD
-http://14.102.123.50:4000/play/a03o
+http://103.131.214.129:9985/stream/channelid/920885750
 
 EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Sports 2 HD
 http://kuchini.site:8080/mosesmn/4e40546ad6/3631
@@ -859,7 +859,7 @@ EXTINF:-1 tvg-id="" tvg-name="IND: Star Sports 1 Tamil" tvg-logo="" group-title=
 http://xtv.ooo:8080/Rizwan335/2217286/244637
 ####
 #EXTINF:-1 tvg-id="Sports18 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18 1 HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+http://103.131.214.129:9985/stream/channelid/48596000
 
 EXTINF:-1 tvg-id="Sports18 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18 1 HD
 https://prod-sports-south-gm.jiocinema.com/hls/live/2099789/hd_akamai_iosmob_avc_tel_indvsaus_t2001/master.m3u8
