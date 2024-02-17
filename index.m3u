@@ -258,8 +258,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 
 #EXTINF:-1 tvg-id="HM TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="News",HM TV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/2fvNaWiBUPU/live
-#https://tv.googledrivelinks.com/live.php?c=HM_TV&q=1200&e=.m3u8
-https://ythls-v2.onrender.com/video/2fvNaWiBUPU.m3u8
+#https://www.youtube.com/live/Li1ZA566CIo?si=fqIRpRCs_ikD4qOB
+https://ythls-v2.onrender.com/video/Li1ZA566CIo.m3u8
 
 EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 #https://tv.googledrivelinks.com/live.php?c=CVR_Health&q=1200&e=.m3u8
@@ -280,8 +280,9 @@ http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236412
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="News",Sakshi TV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8McTsOqeueE/live
-#https://tv.googledrivelinks.com/live.php?c=Sakshi_tv&q=1200&e=.m3u8
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236399
+https://ythls-v2.onrender.com/video/8McTsOqeueE.m3u8
+#http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236399
+
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 #https://tv.googledrivelinks.com/live.php?c=ABN_Andhra_Jyothi&q=1200&e=.m3u8
@@ -290,8 +291,8 @@ https://ythls-v2.onrender.com/video/Q-nSNssz3p0.m3u8
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="News",I News
 #http://14.199.164.20:4001/play/a0is/index.m3u8
-#https://tv.googledrivelinks.com/live.php?c=I_News&q=1200&e=.m3u8
-https://ythls.onrender.com/video/-xB4wzfnCLU.m3u8
+#https://www.youtube.com/live/iIqLkqv3rGw?si=iO3QG-Z93wlHOAfO
+https://ythls.onrender.com/video/iIqLkqv3rGw.m3u8
 
 EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="http://sagraecdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="News",CNBCTV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
