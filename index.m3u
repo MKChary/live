@@ -157,8 +157,8 @@ http://servertv.ml/JIO/live.php?c=Discovery_Channel_Telugu&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
 https://varun-iptv.netlify.app/m3u/discoverytelugu.m3u8
 
-EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
-http://103.86.134.34:9981/stream/channelid/1728562667
+#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
+http://103.131.214.129:9985/stream/channelid/454555554
 #https://tv.googledrivelinks.com/live.php?c=History_18_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travelxp
