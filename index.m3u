@@ -790,8 +790,8 @@ http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236854
 #EXTINF:-1 tvg-id=" " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",FOX SPORTS501
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236869
 
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD(PSL)
-https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/tamashapsl2024_clone_1080p.m3u8
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
+http://tv.cloudcdn.me/live.ts?channelId=288&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:6E:26:8C
@@ -870,8 +870,8 @@ http://103.131.214.129:9985/stream/channelid/1479659131
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/atnsports.jpeg" group-title="Sports",ATN Sports
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 
-#EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodh60VA3-sRcCxWbNpzaqgsj40ECR7A27_A&s" group-title="Sports",T Sports
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 tvg-id="T Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRodh60VA3-sRcCxWbNpzaqgsj40ECR7A27_A&s" group-title="Sports",PTV Sports
+http://tv.cloudcdn.me/live.ts?channelId=278&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
 https://www.iptvmate.net/files/24042021/countries/lk.m3u
