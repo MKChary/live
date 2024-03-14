@@ -13,7 +13,7 @@ http://185.155.103.24:80/movie/550300550300/550300550300/227867.mp4?token=HRdcVE
 
 #EXTINF:-1 tvg-id="Gemini tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",BSN vs SL
 #https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
-https://dai.fancode.com/linear/hls/pb/event/YGTqMmTpSzeejB-q50yqYA/stream/20b08374-ade9-4d46-a27e-5bec2a9d0837:SIN2/master.m3u8?hdnea=st=1709735733~exp=1709736033~acl=*~id=9201efbe-33d7-467c-85e9-8e804b0c75f0~hmac=5d35fdbf7753ba37ad58bff971b1b182450976f16ef6d52cf59e2875b3b9c1f3
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/1RH5QwEJWFgGNsoTowhwD_DDq3tFGFiS2SQuzKajzi9loxYL9c5MlfeXS-JNSrDzZqH3v63PU-HVHg2nDLVwSg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_8XfdqRIr6XS_O1dF-K5qGcdD3gJG0ES6g&s" group-title="Movies-Telugu",Movie(2023)
 http://mixbix.xyz:8080/movie/yjbrJQJfjuKn/DfxsJVYBLMmD/294519.mkv
