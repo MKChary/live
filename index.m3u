@@ -11,9 +11,9 @@ https://raw.githubusercontent.com/MKChary/Iptv-list/master/VID-20210625-WA0000.m
 EXTINF:-1 tvg-id="Music" tvg-logo="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/09/A-deep-sea-diver-in-the-Netflix-movie-No-Limit-(or-Sous-Emprise).jpg?q=50&fit=contain&w=480&h=&dpr=1.5" group-title="Movies-English", No Limit(2022)
 http://185.155.103.24:80/movie/550300550300/550300550300/227867.mp4?token=HRdcVERdQA8VAlRXBAlVVgxaAgNSVgFRAAJYUwMHAFUAUFACDwVQU1YSSRYSTUEDVA88XVBDDVBRB1lVAh1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFsHWVMNBVAEShdEXFMXWBcOCVMEQxURA00WBkZaAFs9B1UXClZUQwtEFxgXWFs9UVJdBFoFGwlEBUBPFl0SR0BZXhQPWR1DUw9BRlRDUEAPFQZXAVgbH0RWDRZaQBNOQFkSNDAXHUNUHkFRW0RcDVsVCkdZEQ0RShcLEGtGBEQWEVUADlBDQwtEBRYZFVgDTWhTCloPXFASXA0NRxZbFVdTAFFBGRMMXghcQFpFahJcUxJfWhRVXxs=
 
-#EXTINF:-1 tvg-id="Gemini tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",BSN vs SL
+#EXTINF:-1 tvg-id="Gemini tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",PSL LIVE
 #https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
-https://dai.fancode.com/linear/hls/pb/event/zbF-OGJmTB6NrWhi2TqmAg/stream/42b7aff6-b293-4e5d-aaf1-153a370b719d:TPE2/master.m3u8?hdnea=st=1710507674~exp=1710507974~acl=*~id=a36eb94e-fa91-453a-b3d7-25513d80f3cd~hmac=5650bcd3e5905f53df98dc5b55fa5e13f0921042ed9ffe47b6d34ef6b9eac27a
+https://livecf.fancode.com/linear/hls/pb/event/nog34R4rTx22-GMqiboyew/stream/5117b2a5-0b1b-4d1f-b797-2247036afd90:SIN2/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_8XfdqRIr6XS_O1dF-K5qGcdD3gJG0ES6g&s" group-title="Movies-Telugu",Movie(2023)
 http://mixbix.xyz:8080/movie/yjbrJQJfjuKn/DfxsJVYBLMmD/294519.mkv
