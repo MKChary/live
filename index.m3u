@@ -796,8 +796,8 @@ http://tv.cloudcdn.me/live.ts?channelId=288&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Asports
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236842
 
-EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
-http://kuchini.site:8080/mosesmn/4e40546ad6/3630
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
+http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/277335
 
 EXTINF:-1 tvg-id="Star Sports 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
 http://14.102.123.50:4000/play/a0hm
