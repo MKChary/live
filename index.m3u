@@ -77,9 +77,10 @@ http://tv1.instafarm.live/getm3u8/1665/master.m3u8
 #https://tv.googledrivelinks.com/live.php?c=ETV_Life&q=1200&e=.m3u8
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236402
 
-#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Lifestyle",ETV PLUS
+#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Lifestyle",ETV PLUS HD
 #https://tv.googledrivelinks.com/live.php?c=ETV_Plus&q=1200&e=.m3u8
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236385
+#http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236385
+http://tv1.instafarm.live/getm3u8/2956/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" group-title="Lifestyle",ETV PLUS
 http://tv1.instafarm.live/getm3u8/692/master.m3u8
@@ -171,9 +172,9 @@ http://tv1.instafarm.live/getm3u8/577/master.m3u8
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri
+#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri
 #https://tv.googledrivelinks.com/live.php?c=DD_Saptagiri&q=1200&e=.m3u8
-http://50.7.237.7:8081/DDSAPTAGIRI/tracks-v1a1/index.m3u8
+http://tv1.instafarm.live/getm3u8/706/master.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri
 #https://tv.googledrivelinks.com/live.php?c=DD_Saptagiri&q=1200&e=.m3u8
@@ -248,7 +249,7 @@ https://ythls-v2.onrender.com/video/_xtceKvlVYQ.m3u8
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="News",ETV Telangana
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
 #https://tv.googledrivelinks.com/live.php?c=ETV_Telangana&q=1200&e=.m3u8
-https://ythls-v2.onrender.com/video/tWsm6wkScBo.m3u8
+http://tv1.instafarm.live/getm3u8/630/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="News",ETV Andhra Pradesh
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
@@ -276,9 +277,9 @@ EXTINF:-1 tvg-id="CVR English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc
 #https://tv.googledrivelinks.com/live.php?c=CVR_English&q=1200&e=.m3u8
 http://servertv.ml/JIO/live.php?c=CVR_English&q=1200&e=junk.m3u8
 
-EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
+#EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
 #https://tv.googledrivelinks.com/live.php?c=CVR_News&q=1200&e=.m3u8
-http://servertv.ml/JIO/live.php?c=CVR_News&q=1200&e=junk.m3u8
+http://tv1.instafarm.live/getm3u8/784/master.m3u8
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News",Raj News
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236412
@@ -328,21 +329,21 @@ https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="Sai TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title="Lifestyle",Sai TV
 http://decode.streamplay.in:1935/srisai/srisai/playlist.m3u8
 
-EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="Lifestyle",CVR OM Spiritual
+#EXTINF:-1 tvg-id="CVR OM Spiritual" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="Lifestyle",CVR OM Spiritual
 #http://iptv.hdsindia.com:2574/udp/228.10.10.171:4640
 #https://tv.googledrivelinks.com/live.php?c=CVR_OM_Spiritual&q=1200&e=.m3u8
-http://servertv.ml/JIO/live.php?c=CVR_OM_Spiritual&q=1200&e=junk.m3u8
+http://tv1.instafarm.live/getm3u8/772/master.m3u8
 
 #EXTINF:-1 tvg-id="SVBC2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png" group-title="Lifestyle",SVBC2
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Lifestyle",AASTHA Telugu
+#EXTINF:-1 tvg-id="aastha.in" tvg-name="AASTHA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Lifestyle",AASTHA Telugu
 #https://tv.googledrivelinks.com/live.php?c=Aastha_Telugu&q=1200&e=.m3u8
 http://tv1.instafarm.live/getm3u8/1254/master.m3u8
 
 #EXTINF:-1 tvg-id="HinduDharmam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title="Lifestyle",Hindu Dharmam
 #https://tv.googledrivelinks.com/play.php?c=Hindu_Dharmam&q=1200&e=.m3u8
-http://servertv.ml/JIO/live.php?c=Hindu_Dharmam&q=1200&e=junk.m3u8
+http://tv1.instafarm.live/getm3u8/955/master.m3u8
 
 #EXTINF:-1 tvg-id="Bhakti Tv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Lifestyle",Bhakti TV
 https://ythls.onrender.com/video/d0dB3kSCMmM.m3u8
@@ -350,7 +351,7 @@ https://ythls.onrender.com/video/d0dB3kSCMmM.m3u8
 EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.llnwi.net/pic/7059.SailLeela.in/en/1x1/208x208/test_pic1590845528353.jpg",Sai leela
 https://m-c07-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 
-#EXTINF:-1 tvg-id="v7music" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",V7Music
+#EXTINF:-1 tvg-id="PMC Telugu" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",PMC Telugu
 http://tv1.instafarm.live/getm3u8/1975/master.m3u8
 
 #EXTINF:-1 tvg-id="Gatla TV" group-title="Local" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Gatlatv.jpg",Gatla TV
