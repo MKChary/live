@@ -810,8 +810,8 @@ http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/277335
 #EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Sports 2 HD
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/237044
 
-EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Sports 2 HD
-http://103.131.214.129:9985/stream/channelid/920885750
+#EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Plus HD
+http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 EXTINF:-1 tvg-id="Star Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title="Sports",Star Sports 2 HD
 http://kuchini.site:8080/mosesmn/4e40546ad6/3631
