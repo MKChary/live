@@ -89,8 +89,8 @@ http://tv1.instafarm.live/getm3u8/692/master.m3u8
 #https://tv.googledrivelinks.com/live.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236403
 
-EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
+#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
+http://mag.trexlive.me:80//Michael88/Michael88/155860
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold_HD.png" group-title="Movies",STAR MAA GOLD HD
 http://154.6.190.49:8080/550300550300/550300550300/236394?token=HRdcVERdQA8VVl1XWV1QUFdaV1UNUgRTAAJTUwEFUwFQBQMGBwcEB1ISSRYSTUEDVA88XVBDDVBQBlJaAR1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFoDWVEEAVAEShdEXFMXWBcCCVUCVhsfRFAaF1FGD1YOPFQEFVxSBBNcW0FZWxlAWllvAVEMWF0CF1hBBRZNFQsQQENZW0QNXUoXVlxDRwNBUhJfFlALC1QXTkFXWxRZFhFJQ1kXZDITShdRTUNQDEZeXwsWWxtHFRdOQV1HPkUHEEQTBlRcBENEDxYFFRlAWFZIOlcOV10DVhYKW1oSFVhBAlFTBRNNEwtaWlxDWhBqR1kBFlsbBl8FV1cWSQ==
@@ -103,7 +103,7 @@ EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss
 http://102.222.232.18:9981/stream/channelid/589622635
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Movies",Star Maa Movies HD
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236413
+http://mag.trexlive.me:80//Michael88/Michael88/155842
 
 EXTINF:-1 tvg-id="Star Maa Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies
 http://102.222.232.18:9981/stream/channelid/1813535474
