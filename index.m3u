@@ -22,7 +22,7 @@ EXTINF:-1 tvg-id="" tvg-logo="https://www.91-cdn.com/metareel-images/content/pos
 http://ibixtream.com:8080/movie/550300550300/550300550300/247891.mkv
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="Entertainment",Gemini TV HD
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236379
+https://madplay.live/hls/jiotv/stream.php?id=897&q=1200&e=.m3u8
 #http://s1.pubnow.info:8080/Jean0188/016035/118590
 
 EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV
@@ -33,23 +33,23 @@ https://epg.pw/stream/ce928fb4bb37ebb56fda57bb21d20e432311cfa0346256e8ed6c6cbf26
 
 #EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="Movies",Gemini Movies HD
 #http://clientsportals.com:2095/caupwuBz/jRqqbXWC/460760
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236377
+https://madplay.live/hls/jiotv/stream.php?id=899&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="Entertainment",Gemini Comedy
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236393
+https://madplay.live/hls/jiotv/stream.php?id=729&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="Entertainment",Gemini Life
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236395
+https://madplay.live/hls/jiotv/stream.php?id=684&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" group-title="Music",Gemini Music HD
 #http://50.7.69.66/GEMINI_MUSIC/index.m3u8
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236378
+https://madplay.live/hls/jiotv/stream.php?id=898&q=1200&e=.m3u8
 
 EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu
 http://37.49.225.117:8080/a0edca74/42969842bf/21561
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movies",Zee Telugu HD
-https://madplay.live/hls/jiotv/stream.php?id=630&q=1200&e=.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=1354&e=.m3u8
 
 EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
 #https://zee.yashrajmod.online/api.php?c=0-9-zeecinemalu
@@ -57,10 +57,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu HD
 #https://tv.googledrivelinks.com/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236391
+https://madplay.live/hls/jiotv/stream.php?id=1363&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment" status="timeout",ETV HD
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236392
+https://madplay.live/hls/jiotv/stream.php?id=629&e=.m3u8
 
 EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
 #https://watchtvs.live/play.php?c=ETV_HD&q=1200&e=.m3u8
@@ -75,18 +75,18 @@ http://tv1.instafarm.live/getm3u8/1665/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="Lifestyle",ETV Life
 #https://tv.googledrivelinks.com/live.php?c=ETV_Life&q=1200&e=.m3u8
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236402
+https://madplay.live/hls/jiotv/stream.php?id=570&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Lifestyle",ETV PLUS HD
 #https://tv.googledrivelinks.com/live.php?c=ETV_Plus&q=1200&e=.m3u8
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236385
+https://madplay.live/hls/jiotv/stream.php?id=692&q=1200&e=.m3u8
 
 EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" group-title="Lifestyle",ETV PLUS
 http://tv1.instafarm.live/getm3u8/692/master.m3u8
 
 #EXTINF:-1 tvg-id="ETV Abhiruchi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Lifestyle",ETV Abhiruchi
 #https://tv.googledrivelinks.com/live.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236403
+https://madplay.live/hls/jiotv/stream.php?id=565&e=.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236394
@@ -112,7 +112,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #http://servertv.ml/JIO/live.php?c=Studio_Yuva_Alpha&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music",Raj Music Telugu
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236386
+https://madplay.live/hls/jiotv/stream.php?id=737&q=1200&e=.m3u8
 
 EXTINF:-1 tvg-id="Mango TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/mangomusic.jpeg" group-title="Music",Adithya music
 https://ythls.onrender.com/video/CNPdyttDuAY.m3u8
@@ -124,13 +124,13 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/426012
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236413
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="Entertainment",Vissa TV
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236387
+https://madplay.live/hls/jiotv/stream.php?id=734&q=1200&e=.m3u8
 #http://servertv.ml/JIO/live.php?c=Vissa_TV&q=1200&e=junk.m3u8
 
 EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha_TV.png" group-title="Entertainment",VANITHA TV
 #http://yashraj005.in1.bitmana.io/live.php?c=Vanitha&q=800&e=.m3u8
 #https://ythls.onrender.com/video/dtO9va-apv0.m3u8
-http://tv1.instafarm.live/getm3u8/775/master.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=775&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 #https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3u8
@@ -162,10 +162,10 @@ http://servertv.ml/JIO/live.php?c=Discovery_Channel_Telugu&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="Discovery HD World" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
 https://varun-iptv.netlify.app/m3u/discoverytelugu.m3u8
 
-EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
+#EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
 #http://103.131.214.129:9985/stream/channelid/454555554
 #https://tv.googledrivelinks.com/live.php?c=History_18_Telugu&q=1200&e=.m3u8
-http://tv1.instafarm.live/getm3u8/577/master.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=577&e=.m3u8
 
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -176,7 +176,7 @@ http://tv1.instafarm.live/getm3u8/706/master.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri
 #https://tv.googledrivelinks.com/live.php?c=DD_Saptagiri&q=1200&e=.m3u8
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236389
+https://madplay.live/hls/jiotv/stream.php?id=706&q=1200&e=.m3u8
 
 EXTINF:-1 tvg-id="studio one" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg" group-title="Movies",studio one
 #https://tv.googledrivelinks.com/live.php?c=Studio_One&q=1200&e=.m3u8
@@ -189,12 +189,12 @@ EXTINF:-1 tvg-id="Sonic Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jio
 http://servertv.ml/JIO/live.php?c=Sonic_Telugu&q=1200&e=junk.m3u8
 #https://tv.googledrivelinks.com/live.php?c=Sonic_Telugu&q=1200&e=.m3u8
 
-EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
-https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/166/master.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
+https://madplay.live/hls/jiotv/stream.php?id=166&e=.m3u8
 #https://tv.googledrivelinks.com/live.php?c=CN_HD_Telugu&q=1200&e=.m3u8
 
-EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
-https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/543/master.m3u8
+#EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
+https://madplay.live/hls/jiotv/stream.php?id=543&e=.m3u8
 #https://tv.googledrivelinks.com/live.php?c=Nick_Telugu&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="" group-title="Family/Kids",Sony Yay Telugu
@@ -218,7 +218,7 @@ http://tv1.instafarm.live/getm3u8/2783/master.m3u8
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="News",T News
 #http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236400
-https://ythls-v2.onrender.com/video/JnuYyOJ0XLU.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=667&q=1200&e=.m3u8
 
 EXTINF:-1 tvg-id="zee telugu news" tvg-logo="" group-title="News",ZEE Telugu News
 https://ythls-v2.onrender.com/video/L6pXP3zDIF0.m3u8
@@ -226,11 +226,11 @@ https://ythls-v2.onrender.com/video/L6pXP3zDIF0.m3u8
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="News",NTV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
 #https://tv.googledrivelinks.com/live.php?c=NTV&q=1200&e=.m3u8
-https://ythls-v2.onrender.com/video/L0RktSIM980.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=646&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="News",TV5 News
 #http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236376
-https://ythls-v2.onrender.com/video/TH7D96FaD_s.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=668&q=1200&e=.m3u8
 #https://www.youtube.com/live/TH7D96FaD_s?si=kb27Z4wuIdYnTE6N
 
 #EXTINF:-1 tvg-id="TV9 Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9.png" group-title="News",TV9 Telugu
@@ -242,7 +242,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="V6News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="News",V6 News
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198017
 #http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236381
-https://ythls-v2.onrender.com/video/_xtceKvlVYQ.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=769&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV Telangana" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="News",ETV Telangana
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
@@ -252,12 +252,12 @@ https://madplay.live/hls/jiotv/stream.php?id=630&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="ETV Andhra Pradesh" tvg-logo="http://sldhncdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="News",ETV Andhra Pradesh
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=JIIK4WzXnAw/live
 #https://tv.googledrivelinks.com/live.php?c=ETV_Telangana&q=1200&e=.m3u8
-https://ythls-v2.onrender.com/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=614&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="10 TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="News",10 TV HD
 #https://tv.googledrivelinks.com/live.php?c=10_TV&q=1200&e=.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Q0eu7HCRBgw/live
-https://ythls-v2.onrender.com/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=832&q=1200&e=.m3u8
 
 EXTINF:-1 tvg-id="Maha News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="News",Maha News
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
@@ -265,7 +265,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 #EXTINF:-1 tvg-id="HM TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="News",HM TV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/2fvNaWiBUPU/live
 #https://www.youtube.com/live/Li1ZA566CIo?si=fqIRpRCs_ikD4qOB
-https://ythls-v2.onrender.com/video/Li1ZA566CIo.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=665&q=1200&e=.m3u8
 
 EXTINF:-1 tvg-id="CVR Health" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_health_tv_in.png" group-title="Lifestyle",CVR Health
 #https://tv.googledrivelinks.com/live.php?c=CVR_Health&q=1200&e=.m3u8
@@ -277,28 +277,28 @@ http://servertv.ml/JIO/live.php?c=CVR_English&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="CVR News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png" group-title="News",CVR News
 #https://tv.googledrivelinks.com/live.php?c=CVR_News&q=1200&e=.m3u8
-http://tv1.instafarm.live/getm3u8/784/master.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=784&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News",Raj News
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236412
+https://madplay.live/hls/jiotv/stream.php?id=664&q=1200&e=.m3u8
 #http://rv.bleutv.net:80/152087360475456/152066530788190/198023
 #http://techmaxlive.ml/live.php?c=10_TV&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="Sakshi TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="News",Sakshi TV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8McTsOqeueE/live
-https://ythls-v2.onrender.com/video/8McTsOqeueE.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=632&e=.m3u8
 #http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236399
 
 
 #EXTINF:-1 tvg-id="ABN Andhra Jyothi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 #https://tv.googledrivelinks.com/live.php?c=ABN_Andhra_Jyothi&q=1200&e=.m3u8
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IKj_cj51_W0/live
-https://ythls-v2.onrender.com/video/Q-nSNssz3p0.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=666&q=1200&e=.m3u8
 
 #EXTINF:-1,tvg-id="I News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="News",I News
 #http://14.199.164.20:4001/play/a0is/index.m3u8
 #https://www.youtube.com/live/iIqLkqv3rGw?si=iO3QG-Z93wlHOAfO
-https://ythls.onrender.com/video/iIqLkqv3rGw.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=790&q=1200&e=.m3u8
 
 EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="http://sagraecdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="News",CNBCTV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
@@ -895,10 +895,12 @@ https://cutt.ly/inEizyW
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 
 #EXTINF:-1 tvg-name="Sony Ten 2 Hd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",Sony Ten 2 HD
-https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=891&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",Sony Ten 3 HD
-https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=892&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten 4 HD" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_ten4hd_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Sports 4 HD
 https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8
