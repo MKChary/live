@@ -855,7 +855,7 @@ EXTINF:-1 tvg-id="" tvg-name="IND: Star Sports 1 Tamil" tvg-logo="" group-title=
 http://xtv.ooo:8080/Rizwan335/2217286/244637
 ####
 #EXTINF:-1 tvg-id="Sports18 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18 1 HD
-http://103.131.214.129:9985/stream/channelid/48596000
+https://madplay.live/hls/jiotv/stream.php?id=1984&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sports18 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",EUROSPORTS HD
 http://103.131.214.129:9985/stream/channelid/1479659131
