@@ -790,8 +790,8 @@ http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236852
 #http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/237503
 
-#EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",sports
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236854
+#EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",sky sports
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78703&extension=m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",FOX SPORTS501
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236869
