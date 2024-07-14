@@ -337,7 +337,8 @@ EXTINF:-1 tvg-id="Sai leela" group-title="Lifestyle" tvg-logo="https://j2apps.s.
 https://m-c07-j2apps.s.llnwi.net/hls/7059.SailLeela.in.m3u8
 
 #EXTINF:-1 tvg-id="PMC Telugu" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",PMC Telugu
-http://tv1.instafarm.live/getm3u8/1975/master.m3u8
+#http://tv1.instafarm.live/getm3u8/1975/master.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=1975&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Gatla TV" group-title="Local" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Gatlatv.jpg",Gatla TV
 http://telugusolutions.com:8088/gatlatv/gatlatv.m3u8
