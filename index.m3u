@@ -157,9 +157,10 @@ https://madplay.live/hls/jiotv/stream.php?id=577&e=.m3u8
 #EXTINF:-1 tvg-id="Travel XP HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Infotainment",Travelxp
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri
+#EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri
 #https://tv.googledrivelinks.com/live.php?c=DD_Saptagiri&q=1200&e=.m3u8
-http://tv1.instafarm.live/getm3u8/706/master.m3u8
+#http://tv1.instafarm.live/getm3u8/706/master.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=706&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="DDYadagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertainment",DD Saptagiri
 #https://tv.googledrivelinks.com/live.php?c=DD_Saptagiri&q=1200&e=.m3u8
@@ -201,7 +202,8 @@ EXTINF:-1 tvg-id="Ntv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/im
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236384
 
 #EXTINF:-1 tvg-id="BIG TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bigtv.jpg" group-title="News",BIG TV
-http://tv1.instafarm.live/getm3u8/2783/master.m3u8
+#http://tv1.instafarm.live/getm3u8/2783/master.m3u8
+https://madplay.live/hls/jiotv/stream.php?id=2783&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="News",T News
 #http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236400
