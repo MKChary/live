@@ -2,21 +2,8 @@
 #url-tvg="http://rstream.me/epg.xml.gz"
 #https://mkchary.github.io/live/index.m3u
 
-#EXTINF:-1 tvg-id="Music" tvg-logo="https://image.shutterstock.com/image-illustration/radha-krishna-lord-painting-colorful-260nw-1857194440.jpg" group-title="Sports",Sony Liv
-https://dai.google.com/ssai/event/eEwI596iRF2eKZ8hMz0Giw/master.m3u8LaXJJRkxsZ05lRnJtRWdHRm5qamkzcSIsIm1hYyI6IjY5NTMzYWE0YTc1ODA4YjM2YWYzMjIzMWE2ZDI0ZjE1ZDdhMjUzYzk0NGE4YzlhNmJhOGY4M2Q0Y2VhNjU3OTQiLCJ0YWciOiIifQ==/db22b65f-9a3b-4a52-bb72-28df74df5303.m3u8?lvtoken=eyJpdiI6IkFCU3N6cmxaNCsrdm9kZUEyT21iTnc9PSIsInZhbHVlIjoicU1YRTgwK2FaRjFRMm1VZmV2MmFSaXlzcmlmWnhpaVZORVM4dDhjUnkzUlJsV3pnRU01WE1hVVJVME1uQ1YyVnVOU3Qza2JQTldlYWdDZkRHUFB0NFFOVWhHS2xQak5yNjY5K2lNay80Uy9mMWdXV1EyWk5TYllKWi8ybzRjS0txdDYvdGIrSDBKQ2NpWkFuOGZlOHNyWUdvMldKMDNuaGw1cTlrRURuUitBRTNSc1RGcmRwWmtwemlaQ3BsQ3p4Q3J2Nk03SEpFelpEeG9LdDQxSXNyZz09IiwibWFjIjoiNGE1NjNkZWEyMjI3MjA4NWMxMTg5ZmM5MmI1Mzc5M2I3NDg5OGViN2YwOGJkNmIxMWYxY2Y3MzgyMDQ1MjYwZSIsInRhZyI6IiJ9&r=ec06cf&rt=67652fde77992831cfcc49cbc2c814d3
-
 EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/GayathriManthra.jpeg" group-title="Music",Gayathri Mathram
 https://raw.githubusercontent.com/MKChary/Iptv-list/master/VID-20210625-WA0000.mp4
-
-EXTINF:-1 tvg-id="Music" tvg-logo="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/09/A-deep-sea-diver-in-the-Netflix-movie-No-Limit-(or-Sous-Emprise).jpg?q=50&fit=contain&w=480&h=&dpr=1.5" group-title="Movies-English", No Limit(2022)
-http://185.155.103.24:80/movie/550300550300/550300550300/227867.mp4?token=HRdcVERdQA8VAlRXBAlVVgxaAgNSVgFRAAJYUwMHAFUAUFACDwVQU1YSSRYSTUEDVA88XVBDDVBRB1lVAh1DRBVQRmpeUUAPFQlVB1IbH0RBCw5RFlsGVFsHWVMNBVAEShdEXFMXWBcOCVMEQxURA00WBkZaAFs9B1UXClZUQwtEFxgXWFs9UVJdBFoFGwlEBUBPFl0SR0BZXhQPWR1DUw9BRlRDUEAPFQZXAVgbH0RWDRZaQBNOQFkSNDAXHUNUHkFRW0RcDVsVCkdZEQ0RShcLEGtGBEQWEVUADlBDQwtEBRYZFVgDTWhTCloPXFASXA0NRxZbFVdTAFFBGRMMXghcQFpFahJcUxJfWhRVXxs=
-
-EXTINF:-1 tvg-id="Gemini tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="Movies",PSL LIVE
-#https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Wr6dEunz3Z0YcTBH4Fh-yFKLVfHRvUlHetZIXTeyJVU2j6eKjn4LHsCGl_lPoe5gtmBahWotHE412rlLXUp_7w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_8XfdqRIr6XS_O1dF-K5qGcdD3gJG0ES6g&s" group-title="Movies-Telugu",Movie(2023)
-http://mixbix.xyz:8080/movie/yjbrJQJfjuKn/DfxsJVYBLMmD/294519.mkv
 
 EXTINF:-1 tvg-id="" tvg-logo="https://www.91-cdn.com/metareel-images/content/posters-1687229666-rvbQXeFRRVtpNg2OK8J35vrLaRd.jpg?tr=h-200,q-60&version=5" group-title="Movies-Telugu",Malli Pelli(2023)
 http://ibixtream.com:8080/movie/550300550300/550300550300/247891.mkv
@@ -62,7 +49,7 @@ https://madplay.live/hls/jiotv/stream.php?id=1363&e=.m3u8
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment" status="timeout",ETV HD
 https://madplay.live/hls/jiotv/stream.php?id=629&e=.m3u8
 
-#EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
+#EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
 #https://watchtvs.live/play.php?c=ETV_HD&q=1200&e=.m3u8
 https://madplay.live/hls/jiotv/stream.php?id=1973&q=1200&e=.m3u8
 
