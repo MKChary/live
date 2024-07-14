@@ -62,9 +62,9 @@ https://madplay.live/hls/jiotv/stream.php?id=1363&e=.m3u8
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment" status="timeout",ETV HD
 https://madplay.live/hls/jiotv/stream.php?id=629&e=.m3u8
 
-EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
+#EXTINF:-1 tvg-id="ETV HD" tvg-logo="http://sjpurecdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertainment",ETV HD
 #https://watchtvs.live/play.php?c=ETV_HD&q=1200&e=.m3u8
-http://clientsportals.com:2095/caupwuBz/jRqqbXWC/460964
+https://madplay.live/hls/jiotv/stream.php?id=1973&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies",ETV Cinema
 http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236396
