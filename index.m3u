@@ -885,21 +885,21 @@ https://cutt.ly/inEizyW
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 
 #EXTINF:-1 tvg-name="Sony Ten 2 Hd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",Sony Ten 2 HD
-#https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-https://madplay.live/hls/jiotv/stream.php?id=891&q=1200&e=.m3u8
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#https://madplay.live/hls/jiotv/stream.php?id=891&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",Sony Ten 3 HD
-#https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-https://madplay.live/hls/jiotv/stream.php?id=892&q=1200&e=.m3u8
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#https://madplay.live/hls/jiotv/stream.php?id=892&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten 4 HD" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_ten4hd_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Sports 4 HD
 https://madplay.live/hls/jiotv/stream.php?id=1775&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten 4" tvg-logo="https://images.slivcdn.com/videoasset_images/sony_ten4hd_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Ten 4
-#https://cutt.ly/lmDy0j5
-https://madplay.live/hls/jiotv/stream.php?id=1773&q=1200&e=.m3u8
+https://cutt.ly/lmDy0j5
+#https://madplay.live/hls/jiotv/stream.php?id=1773&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-name="Sony Six Sd" tvg-logo="https://images.slivcdn.com/masthead_logo/Sony_TEN5HD_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Sports 5
+#EXTINF:-1 tvg-name="Sony Ten 5 HD" tvg-logo="https://images.slivcdn.com/masthead_logo/Sony_TEN5HD_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Sports 5
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
 EXTINF:-1 tvg-name="Sony Six HD" tvg-logo="https://images.slivcdn.com/masthead_logo/Sony_TEN5HD_23oct_masthead_logo.png?h=184&w=184&t=c_fill&q=low&fr=webp" group-title="Sports",Sony Sports 5 HD
