@@ -199,7 +199,7 @@ EXTINF:-1 tvg-id="YOYO News" tvg-id="T News" tvg-logo="https://raw.githubusercon
 http://free.fullspeed.tv/iptv-query?url=https://youtu.be/mGD0coxXWk8/live
 
 EXTINF:-1 tvg-id="Ntv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/hittv.jpg" group-title="News",NTV
-http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236384
+https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
 
 #EXTINF:-1 tvg-id="BIG TV" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Bigtv.jpg" group-title="News",BIG TV
 #http://tv1.instafarm.live/getm3u8/2783/master.m3u8
@@ -215,7 +215,7 @@ https://ythls-v2.onrender.com/video/L6pXP3zDIF0.m3u8
 #EXTINF:-1 tvg-id="Ntv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="News",NTV
 #http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/HUiHKse-YgM/live
 #https://tv.googledrivelinks.com/live.php?c=NTV&q=1200&e=.m3u8
-https://madplay.live/hls/jiotv/stream.php?id=646&q=1200&e=.m3u8
+https://ythls.armelin.one/channel/UCumtYpCY26F6Jr3satUgMvA.m3u8
 
 #EXTINF:-1 tvg-id="TV5 News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="News",TV5 News
 #http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236376
