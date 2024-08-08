@@ -126,13 +126,13 @@ http://mixbix.xyz:8080/yjbrJQJfjuKn/DfxsJVYBLMmD/236380
 EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://103.61.73.220:8000/play/a05b
 
-EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
+#EXTINF:-1 tvg-id="Animal Planet English" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.png" group-title="Infotainment",Animal Planet English
 #https://tv.googledrivelinks.com/live.php?c=Animal_Planet_HD&q=1200&e=.m3u8
-http://103.86.134.34:9981/stream/channelid/875849202
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
-EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="Infotainment",NATIONAL GEOGRAPHIC HD
 #https://ythls.onrender.com/channel/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
-http://103.86.134.34:9981/stream/channelid/529973772
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
 EXTINF:-1 tvg-id="Wild Earth" tvg-logo="https://i.ytimg.com/vi/5PRpF9e-fQs/maxresdefault.jpg" group-title="Infotainment",Wild Earth
 https://ythls-v2.onrender.com/video/XZ7BWbmvi94.m3u8
