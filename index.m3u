@@ -773,7 +773,7 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
 #EXTINF:-1 tvg-id="astro cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports",astro cricket
-http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:25:09:DF&stream=97133&extension=ts
 #http://starshare.live:8080/live/jareer.me%20ye/jerielnino.me/43444.ts
 
 #EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
@@ -783,7 +783,7 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:25:09:DF&stream=61364&exten
 #EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",sky sports
 http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78703&extension=m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",FOX SPORTS501
+#EXTINF:-1 tvg-id=" " tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",ASPORTS
 http://starshare.live:8080/live/jareer.me%20ye/jerielnino.me/43444.ts
 
 #EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="Sports",Star Sports 1 HD
