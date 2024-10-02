@@ -778,7 +778,7 @@ http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 
 #EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
 #http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7435&deviceMac=00:1A:79:51:4B:3A
-http://starshare.live:8080/live/jareer.me%20ye/jerielnino.me/43444.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:25:09:DF&stream=61364&extension=ts
 
 #EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",sky sports
 http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=78703&extension=m3u8
