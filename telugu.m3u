@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SVM.in" tvg-name="Star Maa" tvg-country="IN" tvg-language="Telugu" tvg-logo="" group-title="",Indian Telugu", HELLO BROTHER
+https://user-images.githubusercontent.com/68803611/131240661-3368df7d-7f4e-4854-bb6b-370f3ae22dfb.mp4
+
+#EXTINF:-1 tvg-id="SVM.in" tvg-name="Star Maa" tvg-country="IN" tvg-language="Telugu" tvg-logo="" group-title="",Indian Telugu", SINDOORAM SONG
+https://user-images.githubusercontent.com/68803611/131243600-e04cd12d-ba00-4e15-80d2-cf67a2c6cda2.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="IN-Tel: Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" group-title="Indian Telugu", Etv HD
+http://watchindia.net:8880/live/33253/72963/936.ts
+
+#EXTINF:-1 tvg-id="ETV.Cinema.in" tvg-name="IN-Tel: ETV Cinema" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png" group-title="Indian Telugu", ETV Cinema
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1500
+
+#EXTINF:-1 tvg-id="ETV.Plus.in" tvg-name="IN-Tel: ETV PLUS" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png" group-title="Indian Telugu", ETV PLUS
+http://watchindia.net:8880/live/33253/72963/937.ts
+
+#EXTINF:-1 tvg-id="ETV.life.in" tvg-name="IN-Tel: ETV Life" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png" group-title="Indian Telugu", ETV Life
+http://watchindia.net:8880/live/33253/72963/938.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IN-Tel: ETV Abhiruchi" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Indian Telugu", ETV Abhiruchi
+https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/372
+
+#EXTINF:-1 tvg-id="" tvg-name="IN-Tel: Gemini HD" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" group-title="Indian Telugu", Gemini HD
+http://watchindia.net:8880/live/33253/72963/928.ts
+
+#EXTINF:-1 tvg-id="Gemini.Movies.in" tvg-name="IN-Tel: GEMINI movies" tvg-logo="http://openboxv8s.com/india/sun_gemini_movies.png" group-title="Indian Telugu", GEMINI movies
+http://watchindia.net:8880/live/33253/72963/930.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IN-Tel: Gemini Comedy" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sun_gemini_comedy.png" group-title="Indian Telugu", Gemini Comedy
+http://watchindia.net:8880/live/33253/72963/971.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IN-Tel: GEMINI MUSIC" tvg-logo="http://openboxv8s.com/india/sun_gemini_music.png" group-title="Indian Telugu", GEMINI MUSIC
+http://watchindia.net:8880/live/33253/72963/929.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IN-Tel: Maa HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Indian Telugu", Maa HD
+https://luckonline.eu/SnnoMuWi8n/w3kI4xaE8d/374
+
+#EXTINF:-1 tvg-id="" tvg-name="IN-Tel: MAA MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Indian Telugu", MAA MOVIES
+https://luckonline.eu/SnnoMuWi8n/w3kI4xaE8d/375
+
+#EXTINF:-1 tvg-id="" tvg-name="IN-Tel: MAA GOLD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Indian Telugu", MAA GOLD
+https://luckonline.eu/SnnoMuWi8n/w3kI4xaE8d/1123
+
+#EXTINF:-1 tvg-id="" tvg-name="IN-Tel: Maa Music" tvg-logo="https://i.imgur.com/8iB1uQt.png" group-title="Indian Telugu", Maa Music
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1504
+
+
+#EXTINF:-1 tvg-id="Raj.Musix.in" tvg-name="IN-Tel: Raj Musix" tvg-logo="http://openboxv8s.com/india/raj_musix_telugu.jpg" group-title="Indian Telugu", Raj Musix
+http://watchindia.net:8880/live/33253/72963/957.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IN-Tel: Raj News" tvg-logo="http://lifepositive.org/wp-content/uploads/2015/06/Raj-Tv-Logo.png" group-title="Indian Telugu", Raj News
+http://watchindia.net:8880/live/33253/72963/956.ts
+
+#EXTINF:-1 tvg-name="Telegu: BHAKTI TV" group-title="TELEGU & KANNADA",Telegu: BHAKTI TV
+http://www.luckonline.eu:80/SnnoMuWi8n/w3kI4xaE8d/367
+
+#EXTINF:-1 tvg-name="Telegu:SVBC" group-title="TELEGU & KANNADA",Telegu:SVBC
+http://www.luckonline.eu:80/SnnoMuWi8n/w3kI4xaE8d/371
+
+
+
