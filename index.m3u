@@ -773,7 +773,7 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
 #EXTINF:-1 tvg-id="astro cricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports",astro cricket
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:25:09:DF&stream=97133&extension=ts
+https://matribhumi.globalplay.live/matribhumi-sports/index.m3u8
 #http://starshare.live:8080/live/jareer.me%20ye/jerielnino.me/43444.ts
 
 #EXTINF:-1 tvg-id="cricket.willow.tv" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
